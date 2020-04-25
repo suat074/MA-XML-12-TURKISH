@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Fatura başlığı: *** A.Ş.</item>
+        <item>Adres: Sokak, Apt, Şehir, Ülke/Bölge, İl, Posta kodu</item>
+        <item>Lütfen paketi kapının yanına bırakın. Teşekkürler!</item>
+        <item>Bir dakika bekle, hemen döneceğim.</item>
+        <item>Toplantıdayım. Lütfen kısa mesaj gönderin.</item>
+        <item>Şu anda konuşamam. En kısa zamanda seni ararım.</item>
+        <item>Teşekkürler!</item>
+    </string-array>
+</resources>

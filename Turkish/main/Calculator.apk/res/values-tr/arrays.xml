@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_array">
+        <item>Santimetre</item>
+        <item>Metre</item>
+        <item>Fit</item>
+        <item>İnç</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>sol parantez</item>
+        <item>sağ parantez</item>
+        <item>fonksiyonel</item>
+        <item>tabii logaritma</item>
+        <item>logaritma</item>
+        <item>ayak kare</item>
+        <item>bölündü</item>
+        <item>çarpıldı</item>
+        <item>artı</item>
+        <item>eksi</item>
+        <item> nokta</item>
+        <item>güç</item>
+        <item>tanjant</item>
+        <item>sinüs</item>
+        <item>kosinüs</item>
+        <item>pi</item>
+        <item>eşittir</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="unit_data_order_length_">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>um</item>
+        <item>nm</item>
+        <item>pm</item>
+        <item>dm</item>
+        <item>nmi</item>
+        <item>mi</item>
+        <item>fur</item>
+        <item>fm</item>
+        <item>yd</item>
+        <item>ft</item>
+        <item>in</item>
+        <item>gongli</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>chi</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>lii</item>
+        <item>hao</item>
+        <item>pc</item>
+        <item>ld</item>
+        <item>au</item>
+        <item>ly</item>
+    </string-array>
+    <string-array name="unit_data_order_velocity_">
+        <item>c</item>
+        <item>mach</item>
+        <item>mps</item>
+        <item>kmph</item>
+        <item>kmps</item>
+        <item>nmiph</item>
+        <item>mileph</item>
+        <item>fps</item>
+        <item>ips</item>
+    </string-array>
+    <string-array name="unit_data_order_weight_">
+        <item>t</item>
+        <item>kg</item>
+        <item>g</item>
+        <item>mg</item>
+        <item>ug</item>
+        <item>q</item>
+        <item>lb</item>
+        <item>oz</item>
+        <item>ct</item>
+        <item>gr</item>
+        <item>lt</item>
+        <item>st</item>
+        <item>uk.cwt</item>
+        <item>us.cwt</item>
+        <item>uk.st</item>
+        <item>dr</item>
+        <item>dan</item>
+        <item>jin</item>
+        <item>qian</item>
+        <item>liang</item>
+        <item>taijin</item>
+    </string-array>
+    <string-array name="unit_data_order_temperature_">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+        <item>R</item>
+        <item>Re</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>yıl</item>
+        <item>hafta</item>
+        <item>gün</item>
+        <item>s</item>
+        <item>dak</item>
+        <item>san</item>
+        <item>msan</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Eşit taksitler</item>
+        <item>Azalan taksit</item>
+	</string-array>  
+</resources>

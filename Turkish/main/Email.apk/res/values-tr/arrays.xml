@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>May</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Bu gece</item>
+        <item>Yarın</item>
+        <item>Hafta sonu</item>
+        <item>Gelecek hafta</item>
+        <item>Gelecek ay</item>
+        <item>Tarih seç</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Cevapla</item>
+        <item>Tümünü cevapla</item>
+        <item>Yönlendir</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>En son görüntüleme</item>
+        <item>Biçim</item>
+        <item>İsim</item>
+        <item>Gönderen</item>
+        <item>Alınma tarihi</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Sık kullanılan</item>
+        <item>Tüm klasörler</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yeni postalar</item>
+        <item>Eski postalar</item>
+        <item>Gelen kutusu</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tümü</item>
+        <item>Sadece gönderenler</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>E-Posta:</item>
+        <item>Mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-Posta:</item>
+        <item>Tel:</item>
+        <item>Faks:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adres:</item>
+        <item>Tel:</item>
+        <item>Adı:</item>
+        <item>E-Posta:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Posta Kodu:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Feragat:</item>
+        <item>E-Posta feragatı</item>
+        <item>WPSMail yoluyla gönder</item>
+        <item>Şundan geldi</item>
+        <item>Şunla gönder</item>
+        <item>Teşekkürler,</item>
+        <item>Saygılarımla</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Teşekkürler,</item>
+        <item>Saygılarımla</item>
+        <item>Gönderen</item>
+        <item>Orijinal e-posta</item>
+        <item>Gönderen</item>
+        <item>Gönderilen</item>
+        <item>Gönderen</item>
+        <item>Bu e-posta</item>
+        <item>Feragat</item>
+        <item>E-Posta feragatı</item>
+    </string-array>
+</resources>

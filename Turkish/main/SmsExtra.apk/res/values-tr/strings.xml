@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Eylemi gerçekleştirecek uygulama bulunamadı</string>
+  <string name="allow_network_hint">\"Bilgileri otomatik güncelle\" özelliğini açın veya ağ bağlantınızı kontrol edin</string>
+  <string name="already_updated">Güncel</string>
+  <string name="back_to_message_list">Mesaj listesine dön</string>
+  <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
+  <string name="cm_privacy_dialog_allow">İzin ver</string>
+  <string name="cm_privacy_dialog_cancel">İptal</string>
+  <string name="cm_privacy_dialog_spannable_tips">mobil operatör gizlilik protokolü</string>
+  <string name="cm_privacy_dialog_tips">Akıllı SMS hizmeti operatör tarafından özelleştirilmiştir. %1s okuyup, hizmeti açmayı kabul ederseniz, hizmeti kullanım sırasında bağlamanız ve bulmanız gerekir. Kabul ediyor musun?</string>
+  <string name="cm_privacy_dialog_title">Dikkat</string>
+  <string name="confirm_delete_all_conversations">Tüm görüşmeler silinsin mi?</string>
+  <string name="confirm_delete_conversation">Bu içeriğin tümü silinsin mi?</string>
+  <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
+  <string name="confirm_delete_locked_message">Kilitli mesajlar silinsin mi?</string>
+  <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
+  <string name="confirm_dialog_locked_title">Kilitli mesaj silinsin mi?</string>
+  <string name="confirm_dialog_title">Silinsin mi?</string>
+  <string name="copy_message_text">Kopyala</string>
+  <string name="copy_message_text_success">Başarıyla kopyalandı</string>
+  <string name="current_data_version">Mi Mesaj versiyonu</string>
+  <string name="delete">Sil</string>
+  <string name="delete_message">Sil</string>
+  <string name="from_label">"Şurdan: "</string>
+  <string name="menu_forward">İlet</string>
+  <string name="menu_lock">Favori</string>
+  <string name="menu_unlock">Favoriden Çıkart</string>
+  <string name="message_details_title">Mesaj Detayları</string>
+  <string name="message_type_label">"Tipi: "</string>
+  <string name="messaging">Mesajlaşma</string>
+  <string name="received_label">"Alınan: "</string>
+  <string name="repayment_network_error">Ağda bazı şeyler ters gitti</string>
+  <string name="repayment_title">Geri Ödeme</string>
+  <string name="repayment_way">Geri Ödeme Usulu</string>
+  <string name="sent_label">"Gönder: "</string>
+  <string name="smart_messages_network_allow_message">"Mi Mesaj hizmetlerinin normal çalışması için internete bağlanması gerekiyor. Şimdi izin verilsin mi?</string>
+  <string name="smart_messages_network_allow_title">İnternet bağlantısı gerekiyor</string>
+  <string name="sms_card_partner_label">"SMS Kart Ortağı: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="summary_pref_cm_smart_sms">Kart şablonları sağlayın, SMS servis numaraları vb.</string>
+  <string name="text_message">Mesaj Metni</string>
+  <string name="updating">Güncelleniyor…</string>
+  <string name="view_message_details">Detayları Görüntüle</string>
+</resources>

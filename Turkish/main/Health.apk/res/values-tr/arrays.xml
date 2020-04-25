@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="arr_prompt_label">
+    <item>Makul</item>
+    <item>Uzun</item>
+    <item>Çok uzun</item>
+  </string-array>
+  <string-array name="arr_sedentary_reminder">
+    <item>Hareket zamanı!</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Biraz su için ve bir yürüyüşe çıkın.</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Birkaç merdiven çıkın</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Çok uzun süre oturmayın</item>
+    <item>Daha fazla bilgi alın</item>
+  </string-array>
+  <string-array name="arr_time_label">
+    <item>1 saat</item>
+    <item>2 saat</item>
+  </string-array>
+  <string-array name="pager_titles">
+    <item>Gün</item>
+    <item>Hafta</item>
+    <item>Ay</item>
+  </string-array>
+  <string-array name="run_in_background_state">
+    <item>Kısıtlama yok</item>
+    <item>Arka plan etkinliğini kısıtla</item>
+    <item>10 dakika sonra durdur</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="speed_unit">
+    <item>" km/s"</item>
+    <item>" m/s"</item>
+  </string-array>
+  <string-array name="stand_guide_page_content1">
+    <item>Hareketsizlik birçok sağlık sorununa neden olabilir. Hareketsizlik süresi azaltılamıyorsa, aralıklı ayakta kalma faaliyetleri, sık karşılaşılan sorunları etkin bir şekilde iyileştirebilir.</item>
+    <item>Ayakta Durma Asistanı, hareketsizliğin saatte en az 1 dakika ayakta durularak, her gün 12 saatlik periyot ile ayakta durma hedefine ulaşılmasına ve hareketsiz yaşam tehlikesinden uzak kalınmasına yardımcı olur.</item>
+    <item>Ayakta Durma Asistanı anlamak ve açmak için Devam\'ı tıklayın.</item>
+  </string-array>
+  <string-array name="stand_guide_page_content2">
+    <item>Ayakta asistan, cep telefonunun kullanım durumunu tespit ederek ayakta kalma durumu kaydeder. 1 saat içinde ayakta kalma durumu tespit edilmediğinde, size ayakta durmanızı veya elle bir kayıt eklemenizi hatırlatan bir bildirim gönderilecek.</item>
+    <item>Etkinleştirmenin onaylanması, eşzamanlı olarak ayakta durma algılamayı ve ayakta durma anımsatıcısını etkinleştirir.</item>
+  </string-array>
+  <string-array name="week">
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+    <item>Salı</item>
+    <item>Çarşamba</item>
+    <item>Perşembe</item>
+    <item>Cuma</item>
+    <item>Cumartesi</item>
+  </string-array>
+  <string-array name="week_label">
+    <item>Paz</item>
+    <item>Ay</item>
+    <item>Sal</item>
+    <item>Çrş</item>
+    <item>Prş</item>
+    <item>Cum</item>
+    <item>Cts</item>
+  </string-array>
+</resources>

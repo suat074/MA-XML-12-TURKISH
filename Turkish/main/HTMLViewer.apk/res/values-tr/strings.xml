@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ad_service">Reklam hizmeti</string>
+  <string name="app_label">HTML Görüntüleyici</string>
+  <string name="app_name_which_call">Uygulama: %s</string>
+  <string name="app_version_which_call">Uygulama sürümü: %s</string>
+  <string name="autoconnect">Otomatik bağlan</string>
+  <string name="ime_privacy_policy">Klavyeyi seç</string>
+  <string name="legal_written_offer">Yazılı Teklif</string>
+  <string name="license_host_unreachable">"Ağa bağlanılamadı. Bu bilgiyi şimdi görüntülemek için, 
+başka bir bağlı cihazda %s konumuna gidin."</string>
+  <string name="loading">Sadece bir saniye…</string>
+  <string name="mibi_license">Mi Kredi Kullanıcı Sözleşmesi</string>
+  <string name="open_wifi_connect_and_use_data_summary">Mobil veri kullanılıyor. WLAN\'a geçmek için dokunun.</string>
+  <string name="open_wifi_connect_summary">Detaylar için dokunun.</string>
+  <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
+  <string name="permdesc_accessDrm">Uygulamaya DRM korumalı içeriğe erişim izni verir.</string>
+  <string name="poco_launcher_privacy_policy">POCO Başlatıcı Gizlilik Politikası</string>
+  <string name="poco_launcher_user_agreement">POCO Başlatıcı Kullanıcı Sözleşmesi</string>
+  <string name="poco_privacy_policy">POCO Başlatıcı Gizlilik Politikası &amp; POCO Başlatıcı Kullanıcı Sözleşmesi</string>
+  <string name="policy_name">Kural: %s</string>
+  <string name="pre_installed_apps">Önceden yüklenmiş uygulamalar</string>
+  <string name="settings_ad_loading">Sadece bir saniye…</string>
+  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
+  <string name="settings_license_activity_loading">Sadece bir saniye…</string>
+  <string name="settings_license_activity_title">Açık kaynak lisansları</string>
+  <string name="settings_license_activity_unavailable">Lisans yüklenemedi.</string>
+  <string name="settings_safetylegal_activity_loading">Sadece bir saniye…</string>
+  <string name="settings_safetylegal_activity_title">Güvenlik bilgisi</string>
+  <string name="settings_safetylegal_activity_unreachable">"Ağa bağlanılamadı. Bu bilgileri şimdi görüntülemek için, internete bağlı herhangi bir bilgisayardan %s adresine gidin."</string>
+  <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="doc_photo_adjust_section_title">Ayarlamak için sürükleyin</string>
+  <string name="doc_photo_doc_photo_title">Belgeyi düzenle</string>
+  <string name="doc_photo_enhance_bin">S&amp;B</string>
+  <string name="doc_photo_enhance_color">Geliştirilmiş</string>
+  <string name="doc_photo_enhance_none">Orijinal</string>
+  <string name="doc_photo_idcard_emblem">Geri</string>
+  <string name="doc_photo_idcard_mode_title">Kimlik kartı</string>
+  <string name="doc_photo_idcard_portrait">Ön</string>
+  <string name="doc_photo_not_support">Bu resim belge olarak düzenlenemiyor</string>
+  <string name="doc_photo_view_effect">Ön izleme</string>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_save_fail">Kaydedilemedi</string>
+  <string name="extra_photo_common_saving">Kaydediliyor…</string>
+  <string name="motion_photo_cancel">İptal</string>
+  <string name="motion_photo_re_pick_title">Canlı fotoğraf</string>
+  <string name="motion_photo_save_fail">Kaydedilemedi</string>
+  <string name="motion_photo_save_gif">GIF olarak kaydet</string>
+  <string name="motion_photo_save_gif_ing">GIF kaydediliyor…</string>
+  <string name="motion_photo_save_image">En iyi resmi kaydet</string>
+  <string name="motion_photo_save_image_ing">En iyi resim kaydediliyor…</string>
+  <string name="motion_photo_save_video">Video olarak kaydet</string>
+  <string name="motion_photo_save_video_ing">Video kaydediliyor…</string>
+  <string name="motion_photo_toast_default">Varsayılan</string>
+  <string name="motion_photo_toast_long_press_play">Oynatmak için fotoğrafa basılı tutun</string>
+  <string name="motion_photo_toast_suggest">Tavsiye edilen</string>
+  <string name="refocus_discard_confirm_message">Değişiklikleri kaydet?</string>
+  <string name="refocus_discard_negative_btn">Gözardı et</string>
+  <string name="refocus_discard_positive_btn">Kaydet</string>
+  <string name="refocus_photo_not_support">Bu fotoğrafa bulanıklık uygulanamıyor</string>
+  <string name="refocus_relighting_toast">Aydınlatma açısını ayarlamak için daireyi hareket ettirin</string>
+  <string name="refocus_save_cancel">İptal</string>
+  <string name="refocus_save_title">Format seç</string>
+  <string name="refocus_save_to_photo">Resim olarak kaydet</string>
+  <string name="refocus_save_to_video">Video olarak kaydet</string>
+  <string name="refocus_saving">Kaydediliyor…</string>
+  <string name="refocus_title">Bulanıklık</string>
+  <string name="refocus_type_relighting">Stüdyo aydınlatma</string>
+  <string name="refocus_type_relighting_no_face">Yüz bulunamadı</string>
+  <string name="refocus_type_relighting_small_face">Stüdyo aydınlatması, yüzlerin buradan daha fazla yer kapladığı fotoğraflar üzerinde çalışır.</string>
+  <string name="refocus_type_static">Bulanıklık seviyesi</string>
+  <string name="refocus_type_video">Işık izleri</string>
+</resources>

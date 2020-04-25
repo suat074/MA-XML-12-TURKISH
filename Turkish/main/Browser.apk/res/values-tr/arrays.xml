@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="quick_link_tabs">
+    <item>Yer imleri</item>
+    <item>Geçmiş</item>
+  </string-array>
+  <string-array name="pref_fling_gesture_entries">
+    <item>Sayfa geri ileri</item>
+    <item>Sekmeleri değiştir</item>
+    <item>Yok</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>Varsayılan</item>
+    <item>Özel URL</item>
+  </string-array>
+  <string-array name="pref_homepage_choices_with_simplehome">
+    <item>Varsayılan başlangıç ​​sayfası</item>
+    <item>Başlangıç ​​sayfasını temizle</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>Telefon</item>
+    <item>Pad</item>
+  </string-array>
+  <string-array name="pref_navscreen_layoutstate_choices">
+    <item>Döşeme görünümü</item>
+    <item>Dikey görünüm</item>
+    <item>Yatay görünüm</item>
+  </string-array>
+  <string-array name="pref_tab_restore_array">
+    <item>Her zaman sor</item>
+    <item>Açık</item>
+    <item>Kapalı</item>
+  </string-array>
+  <string-array name="pref_text_zoom_choices">
+    <item>Çok Küçük</item>
+    <item>Küçük</item>
+    <item>Normal</item>
+    <item>Büyük</item>
+    <item>Çok Büyük</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>Android</item>
+    <item>Masaüstü</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+  </string-array>
+  <string-array name="shortcut_dialog_delete">
+    <item>Sil</item>
+    <item>Hayır teşekkürler</item>
+  </string-array>
+  <string-array name="shortcut_dialog_keep">
+    <item>Tamam</item>
+    <item>Takip et</item>
+  </string-array>
+  <string-array name="shortcut_dialog_title">
+    <item>Tarayıcıdan mesaj</item>
+    <item>Mi ile Olimpiyatları takip edin</item>
+  </string-array>
+  <string-array name="suggestion_topic_tips">
+    <item>Odak izleme</item>
+    <item>Merkezi sorun</item>
+  </string-array>
+</resources>

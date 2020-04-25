@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MüzikFX</string>
+  <string name="bass_boost_strength">Bası Güçlendir</string>
+  <string name="ci_extreme">FX güçlendirici</string>
+  <string name="eq_dialog_title">Ekolayzer</string>
+  <string name="headset_plug">Bu efektler için kulaklık takın.</string>
+  <string name="new_app_name">SesEfekti</string>
+  <string name="no_effects">Efektler mevcut değil.</string>
+  <string name="picker_title">Müzik efektleri kontrol paneli</string>
+  <string name="setup">Kur</string>
+  <string name="user">Kullanıcı</string>
+  <string name="virtualizer_strength">Surround ses</string>
+</resources>

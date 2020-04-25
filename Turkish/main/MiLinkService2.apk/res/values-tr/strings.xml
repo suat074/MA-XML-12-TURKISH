@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="actionbar_button_up_description">Geri</string>
+  <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
+  <string name="casting_tips">Yansıtılıyor…</string>
+  <string name="console_guide_btn_got_it">Anladım</string>
+  <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır.</string>
+  <string name="console_guide_subtitle_private">Kayan bildirimleri, gelen çağrıları ve diğer özel öğeleri harici monitörde gösterme</string>
+  <string name="console_guide_subtitle_small_window">Telefonunuzun diğer özelliklerini kullanabilmek için yansıtılan pencereyi simge durumuna küçültün</string>
+  <string name="dialog_can_not_find_device">Yakınlarda cihaz bulunamadı</string>
+  <string name="dialog_cancle">İptal</string>
+  <string name="dialog_connect_fail">Bağlanamadı</string>
+  <string name="dialog_connect_retry">Tekrar denemek için dokunun</string>
+  <string name="dialog_connect_verify_perssion">Öncelikle TV üzerinden yayın yapmaya izin verin</string>
+  <string name="dialog_connect_verify_perssion_fail">TV’niz yayın izni veremedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="dialog_connected">Bağlandı</string>
+  <string name="dialog_connecting">Bağlanıyor…</string>
+  <string name="dialog_ok">Tamam</string>
+  <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
+  <string name="dialog_open_wifi_bt">Aç</string>
+  <string name="dialog_please_make_sure_tv_ok">Hedef cihazın kablosuz ekran görüntüsünü açması gerekiyor.</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Hedef cihazda kablosuz yansıtma özelliğinin açık olduğundan emin olun.
+Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
+  <string name="dialog_recent_connected">Son kullanılan</string>
+  <string name="dialog_retry">Tekrar deneyin</string>
+  <string name="dialog_scanning_device">Yakındaki cihazlar aranıyor…</string>
+  <string name="dialog_scanning_precondition">Kablosuz Ekranı kullanmak için telefonunuzda WLAN ve Bluetooth\'u açın.</string>
+  <string name="dialog_select_tv">Cihaz seç (%d)</string>
+  <string name="dialog_show_help">Yardım</string>
+  <string name="disconnect">Yansıtmayı durdur</string>
+  <string name="hang_up">Ekran kapalıyken yansıt</string>
+  <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik güç tüketimini azaltır. Ekranı tekrar açmak için Güç düğmesine basın.</string>
+  <string name="hang_up_alert_dialog_neg">İptal</string>
+  <string name="hang_up_alert_dialog_pos">Tamam</string>
+  <string name="hang_up_alert_dialog_title">Ekran kapalı yansıtma hakkında…</string>
+  <string name="help_page_text_01">Yardım</string>
+  <string name="help_page_text_02">Yansıtma nedir?</string>
+  <string name="help_page_text_03">Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtır. Mobil veri kullanmadan görüntüleri ve videoları arkadaşlarınızla ve ailenizle paylaşmanıza olanak tanır.</string>
+  <string name="help_page_text_04">Öğeleri daha büyük bir ekrana nasıl yansıtırım?</string>
+  <string name="help_page_text_05">1. Adım: Cihazlarınızı ve ağ ortamınızı kontrol edin</string>
+  <string name="help_page_text_06">"1. Bir Mi telefonundan bir Mi TV\'ye bir şey yansıtmak istiyorsanız, internete bağlanmanıza gerek yoktur.
+2. İki cihaz arasında bağlantı kuramazsanız, ikisini de aynı Wi-Fi ağına bağlamayı deneyin."</string>
+  <string name="help_page_text_06_global">"1. Mi TV\'ler, Mi Box\'lar ve Mi Projektörler:
+En iyi sonucu elde etmek için hem telefonunuzu hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın. Farklı ağlara bağlıysalar harici monitörü bulup bağlanmak daha fazla zaman alabilir.
+Not: Eski Mi TV\'ler farklı ağlarda yansıtmayı desteklemeyebilir.
+2. TV\'leri, set üstü kutuları veya diğer markaların projektörlerini kullanıyorsanız, hem telefonunuzu hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın.
+İki cihaz aynı ağa bağlanamıyorsa, harici monitörünüzde Miracast\'ı açın. Miracast işlevlerinin adlandırılması değişiklik gösterebilir."</string>
+  <string name="help_page_text_08">2. Adım: Yansıtmayı açın</string>
+  <string name="help_page_text_09">Telefonunuzun Bildirim alanında bulunan \"Yansıt\" düğmesine dokunun. Daha istikrarlı bir bağlantı için hem WLAN hem de Bluetooth\'u açın.</string>
+  <string name="help_page_text_10">Öğeleri Galeri veya Mi Video ile yayınlamak isterseniz, bu uygulamalarda bulunan yerleşik yansıtma özelliklerini kullanabilirsiniz.</string>
+  <string name="help_page_text_11">3. Adım: Cihazı seçin</string>
+  <string name="help_page_text_12">Yansıtma işlemine başlamak için mevcut cihazlar listesinden harici bir cihaz seçin.</string>
+  <string name="help_page_text_13">Harici bir cihaza bağlanılamıyor mu?</string>
+  <string name="help_page_text_14">"1. Bir Xiaomi cihazı kullanmak istiyor ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun paylaşım noktasına bağlayın. Kullanılabilir bir Wi-Fi ağı yoksa veya her iki cihazı aynı ağa bağlayamıyorsanız, harici monitörünüzdeki yansıtma özelliklerinin güncel olup olmadığını kontrol edin, hem telefonunuzda hem de harici monitörde Bluetooth\'u açın, TV\'nizde Miracast\'ı açın. 
+2. İlk kez bir Xiaomi cihazına yansıtma yapıyorsanız, doğrulamayı tamamlamanız gerekir. 
+3. Xiaomi ürünü olmayan bir cihazı kullanıyor, ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun paylaşım noktasına bağlayın. Bu işe yaramazsa, LeEco yansıtma uygulamasını TV\'nize yükleyin ve talimatları izleyin."</string>
+  <string name="help_page_text_14_global">"1. Bir Xiaomi cihazı kullanmak istiyor ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun internet paylaşım noktasına bağlayın. Kullanılabilir bir Wi-Fi ağı yoksa veya her iki cihazı aynı ağa bağlayamıyorsanız, harici monitörünüzdeki yayın özelliklerinin güncel olup olmadığını kontrol edin, hem telefonunuzda hem de harici monitörde Bluetooth\'u açın, TV'nizde Miracast\'ı açın.
+2. İlk kez bir Xiaomi cihazına yansıtma yapıyorsanız, doğrulamayı tamamlamanız gerekir.
+3. Xiaomi ürünü olmayan bir cihazı kullanıyor, ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun internet paylaşım noktasına bağlayın."</string>
+  <string name="help_page_text_15">Farklı cihazlarda Miracast işlevselliği</string>
+  <string name="help_page_text_16">Mi TV/Mi Projektörü</string>
+  <string name="help_page_text_17">"Miracast\'i manuel açmadan Bluetooth özelliklerine sahip çoğu Mi TV modeline Mi telefonunuzdaki öğeleri yansıtabilirsiniz.
+Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt; Yansıtma &gt; Miracast\'i seçin."</string>
+  <string name="help_page_text_17_1">Xiaomi müşteri desteği: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [KAYNAK] düğmesine basabilir ve ardından \"Screen Mirroring\" öğesini seçebilirsiniz. Bu özellik, çeşitli modellerde varsayılan olarak açıktır.</string>
+  <string name="help_page_text_20">Samsung müşteri desteği: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bu özellik, çeşitli modellerde varsayılan olarak açıktır.</string>
+  <string name="help_page_text_23">LG müşteri desteği: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bu özellik, çeşitli modellerde varsayılan olarak açıktır.</string>
+  <string name="help_page_text_26">Philips müşteri desteği: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [MENU] düğmesine basabilir ve ardından Ayarlar &gt; Bağlantı &gt; Ağ &gt; Çoklu ekran bölümünden seçebilirsiniz.</string>
+  <string name="help_page_text_29">TPV müşteri desteği: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [AKILLI] düğmesine basabilir ve ardından Yansıt &gt; Kablosuz Ekran öğesini seçebilirsiniz. Bazı modeller ayrıca oyunlar için yansıtmayı da destekliyor: Hi Cast &gt; Oyun yansıt &gt; Android.</string>
+  <string name="help_page_text_32">Hisense müşteri desteği: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Yansıtma &gt; Android cihazı &gt; Miracast bölümünden seçebilirsiniz.</string>
+  <string name="help_page_text_35">Skyworth müşteri desteği: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [KAYNAK] düğmesine basıp ardından \"Ekran Aynalama\" öğesini seçebilir. Diğer bazı modellerde, bu özelliği Ağlar &gt; Wi-Fi Direkt üzerinden açabilirsiniz. Bu özellik çeşitli modellerde varsayılan olarak açıktır.</string>
+  <string name="help_page_text_38">Sony müşteri desteği: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Ekran Aynalama öğesini seçebilirsiniz.</string>
+  <string name="help_page_text_41">Panasonic müşteri desteği: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Harici monitörünüzün Miracast işlevini desteklediğinden emin olmak için TV\'nizin ayarlarını kontrol edin.</string>
+  <string name="help_page_text_44">Changhong müşteri desteği: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Kablosuz Ekran\'ı seçebilirsiniz.</string>
+  <string name="help_page_text_47">TCL müşteri desteği: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bu özelliği açmak için Uygulamalarım &gt; WLAN Ekranı\'na gidin.</string>
+  <string name="help_page_text_50">AODIN müşteri desteği: 400-810-5858</string>
+  <string name="help_page_text_51">LeEco</string>
+  <string name="help_page_text_52">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, bu özelliği Ayarlar &gt; Ağlar &gt; Çoklu ekran &gt; Kablosuz Ekran\'dan açabilirsiniz.</string>
+  <string name="help_page_text_53">Leeco müşteri desteği: 10109000</string>
+  <string name="help_page_text_55">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir. Miracast\'ın nasıl açılacağını öğrenmek için aşağıdaki bilgileri görüntüleyin.
+4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
+  <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir.
+4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
+  <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
+  <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin.</string>
+  <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
+  <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
+  <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
+  <string name="privacy_agree">Kabul et</string>
+  <string name="privacy_text_1"><Data>"Yansıtma\'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtmanızı sağlar.
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> ve &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> okuyun ve kabul edin.
+Bu uygulamanın normal bir şekilde çalışabilmesi için internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:"</Data></string>
+  <string name="privacy_text_2"><Data>"Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Ayarlar\'dan uygulamayı kaldırmayı, oturumu kapatmayı veya izinleri kısıtlamayı seçebilirsiniz.
+Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</Data></string>
+  <string name="privacy_text_pemission">"　　•Bu öğeleri harici monitörlere yansıtmak için cihazınızdaki görüntülere erişir ve bunları kaydeder
+　　•Harici cihazlara ses göndermek için çağrıları ve sesleri kaydeder
+　　•Cihazınızı tanımlamak için telefon numarasına, IMEI ve IMSI\'ye erişir
+　　•Yakındaki cihazları bulmak için konumunuza erişir"</string>
+  <string name="private_protect">Özel öğeleri gizle</string>
+  <string name="san_wait_msg_1">Hedef cihazda kablosuz yansıtma özelliğini açın</string>
+  <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
+  <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı ağa bağlı olduklarında bulunması daha kolaydır.</string>
+  <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>
+  <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
+  <string name="small_window">Pencereyi küçült</string>
+  <string name="small_window_not_supported">Yansıtılırken bu uygulama simge durumuna küçültülemiyor</string>
+  <string name="status_bar_in_casting">Yansıtılıyor…</string>
+  <string name="status_bar_in_casting_long">Daha fazla yansıtma özelliği görüntülemek için dokunun</string>
+  <string name="tile_label">Yansıt</string>
+  <string name="toast_guide_show_more">Daha fazla bilgi edin</string>
+  <string name="toast_guide_title">Explore our new features here</string>
+  <string name="toast_msg_for_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
+  <string name="toast_msg_for_small_window">Telefonunuzun diğer özelliklerini yansıtma işlemini durdurmadan kullanabilmek için açılan pencereyi simge durumuna küçültebilirsiniz.</string>
+  <string name="toast_title_for_small_window">Uygulamada \"Pencereyi küçült \" seçeneğini seçin</string>
+</resources>

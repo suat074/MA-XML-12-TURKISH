@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="add_alarm_text">Alarm ekle</string>
+    <string name="add_notification_text">Bildirim ekle</string>
+    <string name="add_ringtone_text">Zil sesi ekle</string>
+    <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+    <string name="app_label">Medya Deposu</string>
+    <string name="artist_label">Sanatçı</string>
+    <string name="delete_ringtone_text">Sil</string>
+    <string name="grant_dialog_button_allow">İzin ver</string>
+    <string name="grant_dialog_button_deny">Reddet</string>
+    <string name="notification_sound_default">Varsayılan bildirim sesi</string>
+    <string name="permission_audio"><b>^1</b> uygulamasının bu müziği değiştirmesine veya silmesine izin verilsin mi?</string>
+    <string name="permission_images"><b>^1</b> uygulamasının bu resmi değiştirmesine veya silmesine izin verilsin mi?</string>
+    <string name="permission_required">Bu öğeyi değiştirmek veya silmek için izin gerekli</string>
+    <string name="permission_required_action">Devam</string>
+    <string name="permission_video"><b>^1</b> uygulamasının bu videoyu değiştirmesine veya silmesine izin verilsin mi?</string>
+    <string name="ringtone_default">Varsayılan zil sesi</string>
+    <string name="root_audio">Ses</string>
+    <string name="root_images">Resimler</string>
+    <string name="root_videos">Videolar</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Yerel depolama</string>
+    <string name="uid_label">Medya</string>
+    <string name="unable_to_add_ringtone">Özel zil sesi eklenemiyor</string>
+    <string name="unable_to_delete_ringtone">Özel zil sesi silinemiyor</string>
+</resources>

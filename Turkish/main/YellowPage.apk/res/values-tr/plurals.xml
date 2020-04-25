@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="callNoAnswerTimeFormat">
+    <item quantity="other">%d kez çaldı</item>
+    <item quantity="one">%d kez çaldı</item>
+  </plurals>
+  <plurals name="more_coupons_count">
+    <item quantity="other">%d kupon</item>
+    <item quantity="one">%d kupon</item>
+  </plurals>
+  <plurals name="review_count">
+    <item quantity="other">%d yorumu görüntüle</item>
+    <item quantity="one">%d yorumu görüntüle</item>
+  </plurals>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="change_response_labels">
+    <item>Sadece bu faaliyette</item>
+    <item>Tüm faaliyetler esnasında</item>
+  </string-array>
+  <string-array name="date_calculate_spinner">
+    <item>Sonraki</item>
+    <item>Önceki</item>
+  </string-array>
+  <string-array name="default_reminder_labels">
+    <item>Olay zamanında</item>
+    <item>5 dakika önce</item>
+    <item>10 dakika önce</item>
+    <item>15 dakika önce</item>
+    <item>30 dakika önce</item>
+    <item>1 saat önce</item>
+    <item>1 gün önce</item>
+    <item>2 gün önce</item>
+    <item>1 hafta önce</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>Sadece bu faaliyette</item>
+    <item>Bu ve gelecek faaliyetlerde</item>
+    <item>Tüm faaliyetlerde</item>
+  </string-array>
+  <string-array name="edit_event_dislike">
+    <item>Oluşturmak istediğim etkinlik türü yok</item>
+    <item>Daha fazla ayar</item>
+    <item>Bazı Ayarlar belirlenemiyor</item>
+    <item>Sadece etrafa bak</item>
+    <item>Söyleme</item>
+  </string-array>
+  <string-array name="fortune_gender">
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item>1.</item>
+    <item>2.</item>
+    <item>3.</item>
+    <item>4.</item>
+    <item>Son</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Daima</item>
+    <item>Sadece zil sessizde iken</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>Bölge varsayılanı</item>
+    <item>Cumartesi</item>
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+  </string-array>
+  <string-array name="repeat_choose_day">
+    <item>1.</item>
+    <item>2.</item>
+    <item>3.</item>
+    <item>4.</item>
+    <item>5.</item>
+    <item>6.</item>
+    <item>7.</item>
+    <item>8.</item>
+    <item>9.</item>
+    <item>10.</item>
+    <item>11.</item>
+    <item>12.</item>
+    <item>13.</item>
+    <item>14.</item>
+    <item>15.</item>
+    <item>16.</item>
+    <item>17.</item>
+    <item>18.</item>
+    <item>19.</item>
+    <item>20.</item>
+    <item>21.</item>
+    <item>22.</item>
+    <item>23.</item>
+    <item>24.</item>
+    <item>25.</item>
+    <item>26.</item>
+    <item>27.</item>
+    <item>28.</item>
+    <item>29.</item>
+    <item>30.</item>
+    <item>31.</item>
+  </string-array>
+  <string-array name="repeat_choose_end">
+    <item>Asla</item>
+    <item>Zaman</item>
+    <item>Say</item>
+  </string-array>
+  <string-array name="repeat_choose_month">
+    <item>Ocak</item>
+    <item>Şubat</item>
+    <item>Mart</item>
+    <item>Nisan</item>
+    <item>Mayıs</item>
+    <item>Haziran</item>
+    <item>Temmuz</item>
+    <item>Ağustos</item>
+    <item>Eylül</item>
+    <item>Ekim</item>
+    <item>Kasım</item>
+    <item>Aralık</item>
+  </string-array>
+  <string-array name="repeat_choose_week_left">
+    <item>ilk</item>
+    <item>ikinci</item>
+    <item>üçüncü</item>
+    <item>dördüncü</item>
+    <item>sonuncu</item>
+  </string-array>
+  <string-array name="repeat_choose_week_right">
+    <item>Ptesi - Cuma</item>
+    <item>Hafta sonu</item>
+    <item>Bütün hafta</item>
+  </string-array>
+  <string-array name="repeat_choose_weekday">
+    <item>Ptesi</item>
+    <item>Salı</item>
+    <item>Çrş</item>
+    <item>Per</item>
+    <item>Cum</item>
+    <item>Ctesi</item>
+    <item>Pzr</item>
+  </string-array>
+  <string-array name="repeat_countdown">
+    <item>Asla</item>
+    <item>Aylık</item>
+    <item>Yıllık</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>gün</item>
+    <item>hafta</item>
+    <item>ay</item>
+    <item>yıl</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>Cevap yok</item>
+    <item>Evet</item>
+    <item>Belki</item>
+    <item>Hayır</item>
+  </string-array>
+  <string-array name="timezone_labels">
+    <item>Marşal Adaları</item>
+    <item>Midway Adası</item>
+    <item>Hawaii</item>
+    <item>Alaska</item>
+    <item>Pasifik zaman dilimi</item>
+    <item>Tijuana</item>
+    <item>Arizona</item>
+    <item>Chihuahua</item>
+    <item>Dağ zamanı</item>
+    <item>Orta Amerika</item>
+    <item>Merkezi saat</item>
+    <item>Meksika şehri</item>
+    <item>Saskatchewan</item>
+    <item>Bogota</item>
+    <item>Doğu saati</item>
+    <item>Venezuela</item>
+    <item>Atlantik Saati (Barbados)</item>
+    <item>Atlantik Saati (Kanada)</item>
+    <item>Manaus</item>
+    <item>Santiago</item>
+    <item>Newfoundland</item>
+    <item>Brasilia</item>
+    <item>Buenos Aires</item>
+    <item>Grönland</item>
+    <item>Montevideo</item>
+    <item>Orta Atlantik</item>
+    <item>Azor</item>
+    <item>Cape Verde</item>
+    <item>Kazablanka</item>
+    <item>Londra, Dublin</item>
+    <item>Amsterdam, Berlin</item>
+    <item>Belgrat</item>
+    <item>Brüksel</item>
+    <item>Saraybosna</item>
+    <item>Windhoek</item>
+    <item>W. Afrika Saati</item>
+    <item>Amman, Ürdün</item>
+    <item>Atina, İstanbul</item>
+    <item>Beyrut, Lübnan</item>
+    <item>Kahire</item>
+    <item>Helsinki</item>
+    <item>Kudüs</item>
+    <item>Minsk</item>
+    <item>Harare</item>
+    <item>Bağdat</item>
+    <item>Moskova</item>
+    <item>Kuveyt</item>
+    <item>Nairobi</item>
+    <item>Tahran</item>
+    <item>Bakü</item>
+    <item>Tiflis</item>
+    <item>Erivan</item>
+    <item>Dubai</item>
+    <item>Kâbil</item>
+    <item>İslamabad, Karaçi</item>
+    <item>Ural</item>
+    <item>Yekaterinburg</item>
+    <item>Kalküta</item>
+    <item>Sri Lanka</item>
+    <item>Katmandu</item>
+    <item>Astana</item>
+    <item>Yangon</item>
+    <item>Krasnoyarsk</item>
+    <item>Bangkok</item>
+    <item>Pekin</item>
+    <item>Hong Kong</item>
+    <item>Macao</item>
+    <item>Singapur</item>
+    <item>Irkutsk</item>
+    <item>Kuala Lumpur</item>
+    <item>Perth</item>
+    <item>Taipei</item>
+    <item>Seul</item>
+    <item>Tokyo, Osaka</item>
+    <item>Yakutsk</item>
+    <item>Adelaide</item>
+    <item>Darwin</item>
+    <item>Brisbane</item>
+    <item>Hobart</item>
+    <item>Sydney, Canberra</item>
+    <item>Vladivostok</item>
+    <item>Guam</item>
+    <item>Magadan</item>
+    <item>Auckland</item>
+    <item>Fiji</item>
+    <item>Tonga</item>
+  </string-array>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>3 saat önce</item>
+    <item>4 saat önce</item>
+    <item>5 saat önce</item>
+    <item>6 saat önce</item>
+    <item>1 gün önce</item>
+  </string-array>
+  <string-array name="week_header_name">
+    <item>PZR</item>
+    <item>PTESİ</item>
+    <item>SAL</item>
+    <item>ÇAR</item>
+    <item>PER</item>
+    <item>CUM</item>
+    <item>CTESİ</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Şeffaf</item>
+    <item>Beyaz arka plan</item>
+  </string-array>
+  <string-array name="prefValues_alerts_vibrateWhen">
+    <item>her zaman</item>
+    <item>sessiz</item>
+    <item>asla</item>
+  </string-array>
+  <string-array name="default_reminder_later_time_labels">
+    <item>5 dakika</item>
+    <item>10 dakika</item>
+    <item>15 dakika</item>
+    <item>30 dakika</item>
+	<item>1 saat</item>
+  </string-array>
+  <string-array name="repeat_monthly_on_day_count_values">
+    <item>ilk Pazartesi</item>
+    <item>ilk Salı</item>
+    <item>ilk Çarşamba</item>
+    <item>ilk Perşembe</item>
+    <item>ilk Cuma</item>
+    <item>ilk Cumartesi</item>
+    <item>ilk Pazar</item>
+    <item>ikinci Pazartesi</item>
+    <item>ikinci Salı</item>
+    <item>ikinci Çarşamba</item>
+    <item>ikinci Perşembe</item>
+    <item>ikinci Cuma</item>
+    <item>ikinci Cumartesi</item>
+    <item>ikinci Pazar</item>
+    <item>üçüncü Pazartesi</item>
+    <item>üçüncü Salı</item>
+    <item>üçüncü Çarşamba</item>
+    <item>üçüncü Perşembe</item>
+    <item>üçüncü Cuma</item>
+    <item>üçüncü Cumartesi</item>
+    <item>üçüncü Pazar</item>
+    <item>dördüncü Pazartesi</item>
+    <item>dördüncü Salı</item>
+    <item>dördüncü Çarşamba</item>
+    <item>dördüncü Perşembe</item>
+    <item>dördüncü Cuma</item>
+    <item>dördüncü Cumartesi</item>
+    <item>dördüncü Pazar</item>
+    <item>geçen Pazartesi</item>
+    <item>geçen Salı</item>
+    <item>geçen Çarşamba</item>
+    <item>geçen Perşembe</item>
+    <item>geçen Cuma</item>
+    <item>geçen Cumartesi</item>
+    <item>geçen Pazar</item>
+  </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Sadece bu sefer için</item>
+    <item>Tekrarlanan hatırlatıcıyı kapat</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Sadece bu sefer için</item>
+    <item>Tekrarlanan hatırlatıcıyı ayarla</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup">
+    <item>Kapalı</item>
+    <item>Tüm etkinlikler için</item>
+    <item>En alakalı etkinlikler için</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>Kapalı</item>
+    <item>Tüm etkinlikler için</item>
+    <item>Zamana duyarlı olaylar için</item>
+  </string-array>  
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="choose_ask_type">
+    <item>Her zaman sor</item>
+    <item>Varsayılan uygulama</item>
+    <item>Klonlu uygulama</item>
+  </string-array>
+  <string-array name="switch_apps_entries">
+    <item>İlk alanda kullanılır</item>
+    <item>Geçerli alanda kullanılır</item>
+    <item>Her iki alanda da kullanılır</item>
+  </string-array>
+  <string-array name="switch_apps_msg_confirms">
+    <item>Uygulamalar İlk alana taşındıktan sonra uygulama verileri kaybolur.</item>
+    <item>Uygulamalar geçerli alana taşındıktan sonra uygulama verileri kaybolur.</item>
+    <item>Uygulamalar her iki alanda da kullanılır.</item>
+  </string-array>
+  <string-array name="switch_apps_title_confirms">
+    <item>Uygulama verileri kaybedilecek</item>
+    <item>Uygulama verileri kaybedilecek</item>
+    <item>Dikkat</item>
+  </string-array>
+</resources>

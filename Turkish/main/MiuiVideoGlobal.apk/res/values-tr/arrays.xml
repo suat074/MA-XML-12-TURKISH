@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Hata</item>
+        <item>Öneri</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="agps_network_entries">
+    <item>Ev Ağı</item>
+    <item>Tüm Ağ</item>
+  </string-array>
+  <string-array name="aggregate_entries">
+    <item>Önerilen</item>
+    <item>Önemli</item>
+    <item>Önemsiz</item>
+  </string-array>
+  <string-array name="aggregate_summaries">
+    <item>MIUI, hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecek</item>
+    <item>Bildirimler, Bildirim alanında görünecek</item>
+    <item>Bildirimler ayrı bir klasörde görünecek</item>
+  </string-array>
+  <string-array name="alarm_repeat_type">
+    <item>Hergün</item>
+    <item>Hafta içi akşam</item>
+    <item>Hafta sonu</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="alarm_repeat_type_no_workdays">
+    <item>Hergün</item>
+    <item>Hafta içi akşam</item>
+    <item>Hafta sonu</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+  <string-array name="ap_identify">
+    <item>Varsayılan</item>
+    <item>Mobil paylaşım</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item>Yok</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP veya CHAP</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item>Dahili Cihaz Depolaması</item>
+    <item>Çıkarılabilir SD Kart</item>
+    <item>Sistem karar versin</item>
+  </string-array>
+  <string-array name="app_install_location_values">
+    <item>cihaz</item>
+    <item>hafıza kartı</item>
+    <item>oto</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item>Konum</item>
+    <item>Kişisel</item>
+    <item>Mesajlaşma</item>
+    <item>Medya</item>
+    <item>Cihaz</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item>Konum</item>
+    <item>Konum</item>
+    <item>Konum</item>
+    <item>Titret</item>
+    <item>Kişileri ok</item>
+    <item>Kişileri değiştir</item>
+    <item>Çağrı günlüğünü oku</item>
+    <item>Çağrı günlüğünü değiştir</item>
+    <item>Takvimi oku</item>
+    <item>Takvim değiştir</item>
+    <item>Konum</item>
+    <item>Posta bildirimi</item>
+    <item>Konum</item>
+    <item>Telefonu ara</item>
+    <item>SMS/MMS oku</item>
+    <item>SMS/MMS yaz</item>
+    <item>SMS/MMS al</item>
+    <item>SMS/MMS al</item>
+    <item>SMS/MMS al</item>
+    <item>SMS/MMS al</item>
+    <item>SMS/MMS gönder</item>
+    <item>SMS/MMS oku</item>
+    <item>SMS/MMS yaz</item>
+    <item>Ayarları değiştir</item>
+    <item>Yukarı çek</item>
+    <item>Bildirimlere eriş</item>
+    <item>Kamera</item>
+    <item>Ses kaydı</item>
+    <item>Sesi çal</item>
+    <item>Panoyu oku</item>
+    <item>Panoyu değiştir</item>
+    <item>Medya tuşları</item>
+    <item>Ses odağı</item>
+    <item>Ana Ses</item>
+    <item>Ses</item>
+    <item>Zil Sesi</item>
+    <item>Medya Sesi</item>
+    <item>Alarm Sesi</item>
+    <item>Bildirim Sesi</item>
+    <item>Bluetooth Sesi</item>
+    <item>Uyanık Kalsın</item>
+    <item>Konum</item>
+    <item>Konum</item>
+    <item>Kullanım istatistiklerini al</item>
+    <item>Mikrofonu Aç/Kapat</item>
+    <item>Durumu göster</item>
+    <item>Medyayı Yansıt</item>
+    <item>VPN\'i etkinleştir</item>
+    <item>Duvar Kağıdı</item>
+    <item>Yapı Yardımcısı</item>
+    <item>Ekran görüntüsü alma yardımcısı</item>
+    <item>Telefon Durumunu okur</item>
+    <item>Sesli mesaj ekler</item>
+    <item>SIP kullanır</item>
+    <item>Giden çağrıyı işler</item>
+    <item>Parmakizi</item>
+    <item>Vucüt Sensörleri</item>
+    <item>Hücresel yayını okur</item>
+    <item>Sahte Konum</item>
+    <item>Depolamayı okur</item>
+    <item>Depolamaya yazar</item>
+    <item>Ekranı açar</item>
+    <item>Hesapları alır</item>
+    <item>Arkaplanda çalışır</item>
+    <item>Erişilebilirlik hacmi</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item>yaklaşık konum</item>
+    <item>hassas konum</item>
+    <item>GPS</item>
+    <item>Titreşim</item>
+    <item>Kişileri oku</item>
+    <item>Kişileri değiştir</item>
+    <item>çağrı günlüğünü okur</item>
+    <item>çağrı günlüğünü değiştirir</item>
+    <item>takvimi okur</item>
+    <item>takvimi değiştirir</item>
+    <item>wi-fi tarar</item>
+    <item>bildirim</item>
+    <item>hücre tarar</item>
+    <item>telefon çağrısı</item>
+    <item>SMS okur</item>
+    <item>SMS yazar</item>
+    <item>SMS alır</item>
+    <item>acil durum SMS alır</item>
+    <item>MMS alır</item>
+    <item>WAP push alır</item>
+    <item>SMS gönderir</item>
+    <item>ICC SMS okur</item>
+    <item>ICC SMS yazar</item>
+    <item>ayarları değiştirir</item>
+    <item>çizer</item>
+    <item>bildirimlere erişir</item>
+    <item>kamera</item>
+    <item>ses kaydı yapar</item>
+    <item>sesleri oynatır</item>
+    <item>panoyu okur</item>
+    <item>panoyu değiştirir</item>
+    <item>ortam tuşları</item>
+    <item>ses odağı</item>
+    <item>ana ses</item>
+    <item>ses yüksekliği</item>
+    <item>zil sesi</item>
+    <item>medya sesi</item>
+    <item>alarm sesi</item>
+    <item>bildirim sesi</item>
+    <item>bluetooth sesi</item>
+    <item>uyanık kal</item>
+    <item>konum izleme</item>
+    <item>yüksek güçte konum izleme</item>
+    <item>kullanım istatistiklerini al</item>
+    <item>mikrofon sesini açar-kapar</item>
+    <item>durumu göster</item>
+    <item>medyayı yansıtır</item>
+    <item>VPN açar</item>
+    <item>duvar kağıdı yapar</item>
+    <item>yapı yardımcısı</item>
+    <item>ekran görüntüsü alma yardımcısı</item>
+    <item>telefon durumunu okur</item>
+    <item>sesli posta ekler</item>
+    <item>sip kullanır</item>
+    <item>giden çağrıyı işler</item>
+    <item>parmakizi</item>
+    <item>vucüt sensörleri</item>
+    <item>hücresel yayını okur</item>
+    <item>sahte konum</item>
+    <item>depolamayı okur</item>
+    <item>depolamaya yazar</item>
+    <item>ekranı açar</item>
+    <item>hesap alır</item>
+    <item>arkaplanda çalışır</item>
+    <item>erişilebilirlik hacmi</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standart sınır</item>
+    <item>Arkaplan işlemleri yok</item>
+    <item>En fazla 1 işlem</item>
+    <item>En fazla 2 işlem</item>
+    <item>En fazla 3 işlem</item>
+    <item>En fazla 4 işlem</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item>30 günden eski</item>
+    <item>60 günden eski</item>
+    <item>90 günden eski</item>
+  </string-array>
+  <string-array name="battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
+    <item>Üst çubuk</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item>Belirtilmemiş</item>
+    <item>LTE</item>
+    <item>HSPAP</item>
+    <item>HSPA</item>
+    <item>HSUPA</item>
+    <item>HSDPA</item>
+    <item>UMTS</item>
+    <item>EDGE</item>
+    <item>GPRS</item>
+    <item>eHRPD</item>
+    <item>EVDO_B</item>
+    <item>EVDO_A</item>
+    <item>EVDO_0</item>
+    <item>1xRTT</item>
+    <item>IS95B</item>
+    <item>IS95A</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>16 bit/örnek</item>
+    <item>24 bit/örnek</item>
+    <item>32 bit/örnek</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>16 bit/örnek</item>
+    <item>24 bit/örnek</item>
+    <item>32 bit/örnek</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Ses kalitesi için optimize edildi</item>
+    <item>Dengeli ses ve bağlantı kalitesi</item>
+    <item>Bağlantı kalitesi için optimize edildi</item>
+    <item>En iyi etki (Uyarlanabilir bit hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Ses kalitesi için optimize edilmiş (990kbps/909kbps)</item>
+    <item>Dengeli ses ve bağlantı kalitesi (660kbps/606kbps)</item>
+    <item>Bağlantı kalitesi için optimize edilmiş (330kbps/303kbps)</item>
+    <item>En iyi etki (Uyarlanabilir bit hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>44,1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Sistem tercihini kullan (Varsayılan)</item>
+    <item>44,1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ ses</item>
+    <item>Qualcomm® aptX™ HD ses</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+	<item>Qualcomm® aptX™ TWS+ ses</item>
+	<item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ ses</item>
+    <item>Qualcomm® aptX™ HD ses</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+	<item>Qualcomm® aptX™ TWS+ ses</item>
+	<item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Varsayılan)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item>2 dakika</item>
+    <item>5 dakika</item>
+    <item>1 saat</item>
+    <item>Asla zaman aşımına uğrama</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Devre dışı</item>
+    <item>Filtreleme etkin</item>
+    <item>Etkin</item>
+    <item>\"Filtrelenmiş başlıklar\" etkin</item>
+    <item>\"Medya paketleri filtreleme\" etkin</item>
+  </string-array>
+  <string-array name="button_light_timeout_entries">
+    <item>1 saniye</item>
+    <item>2 saniye</item>
+    <item>5 saniye</item>
+    <item>10 saniye</item>
+    <item>20 saniye</item>
+    <item>Daima</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item>Varsayılan</item>
+    <item>Yok</item>
+    <item>Dış Çizgili</item>
+    <item>Alt Gölgeli</item>
+    <item>Kabartmalı</item>
+    <item>Çöküntülü</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item>Çok Küçük</item>
+    <item>Küçük</item>
+    <item>Normal</item>
+    <item>Büyük</item>
+    <item>Çok Büyük</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item>Uygulama varsayılanını kullan</item>
+    <item>Siyah üzerine beyaz</item>
+    <item>Beyaz üzerine siyah</item>
+    <item>Siyah üzerine sarı</item>
+    <item>Mavi üzerine sarı</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="change_security_lock_picker">
+    <item>Yüzle kilidi aç</item>
+    <item>Desen</item>
+    <item>PIN</item>
+    <item>Şifre</item>
+  </string-array>
+  <string-array name="fold_entries">
+    <item>Tavsiye edilen</item>
+    <item>Önemli</item>
+    <item>Önemsiz</item>
+  </string-array>
+  <string-array name="fold_summaries">
+    <item>Doğrudan görünecek bildirimlere MIUI karar verecek</item>
+    <item>Bildirimler, bildirim alanında görünecek</item>
+    <item>Bildirimler, ayrı bir klasörde görünecek</item>
+  </string-array>
+  <string-array name="city_name">
+    <item>Abidjan</item>
+    <item>Accra</item>
+    <item>Addis Ababa</item>
+    <item>Algiers</item>
+    <item>Blantyre</item>
+    <item>Brazzaville</item>
+    <item>Cairo</item>
+    <item>Casablanca</item>
+    <item>Conakry</item>
+    <item>Dakar</item>
+    <item>Dar es Salaam</item>
+    <item>Djibouti</item>
+    <item>Freetown</item>
+    <item>Gaborone</item>
+    <item>Harare</item>
+    <item>Johannesburg</item>
+    <item>Kampala</item>
+    <item>Khartoum</item>
+    <item>Kigali</item>
+    <item>Kinshasa</item>
+    <item>Lagos</item>
+    <item>Maseru</item>
+    <item>Mogadishu</item>
+    <item>Nairobi</item>
+    <item>São Tomé</item>
+    <item>Timbuktu</item>
+    <item>Tripoli</item>
+    <item>Tunis</item>
+    <item>Anchorage</item>
+    <item>Mendoza</item>
+    <item>Aruba</item>
+    <item>Asunción</item>
+    <item>Barbados</item>
+    <item>Belize</item>
+    <item>Bogotá</item>
+    <item>Buenos Aires</item>
+    <item>Cancun</item>
+    <item>Caracas</item>
+    <item>Cayman Islands</item>
+    <item>Chicago</item>
+    <item>Costa Rica</item>
+    <item>Curaçao</item>
+    <item>Dawson Creek</item>
+    <item>Denver</item>
+    <item>Detroit</item>
+    <item>Dominica</item>
+    <item>Edmonton</item>
+    <item>El Salvador</item>
+    <item>Fortaleza</item>
+    <item>Grand Turk</item>
+    <item>Grenada</item>
+    <item>Guatemala</item>
+    <item>Guyana</item>
+    <item>Halifax</item>
+    <item>Havana</item>
+    <item>Indianapolis</item>
+    <item>Knox City</item>
+    <item>Petersburg</item>
+    <item>Tell City</item>
+    <item>Vevay</item>
+    <item>Vincennes</item>
+    <item>Winamac</item>
+    <item>Kingston</item>
+    <item>Nuestra Señora de La Paz</item>
+    <item>Lima</item>
+    <item>Los Angeles</item>
+    <item>Louisville</item>
+    <item>Managua</item>
+    <item>Martinique</item>
+    <item>Metlakatla</item>
+    <item>Mexico City</item>
+    <item>Monterrey</item>
+    <item>Montevideo</item>
+    <item>Montreal</item>
+    <item>Nassau</item>
+    <item>New York</item>
+    <item>Beulah</item>
+    <item>New Salem</item>
+    <item>Panama</item>
+    <item>Phoenix</item>
+    <item>Port of Spain</item>
+    <item>Port-au-Prince</item>
+    <item>Puerto Rico</item>
+    <item>Santo Domingo</item>
+    <item>São Paulo</item>
+    <item>St. Johns</item>
+    <item>St. Kitts</item>
+    <item>St. Lucia</item>
+    <item>St. Thomas</item>
+    <item>Tijuana</item>
+    <item>Toronto</item>
+    <item>Vancouver</item>
+    <item>Winnipeg</item>
+    <item>South Pole</item>
+    <item>Longyearbyen</item>
+    <item>Almaty</item>
+    <item>Amman</item>
+    <item>Anadyr</item>
+    <item>Aqtau</item>
+    <item>Baghdad</item>
+    <item>Bahrain</item>
+    <item>Baku</item>
+    <item>Bangkok</item>
+    <item>Beirut</item>
+    <item>Calcutta</item>
+    <item>Damascus</item>
+    <item>Dhaka</item>
+    <item>Dubai</item>
+    <item>Gaza</item>
+    <item>Hebron</item>
+    <item>Ho Chi Minh</item>
+    <item>Hong Kong</item>
+    <item>Jakarta</item>
+    <item>Jerusalem</item>
+    <item>Kabul</item>
+    <item>Karachi</item>
+    <item>Kathmandu</item>
+    <item>Kuala Lumpur</item>
+    <item>Kuwait</item>
+    <item>Macau</item>
+    <item>Manila</item>
+    <item>Muscat</item>
+    <item>Phnom Penh</item>
+    <item>Pyongyang</item>
+    <item>Qatar</item>
+    <item>Yangon</item>
+    <item>Riyadh</item>
+    <item>Seoul</item>
+    <item>Shanghai</item>
+    <item>Singapore</item>
+    <item>Taipei</item>
+    <item>Tehran</item>
+    <item>Tel Aviv</item>
+    <item>Tokyo</item>
+    <item>Ulaanbaatar</item>
+    <item>Bermuda</item>
+    <item>Canary Islands</item>
+    <item>Cape Verde</item>
+    <item>Reykjavik</item>
+    <item>Adelaide</item>
+    <item>Brisbane</item>
+    <item>Canberra</item>
+    <item>Darwin</item>
+    <item>Melbourne</item>
+    <item>New South Wales</item>
+    <item>Perth</item>
+    <item>Queensland</item>
+    <item>Sydney</item>
+    <item>Victoria</item>
+    <item>Newfoundland</item>
+    <item>Saskatchewan</item>
+    <item>Easter Island</item>
+    <item>Amsterdam</item>
+    <item>Andorra</item>
+    <item>Athens</item>
+    <item>Belfast</item>
+    <item>Belgrade</item>
+    <item>Berlin</item>
+    <item>Bratislava</item>
+    <item>Brussels</item>
+    <item>Bucharest</item>
+    <item>Budapest</item>
+    <item>Chisinau</item>
+    <item>Copenhagen</item>
+    <item>Dublin</item>
+    <item>Gibraltar</item>
+    <item>Helsinki</item>
+    <item>Isle of Man</item>
+    <item>Istanbul</item>
+    <item>Lisbon</item>
+    <item>London</item>
+    <item>Luxembourg</item>
+    <item>Madrid</item>
+    <item>Malta</item>
+    <item>Minsk</item>
+    <item>Monaco</item>
+    <item>Moscow</item>
+    <item>Oslo</item>
+    <item>Paris</item>
+    <item>Prague</item>
+    <item>Riga</item>
+    <item>Rome</item>
+    <item>San Marino</item>
+    <item>Sarajevo</item>
+    <item>Simferopol</item>
+    <item>Skopje</item>
+    <item>Sofia</item>
+    <item>Stockholm</item>
+    <item>Tallinn</item>
+    <item>Vatican City</item>
+    <item>Vienna</item>
+    <item>Vilnius</item>
+    <item>Warsaw</item>
+    <item>Zagreb</item>
+    <item>Zurich</item>
+    <item>Antananarivo</item>
+    <item>Maldives</item>
+    <item>Mauritius</item>
+    <item>Auckland</item>
+    <item>Fiji</item>
+    <item>Guam</item>
+    <item>Honolulu</item>
+    <item>Kiritimati</item>
+    <item>Noumea</item>
+    <item>Samoa</item>
+    <item>Tahiti</item>
+    <item>Antigua</item>
+    <item>Austin</item>
+    <item>Boston</item>
+    <item>Calgary</item>
+    <item>Columbus</item>
+    <item>Dallas</item>
+    <item>Knoxville</item>
+    <item>Memphis</item>
+    <item>Miami</item>
+    <item>Minneapolis</item>
+    <item>Ottawa</item>
+    <item>Philadelphia</item>
+    <item>Portland</item>
+    <item>San Diego</item>
+    <item>San Francisco</item>
+    <item>Salt Lake City</item>
+    <item>San Jose</item>
+    <item>Seattle</item>
+    <item>St. Louis</item>
+    <item>Washington D.C.</item>
+    <item>Houston</item>
+    <item>San Antonio</item>
+    <item>Jacksonville</item>
+    <item>Baltimore</item>
+    <item>Nashville</item>
+    <item>Milwaukee</item>
+    <item>Oklahoma City</item>
+    <item>Las Vegas</item>
+    <item>Albuquerque</item>
+    <item>Tucson</item>
+    <item>Sacramento</item>
+    <item>Atlanta</item>
+    <item>Cleveland</item>
+    <item>New Orleans</item>
+    <item>Tampa</item>
+    <item>Pittsburgh</item>
+    <item>Cincinnati</item>
+    <item>Mountain View</item>
+    <item>Reno</item>
+    <item>Doha</item>
+    <item>Beijing</item>
+    <item>Mumbai</item>
+    <item>Delhi</item>
+    <item>Osaka</item>
+    <item>Lahore</item>
+    <item>Sana\'a</item>
+    <item>Barcelona</item>
+    <item>Munich</item>
+    <item>Milan</item>
+    <item>Frankfurt</item>
+    <item>Hanoi</item>
+    <item>Ankara</item>
+    <item>Bengaluru</item>
+    <item>Brasília</item>
+    <item>Cape Town</item>
+    <item>Islamabad</item>
+    <item>Rio de Janeiro</item>
+    <item>Ann Arbor</item>
+    <item>Boulder</item>
+    <item>Cambridge</item>
+    <item>Kirkland</item>
+    <item>Madison</item>
+    <item>Guangzhou</item>
+    <item>Hyderabad</item>
+    <item>Reston</item>
+    <item>Belo Horizonte</item>
+    <item>Santiago</item>
+    <item>Monrovia</item>
+    <item>Colombo</item>
+    <item>Chihuahua</item>
+    <item>Gurugram</item>
+    <item>Manchester</item>
+    <item>Kyiv</item>
+    <item>St. Petersburg</item>
+    <item>Kraków</item>
+    <item>Wroclaw</item>
+    <item>Hamburg</item>
+    <item>Oulu</item>
+    <item>Haifa</item>
+    <item>San Juan</item>
+    <item>Tegucigalpa</item>
+    <item>Paramaribo</item>
+    <item>Quito</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Geliştirilmiş renkler</item>
+    <item>Gözle görülen doğal renkler</item>
+    <item>Dijital içerik için optimize edilmiş renkler</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Titreşimli (varsayılan)</item>
+    <item>Doğal</item>
+    <item>Standart</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item>Yeşilimsi mavi</item>
+    <item>Mavi</item>
+    <item>Çivit mavisi</item>
+    <item>Mor</item>
+    <item>Pembe</item>
+    <item>Kırmızı</item>
+  </string-array>
+  <string-array name="common_password_business_names">
+    <item>Kilit ekranı</item>
+    <item>Gizlilik şifresi</item>
+    <item>Çocuk modu</item>
+    <item>Dosya gezgini</item>
+    <item>Uygulama kilidi</item>
+    <item>İkinci alan</item>
+  </string-array>
+  <string-array name="connect_mode_entries">
+    <item>Uyumluluk modu</item>
+    <item>Yüksek mod</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Otomatik (günün saatine göre)</item>
+    <item>Her zaman açık</item>
+    <item>Her zaman kapalı</item>
+  </string-array>  
+  <string-array name="data_usage_data_range">
+    <item>Son 30 gün</item>
+    <item>Kullanım döngüsünü ayarla...</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>"Bugün (mobil veri) "</item>
+    <item>"Bu ay (mobil veri) "</item>
+    <item>"Geçen ay (mobil veri) "</item>
+    <item>"Bugün (WLAN) "</item>
+    <item>"Bu ay (WLAN) "</item>
+    <item>"Geçen ay (WLAN) "</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>Bugün</item>
+    <item>Bu ay</item>
+    <item>Geçen ay</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>Bugün:</item>
+    <item>Bu ay:</item>
+    <item>Geçen ay:</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Kapalı</item>
+    <item>Üzerine yazılmış alanları göster</item>
+    <item>Deuteranomaly için alanları göster</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item>Asla</item>
+    <item>15 saniye</item>
+    <item>30 saniye</item>
+    <item>1 dakika</item>
+    <item>2 dakika</item>
+    <item>5 dakika</item>
+    <item>10 dakika</item>
+    <item>30 dakika</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Yok</item>
+    <item>Logcat</item>
+    <item>Systrace (Grafikler)</item>
+    <item>GlGetError\'da arama yığını</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item>Küçük</item>
+    <item>Varsayılan</item>
+    <item>Büyük</item>
+    <item>Kocaman</item>
+  </string-array>
+  <string-array name="fluency_mode_confirms">
+    <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
+    <item>Bu ayarı uygulamak için cihazınız yeniden başlatılsın mı?</item>
+  </string-array>
+  <string-array name="fluency_mode_entries">
+    <item>Sistem animasyonlarını gizle</item>
+    <item>Sistem animasyonlarını göster</item>
+  </string-array>
+  <string-array name="fluency_mode_summaries">
+    <item>Cihazın performansını hızlandırır</item>
+    <item>Cihazın performansını yavaşlatabilir</item>
+  </string-array>
+  <string-array name="handy_mode_size_text_entries">
+    <item>4.5 inç</item>
+    <item>4.0 inç</item>
+    <item>3.5 inç</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_texts">
+    <item>Kapalı</item>
+    <item>Hafif</item>
+    <item>Orta</item>
+    <item>Güçlü</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>Asla HDCP kontrolünü kullanma</item>
+    <item>Yalnızca DRM içeriği için HDCP kontrolünü kullan</item>
+    <item>Her zaman HDCP kontrolünü kullan</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>Asla kontrol etme</item>
+    <item>Sadece DRM içeriğini kontrol et</item>
+    <item>Daima kontrol et</item>
+  </string-array>
+  <string-array name="led_color_entries">
+    <item>Mavi</item>
+    <item>Kırmızı</item>
+    <item>Sarı</item>
+    <item>Yeşil</item>
+    <item>Cam Göbeği</item>
+    <item>Beyaz</item>
+    <item>Menekşe</item>
+  </string-array>
+  <string-array name="led_freq_entries">
+    <item>2 saniye</item>
+    <item>3 saniye</item>
+    <item>4 saniye</item>
+    <item>5 saniye</item>
+    <item>6 saniye</item>
+    <item>7 saniye</item>
+    <item>8 saniye</item>
+    <item>9 saniye</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item>Hemen</item>
+    <item>5 saniye</item>
+    <item>15 saniye</item>
+    <item>30 saniye</item>
+    <item>1 dakika</item>
+    <item>2 dakika</item>
+    <item>5 dakika</item>
+    <item>10 dakika</item>
+    <item>30 dakika</item>
+  </string-array>
+  <string-array name="lock_screen_secure_after_timeout_entries">
+    <item>Hemen</item>
+    <item>30 saniye sonra</item>
+    <item>1 dakika sonra</item>
+    <item>2 dakika sonra</item>
+    <item>5 dakika sonra</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item>Kısa</item>
+    <item>Orta</item>
+    <item>Uzun</item>
+  </string-array>
+  <string-array name="long_press_volume_down_action">
+    <item>Yok</item>
+    <item>Hızlı Çekim Modu (fotoğraf)</item>
+    <item>Hızlı Çekim Modu (video)</item>
+    <item>Toplu taşıma kısayolları</item>
+  </string-array>
+  <string-array name="max_number_titles">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>Sınırsız</item>
+  </string-array>
+  <string-array name="media_feedback_level_entries">
+    <item>Güçlü</item>
+    <item>Orta</item>
+    <item>Hafif</item>
+  </string-array>
+  <string-array name="mi1_led_color_entries">
+    <item>Mavi</item>
+    <item>Kırmızı</item>
+    <item>Yeşil</item>
+    <item>Pembe</item>
+    <item>Menekşe</item>
+    <item>Mor</item>
+  </string-array>
+  <string-array name="msd_pc_system">
+    <item>Windows XP ve daha eskisi</item>
+    <item>Windows Vista ve daha yenisi</item>
+    <item>OSX</item>
+    <item>Linux</item>
+  </string-array>
+  <string-array name="msd_pc_system_install_summary">
+    <item>2. Ekrandaki talimatları izleyin</item>
+    <item />
+    <item />
+    <item />
+  </string-array>
+  <string-array name="msd_pc_system_retry_linux">
+    <item>Yükleme aracı: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+    <item>Bir dizin oluşturun: mkdir /media/mtp</item>
+    <item>Geçerli güvenli kullanıcı grubundan, kullanıcı grubu izinlerini onayla</item>
+    <item>Tekrar oturum açın</item>
+    <item>Bağlı cihaza erişim: mtpfs /media/mtp dosya gezgini aracılığıyla; yerel dizinle aynı</item>
+    <item>Aygıtı Kaldır: fusermount -u /media/mtp\nNot: Sadece Ubuntu 8.04 için!</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item>Yok</item>
+    <item>SPN</item>
+    <item>IMSI</item>
+    <item>GID</item>
+    <item>ICCID</item>
+  </string-array>
+  <string-array name="network_speed_slow_summary">
+    <item>Çok fazla trafik nedeniyle ağ yavaş</item>
+    <item>Zayıf sinyal gücü nedeniyle ağ yavaş</item>
+    <item>Taşınıyor…</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Yok</item>
+    <item>480p</item>
+    <item>480p (güvenli)</item>
+    <item>720p</item>
+    <item>720p (güvenli)</item>
+    <item>1080p</item>
+    <item>1080p (güvenli)</item>
+    <item>4K</item>
+    <item>4K (güvenli)</item>
+    <item>4K (üst çözünürlük)</item>
+    <item>4K (üst çözünürlük, güvenli)</item>
+    <item>720p, 1080p (çift ekran)</item>
+  </string-array>
+  <string-array name="perm_hips_action">
+    <item>İzin ver</item>
+    <item>Sor</item>
+    <item>Reddet</item>
+  </string-array>
+  <string-array name="phone_call_noise_suppression_title">
+    <item>Tekli mikrofonla gürültüyü bastır</item>
+    <item>Çift mikrofonla gürültüyü bastır</item>
+  </string-array>
+  <string-array name="power_mode_entries">
+    <item>Performans</item>
+    <item>Dengeli</item>
+  </string-array>
+  <string-array name="preferred_app_entries">
+    <item>Başlatıcı</item>
+    <item>Ara</item>
+    <item>Mesajlaş</item>
+    <item>Tarayıcı</item>
+    <item>Kamera</item>
+    <item>Galeri</item>
+    <item>Müzik</item>
+    <item>E-Posta</item>
+    <item>Video Oynat</item>
+  </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Dahili Depolama</item>
+    <item>Harici Depolama</item>
+  </string-array>
+  <string-array name="privacy_password_function_specfication_names">
+    <item>Mesajlar</item>
+    <item>Resimler</item>
+    <item>Dosyalar</item>
+    <item>Notlar</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item>Normal</item>
+    <item>Makul</item>
+    <item>Düşük</item>
+    <item>Kritik</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item>Sürekli</item>
+    <item>Üst Aktivite</item>
+    <item>Önemli (önplanda)</item>
+    <item>Önemli (arkaplan)</item>
+    <item>Yedek</item>
+    <item>Nüfuzlu Ağırlık</item>
+    <item>Hizmet (çalışan)</item>
+    <item>Hizmet (başlatılan)</item>
+    <item>Alıcı</item>
+    <item>Ev</item>
+    <item>Son etkinlik</item>
+    <item>Önbellekte (etkinlik)</item>
+    <item>Önbellek (etkinlik istemcisi)</item>
+    <item>Önbellek (boş)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item>Normal</item>
+    <item>Makul</item>
+    <item>Düşük</item>
+    <item>Kritik</item>
+    <item>\?</item>
+  </string-array>
+  <string-array name="screen_button_style">
+    <item>Sol el tarzı</item>
+    <item>Sağ el tarzı</item>
+  </string-array>
+  <string-array name="screen_color_title">
+    <item>Ilık</item>
+    <item>Standart</item>
+    <item>Serin</item>
+  </string-array>
+  <string-array name="screen_key_long_press_timeout">
+    <item>0.5 saniye</item>
+    <item>1 saniye</item>
+    <item>1.5 saniye</item>
+    <item>2 saniye</item>
+  </string-array>
+  <string-array name="screen_key_position_action">
+    <item>Menü düğmesi solda, Geri düğmesi sağda</item>
+    <item>Geri düğmesi solda, Menü düğmesi sağda</item>
+  </string-array>
+  <string-array name="screen_key_press_action">
+    <item>Son uygulamalar çekmecesini göster</item>
+    <item>Menüyü göster</item>
+  </string-array>
+  <string-array name="screen_optimize_summary">
+    <item>Mevcut ışığa göre renkleri ayarla</item>
+    <item>Her zaman renkleri geliştir</item>
+    <item>Kontrast sabit kalacak</item>
+  </string-array>
+  <string-array name="screen_optimize_title">
+    <item>Otomatik (önerilir)</item>
+    <item>Doygun</item>
+    <item>Standart</item>
+  </string-array>
+  <string-array name="screen_saturation_title">
+    <item>Parlak</item>
+    <item>Standart</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item>15 saniye</item>
+    <item>30 saniye</item>
+    <item>1 dakika</item>
+    <item>2 dakika</item>
+    <item>5 dakika</item>
+    <item>10 dakika</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Kapalı</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>Kapalı</item>
+    <item>Günlük arabelleği başına 64K</item>
+    <item>Günlük arabelleği başına 256K</item>
+    <item>Günlük arabelleği başına 1M</item>
+    <item>Günlük arabelleği başına 4M</item>
+    <item>Günlük arabelleği başına 16M</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>Kapalı</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+    <item>4M</item>
+    <item>16M</item>
+  </string-array>
+  <string-array name="select_logd_system_levels">
+    <item>Kapalı</item>
+    <item>Hata</item>
+    <item>Uyarma</item>
+    <item>Bilgi</item>
+    <item>Hata ayıklama</item>
+    <item>Ayrıntılı</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Kapalı</item>
+    <item>Tümü</item>
+    <item>Radyo hariç tümü</item>
+    <item>Sadece çekirdek</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Kapalı</item>
+    <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
+    <item>Test edilmiş çizim komutlarını yeşil renkli vurgula</item>
+  </string-array>
+  <string-array name="silent_mode_duration_text">
+    <item>Her zaman</item>
+    <item>30 dakika</item>
+    <item>1 saat</item>
+    <item>2 saat</item>
+    <item>8 saat</item>
+  </string-array>
+  <string-array name="startup_hips_action">
+    <item>İzin ver</item>
+    <item>Reddet</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item>Amerika</item>
+    <item>Avrupa</item>
+    <item>Afrika</item>
+    <item>Asya</item>
+    <item>Avustralya</item>
+    <item>Pasifik</item>
+    <item>Tümü</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Kapalı</item>
+    <item>Ekranda çubuğu olarak</item>
+    <item>Adb kabuğunda dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="traffic_balance_entries">
+    <item>Kapat</item>
+    <item>Normal Mod</item>
+    <item>Hassas Mod</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>"Mobil veri kullanımı "</item>
+    <item>"WLAN kullanımı "</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Çok Yavaş</item>
+    <item>Yavaş</item>
+    <item>Normal</item>
+    <item>Hızlı</item>
+    <item>Çok Hızlı</item>
+    <item>Çok Çabuk</item>
+    <item>Seri</item>
+    <item>Aşırı Seri</item>
+    <item>Ani</item>
+  </string-array>
+  <string-array name="tts_rate_xunfei_entries">
+    <item>Çok Yavaş</item>
+    <item>Yavaş</item>
+    <item>Normal</item>
+    <item>Hızlı</item>
+    <item>Çok Hızlı</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item>Kullanım zamanı</item>
+    <item>Son kullanılan zaman</item>
+    <item>Uygulama Adı</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Şarj ediliyor...</item>
+    <item>MTP (Medya Aktarım Protokolü)</item>
+    <item>PTP (Resim Aktarım Protokolü)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Ses Kaynağı</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="usb_connection_mode_entries">
+    <item>Bağlantı türünü sor</item>
+    <item>Sadece şarj et</item>
+    <item>SD Kartı devreye sok</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+    <item>Evliya</item>
+    <item>İnsan</item>
+    <item>İlkel</item>
+    <item>Hayvan</item>
+    <item>Aptal</item>
+  </string-array>
+  <string-array name="vip_mode_text">
+    <item>Herkesten</item>
+    <item>Sadece kişilerden</item>
+    <item>Sadece yıldızlı kişilerden</item>
+    <item>Yok</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item>Bağlantı kesildi</item>
+    <item>Başlatılıyor…</item>
+    <item>Bağlanıyor…</item>
+    <item>Bağlandı</item>
+    <item>Zaman aşımına uğradı</item>
+    <item>Başarısız oldu</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item>PPTP VPN</item>
+    <item>Önceden paylaşılan anahtarlarla L2TP/IPSec VPN</item>
+    <item>Sertifikalı L2TP/IPSec VPN</item>
+    <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamasına sahip IPSec VPN</item>
+    <item>Sertifikaları ve Xauth kimlik doğrulamasını içeren IPSec VPN</item>
+    <item>Sertifikalı ve hibrid kimlik doğrulamalı IPSec VPN</item>
+  </string-array>
+  <string-array name="wfd_status">
+    <item>Oturum başlıyor ...</item>
+    <item>Oturum başladı</item>
+    <item>Hizmet kapanıyor ...</item>
+    <item>Oturum başlatılamıyor</item>
+    <item>Zaman aşımına uğradı. Tekrar deniyor ...</item>
+    <item>Cihaz bağlandı</item>
+  </string-array>
+  <string-array name="whetstone_level_entries">
+    <item>Kapalı</item>
+    <item>Düşük</item>
+    <item>Orta</item>
+    <item>Yüksek</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item>Tercihen WLAN</item>
+    <item>Tercihen Hücresel</item>
+    <item>Sadece WLAN</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item>Tercihen WLAN</item>
+    <item>Tercihen Hücresel</item>
+  </string-array>
+  <string-array name="wifi_connect_type_entries">
+    <item>Otomatik olarak bağlan</item>
+    <item>Elle bağlan</item>
+    <item>Daima sor</item>
+  </string-array>
+  <string-array name="wifi_frequency_band_entries">
+    <item>Otomatik</item>
+    <item>Sadece 5 GHz</item>
+    <item>Sadece 2.4 GHz</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item>DHCP</item>
+    <item>Statik</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item>Bağlandı</item>
+    <item>Davetli</item>
+    <item>Başarısız</item>
+    <item>Mevcut</item>
+    <item>Menzil dışı</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item>Butona basın</item>
+    <item>Akran cihazından PIN</item>
+    <item>Bu cihazdan PIN</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item>Yok</item>
+    <item>MSCHAPV2</item>
+    <item>GTC</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item>Yok</item>
+    <item>PAP</item>
+    <item>MSCHAP</item>
+    <item>MSCHAPV2</item>
+    <item>GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item>Yok</item>
+    <item>Elle</item>
+    <item>Proxy Otomatik Yapılandırması</item>
+  </string-array>
+  <string-array name="wifi_sleep_policy_entries">
+    <item>Daima</item>
+    <item>Sadece prize takılıyken</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="wifi_sleep_policy_entries_wifi_only">
+    <item>Daima</item>
+    <item>Sadece prize takılıyken</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="wifi_ssid_type_entries">
+    <item>Otomatik olarak bağlan</item>
+    <item>Elle bağlan</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item />
+    <item>Taranıyor…</item>
+    <item>Bağlanıyor…</item>
+    <item>Yetkilendiriliyor…</item>
+    <item>IP Adresi sağlanıyor…</item>
+    <item>Bağlandı</item>
+    <item>Askıya alındı</item>
+    <item>Bağlantı kesiliyor…</item>
+    <item>Bağlantı kesildi</item>
+    <item>Başarısız oldu</item>
+    <item>Engellendi</item>
+    <item>Geçici zayıf bağlantıdan kaçınılıyor</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item />
+    <item>Taranıyor…</item>
+    <item>%1$s bağlanılıyor…</item>
+    <item>%1$s ile yetkilendiriliyor…</item>
+    <item>%1$s IP adresi sağlanıyor…</item>
+    <item>%1$s bağlandı</item>
+    <item>Askıya alındı</item>
+    <item>%1$s bağlantısı kesiliyor…</item>
+    <item>Bağlantı kesildi</item>
+    <item>Başarısız oldu</item>
+    <item>Engellendi</item>
+    <item>Geçici zayıf bağlantıdan kaçınılıyor</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+  <string-array name="notch_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item>Zayıf</item>
+    <item>Zayıf</item>
+    <item>Orta</item>
+    <item>İyi</item>
+    <item>Mükemmel</item>
+  </string-array>
+  <string-array name="notification_shade_shortcut_entries">
+    <item>Arama</item>
+    <item>Ayarlar</item>
+  </string-array>
+  <string-array name="notification_style_entries">
+    <item>MIUI</item>
+    <item>Android</item>
+  </string-array>  
+  <string-array name="keyguard_notification_status_entries">
+    <item>Ekranı uyandırma</item>
+    <item>Ekranı uyandır</item>
+    <item>Animasyonu göster</item>
+  </string-array>
+  <string-array name="badge_counter_entries">
+    <item>Sağ üst</item>
+    <item>Sol alt</item>
+    <item>Sol üst</item>
+    <item>Sağ alt</item>
+  </string-array>
+  <string-array name="folder_columns_entries">
+    <item>4 sütun</item>
+    <item>3 sütun</item>
+  </string-array>
+  <string-array name="clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+  </string-array>
+  <string-array name="status_bar_styles_entries">
+    <item>Varsayılan</item>
+    <item>Merkezi saat</item>
+  </string-array>
+  <string-array name="ai_key_item_name">
+    <item>Google Asistan ile konuş</item>
+    <item>Google aramayı aç</item>
+    <item>Arka kamerayı aç</item>
+    <item>Ön kamerayı aç</item>
+    <item>Önceki uygulamayı aç</item>
+    <item>El fenerini aç</item>
+    <item>Okuma modunu aç</item>
+    <item>Yok</item>
+  </string-array>
+  <string-array name="home_gesture_entries">
+    <item>Kilit ekranı</item>
+    <item>Güç menüsü</item>
+    <item>Arkaplan uygulamaları</item>
+    <item>Arama</item>
+    <item>Ses modu: ses / titreşim</item>
+    <item>Bildirim paneli</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Mobil veri</item>
+    <item>RAM temizle</item>
+    <item>Uygulamayı başlat</item>
+    <item>Devre dışı</item>
+  </string-array>
+  <string-array name="default_vol_stream_entries">
+    <item>Zil sesi</item>
+    <item>Medya</item>
+  </string-array>
+  <string-array name="status_bar_settings_qs_layout_entries">
+    <item>Varsayılan</item>
+    <item>Genişletilmiş</item>
+  </string-array>
+  <string-array name="aod_clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+    <item>Satır içi</item>
+  </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>" | Aktif"</item>
+    <item>" | Aktif (medya)"</item>
+    <item>" | Aktif (telefon)"</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+    <item>Yüksek Kaliteli Mod (Varsayılan)</item>
+    <item>Düşük Gecikmeli Mod</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+    <item>Yüksek Kaliteli Mod (Varsayılan)</item>
+    <item>Düşük Gecikmeli Mod</item>
+  </string-array>
+  <string-array name="bluetooth_max_connected_audio_devices">
+    <item>Sistem Varsayılanını Kullan: %1$d</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+  </string-array>
+  <string-array name="time_format_entries">
+    <item>12-saat 1:00 ÖS</item>
+    <item>24-saat 13:00</item>
+    <item>Otomatik (sistem diline göre)</item>
+  </string-array>
+  <string-array name="drip_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simgenin içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
+  </string-array>
+  <string-array name="wide_notch_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (Bildirim alanındaki simgenin yanında)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+    <item>Kısa gecikme</item>
+    <item>Orta gecikme</item>
+    <item>Uzun gecikme</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+    <item>Kısa gecikme (50~100ms)</item>
+    <item>Orta gecikme (150~200ms)</item>
+    <item>Uzun gecikme (300~500ms)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>Bağlantı kalitesi için optimize edilmiş</item>
+    <item>Dengeli ses ve bağlantı kalitesi</item>
+    <item>Ses kalitesi için optimize edilmiş</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>Bağlantı kalitesi için optimize edilmiş (400kbps)</item>
+    <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
+    <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="true_color_screen_optimize_summary">
+    <item>Mevcut ışığa göre renkleri ayarla</item>
+    <item>Her zaman renkleri geliştir</item>
+    <item>Renk kalibrasyonu ile ekran içeriğinin standart rengini geri yükle</item>
+  </string-array>
+  <string-array name="true_color_screen_optimize_title">
+    <item>Otomatik (önerilir)</item>
+    <item>Doygun</item>
+    <item>Orijinal renk</item>
+  </string-array>  
+</resources>

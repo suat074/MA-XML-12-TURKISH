@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>ağa erişebilir</item>
+        <item>SMS okuyabilir</item>
+        <item>SMS değiştirebilir</item>
+        <item>SMS alabilir</item>
+        <item>SMS gönderebilir</item>
+        <item>telefon arayabilir</item>
+        <item>kişileri okuyabilir</item>
+        <item>kişileri değiştirebilir</item>
+        <item>çağrı günlüğün okuyabilir</item>
+        <item>çağrı günlüğünü değiştirebilir</item>
+        <item>kameraya erişebilir</item>
+        <item>konuma erişebilir</item>
+    </string-array>
+</resources>

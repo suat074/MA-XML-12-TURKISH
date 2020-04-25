@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d tane daha</item>
+        <item quantity="one">%1$d tane daha</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s saniye</item>
+        <item quantity="one">1 saniye</item>
+    </plurals>
+</resources>

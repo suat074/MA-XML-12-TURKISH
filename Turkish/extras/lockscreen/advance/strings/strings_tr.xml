@@ -1,0 +1,4 @@
+<resources>
+    <string name="date_format">dd/MMMM/EEEE</string>
+    <string name="emergency_call">Acil Çağrı</string>
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="micloud_entrance_titleArray">
+    <item>Uygulama verilerini eşitle</item>
+    <item>Ana ekran düzenini yedekle</item>
+    <item>Sistem ayarlarını yedekle</item>
+    <item>Cihazı bul</item>
+  </string-array>
+  <string-array name="micloud_entrance_subtitleArray">
+    <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını eşitleyin</item>
+    <item>Uygulamaları, ana ekran düzenini ve duvar kağıdını yedekleyin</item>
+    <item>Wi-Fi ve ekran dahil olmak üzere önemli ayarları yedekleyin</item>
+    <item>Cihazınızı kaybederseniz uzaktan kilitleyin</item>
+  </string-array>
+  <string-array name="korea_permission_groups_descriptions">
+    <item>Eşitlenmiş öğeleri tanımlamak için</item>
+    <item>Mesajları eșitlemek için</item>
+    <item>Kişileri eșitlemek için</item>
+    <item>Takvim etkinliklerini eșitlemek için</item>
+    <item>Depolama alanını kullanan hizmetler ile öğeleri eșitlemek Için</item>
+  </string-array>
+  <string-array name="korea_permission_groups_names">
+    <item>Telefon</item>
+    <item>SMS</item>
+    <item>Kişiler</item>
+    <item>Takvim</item>
+    <item>Depolama</item>
+  </string-array>
+  <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+    <item>Cihazınızı tanımlamak için</item>
+    <item>Cihazınızı bulmak ve kayıp moduna geçmek için</item>
+  </string-array>
+  <string-array name="settings_search_backup_manage">
+    <item>Yedekler</item>
+    <item>Yedeklenen öğeler</item>
+    <item>Bulut;Yedek;Yedekleme;Bulut hizmetleri;Xiaomi Bulut;Ana ekran;Düzen;Uygulamalar;Yedeklemeleri yönet; Geri yükleme</item>
+  </string-array>
+  <string-array name="settings_search_backup_setting">
+    <item>Ana ekranı Xiaomi Bulut\'a yedekle</item>
+    <item>Ana ekran düzenini, yüklü uygulamaların listesini ve sistem ayarlarını yedekle</item>
+    <item>Bulut;Yedek;Yedekleme;Bulut hizmetleri;Xiaomi Bulut;Giriş ekranı;Düzen;Uygulamalar;Ayarlar;Yedekleme sıklığı;Yedeklemeleri yönet;Geri yükle</item>
+  </string-array>
+  <string-array name="settings_search_browser">
+    <item>Xiaomi Bulut ile Tarayıcıyı eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Tarayıcı;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_calendar">
+    <item>Xiaomi Bulut ile Takvimi eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Takvim;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_contacts">
+    <item>Xiaomi Bulut ile kişileri eşitle</item>
+    <item>Eşitlemeyi aç/ayarla</item>
+    <item>Rehber;Çağrı geçmişi;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_dial">
+    <item>Xiaomi Bulut ile çağrı geçmişini eşitle</item>
+    <item>Eşitlemeyi aç/ayarla</item>
+    <item>Çağrı geçmişi;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_find_pad">
+    <item>Cihazı bul</item>
+    <item>Kaybederseniz verileri silin ve cihazı kilitleyin.</item>
+    <item>Cihazı bul;Kayıp;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_find_phone">
+    <item>Cihazı bul</item>
+    <item>Kaybederseniz verileri silin ve cihazı kilitleyin.</item>
+    <item>Cihazı bul;Kayıp;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_gallery">
+    <item>Xiaomi Bulut ile Galeriyi eşitle</item>
+    <item>Eşitlemeyi aç/ayarla</item>
+    <item>Galeri;Fotoğraflar;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_music">
+    <item>Xiaomi Bulut ile müzikleri eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Müzik;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_notes">
+    <item>Xiaomi Bulut ile notları eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Notlar;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_personal_assistant">
+    <item>Xiaomi Bulut ile Uygulama kasasını eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Uygulama kasası;Kartlar;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_recorder">
+    <item>Xiaomi Bulut ile kayıtları eşitle</item>
+    <item>Eşitlemeyi aç/ayarla</item>
+    <item>Kaydedici;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_recycle_bin">
+    <item>Silinmiş öğeler Xiaomi Bulut üzerinde</item>
+    <item>Kişileri, fotoğrafları, mesajları ve daha fazlasını geri yükleyin</item>
+    <item>Çöp;Silinmiş öğeler;Çöp kutusu;Geri;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_restore_device">
+    <item>Öğeleri Xiaomi Bulut ile geri yükle</item>
+    <item>Yedeklenen öğeleri cihazınıza indirin</item>
+    <item>Bulut;Yedekle;Yedek;Geri;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_security">
+    <item>Xiaomi Bulut ile Güvenliği eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Güvenlik;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_sms">
+    <item>Xiaomi Bulut ile mesajları eşitle</item>
+    <item>Eşitlemeyi aç/ayarla</item>
+    <item>Mesajlar;SMS;MMS;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="settings_search_subscribe_vip">
+    <item>Xiaomi Bulut üyeliği</item>
+    <item>Üyeliğinizi yükseltin, daha fazla depolama alanı edinin ve verilerinizi güvende tutun</item>
+    <item>Yetersiz depolama;Üyelik;Depolama;Depolama alanı;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut;Mega;Ultra;VIP;Yedekleme;Yedekleme;Geri Yükleme;Çöp;Silinmiş öğeler;Çöp kutusu</item>
+  </string-array>
+  <string-array name="settings_search_sync_manage">
+    <item>Xiaomi Bulut. Tüm Mi servisleri tek bir yerde.</item>
+    <item>Fotoğraflarınıza, kişilerinize, mesajlarınıza ve cihazlarınıza her yerden erişin</item>
+    <item>Yetersiz depolama;Üyelik;Depolama;Depolama alanı;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut;Çöp;Silinmiş öğeler;Güvenlik</item>
+  </string-array>
+  <string-array name="settings_search_wlan">
+    <item>Wi-Fi ayarlarını Xiaomi Bulut ile eşitle</item>
+    <item>Eşitlemeyi aç</item>
+    <item>WLAN;wifi;WLAN;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
+  <string-array name="user_detail_fixed_items">
+    <item>Eşitlenen öğeleri görüntüle</item>
+    <item>Depolama ayrıntıları</item>
+  </string-array>
+  <string-array name="privacy_dialog_sync_runtime_perm_desc">
+    <item>Etkinlikleri eşitlemek için</item>
+    <item>Mesajları eşitlemek için</item>
+    <item>Mesajları eşitlemek için</item>
+    <item>Kişileri eşitlemek için</item>
+    <item>Kişileri eşitlemek için</item>
+    <item>Cihazınıza öğe kaydetmek için (ör. resimler, videolar, şarkılar)</item>
+  </string-array>  
+</resources>

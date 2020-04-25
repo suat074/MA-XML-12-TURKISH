@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Ağ hızını artırma oturumunun sona ermesine %d gün kaldı. Ağ hızı sorunlarını önlemek için oturumu yenileyin.</item>
+        <item quantity="one">Ağ hızını artırma oturumunun sona ermesine %d gün kaldı. Ağ hızı sorunlarını önlemek için oturumu yenileyin.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standart limit</item>
+    <item>Arka plan işlemi yok</item>
+    <item>En fazla 1 işlem</item>
+    <item>En fazla 2 işlem</item>
+    <item>En fazla 3 işlem</item>
+    <item>En fazla 4 işlem</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>16 bit/örnek</item>
+    <item>24 bit/örnek</item>
+    <item>32 bit/örnek</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>16 bit/örnek</item>
+    <item>24 bit/örnek</item>
+    <item>32 bit/örnek</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Ses Kalitesi için Optimize Edilmiş</item>
+    <item>Dengeli Ses ve Bağlantı Kalitesi</item>
+    <item>Bağlantı Kalitesi için Optimize Edilmiş</item>
+    <item>En İyi Çaba (Uyarlanabilir Bit Hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Ses Kalitesi için Optimize Edildi (990kbps/909kbps)</item>
+    <item>Dengeli Ses ve Bağlantı Kalitesi (660kbps/606kbps)</item>
+    <item>Bağlantı Kalitesi için Optimize Edildi (330kbps/303kbps)</item>
+    <item>En İyi Çaba (Uyarlanabilir Bit Hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88,2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX ™ ses sistemi</item>
+    <item>Qualcomm® aptX ™ HD ses</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX ™ Uyarlanabilir ses</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Sistem Seçimini Kullan (Varsayılan)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX ™ ses sistemi</item>
+    <item>Qualcomm® aptX ™ HD ses</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX ™ Uyarlanabilir ses</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
+  </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item />
+    <item>, aktif</item>
+    <item>, aktif (medya)</item>
+    <item>, aktif (telefon)</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Varsayılan)</item>
+    <item>AVRCP 1.3</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Sadece ev</item>
+    <item>Otomatik</item>
+  </string-array>
+  <string-array name="clir_display_values">
+    <item>Varsayılan ağ</item>
+    <item>Numarayı gizle</item>
+    <item>Sayıları göster</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Geliştirilmiş renkler</item>
+    <item>Göz tarafından görüldüğü gibi doğal renkler</item>
+    <item>Dijital içerik için optimize edilmiş renkler</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Canlı (varsayılan)</item>
+    <item>Doğal</item>
+    <item>Standart</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Kapalı</item>
+    <item>Overdraw alanları göster</item>
+    <item>Deuteranomaly için alanları göster</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>Asla HDCP kontrolünü kullanma</item>
+    <item>Yalnızca DRM içeriği için HDCP kontrolünü kullan</item>
+    <item>Her zaman HDCP kontrolünü kullan</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>Asla kontrol etme</item>
+    <item>Yalnızca DRM içeriğini kontrol et</item>
+    <item>Her zaman kontrol et</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Kapalı</item>
+    <item>Tüm günlük arabellekleri</item>
+    <item>Radyo günlüğü arabellekleri hariç tümü</item>
+    <item>yalnızca çekirdek günlük arabelleği</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Kapalı</item>
+    <item>Ekran üzerinde barlar</item>
+    <item>Adb shell dumpsys gfxinfo içinde</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Çok yavaş</item>
+    <item>Yavaş</item>
+    <item>Normal</item>
+    <item>Hızlı</item>
+    <item>Daha hızlı</item>
+    <item>Çok hızlı</item>
+    <item>Çok çok hızlı</item>
+    <item>Çok çok daha hızlı</item>
+    <item>En hızlı</item>
+  </string-array>
+  <string-array name="uplmn_prefer_network_mode_td_choices">
+    <item>GSM</item>
+    <item>TD-SCDMA</item>
+    <item>LTE</item>
+    <item>Üçlü Mod</item>
+  </string-array>
+  <string-array name="uplmn_prefer_network_mode_w_choices">
+    <item>GSM</item>
+    <item>WCDMA</item>
+    <item>LTE</item>
+    <item>Üçlü Mod</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Şarj oluyor</item>
+    <item>MTP (Medya Aktarım Protokolü)</item>
+    <item>PTP (Resim Aktarım Protokolü)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Ses Kaynağı</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item />
+    <item>Taranıyor…</item>
+    <item>Bağlanıyor…</item>
+    <item>Kimlik doğrulanıyor…</item>
+    <item>IP adresi alınıyor…</item>
+    <item>Bağlı</item>
+    <item>Askıya alındı</item>
+    <item>Bağlantı kesiliyor…</item>
+    <item>Bağlantı kesildi</item>
+    <item>Başarısız</item>
+    <item>Engelli</item>
+    <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item />
+    <item>Taranıyor…</item>
+    <item>%1$s bağlanıyor…</item>
+    <item>%1$s ile kimlik doğrulanıyor…</item>
+    <item>%1$s için IP adresini alınıyor…</item>
+    <item>%1$s bağlı</item>
+    <item>Askıya alındı</item>
+    <item>%1$s bağlantısı kesiliyor…</item>
+    <item>Bağlantı kesildi</item>
+    <item>Başarısız</item>
+    <item>Engelli</item>
+    <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>Animasyon kapalı</item>
+    <item>Animasyon ölçeği .5x</item>
+    <item>Animasyon ölçeği 1x</item>
+    <item>Animasyon ölçeği 1.5x</item>
+    <item>Animasyon ölçeği 2x</item>
+    <item>Animasyon ölçeği 5x</item>
+    <item>Animasyon ölçeği 10x</item>
+  </string-array>
+</resources>

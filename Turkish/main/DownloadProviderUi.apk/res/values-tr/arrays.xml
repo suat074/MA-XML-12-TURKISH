@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_type">
+        <item>avi</item>
+        <item>rmvb</item>
+        <item>rm</item>
+        <item>asf</item>
+        <item>mpeg</item>
+        <item>wmv</item>
+        <item>mp4</item>
+        <item>mkv</item>
+        <item>m4v</item>
+        <item>xvid</item>
+        <item>flv</item>
+        <item>mp3</item>
+    </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>Sınırsız</item>
+        <item>100MB</item>
+        <item>20MB</item>
+        <item>10MB</item>
+        <item>5MB</item>
+        <item>2MB</item>
+        <item>1MB</item>
+        <item>512KB</item>
+        <item>Her zaman WLAN\'ı bekle</item>
+    </string-array>	
+</resources>

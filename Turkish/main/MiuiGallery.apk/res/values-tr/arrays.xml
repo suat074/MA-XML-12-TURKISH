@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="activities_title">
+     <item>Özel gün</item>
+     <item>Hatırlama günü</item>
+     <item>Canlı anlar</item>
+  </string-array>
+  <string-array name="baby_sexy">
+     <item>Erkek</item>
+     <item>Kız</item>
+  </string-array>
+  <string-array name="backup_automatically_key_words">
+     <item>Fotoğrafları yedekle</item>
+     <item>Fotoğrafları bulutla eşitle</item>
+  </string-array>
+  <string-array name="card_last_week_day">
+     <item>Geçen Pazartesi</item>
+     <item>Geçen Salı</item>
+     <item>Geçen Çarşamba</item>
+     <item>Geçen Perşembe</item>
+     <item>Geçen Cuma</item>
+  </string-array>
+  <string-array name="chinese_holiday_last_year">
+     <item>Geçen Çin Yeni Yıl arifesi</item>
+     <item>Geçen Çin Yeni Yılı</item>
+     <item>Geçen Fener Festivali</item>
+     <item>Geçen Dragon Boat Festivali</item>
+     <item>Geçen Qixi Festivali</item>
+     <item>Geçen Sonbahar Ortası Festivali</item>
+  </string-array>
+  <string-array name="chinese_holiday_past_year">
+     <item>Yıllar boyunca Çin Yeni Yıl arifesi</item>
+     <item>Yıllar boyunca Çin Yeni Yılı</item>
+     <item>Yıllar boyunca Lantern Festivali</item>
+     <item>Yıllar boyunca Dragon Boat Festivali</item>
+     <item>Yıllar boyunca Qixi Festivali</item>
+     <item>Yıllar boyunca Sonbahar Ortası Festivali</item>
+  </string-array>  
+  <string-array name="collage_month">
+     <item>Oca</item>
+     <item>Şub</item>
+     <item>Mar</item>
+     <item>Nis</item>
+     <item>May</item>
+     <item>Haz</item>
+     <item>Tem</item>
+     <item>Ağu</item>
+     <item>Eyl</item>
+     <item>Eki</item>
+     <item>Kas</item>
+     <item>Ara</item>
+  </string-array>
+  <string-array name="holiday_last_year">
+     <item>Geçen Yeni Yıl Günü</item>
+     <item>Geçen Sevgililer Günü</item>
+     <item>Geçen İşçi Bayramı</item>
+     <item>Geçen Çocuk günü</item>
+     <item>Geçen Ulusal Gün</item>
+     <item>Geçen Noel</item>
+  </string-array>
+  <string-array name="holiday_past_year">
+     <item>Yıllar boyunca Yılbaşı günü</item>
+     <item>Yıllar boyunca Sevgililer Günü</item>
+     <item>Yıllar boyunca İşçi Bayramı</item>
+     <item>Yıllar boyunca Çocuk Günü</item>
+     <item>Yıllar boyunca Ulusal Gün</item>
+     <item>Yıllar boyunca Noel</item>
+  </string-array>
+  <string-array name="last_month">
+     <item>Ocak</item>
+     <item>Şubat</item>
+     <item>Mart</item>
+     <item>Nisan</item>
+     <item>Mayıs</item>
+     <item>Haziran</item>
+     <item>Temmuz</item>
+     <item>Ağustos</item>
+     <item>Eylül</item>
+     <item>Ekim</item>
+     <item>Kasım</item>
+     <item>Aralık</item>
+  </string-array>
+  <string-array name="last_week_baby_title">
+     <item>Oyun zamanı</item>
+     <item>Ufaklığın hafta sonu</item>
+     <item>Küçük olan</item>
+  </string-array>
+  <string-array name="last_weekend_title">
+     <item>Hafta sonlarım</item>
+     <item>Hayatın parçaları</item>
+     <item>Hafta sonu anıları</item>
+  </string-array>
+  <string-array name="last_year_group_people">
+     <item>Yeni arkadaşlar ve eski dostlar</item>
+     <item>Geçen yılki buluşmalar</item>
+  </string-array>
+  <string-array name="month">
+     <item>Ocak</item>
+     <item>Şubat</item>
+     <item>Mart</item>
+     <item>Nisan</item>
+     <item>Mayıs</item>
+     <item>Haziran</item>
+     <item>Temmuz</item>
+     <item>Ağustos</item>
+     <item>Eylül</item>
+     <item>Ekim</item>
+     <item>Kasım</item>
+     <item>Aralık</item>
+  </string-array>
+  <string-array name="month_last_year">
+     <item>Geçen Ocak</item>
+     <item>Geçen Şubat</item>
+     <item>Geçen Mart</item>
+     <item>Geçen Nisan</item>
+     <item>Geçen Mayıs</item>
+     <item>Geçen Haziran</item>
+     <item>Geçen Temmuz</item>
+     <item>Geçen Ağustos</item>
+     <item>Geçen Eylül</item>
+     <item>Geçen Ekim</item>
+     <item>Geçen Kasım</item>
+     <item>Geçen Aralık</item>
+  </string-array>
+  <string-array name="month_past_year">
+     <item>Ocak anıları</item>
+     <item>Şubat anıları</item>
+     <item>Mart anıları</item>
+     <item>Nisan anıları</item>
+     <item>Mayıs anıları</item>
+     <item>Haziran anıları</item>
+     <item>Temmuz anıları</item>
+     <item>Ağustos anıları</item>
+     <item>Eylül anıları</item>
+     <item>Ekim anıları</item>
+     <item>Kasım anıları</item>
+     <item>Aralık anıları</item>
+  </string-array>
+  <string-array name="owner_relation">
+     <item>Baba</item>
+     <item>Anne</item>
+     <item>Büyükbaba</item>
+     <item>Babaanne</item>
+     <item>Dede</item>
+     <item>Nine</item>
+  </string-array>
+  <string-array name="parties_title">
+     <item>Birlikte</item>
+     <item>İyi zamanlar</item>
+     <item>Hep birlikte</item>
+  </string-array>
+  <string-array name="recent_group_people">
+     <item>Birlikte</item>
+     <item>İlişkiler ve bağlar</item>
+  </string-array>
+  <string-array name="relation_with_me">
+     <item>Ben</item>
+     <item>Çocuk</item>
+     <item>Aile</item>
+     <item>İş Arkadaşları</item>
+     <item>Sınıf Arkadaşları</item>
+     <item>Arkadaşlar</item>
+     <item>Grupsuz</item>
+  </string-array>
+  <string-array name="season">
+     <item>İlk bahar</item>
+     <item>Yaz</item>
+     <item>Sonbahar</item>
+     <item>Kış</item>
+  </string-array>
+  <string-array name="season_last_year">
+     <item>Geçen bahar</item>
+     <item>Geçen yaz</item>
+     <item>Geçen sonbahar</item>
+     <item>Geçen kış</item>
+  </string-array>
+  <string-array name="season_past_year">
+     <item>Bahar anıları</item>
+     <item>Yaz anıları</item>
+     <item>Sonbahar anıları</item>
+     <item>Kış anıları</item>
+  </string-array>
+  <string-array name="season_recap">
+     <item>Bahar tekrarı</item>
+     <item>Yaz tekrarı</item>
+     <item>Sonbahar tekrarı</item>
+     <item>Kış tekrarı</item>
+  </string-array>
+  <string-array name="sharer_relation_addressive">
+     <item>Baba</item>
+     <item>Anne</item>
+     <item>Baba dedesi</item>
+     <item>Babaanne</item>
+     <item>Anne büyükbabası</item>
+     <item>Ana anneannesi</item>
+  </string-array>
+  <string-array name="sports_title">
+     <item>İlerleme</item>
+     <item>Enerji dolu</item>
+  </string-array>
+  <string-array name="three_month_baby_title">
+     <item>Çok hızlı büyüyorlar</item>
+     <item>Ufaklığın fotoğrafları</item>
+  </string-array>
+  <string-array name="weekend_title">
+     <item>Geçen haftasonları</item>
+     <item>Hatırlanacak günler</item>
+     <item>Günlük olaylar</item>
+     <item>Sıradan &amp; Olağanüstü</item>
+  </string-array> 
+</resources>

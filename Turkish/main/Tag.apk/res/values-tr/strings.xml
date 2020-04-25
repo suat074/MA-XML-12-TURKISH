@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">%s çağrı</string>
+  <string name="action_text">%s metin</string>
+  <string name="app_name">Etiketler</string>
+  <string name="button_done">Bitti</string>
+  <string name="call_phone_permission_denied">Bu uygulamanın çağrı yapabilmesi için Telefon iznine erişmesi gerekir. Etiket iznini Ayarlar\’dan yönetebilirsiniz</string>
+  <string name="empty_tag_prompt">Bu etiket boş.</string>
+  <string name="external_storage_permission_denied">Bu uygulamanın dosyalara erişebilmesi için Harici Depolama iznine erişmesi gerekir. Etiket iznini Ayarlar\’dan yönetebilirsiniz.</string>
+  <string name="import_vcard">^1 içe aktar</string>
+  <string name="mime_display_name">NFC etiketinden veri</string>
+  <string name="tag_empty">Boş etiket</string>
+  <string name="tag_unknown">Bilinmeyen etiket türü</string>
+  <string name="title_existing_tag">Etiket</string>
+  <string name="title_scanned_tag">Yeni etiket toplandı</string>
+  <string name="vcard_title">^1 için iletişim bilgileri</string>
+</resources>

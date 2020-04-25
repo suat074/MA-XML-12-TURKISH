@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Hibrid Aksesuar</string>
+  <string name="short_cut_dialog_cancel_button_text">Hayır</string>
+  <string name="short_cut_dialog_cotent">Aşağıdaki uygulamalar kurulum olmadan kullanılabilir. Kısayolları kaydet?</string>
+  <string name="short_cut_dialog_create_button_text">Evet</string>
+  <string name="short_cut_dialog_not_tip_check_box">2 hafta içinde tekrar hatırlatma</string>
+  <string name="short_cut_dialog_title">Kısayol oluştur</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ai_item_action_array">
+    <item>Yok</item>
+    <item>Google Asistan\'ı etkinleştir</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>Düşük gecikme için optimize edilmiş</item>
+    <item>Bağlantı kalitesi için optimize edilmiş</item>
+    <item>Dengeli ses ve bağlantı kalitesi</item>
+    <item>Ses kalitesi için optimize edilmiş</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>Düşük gecikme için optimize edilmiş (256kbps)</item>
+    <item>Bağlantı kalitesi için optimize edilmiş (400kbps)</item>
+    <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
+    <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Devre dışı</item>
+    <item>Filtre etkin</item>
+    <item>Filtreli Başlıklar etkin</item>
+    <item>Medya Pkts Filtre etkin</item>
+    <item>Etkin</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Yalnızca ev</item>
+    <item>Otomatik</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Koyu</item>
+    <item>Açık</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item>Yok</item>
+    <item>Manuel</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item>Rastgele MAC kullan</item>
+    <item>Cihazın MAC adresini kullan</item>
+  </string-array>
+</resources>

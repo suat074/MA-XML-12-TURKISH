@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="day_time_space">
+        <item>Gece</item>
+        <item>Sabah erkenden</item>
+        <item>Sabah</item>
+        <item>Öğlen</item>
+        <item>Öğleden sonra</item>
+        <item>İkindi</item>
+        <item>Akşam</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>Yolda</item>
+        <item>Sevk edildi</item>
+        <item>Gönderildi</item>
+        <item>Bilinmiyor</item>
+        <item>Teslim alındı</item>
+        <item>Reddedildi</item>
+        <item>İade edildi</item>
+        <item>Bilinmiyor</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>Yolda</item>
+        <item>Sevk edildi</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Kırmızı - yukarı, yeşil - aşağı</item>
+        <item>Yeşil - yukarı, kırmızı - aşağı</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>Nakliye Şirketi:</item>
+        <item>İrsaliye Numarası:</item>
+        <item>Bilgi Kaynağı:</item>
+        <item>Lojistik Bilgisi:</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>Arzu</item>
+        <item>Hemen</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>İzdiham</item>
+        <item>Km İzdiham</item>
+        <item>Km Ertele</item>
+        <item>Yol Yapımı</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>Kaçın</item>
+        <item>Aşırı Tıkanık</item>
+        <item>Trafik Akışı</item>
+        <item>İzdiham yok</item>
+        <item>Anormal Trafik</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>ödeme</item>
+    </string-array>
+</resources>

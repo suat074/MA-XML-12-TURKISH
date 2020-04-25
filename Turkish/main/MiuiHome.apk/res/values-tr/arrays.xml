@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="editing_mode_entries">
+    <item>Duvar kağıdı</item>
+    <item>Widget</item>
+    <item>Ayarlar</item>
+  </string-array>
+  <string-array name="gadget_weather_image">
+    <item>Açık</item>
+    <item>Bulutlu</item>
+    <item>Puslu</item>
+    <item>Sisli</item>
+    <item>Şiddetli Yağmur Fırtınası</item>
+    <item>Yağmur Fırtınası</item>
+    <item>Çok Ağır Yağış</item>
+    <item>Sağanak</item>
+    <item>Sağanak Yağmur</item>
+    <item>Ağır Yağmur</item>
+    <item>Yağmur</item>
+    <item>Çiseleyen Yağmur</item>
+    <item>Sulu Kar</item>
+    <item>Kar Fırtınası</item>
+    <item>Yer Yer Karlı</item>
+    <item>Yoğun Kar Yağışı</item>
+    <item>Kar Yağışı</item>
+    <item>Hafif Kar Yağışı</item>
+    <item>Güçlü Kum Fırtınası</item>
+    <item>Kum Fırtınası</item>
+    <item>Hafif Kum Fırtınası</item>
+    <item>Kum Fırtınası</item>
+    <item>Dolu</item>
+    <item>Kayan Toz</item>
+    <item>Puslu</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+    <item>Varsayılan</item>
+    <item>Klasik</item>
+  </string-array>
+  <string-array name="icon_size">
+    <item>ÇK</item>
+    <item>K</item>
+    <item>O</item>
+    <item>B</item>
+    <item>ÇB</item>
+  </string-array>
+  <string-array name="transformation_entries">
+    <item>Kaydır</item>
+    <item>Geçiş</item>
+    <item>Döndür</item>
+    <item>Sayfa</item>
+    <item>Basamak</item>
+    <item>Çevir</item>
+    <item>Küp</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+    <item>Tema varsayılanı</item>
+    <item>Merkez</item>
+    <item>Sol</item>
+    <item>Sağ</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_values">
+    <item>Temaya göre</item>
+    <item>merkez</item>
+    <item>sol</item>
+    <item>sağ</item>
+  </string-array>
+  <string-array name="cell_icon_size_entries">
+    <item>Çok küçük</item>
+    <item>Küçük</item>
+    <item>Orta</item>
+    <item>Büyük</item>
+    <item>Çok büyük</item>
+    </string-array>
+  <string-array name="minus_screen_entries">
+    <item>Yok</item>
+    <item>Uygulama kasası</item>
+    <item>Google</item>
+  </string-array>
+  <string-array name="global_search_mode_entries">
+    <item>Yok</item>
+    <item>Yukarı kaydır</item>
+    <item>Arama çubuğu</item>
+  </string-array>
+  <string-array name="global_search_provider_entries">
+    <item>Varsayılan</item>
+    <item>Google</item>
+  </string-array>
+</resources>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="alarm_repeat_type">
+    <item>Bir kere</item>
+    <item>Her gün</item>
+    <item>Resmi iş günleri</item>
+    <item>Hafta içi</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="alarm_repeat_type_no_workdays">
+    <item>Bir kere</item>
+    <item>Her gün</item>
+    <item>Hafta içi</item>
+    <item>Özel</item>
+  </string-array>
+  <string-array name="app_behavior_type_menu">
+    <item>Tüm kayıtlar</item>
+    <item>Otomatik başlatma</item>
+    <item>Başlatma tetikleme</item>
+    <item>Kullanılan izinler</item>
+    <item>Hassas eylemler</item>
+  </string-array>
+  <string-array name="applock_password_types">
+    <item>Desen</item>
+    <item>PIN</item>
+    <item>Şifre</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>"Dün (mobil veri) "</item>
+    <item>"Bugün (mobil veri) "</item>
+    <item>"Geçen ay (mobil veri) "</item>
+    <item>"Bu ay (mobil veri) "</item>
+    <item>"Dün (WLAN) "</item>
+    <item>"Bugün (WLAN) "</item>
+    <item>"Geçen ay (WLAN) "</item>
+    <item>"Bu ay (WLAN) "</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>"Dün "</item>
+    <item>"Bugün "</item>
+    <item>"Geçen ay "</item>
+    <item>"Bu ay "</item>
+  </string-array>
+  <string-array name="date_of_traffic_cmcc">
+    <item>"Bu hafta "</item>
+    <item>"Bugün "</item>
+    <item>"Bu ay "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>"Dün: "</item>
+    <item>"Bugün: "</item>
+    <item>"Geçen ay: "</item>
+    <item>"Bu ay: "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix_cmcc">
+    <item>"Bu hafta: "</item>
+    <item>"Bugün: "</item>
+    <item>"Bu ay: "</item>
+  </string-array>
+  <string-array name="lock_mode">
+    <item>Cihaz kilitlendiğinde</item>
+    <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
+    <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
+  </string-array>
+  <string-array name="mi_service_traffic_type">
+    <item>"Mobil kullanım "</item>
+    <item>"WLAN kullanımı "</item>
+  </string-array>
+  <string-array name="over_limit_traffic_waring_style">
+    <item>Uyarı göster</item>
+    <item>Uyar ve mobil veriyi kapat</item>
+  </string-array>
+  <string-array name="roaming_network_type">
+    <item>Daima</item>
+    <item>Sadece istisnalar</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="sms_report_type">
+    <item>Veri kullanımı</item>
+    <item>Telefon dengesi</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Durumuna göre sırala</item>
+    <item>Uygulama adına göre sırala</item>
+    <item>Kullanım sıklığına göre sırala</item>
+    <item>Kullanılan alana göre sırala</item>
+    <item>Kurulum süresine göre sırala</item>
+  </string-array>
+  <string-array name="sort_type">
+    <item>Durum</item>
+    <item>Uygulama ismi</item>
+    <item>Kullanım sıklığı</item>
+    <item>Kullanılan alan</item>
+    <item>Kurulum süresi</item>
+  </string-array>
+  <string-array name="tether_limit_warn_type">
+    <item>Kapat ve bildir</item>
+    <item>Sadece bildir</item>
+  </string-array>
+  <string-array name="title_app_info">
+    <item>Yükleme kaynağı</item>
+    <item>Yükleme zamanı</item>
+    <item>Son güncelleme kaynağı</item>
+    <item>Son güncelleme zamanı</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>"Mobil veri kullanımı "</item>
+    <item>"WLAN kullanımı "</item>
+  </string-array>
+  <string-array name="traffic_package_type">
+    <item>Aylık veri planı</item>
+    <item>Günlük veri planı</item>
+    <item>Sınırsız veri planı</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_entries">
+    <item>Varsayılan</item>
+    <item>Performansa öncelik ver</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_summaries">
+    <item>Varsayılan sıcaklık kontrol modunu kullan</item>
+    <item>Performansı önceliklendir</item>
+  </string-array>  
+</resources>

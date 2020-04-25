@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="recommendation_desc_week">
+    <item>Pazar önerileri</item>
+    <item>Pazartesi önerileri</item>
+    <item>Salı önerileri</item>
+    <item>Çarşamba önerileri</item>
+    <item>Perşembe önerileri</item>
+    <item>Cuma önerileri</item>
+    <item>Cumartesi önerileri</item>
+  </string-array>
+</resources>

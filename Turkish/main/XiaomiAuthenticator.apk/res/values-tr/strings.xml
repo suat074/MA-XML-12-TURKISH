@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">Hakkında</string>
+  <string name="about_preference_title">Hakkında</string>
+  <string name="acknowledge_btn">Onaylıyorum</string>
+  <string name="action_settings">Ayarlar</string>
+  <string name="activation_page">Etkinleştirilmedi</string>
+  <string name="activation_page_btn_txt">Etkinleştir</string>
+  <string name="activation_page_info">Güvenli Girişi etkinleştirmek için Mi Hesabınızda oturum açın</string>
+  <string name="add_account_menu_item">Hesap ekle</string>
+  <string name="app_name">Xiaomi Kimlik Doğrulayıcısı</string>
+  <string name="app_name_lockpattern">Kilit Deseni</string>
+  <string name="app_name_short">Kimlik Doğrulama</string>
+  <string name="authenticator_invalid_tip">Masaüstü Tarayıcı\'yı kullanarak bu özelliği kapattığınızda veya etkinleştirdiğinizde başka bir Mi Güvenlik Simgesi devreye girmiş olabilir.</string>
+  <string name="authenticator_invalid_title">Hesap：%1$s güvenlik süresi doldu.</string>
+  <string name="authenticator_page_reactivation">Tekrar etkinleştir</string>
+  <string name="button_add_account">Hesap ekle</string>
+  <string name="button_add_account_manual_entry">El ile hesap ekle</string>
+  <string name="button_add_account_scan_barcode">Barkodu tara</string>
+  <string name="button_back">Geri</string>
+  <string name="button_exit_howitworks_flow">Çıkış</string>
+  <string name="button_how_it_works">Nasıl çalıştığına bakın</string>
+  <string name="button_next">Sonraki</string>
+  <string name="button_uninstall_old_app">Kaldır</string>
+  <string name="cancel">İptal</string>
+  <string name="change_security_lock">Daha fazla ekran kilidi</string>
+  <string name="check_code">%1$s için doğru anahtar değerine sahip olduğunuzu kontrol etmek için, buradaki değerin, sunucu tarafından sağlanan bütünlük denetimi değeriyle eşleştiğini doğrulayın:&lt;br/></string>
+  <string name="check_code_menu_item">Anahtar değerini kontrol et</string>
+  <string name="check_code_title">Bütünlük onay değeri</string>
+  <string name="continue_btn">Devam</string>
+  <string name="copy_to_clipboard">Panoya kopyala</string>
+  <string name="correct_enter_password">Doğru şifreyi girin</string>
+  <string name="correct_enter_update_password">Girdiğiniz şifre doğru</string>
+  <string name="counter_pin">Kodu al</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Verilerinizi kullanımdan kaldıran, Xiaomi kimlik doğrulayıcısı başarıyla içeri aktarıldı. Şimdi aşağıya tıklayarak uygulamanın önceki sürümünü kaldırmak güvenlidir.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">İçe aktarma tamamlandı</string>
+  <string name="decoding_exception">Kod çözme istisnası</string>
+  <string name="details_patternforgotten">"Yeniden etkinleştirme:
+account.xiaomi.com adresinde oturum açın ve Yeniden Etkinleştir\'i tıklayın."</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
+  <string name="enter_account_label">Hesap adını girin</string>
+  <string name="enter_key_hint">Anahtarınızı girin</string>
+  <string name="enter_key_illegal_char">Anahtar değerinde geçersiz karakter var</string>
+  <string name="enter_key_page_add_button">Ekle</string>
+  <string name="enter_key_title">Elle hesap girişi</string>
+  <string name="enter_key_too_short">Anahtar değeri çok kısa</string>
+  <string name="enter_pin">Hesap oturumu açılma sırasında istenirse bu doğrulama kodunu girin:</string>
+  <string name="error_empty_secret">Gizli anahtar boşken kaydedilemez</string>
+  <string name="error_exists">Maalesef, bu isim zaten kullanılıyor.</string>
+  <string name="error_qr">QR kodunu yorumlamak mümkün değil.</string>
+  <string name="error_title">Hata</string>
+  <string name="error_uri">Anahtar tanınmadı.</string>
+  <string name="forget_password">Şifremi unuttum</string>
+  <string name="general_security_exception">Genel güvenlik istisnaları</string>
+  <string name="gif_not_support_camera_msg">Cihazınız video kaydetmeyi desteklemiyor.</string>
+  <string name="how_it_works_menu_item">Nasıl çalışır?</string>
+  <string name="howitworks_page_enter_code_details">Bu uygulama işareti ile devam etmek gereken kodu oluşturacaktır.</string>
+  <string name="howitworks_page_enter_code_title">"Eğer yeni bir bilgisayar üzerinde iseniz, telefonunuzdan bir kod girin."</string>
+  <string name="howitworks_page_enter_password_details">"Eğer yeni bir bilgisayar veya cihaz kullanıyorsanız, Xiaomi gerçekten sizin olduğunuzdan emin olmak için özel bir kod isteyecek."</string>
+  <string name="howitworks_page_enter_password_title">"Oturum açmak için, şifrenizi girin."</string>
+  <string name="howitworks_page_verify_device_details">"Bilgisayarınızın hatırlamasını seçebilirsiniz ve Xiaomi sizden bir dahaki seferde kod istemez."</string>
+  <string name="howitworks_page_verify_device_title">"Sonra oturum açtığınızda."</string>
+  <string name="install_button">Yükle</string>
+  <string name="install_dialog_message">Anahtarlar içeren barkodları taramak için ZXing barkod tarayıcı yüklemeniz gerekir.</string>
+  <string name="install_dialog_title">Barkod okuyucuyu yüklemek ister misiniz?</string>
+  <string name="jump_createpattern_tip">Hesabınızı korumak için bir parola oluşturun</string>
+  <string name="jump_lockpattern_title">Dikkat!</string>
+  <string name="jump_updatepattern_tip">Hesabınızı korumak için bir parola oluşturun</string>
+  <string name="lockpassword_choose_your_pattern_header">Deseni seçin</string>
+  <string name="lockpassword_confirm_your_pattern_header">Deseni onaylayın</string>
+  <string name="lockpassword_input_your_pattern_header">Deseni onaylayın</string>
+  <string name="lockpattern_confirm_button_text">Onayla</string>
+  <string name="lockpattern_continue_button_text">Devam</string>
+  <string name="lockpattern_need_to_confirm">Onaylamak için deseni tekrar çizin:</string>
+  <string name="lockpattern_need_to_confirm_wrong">Bir önceki girişi ile tutarsız, tekrar girin:</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Şifre yanlış, %d kez daha girebilirsiniz&lt;/font></string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
+  <string name="lockpattern_pattern_entered_header">Desen kaydedildi.</string>
+  <string name="lockpattern_recording_incorrect_too_short">En az %d noktayı birleştirmeniz gerekiyor. Tekrar deneyin:</string>
+  <string name="lockpattern_recording_inprogress">Tamamlanınca parmağınızı bırakın.</string>
+  <string name="lockpattern_recording_intro_header">Kilit açma desenini çizin:</string>
+  <string name="lockpattern_redraw_button_text">Tekrar çiz</string>
+  <string name="lockpattern_retry_text">Desen şifresini sıfırla</string>
+  <string name="lockpattern_settings_help_how_to_record">Kilit açma deseni nasıl çizilir?</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d saniye sonra tekrar deneyin.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Çok sayıda yanlış deneme yapıldı!&lt;/font></string>
+  <string name="lockpattern_tutorial_cancel_label">İptal</string>
+  <string name="lockpattern_tutorial_close_label">Kapat</string>
+  <string name="lockpattern_tutorial_continue_label">Sonraki</string>
+  <string name="lockpattern_tutorial_jump_label">Atla</string>
+  <string name="lockscreen_forgot_pattern_button_text">Desen şifresini unuttum</string>
+  <string name="login">Oturum Aç</string>
+  <string name="main_preference_screen_title">Ayarlar</string>
+  <string name="mycard_scan_barcode">MiID Kod Tarayıcı</string>
+  <string name="new_pattern_tip">Parolanızın 4 karakterden uzun olması gerekir</string>
+  <string name="ok">Tamam</string>
+  <string name="ok_button">Tamam</string>
+  <string name="open_camera_exception_dialog_content">Sistem kamera ile sorununda, cihazı yeniden başlatmanız gerekebilir.</string>
+  <string name="open_camera_exception_dialog_title">Kamera arızası</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_preference_title">Açık kaynak projesi</string>
+  <string name="original_pattern_tip">Kilit açma desenini girin</string>
+  <string name="password_error">Girdiğiniz şifre yanlış</string>
+  <string name="password_forget">Şifrenizi mi unuttunuz?</string>
+  <string name="password_hint">Mi Hesap şifrenizi girin</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_preference_title">Gizlilik Politikası</string>
+  <string name="progress_loading">Yükleniyor…</string>
+  <string name="remove_Xiaomi_account_dialog_message">Bu hesabın silinmesi kodların oluşturma yeteneğini kaldıracaktır, ancak iki faktörlü kimlik doğrulaması kapatılamaz. Bu hesaba kayıt olmanızı engelleyebilir. Kaldırmadan önce: Bu hesap için 2 faktörlü kimlik doğrulamasını kapatın veya kodları oluşturmak için alternatif bir mekanizma olduğundan emin olun</string>
+  <string name="remove_account">Hesabı kaldır</string>
+  <string name="remove_account_dialog_message">"Bu hesabı kaldırmak kod oluşturma yeteneğinizi kaldıracaktır. Bu, hesabınızda oturum açmanızı engelleyebilir
+
+Kaldırmadan önce:
+—Bu hesap için 2 faktörlü kimlik doğrulamayı kapatın veya
+—Kod oluşturmak için alternatif bir mekanizma olduğundan emin olun."</string>
+  <string name="remove_account_dialog_title">Hesabı kaldırmak istiyor musunuz?</string>
+  <string name="rename">Adlandır</string>
+  <string name="rename_message">%1$s adlandır</string>
+  <string name="resetbtn_patternforgotten">Sıfırla</string>
+  <string name="save_key_message">Anahtarı şunun için kaydet:</string>
+  <string name="scan_barcode">MiID kodunu tara</string>
+  <string name="scan_barcode_info">Yerleştir ve bu vizör içinde MiID barkodu tarayın.</string>
+  <string name="secret_saved">Kaydedildi</string>
+  <string name="security_setting">Güvenlik Ayarları</string>
+  <string name="settings_menu_item">Ayarlar</string>
+  <string name="submit">Kaydet</string>
+  <string name="success_copy_to_clipboard">Panoya kopyalandı</string>
+  <string name="success_reset_password">Şifre başarıyla sıfırlandı</string>
+  <string name="success_set_password">Şifre oluşturuldu</string>
+  <string name="summary_lockpattern">Mi Kredisi için benzersiz bir desen kiliti gerekli</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">Hizmet Koşulları</string>
+  <string name="timesync_about_feature_preference_title">Bu özellik hakkında</string>
+  <string name="timesync_about_feature_screen_details">"Şimdi Eşitle\'ye basarsanız, Kimlik Doğrulayıcı, Google sunucularında bir kez kendi iç saatini eşitlemeye çalışacak. Cihazınızın tarih ve saat ayarları değişmez. &lt;p&gt; Bu işlem esnasında kişisel bilgileriniz Google sunucularına gönderilir. &lt;p&gt; Bu neden faydalıdır? &lt;p&gt; Kimlik Doğrulayıcı  2-adımlı doğrulama kodları üretir 1) Geçerli zaman 2)Uygulama ve sunucunun bildiği gizli bir numara &lt;p&gt; Kimlik doğrulayıcı ve sunucu zamanları eşleşmez ise, uygulamanın verdiği kodlar oturum açarken yanlış olabilir. &lt;p&gt; "</string>
+  <string name="timesync_about_feature_screen_title">Bu özellik hakkında</string>
+  <string name="timesync_preference_screen_summary">"Kimlik Doğrulayıcı saatini sunucu ile eşitle"</string>
+  <string name="timesync_preference_screen_title">Kodlar için zamanı düzeltme</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"Sunucular ile bağlantı kurulamıyor. Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Şimdi Eşitle</string>
+  <string name="timesync_sync_now_preference_title">Şimdi Eşitle</string>
+  <string name="timesync_sync_now_progress_dialog_details">Sunucuya bağlanıyor…</string>
+  <string name="timesync_sync_now_progress_dialog_title">Şimdi Eşitle</string>
+  <string name="timesync_sync_now_screen_title">Şimdi Eşitle</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Zaten sunucularıyla eşitlenmiş gibi görünüyor, çünkü Kimlik Doğrulayıcı'nın dahili saati ayarlanmamış."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Zaman zaten doğru</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Kimlik Doğrulayıcı'nın dahili saati sunucuları tarafından sağlanan zaman eşleşecek şekilde ayarlandı.
+
+Tarih &amp; Zaman ayarları değiştirilmedi."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">Zaman düzeltildi</string>
+  <string name="tip1_patternforgotten">Yeniden yükleyin ve etkinleştirin</string>
+  <string name="tip2_patternforgotten">Hesap verilerini temizlemek ve yeniden sıfırlamak için dokunun.</string>
+  <string name="tip_lockpattern">Şifrenin 4 karakterden uzun olması gerekir</string>
+  <string name="title_change_lockpattern">Kilit desenini ayarla</string>
+  <string name="title_createpattern">Şifre oluştur</string>
+  <string name="title_forgetpattern">Şifremi unuttum</string>
+  <string name="title_gesture">Kilit Deseni</string>
+  <string name="title_lockpattern">Kilit deseni gerekiyor</string>
+  <string name="title_myaccount">Hesabım: %s</string>
+  <string name="title_nopassword">"Küçük ödemeler için gerekmez"</string>
+  <string name="title_nopassword_dialog">Günlük limit</string>
+  <string name="title_password">Şifre</string>
+  <string name="title_password_threshold">Günlük limit = ￥%1$s</string>
+  <string name="title_patternforgotten">"Şifrenizi mi unuttunuz?
+Yapılabilecekler："</string>
+  <string name="title_updatepattern">Şifreyi değiştir</string>
+  <string name="title_visible_pattern">Kilitleme Deseni Görünsün</string>
+  <string name="type_prompt">Anahtar Türü</string>
+  <string name="update_pattern_jump">Şifreyi kaldır</string>
+  <string name="version_preference_title">Sürüm</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font>Eğer Mi Güvenlik Simgesini silerseniz, hesabınıza oturum açmanız mümkün olmayacak."</string>
+  <string name="welcome_page_details">"— Hesabınızı güvenli tutun.
+—  Hesabınıza oturum açmak için cihazınızı kullanabilecek yabancıları önleyin."</string>
+  <string name="welcome_page_title">Güvenli Girişi Kullan</string>
+</resources>

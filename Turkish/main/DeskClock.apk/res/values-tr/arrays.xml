@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Yok</item>
+        <item>Sonraya Ertele</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarma 1 dakikadan az kaldı</item>
+        <item>Alarma %1$s kaldı</item>
+        <item>Alarma %2$s kaldı</item>
+        <item>Alarma %1$s %2$s kaldı</item>
+        <item>Alarma %3$s kaldı</item>
+        <item>Alarma %1$s %3$s kaldı</item>
+        <item>Alarma %2$s %3$s kaldı</item>
+        <item>Alarma %1$s %2$s %3$s kaldı</item>
+    </string-array>
+    <string-array name="days">
+        <item>Dün</item>
+        <item>Bugün</item>
+        <item>Yarın</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>Mesai günleri</item>
+        <item>Tatil günleri</item>
+        <item>Pazartesi-Cuma</item>
+        <item>Özel</item>
+    </string-array>
+	<string-array name="alarm_repeat_type_no_workdays">
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>Pazartesi-Cuma</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm 1 dak. az süre içinde kapatılacak.</item>
+        <item>Alarm %1$s sonra kapatılacak.</item>
+        <item>Alarm %2$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %2$s sonra kapatılacak.</item>
+        <item>Alarm %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %2$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %2$s %3$s sonra kapatılacak.</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pazartesiden Cumaya</item>
+        <item>Her gün</item>
+        <item>İş günleri</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Her gün</item>
+        <item>Pazartesiden Cumaya</item>
+        <item>İş günleri</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>Ayarlanan zamanda</item>
+        <item>15 dakika önceden</item>
+        <item>30 dakika önceden</item>
+        <item>1 saat önceden</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Asla</item>
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Hiçbir şey yapma</item>
+        <item>Ertele</item>
+        <item>Kapat</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Açık hava etkinliklerini azaltın</item>
+        <item>Yollar kaygan</item>
+        <item>Hava fırtınalı, dikkatli olun.</item>
+        <item>Bugün sisli. Dikkatli sürün.</item>
+        <item>Hava kirli, maske takın.</item>
+        <item>Dışarı çıkarken şemsiyenizi alın</item>
+        <item>Yolda dikkatli olun</item>
+        <item>Bugün yağışlı, dikkatli olun.</item>
+        <item>Kum fırtınası geliyor, maske takın.</item>
+        <item>İyi günler!</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Toplam %1$s</item>
+        <item>Toplam %2$s</item>
+        <item>Toplam %1$s %2$s</item>
+        <item>Toplam %3$s</item>
+        <item>Toplam %1$s %3$s</item>
+        <item>Toplam %2$s %3$s</item>
+        <item>Toplam %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Beyaz</item>
+        <item>Siyah</item>
+        <item>Otomatik</item>
+    </string-array>	
+</resources>

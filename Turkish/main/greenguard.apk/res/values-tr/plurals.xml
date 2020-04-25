@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_today_steps_start">
+        <item quantity="other">Bugün %d adım yürüdün.</item>
+        <item quantity="one">Bugün %d adım yürüdün.</item>
+    </plurals>
+</resources>

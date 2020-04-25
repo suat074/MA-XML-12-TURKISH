@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Ev</item>
+        <item>Mobil</item>
+        <item>İş</item>
+        <item>İş Faksı</item>
+        <item>Ev Faksı</item>
+        <item>Çağrı Cihazı</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>WLAN üzerinden çağrı yapmak ve mesaj göndermek için önce operatörünüzden bu servisi ayarlamasını isteyin. Ardından, WLAN çağrısını tekrar Ayarlar\'dan açın. (Hata kodu: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Operatörünüzle kayıt olun (Hata kodu: %1$s)</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WLAN Çağrısı</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Yeniden deneyin</item>
+        <item></item>
+        <item></item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısını tamamen kapatın ve basınç uygulayın</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Parmakizi tarayıcısının tamamen kapatın ve basınç uygulayın</item>
+        <item>Çok hızlı! Parmakizi tanınamadı</item>
+        <item>Parmağınızı biraz kaydırıp, yeniden deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+        <item>Parmağınızı tarayıcının üzerinde biraz daha fazla tutun</item>
+        <item></item>
+        <item></item>
+		<item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınızı hafifçe hareket ettirin</item>
+        <item>Bu parmakizi eklendi, farklı bir parmak kullanın</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>WLAN etkinleştirmeye çalışıyor</item>
+        <item>BT etkinleştirmeye çalışıyor</item>
+    </string-array>
+</resources>

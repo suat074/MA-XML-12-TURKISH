@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galeri</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Oluşturma tarihine göre</item>
+        <item>Değiştirme tarihine göre</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Adı</item>
+        <item>Rumuz</item>
+        <item>Telefon</item>
+        <item>E-Posta</item>
+        <item>Kuruluş</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Doğum Günü</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Notlar\'a hoş geldiniz!</item>
+        <item>Not al</item>
+        <item>Notlarınızda metin, resim ve ses kayıtlarını kullanabilirsiniz. Zengin stiller ve font kütüphanesi, basit karalamalarınızın çarpıcı görünmesini sağlar.</item>
+        <item>Bir sonraki seyahatinizi planlamak veya bir bakkal listesi hazırlamak için temel ve etkili araçlara ihtiyaç duyduğunuzda kontrol listeleri ve hatırlatmalar yardımcı olur.</item>
+        <item>Notları paylaş</item>
+        <item>Notları otomatik olarak kaydırarak ekran görüntüleri oluşturabilir, ve sonra arkadaşlarınızla paylaşabilirsiniz.</item>
+        <item>Oluştur &amp; klasörler arasında geçiş yap</item>
+        <item>Yeni bir klasör oluşturmak veya mevcut olanlar arasında geçiş yapmak için aşağıdaki oka basın.</item>
+    </string-array>	
+    <string-array name="second_guide_contents">
+        <item>Sesli notlar</item>
+        <item>Sesinizin orijinal kayıtlarını notlara ekleyerek yerleşik konuşma-metin motorunu kullanarak notlar oluşturun.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Sesli notlar</item>
+        <item>Şimdi sesli notlar oluşturabilirsiniz. Sadece simgeye dokunun, sesinizi kaydedin ve ses dosyasını Notlar içine kaydedin.</item>
+    </string-array>	
+</resources>

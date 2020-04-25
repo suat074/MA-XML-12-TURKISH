@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="cloud_backup_detail_frequence_day">
+    <item quantity="other">Her %d günde bir yedekle</item>
+    <item quantity="one">Her gün yedekle</item>
+  </plurals>
+  <plurals name="cloud_backup_detail_manage_summary">
+    <item quantity="other">%1$s yedek (%2$s)</item>
+    <item quantity="one">%1$s yedek (%2$s)</item>
+  </plurals>
+  <plurals name="restore_app_order_installed">
+    <item quantity="other">Bu cihazda %d uygulama</item>
+    <item quantity="one">Bu cihazda %d uygulama</item>
+  </plurals>
+  <plurals name="restore_app_order_normal">
+    <item quantity="other">Normal öncelik: %d uygulama</item>
+    <item quantity="one">Normal öncelik: %d uygulama</item>
+  </plurals>
+  <plurals name="restore_app_order_prior">
+    <item quantity="other">Yüksek öncelik: %d uygulama</item>
+    <item quantity="one">Yüksek öncelik: %d uygulama</item>
+  </plurals>
+  <plurals name="restoring_file_tile">
+    <item quantity="other">%d dosya geri yükleniyor</item>
+    <item quantity="one">%d dosya geri yükleniyor</item>
+  </plurals>  
+</resources>

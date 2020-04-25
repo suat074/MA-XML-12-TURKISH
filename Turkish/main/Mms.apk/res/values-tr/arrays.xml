@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="contact_entries">
+    <item>Adı</item>
+    <item>Rumuzu</item>
+    <item>Telefon</item>
+    <item>E-Posta</item>
+    <item>Kuruluş</item>
+    <item>IM</item>
+    <item>SIP Telefon</item>
+    <item>Doğum Günü</item>
+    <item>Websitesi</item>
+    <item>Adres</item>
+    <item>Not</item>
+    <item>İlişki</item>
+  </string-array>
+  <string-array name="dialog_choice_specific_correct_as_normal">
+    <item>%s tarafından gönderilen tanıtım mesajları</item>
+    <item>%s tarafından gönderilen operatör servis mesajları</item>
+    <item>%s tarafından gönderilen finansal mesajlar</item>
+  </string-array>
+  <string-array name="entries_mms_validity_period">
+    <item>Azami</item>
+    <item>2 gün</item>
+  </string-array>
+  <string-array name="entries_sms_validity_period">
+    <item>Ayarsız</item>
+    <item>1 saat</item>
+    <item>6 saat</item>
+    <item>12 saat</item>
+    <item>1 gün</item>
+    <item>Azami</item>
+  </string-array>
+  <string-array name="prefEntries_vibrateWhen">
+    <item>Daima</item>
+    <item>Sadece sessizde iken</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="prefValues_vibrateWhen">
+    <item>her zaman</item>
+    <item>sessiz</item>
+    <item>asla</item>
+  </string-array>  
+  <string-array name="resent_via_entries_mms">
+    <item>SMS</item>
+    <item>Mi Mesajı</item>
+  </string-array>
+  <string-array name="resent_via_entries_sms">
+    <item>SMS</item>
+    <item>Mi Mesajı</item>
+  </string-array>
+  <string-array name="select_dialog_items">
+    <item>1 saniye</item>
+    <item>2 saniye</item>
+    <item>3 saniye</item>
+    <item>4 saniye</item>
+    <item>5 saniye</item>
+    <item>6 saniye</item>
+    <item>7 saniye</item>
+    <item>8 saniye</item>
+    <item>9 saniye</item>
+    <item>10 saniye</item>
+    <item>Diğer</item>
+  </string-array>
+  <string-array name="switch_sdk">
+    <item>Mi Mesaj</item>
+    <item>CMCC Akıllı SMS</item>
+  </string-array>
+  <string-array name="recv_type">
+    <item>Al ve bildir</item>
+    <item>Sadece al</item>
+    <item>Reddet</item>
+  </string-array>
+  <string-array name="reason_type">
+    <item>Dolandırıcı</item>
+    <item>Müstehcen veya yasa dışı içerik</item>
+    <item>Spam</item>
+    <item>Diğer</item>
+    <item>İptal</item>
+  </string-array>
+  <string-array name="message_sending_method">
+    <item>Önerilen Mesajlaşma Servisi</item>
+    <item>SMS, MMS</item>
+    <item>RCS sohbet, RCS Dosya Aktarımı</item>
+  </string-array>
+  <string-array name="rcs_ft_fallback">
+    <item>Asla sorma ve her zaman SMS Bağlantısı olarak gönder</item>
+    <item>Asla sorma ve asla SMS Bağlantısı olarak gönderme</item>
+    <item>Her zaman sor</item>
+  </string-array>
+  <string-array name="rcs_message_fallback">
+    <item>Asla sorma ve her zaman SMS olarak gönder</item>
+    <item>Asla sorma ve asla SMS olarak gönderme</item>
+    <item>Her zaman sor</item>
+  </string-array>
+  <string-array name="rcs_picture_quality_setting">
+    <item>her zaman sor</item>
+    <item>asla yeniden boyutlandırma</item>
+    <item>her zaman varsayılan bir değer olarak saklanan seçili bir seçeneği yeniden boyutlandır</item>
+  </string-array>
+  <string-array name="rcs_video_quality_setting">
+    <item>her zaman sor</item>
+    <item>asla yeniden boyutlandırma</item>
+    <item>her zaman varsayılan bir değer olarak saklanan seçili bir seçeneği yeniden boyutlandır</item>
+  </string-array>  
+</resources>
