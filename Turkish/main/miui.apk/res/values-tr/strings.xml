@@ -22,6 +22,7 @@
   <string name="confirm_description">Onayla</string>
   <string name="copyright">Telif hakkı</string>
   <string name="date_picker_dialog_title">Tarihi ayarla</string>
+  <string name="date_picker_lunar">Geleneksel Çin takvimi</string>
   <string name="date_time_done">Bitti</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="delete_description">Sil</string>

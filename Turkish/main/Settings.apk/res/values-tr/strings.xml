@@ -598,7 +598,7 @@ Yerel yedeklemeler uygulama verilerini içerebilir ve normalden daha fazla öğe
 Bulut yedeklemeleri:
 Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yöntem yerel yedeklemelerden daha hızlı ve daha kolaydır, ancak uygulama verilerini Xiaomi Bulut\'a yedekleyemezsiniz.
 "</string>
-  <string name="backup_difference_title">4. Yerel yedeklemelerin bulut yedeklemelerinden farkı nedir?</string>
+  <string name="backup_difference_title">Yerel yedeklemelerin bulut yedeklemelerinden farkı nedir?</string>
   <string name="backup_disabled">Yedekleme pasif</string>
   <string name="backup_erase_dialog_message">WLAN şifrelerinizi, yerimlerinizi, diğer ayarlarınızı ve uygulama verilerinizi yedeklemeyi bırakın, ayrıca Google sunucularındaki tüm kopyaları silinsin mi?</string>
   <string name="backup_inactive_title">Yedekleme hizmeti faal değil.</string>
@@ -606,7 +606,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="backup_pw_set_button_text">Yedekleme şifresini ayarla</string>
   <string name="backup_restore_data_content">"Yedeklemeleriniz kişiler, mesajlar (SMS ve MMS), çağrı geçmişi, takvim etkinlikleri, fotoğraflar, ses dosyaları, videolar, belgeler, uygulamalar, uygulama verileri ve Ana ekran düzenini içerebilir.
 "</string>
-  <string name="backup_restore_data_title">5. Hangi öğeleri yedekleyebilir veya geri yükleyebilirim?</string>
+  <string name="backup_restore_data_title">Hangi öğeleri yedekleyebilir veya geri yükleyebilirim?</string>
   <string name="backup_section_title">Yedekle &amp; geri yükle</string>
   <string name="backup_set_clear_success">Yedekleme şifresi başarıyla kapatıldı</string>
   <string name="backup_set_clear_title">Yedekleme şifresini kapat</string>
@@ -1634,7 +1634,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="data_warning">Veri uyarısı</string>
   <string name="datasize_decrease_content">"Kişiler, mesajlar ve sistem verileri yedeklenirken sıkıştırılır, bu da dosya boyutunu küçültür.
 "</string>
-  <string name="datasize_decrease_title">6. Neden bazı yedekleme dosyaları gerçek öğelerden daha küçük?</string>
+  <string name="datasize_decrease_title">Neden bazı yedekleme dosyaları gerçek öğelerden daha küçük?</string>
   <string name="date_and_time">Tarih &amp; zaman</string>
   <string name="date_and_time_settings_summary">Tarih, zaman, zaman dilimi &amp; biçimlerini ayarla</string>
   <string name="date_and_time_settings_title">Tarih &amp; zaman</string>

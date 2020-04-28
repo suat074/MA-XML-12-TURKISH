@@ -40,6 +40,7 @@
   <string name="cancel">İptal</string>
   <string name="compass_settings">Ayarlar</string>
   <string name="copy">Kopyala</string>
+  <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına ve tüm özellikleri kullanabilmesi için isteğe bağlı izinleri almasına izin verin.</string>
   <string name="cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut irtifayı gösterir</string>
   <string name="dialog_body_no_network">Wi-Fi\'ye bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
@@ -76,8 +77,8 @@
   <string name="not_set">Ayarlanmadı</string>
   <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
   <string name="open_perm_title">İzin gerekli</string>
-  <string name="permission_camera_desc">Su terazisi olarak kullanma</string>
-  <string name="permission_location_desc">Koordinatların ve atmosfer basıncının görüntülenmesi için</string>
+  <string name="permission_camera_desc">Canlı önizlemede azimut görüntülemek için</string>
+  <string name="permission_location_desc">Koordinatları görüntülemek için</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preference_other">Diğer</string>
   <string name="preference_privacy_title">Gizlilik Politikası</string>

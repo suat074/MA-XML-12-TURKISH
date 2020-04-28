@@ -11,6 +11,14 @@
 başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="mibi_license">Mi Kredi Kullanıcı Sözleşmesi</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="open_wifi_connect_and_use_data_summary">Mobil veri kullanılıyor. WLAN\'a geçmek için dokunun.</string>
   <string name="open_wifi_connect_summary">Detaylar için dokunun.</string>
   <string name="open_wifi_connect_title">%1$s ile bağlandı</string>
@@ -20,6 +28,7 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="poco_privacy_policy">POCO Başlatıcı Gizlilik Politikası &amp; POCO Başlatıcı Kullanıcı Sözleşmesi</string>
   <string name="policy_name">Kural: %s</string>
   <string name="pre_installed_apps">Önceden yüklenmiş uygulamalar</string>
+  <string name="privacy_station_title">Xiaomi\'de Gizlilik</string>
   <string name="settings_ad_loading">Sadece bir saniye…</string>
   <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
   <string name="settings_license_activity_loading">Sadece bir saniye…</string>

@@ -3,7 +3,6 @@
   <string name="app_name">İzinler</string>
   <string name="background_location_access_reminder_notification_content">Bu uygulama konumunuza her zaman erişebilir. Değiştirmek için dokunun.</string>
   <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>
-  <string name="current_permission_template">%1$s / %2$s</string>
   <string name="default_permission_description">bilinmeyen eylemleri gerçekleştir</string>
   <string name="grant_dialog_button_allow">İzin ver</string>
   <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>

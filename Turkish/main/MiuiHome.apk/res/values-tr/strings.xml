@@ -163,6 +163,7 @@
   <string name="content_description_for_shortcut_icon_checked">%1$s, kontrol edildi</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, kontrol edilmedi</string>
   <string name="content_description_workspace_thumbnail_item">Ekran önizlemesi, sayfa %1$s</string>
+  <string name="copy">Kopyala</string>
   <string name="current_preview">Önizle</string>
   <string name="current_wallpaper">Geçerli</string>
   <string name="custom_wallpaper_picker">Gözat</string>
@@ -218,6 +219,7 @@
   <string name="emptyplaylist">Şarkı eklemek için dokunun</string>
   <string name="enable_wallpaper_scroll">Yandan kaydırma açık</string>
   <string name="encryption">Şifreleme</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
   <string name="failed_to_drop">Taşınamıyor</string>
   <string name="failed_to_drop_widget_invalid">Bu widget geçersiz</string>
@@ -349,12 +351,21 @@
   <string name="minus_one_screen">Uygulama kasası</string>
   <string name="minus_one_screen_none">Yok</string>
   <string name="miui_screen_config_title">Ana ekran ayarları</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="mtzgadget_missing_text">Widget kullanılamıyor</string>
   <string name="multi_selecting_tips">Bir uygulamayı almak için simgesini sürükleyip buraya bırakın.</string>
   <string name="no_detail_page">Ayrıntı sayfası yok</string>
   <string name="no_space_toast">Yeterli alan yok</string>
   <string name="no_space_toast_when_click_widget">Bu sayfada yeterli yer yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin.</string>
   <string name="normal_wallpaper">Duvar kağıdı</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="notification_installed">Başarıyla yüklendi</string>
   <string name="notification_open_button">Aç</string>
   <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
@@ -396,6 +407,7 @@
   <string name="pref_render_in_truecolor_title">Yüksek kaliteli grafikler</string>
   <string name="pref_screen_transformation_type_title">Ekran geçiş efekti</string>
   <string name="pref_wallpaper_scroll_type_title">Duvar kağıdı hizalaması</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preferences_general_title">Ek ayarlar</string>
   <string name="preferences_title">Başlatıcı ayarları</string>
   <string name="preferred_app_settings_not_selected">Seçili değil</string>
@@ -416,6 +428,7 @@
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
   <string name="recents_incompatible_app_message">Bu uygulama Bölünmüş ekranı desteklemiyor</string>
+  <string name="recents_smallwindow_text">Eklemek için bırakın</string>
   <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
   <string name="recents_title_game">Oyunlar</string>
@@ -423,6 +436,7 @@
   <string name="recents_title_garbage_deepclean">Derin temizlik</string>
   <string name="recents_title_market">Uygulamaları bul</string>
   <string name="recents_title_security_scan">Güvenlik taraması</string>
+  <string name="recents_tv_small_window_text">Yüzen pencereler</string>
   <string name="recommend_app">Uygulama önerileri</string>
   <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_no_data">Veri yok</string>
@@ -465,6 +479,13 @@
   <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntüle</string>
   <string name="show_recents_recommend_title">Önerileri göster</string>
   <string name="slide_to_open_newhome">İçerik Merkezi\'ni açmak için yukarı kaydırın</string>
+  <string name="small_window_button_complete">Bitti</string>
+  <string name="small_window_edit_content">En fazla %d uygulama ekleyebilirsiniz</string>
+  <string name="small_window_edit_title">Geçerli uygulamalar</string>
+  <string name="small_window_empty">Kullanılabilir uygulamalardan seçin</string>
+  <string name="small_window_select_title">Kullanılabilir uygulamalar</string>
+  <string name="small_window_title_text">Yüzen bir pencere açmak için dokunun</string>
+  <string name="small_window_toast">En fazla %d uygulama ekleyebilirsiniz</string>
   <string name="sort_by_abc">İsme göre sırala</string>
   <string name="sort_by_frequency">Kullanıma göre sırala</string>
   <string name="sort_by_not_defined">Otomatik sırala</string>
@@ -508,6 +529,8 @@
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Klasör</string>
   <string name="unstable_dialog_content">"Bu, Android sistem görüntüsünün önizleme sürümüdür ve değişebilir. Bu sistem görüntüsünün kullanımı Android SDK Önizleme Lisans Anlaşması\'na tabidir. Android önizleme sistemi görüntüsü kararlı bir sürüm değildir ve bilgisayar sisteminize, aygıtlarınıza veya verilerinize zarar verebilecek hatalar ve kusurlar içerebilir. Android sistem görüntüsünün önizlemesi, fabrika işletim sistemi ile aynı teste tabi değildir ve bu, cihazın, kurulu servislerin veya uygulamaların çalışmamasına neden olabilir.</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="wallpaper">Duvar Kağıdı</string>
   <string name="wallpaper_auto_change_title">Kilit ekranı</string>
   <string name="wallpaper_failed_message">Duvar kağıdı ayarlanamadı</string>
