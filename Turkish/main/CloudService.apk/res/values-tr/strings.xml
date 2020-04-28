@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="cloud_storage_info_type_family">Aile</string>
+  <string name="copy">Kopyala</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="feedback_custom_hint">Burada karşılaştığınız sorunları açıklayın. Öneriler veriyorsanız, daha fazla detay veriniz!</string>
+  <string name="mi_drive_not_publish_toast">Mi Drive yakında kullanıma sunulacak</string>
+  <string name="mi_drive_summary">Birden fazla cihazdan Xiaomi Bulut üzerindeki belgelere erişin</string>
+  <string name="mi_drive_title">Mi Drive</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="search_menu_title">Ara</string>
+  <string name="special_func_title">Ayrıcalıklı özellikler</string>
+  <string name="storage_upgrade_card_summary">Daha fazla bulut depolama alanı edinin</string>
+  <string name="storage_upgrade_card_title">Planınızı yükseltin</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="access_denied">Erişim engellendi</string>
   <string name="account_related">Cihazınız varolan Mi Hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
   <string name="activate_find_device_success">Cihazı bul etkinleştirildi.</string>
@@ -8,7 +48,7 @@
   <string name="add_short_cut">Ekle</string>
   <string name="added_successfully">Başarıyla eklendi</string>
   <string name="antispam_sync">Rahatsız etme ayarları</string>
-  <string name="app_name">Bulut</string>
+  <string name="app_name">Xiaomi Bulut</string>
   <string name="bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
@@ -203,8 +243,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_last_sync_canceled">Eşitleme iptal edildi. Tekrar deneyin.</string>
   <string name="micloud_main_button_set_internet">Ayar</string>
   <string name="micloud_main_head_menu_cloud_backup">Ana ekran yedekleme</string>
-  <string name="micloud_main_head_menu_cloud_backup_summary">Ana ekran düzeni, uygulamalar ve sistem ayarları</string>
-  <string name="micloud_main_head_menu_finddevice_summary">Cihazınız kaybolursa bulun ve kilitleyin</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Sistem ayarları ve Ana ekran düzeni</string>
+  <string name="micloud_main_head_menu_finddevice_summary">Cihazınızı bulun ve kilitleyin</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cihazı bul ikinci alanda kullanılamaz, ilk alanda kullanabilirsiniz.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Silinen öğeleri geri yükle</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Silinmiş öğeler</string>
@@ -476,6 +516,6 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="wipe_data_dialog_title">Bazı öğeler eşitlenemedi</string>
   <string name="wipe_data_query_progress_title">Denetleniyor…</string>
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar eşitlenemiyor</string>
-  <string name="xiaomi_cloud_service">Bulut</string>
+  <string name="xiaomi_cloud_service">Xiaomi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
 </resources>

@@ -4,4 +4,10 @@
     <item>Görüntülere, uygulamalara ve diğer dosyalara erişmek ve bunları kaydetmek ve aktarmak için</item>
     <item>Bluetooth ve Wi-Fi kullanarak dosya aktarmak için</item>
   </string-array>
+  <string-array name="permissions_desc_v12">
+    <item>Dosya göndermek ve almak için</item>
+    <item>Bluetooth ve Wi-Fi kullanarak dosya aktarmak için</item>
+    <item>Bluetooth kullanarak yakındaki kullanılabilir cihazları bulmak için</item>
+    <item>Yakındaki mevcut cihazları bulmak ve Wi-Fi kullanarak dosya aktarmak için</item>
+  </string-array>
 </resources>

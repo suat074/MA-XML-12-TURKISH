@@ -170,6 +170,14 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="menu_item_sort_name">Adına</string>
   <string name="menu_item_sort_size">Boyutuna</string>
   <string name="miui_device_name">Android</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
   <string name="msg_alert_restore_error">Xiaomi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>

@@ -35,5 +35,9 @@
     <plurals name="durationSeconds">
         <item quantity="other">%1$d san.</item>
         <item quantity="one">%1$d san.</item>
+    </plurals>
+    <plurals name="number_items">
+        <item quantity="other">%s öğe</item>
+        <item quantity="one">%s öğe</item>
     </plurals>	
 </resources>

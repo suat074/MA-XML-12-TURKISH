@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="actionbar_button_up_description">Geri</string>
+  <string name="app_name">Duvar kağıdı</string>
+  <string name="clearable_edittext_clear_description">Temizle</string>
+  <string name="date_picker_lunar">Ay takvimi</string>
+  <string name="earth_summary">Dünya insan uygarlığının beşiğidir</string>
+  <string name="earth_title">Ev</string>
+  <string name="game_view_content_description">Oyun görünümü</string>
+  <string name="mars_position_content_0">"Bu bölge, enkaz kaplı buzulların neden olduğuna inanılan uçurumlar, kesikler ve geniş düz vadiler içeriyor. Burada, eski Mars'ta yaşam kanıtı aramaya büyük ilgi duyan kil mineralleri de tespit edilmiştir.
+
+NASA/JPL/Arizona Üniversitesi"</string>
+  <string name="mars_position_content_1">"Yinelenen eğim hatları (RSL), sıcak Mars eğimlerinden sızan suyun neden olabileceği aktif akışlardır. Hale Krateri'ndeki RSL, belki de pas gibi oksitlenmiş demir bileşikleri nedeniyle çoğu RSL'ye kıyasla alışılmadık şekilde "kırmızımsı" bir renge sahiptir.
+
+NASA/JPL/Arizona Üniversitesi"</string>
+  <string name="mars_position_content_2">"Mawrth Vallis açık renkli kil açısından zengin kayalara sahip eski bir su çıkış kanalıdır. Kil mineralleri Dünya'daki mikroskobik hayatı kolayca korur, bu yüzden belki de Mawrth'de eski yaşam izleri bulunabilir.
+
+NASA/JPL/Arizona Üniversitesi"</string>
+  <string name="mars_position_title_0">"Nilosyrtis
+Mensae Bölgesi"</string>
+  <string name="mars_position_title_1">"Hale Kraterinin
+Merkez
+Dağları"</string>
+  <string name="mars_position_title_2">"Mawrth Vallis
+sınırlarındaki Krater"</string>
+  <string name="mars_summary">Mars\'ın geniş çölleri insanlığı her zaman huşu içinde tuttu</string>
+  <string name="mars_title">Kızıl gezegen</string>
+  <string name="miui_clock_city_name_local">Yerel</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="mi_wallpaper_loading">Mi Duvar Kağıdı yükleniyor...</string>
   <string name="mi_wallpaper_title">Mi Duvar Kağıdı</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="saturn_summary">Satürn halkaları Güneş sistemindeki en inanılmaz gösteriyi yapar</string>
+  <string name="saturn_title">Uzak halkalar</string>
+  <string name="search_menu_title">Ara</string>
+  <string name="super_wallpaper_list_label">Süper duvar kağıtları</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Başarıyla uygulandı</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Konum seç</string>
+  <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
+  <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="time_picker_dialog_title">Zamanı ayarla</string>
+  <string name="time_picker_label_hour">S</string>
+  <string name="time_picker_label_minute">D</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+  <string name="wallpaper_setting_find_more_text">Daha fazla çevrimiçi duvar kağıdı</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ana ekran</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Kilit ekranı</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Çevrimiçi duvar kağıtları</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Duvar kağıtlarını keşfedin</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Çevrimiçi duvar kağıtları</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Süper duvar kağıtları</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
+  <string name="wallpaper_setting_title">Duvar kağıdı</string>
+  <string name="miui_lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_large_date">"dd/M
+EEE"</string>
+  <string name="miui_lock_screen_large_date_12">"dd/M
+EEE"</string>
 </resources>

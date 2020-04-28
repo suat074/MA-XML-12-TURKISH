@@ -95,5 +95,17 @@
     <plurals name="snooze_duration_min">
         <item quantity="other">Her %1$s dakikada bir</item>
         <item quantity="one">Her %1$s dakikada bir</item>
+    </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" dak."</item>
+        <item quantity="one">" dak"</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s saat ilerde</item>
+        <item quantity="one">%s saat ilerde</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s saat geride</item>
+        <item quantity="one">%s saat geride</item>
     </plurals>	
 </resources>

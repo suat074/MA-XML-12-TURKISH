@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Alarm ekle</string>
+  <string name="add_timer">Sık zamanlayıcı</string>
   <string name="add_clock">Saat ekle</string>
   <string name="agree">Kabul</string>
   <string name="alarm_alert_disabled">Kapalı</string>
@@ -31,6 +32,7 @@
   <string name="alert_ringtone">Alarm zil sesi</string>
   <string name="alert_volume">Zil sesi seviyesi</string>
   <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarla</string>
+  <string name="already_exist">Bu zamanlayıcı zaten var</string>
   <string name="analog_gadget">Analog Saat</string>
   <string name="app_label">Saat</string>
   <string name="auto_silence_never">Asla</string>
@@ -292,7 +294,7 @@
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
   <string name="sleep_analysis">İstatistikler</string>
-  <string name="sleep_date_provider_text">Uyku verileri Mi Sağlık tarafından sağlanmıştır</string>
+  <string name="sleep_date_provider_text">Uyku verileri Xiaomi Sağlık tarafından sağlanmıştır</string>
   <string name="sleep_duration">Uyku süresi:</string>
   <string name="sleep_duration_avg_text_diff">Ortalama uyku süresi (%1$s-%2$s)</string>
   <string name="sleep_duration_desc">%1$s %2$s uyudum</string>
@@ -305,8 +307,8 @@
   <string name="sleep_notification_title">Yatma zamanı</string>
   <string name="sleep_record">Uykuyu izle</string>
   <string name="sleep_record_desc">Uyku verilerini kaydetmeye başlamak için açın</string>
-  <string name="sleep_record_desc_detailed">Uyku izleme işlevi Mi Sağlık tarafından sağlanmaktadır. Bir kez açıldığında, Mi Sağlık telefon kullanımınıza, etkinlik istatistiklerine, uykuya dalma ve uyanma sürelerine bağlı olarak otomatik olarak uykunuzu kaydeder, grafik halinde size istatistikleri gösterir.</string>
-  <string name="sleep_record_no_data">Mi Sağlık yeterli veriyi analiz ettikten sonra istatistikleriniz burada görünecek</string>
+  <string name="sleep_record_desc_detailed">Uyku izleme işlevi Xiaomi Sağlık tarafından sağlanmaktadır. Bir kez açıldığında, Xiaomi Sağlık telefon kullanımınıza, etkinlik istatistiklerine, uykuya dalma ve uyanma sürelerine bağlı olarak otomatik olarak uykunuzu kaydeder, grafik halinde size istatistikleri gösterir.</string>
+  <string name="sleep_record_no_data">Xiaomi Sağlık yeterli veriyi analiz ettikten sonra istatistikleriniz burada görünecek</string>
   <string name="sleep_remind">Yatma zamanı hatırlatma</string>
   <string name="sleep_time">Uykuya dalma</string>
   <string name="slider_text">Kapatmak için yukarı kaydırın</string>
@@ -384,8 +386,8 @@
   <string name="turn_off_this_repeat_alarm">Tekrarlayan bu alarmı kapat</string>
   <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
   <string name="upcoming_alarm_hint">Şimdi bu alarmı kapatabilirsiniz</string>
-  <string name="update_health_app">Mi Sağlık güncelle</string>
-  <string name="update_health_app_desc">Uyku izleme işlevi Mi Sağlık tarafından sağlandı. İlgili özelliklere erişmek için Mi Sağlık programını en son sürüme güncelleyin.</string>
+  <string name="update_health_app">Xiaomi Sağlık güncelle</string>
+  <string name="update_health_app_desc">Uyku izleme işlevi Xiaomi Sağlık tarafından sağlandı. İlgili özelliklere erişmek için Xiaomi Sağlık programını en son sürüme güncelleyin.</string>
   <string name="update_it">Güncelle</string>
   <string name="update_notification_info">Arka planda veri güncelleniyor…</string>
   <string name="usage_start">Başlat</string>
@@ -414,4 +416,28 @@
   <string name="worldcolock_timezone_date">dd MMM</string>
   <string name="worldcolock_timezone_gap">%s S</string>
   <string name="worldcolock_timezone_local">Yerel saat ile aynı</string>
+  <string name="city_time_contrast_desc">Farklı şehirlerdeki zamanı karşılaştırmak için dokunun</string>
+  <string name="copy">Kopyala</string>
+  <string name="current_stopwatch_time">Geçerli zamanlayıcı</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="reach_upper_limit">Daha fazla zamanlayıcı eklenemiyor</string>
+  <string name="search_menu_title">Ara</string>
+  <string name="system_permission_agree_desc">Bu uygulamanın tüm özelliklerine erişmek için internete bağlanmasına izin verin.</string>
+  <string name="system_permission_main_purpose">Kronometreyi kullanarak süreyi görüntüle, alarmları ve zamanlayıcıları ayarla</string>
+  <string name="timer_item_delete">Sil</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
+  <string name="worldclock_local_time">Yerel saat</string>
+  <string name="worldclock_second_time">%s süre içinde</string>
+  <string name="worldcolock_time_date">dd/MM/yyyy</string>
 </resources>

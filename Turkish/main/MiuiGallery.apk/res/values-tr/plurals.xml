@@ -48,6 +48,10 @@
         <item quantity="other">%d albüm</item>
         <item quantity="one">%d albüm</item>
     </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s kişi bu albümü görüntüleyebilir</item>
+        <item quantity="one">%s kişi bu albümü görüntüleyebilir</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%2$s, %1$d fotoğraf eklenecek</item>
         <item quantity="one">%2$s, %1$d fotoğraf eklenecek</item>

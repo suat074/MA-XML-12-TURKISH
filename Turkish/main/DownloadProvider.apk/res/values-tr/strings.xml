@@ -16,7 +16,7 @@
   <string name="dialog_content_limit0">İndirmeleri kısıtla</string>
   <string name="dialog_content_limit_max">Sınırsız</string>
   <string name="dialog_data_limit_button1">Wifi\'yi bekle</string>
-  <string name="dialog_data_limit_button2">Şimdi indir</string>
+  <string name="dialog_data_limit_button2">İndir</string>
   <string name="dialog_data_limit_msg1">Bu dosyayı indirmek için %s mobil veri kullanılacak.. Şimdi indir?</string>
   <string name="dialog_data_limit_msg3">Sınırı değiştir</string>
   <string name="dialog_data_limit_title">Veri kullanımı uyarısı</string>
