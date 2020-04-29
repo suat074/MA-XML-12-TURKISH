@@ -1743,7 +1743,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="device_admin_status">Bu yönetici etkin ve %1$s uygulamasının şu işlemleri gerçekleştirmesine izin veriyor:</string>
   <string name="device_admin_title">Cihaz yönetimi</string>
   <string name="device_admin_warning">Bu yöneticinin etkinleştirilmesi %1$s uygulamasının şu işlemleri gerçekleştirilmesine izin verir:</string>
-  <string name="device_available_memory">Mevcut hafıza</string>
+  <string name="device_available_memory">"Kullanılabilir hafıza "</string>
   <string name="device_battery">Pil</string>
   <string name="device_build_id">Sürüm numarası</string>
   <string name="device_camera">Kamera</string>
@@ -1794,7 +1794,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon numarası, sinyal, vb.</string>
   <string name="device_theme">Cihaz teması</string>
-  <string name="device_total_memory">Toplam hafıza</string>
+  <string name="device_total_memory">"Toplam hafıza "</string>
   <string name="device_usage_list_summary">Tam şarj sonrası cihaz kullanımı</string>
   <string name="dial_application_title">Ara</string>
   <string name="dial_pad_tones_title">Tuş takımı sesleri</string>
