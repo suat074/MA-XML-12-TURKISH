@@ -431,7 +431,6 @@
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="reach_upper_limit">Daha fazla zamanlayıcı eklenemiyor</string>
-  <string name="search_menu_title">Ara</string>
   <string name="system_permission_agree_desc">Bu uygulamanın tüm özelliklerine erişmek için internete bağlanmasına izin verin.</string>
   <string name="system_permission_main_purpose">Kronometreyi kullanarak süreyi görüntüle, alarmları ve zamanlayıcıları ayarla</string>
   <string name="timer_item_delete">Sil</string>
