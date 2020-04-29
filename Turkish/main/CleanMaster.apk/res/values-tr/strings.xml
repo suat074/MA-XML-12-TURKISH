@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="activity_title_ad">Reklamlar</string>
   <string name="activity_title_apk">Paketler</string>
   <string name="activity_title_brightness_image">Düşük ve aşırı pozlanma</string>
@@ -127,6 +144,7 @@
   <string name="confirm_auto_cleaner">Tamam</string>
   <string name="conn_of_function_safe">Güvenlik için ağ bağlantısı</string>
   <string name="connecting">Bağlanıyor…</string>
+  <string name="copy">Kopyala</string>
   <string name="dc_activity_title">Derin temizlik</string>
   <string name="dc_advise_delete">Alan boşalt</string>
   <string name="dc_group_title_appclean">Uygulamalar</string>
@@ -150,6 +168,8 @@
   <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
   <string name="deepclean_1_k_clean">Hafızayı temizle</string>
   <string name="deepclean_apk_content">Gereksiz uygulamaları veya APK\'ları sil</string>
+  <string name="deepclean_apk_group_hint_checked">Tümünü seç</string>
+  <string name="deepclean_apk_group_hint_unchecked">Hiçbiri</string>
   <string name="deepclean_apk_summary_empty">Her şey iyi görünüyor, silinecek APK dosyası yok</string>
   <string name="deepclean_apk_version_error">Bilinmeyen</string>
   <string name="deepclean_app_content">30 gündür kullanılmayan uygulamaları kaldır</string>
@@ -222,6 +242,7 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Başlatılıyor...</string>
   <string name="engine_tm">Tencent</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="facebook_clean_exit_confirm_cancel">Taramaya devam et</string>
   <string name="facebook_clean_exit_confirm_msg">Henüz Facebook taraması tamamlanmadı. Tarama şimdi durdurulsun mu?</string>
   <string name="facebook_clean_exit_confirm_ok">Durdur</string>
@@ -241,6 +262,7 @@
   <string name="garbage_month">Bu ay %s temizlendi</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_audio">Ses</string>
+  <string name="global_wa_audio_item_title">Sesli mesajlar</string>
   <string name="global_wa_backend_alert_dialog_content">WhatsApp öğelerini temizleyerek alanı boşaltın</string>
   <string name="global_wa_backend_alert_dialog_title">WhatsApp Temizleyici</string>
   <string name="global_wa_clean_icon_text">WhatsApp Temizleyici</string>
@@ -403,6 +425,14 @@
   <string name="menu_install">Bu uygulamayı yükle</string>
   <string name="menu_open">Aç</string>
   <string name="menu_view">Klasörde görüntüle</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Güncellemeler kontrol ediliyor…</string>
   <string name="msg_cleanup_db_update_time_unknown">Son güncelleme: Bilinmiyor</string>
@@ -426,6 +456,7 @@
   <string name="notification_low_memory_deepclean_title">Depolama alanı azalıyor</string>
   <string name="notification_summary_after_auto_cleanup">" %s temizlendi."</string>
   <string name="notify_when">Çöp kutusu boyutu 100MB olduğunda bildirim alın</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="ok">Tamam</string>
   <string name="onekeyclean_boost_available">%s kullanılabilir</string>
   <string name="onekeyclean_boost_cleaned">%s temizlendi</string>
@@ -473,6 +504,7 @@
   <string name="pref_title_manual_check_cleanup_db_update">Güncellemeleri kontrol et</string>
   <string name="pref_title_open_optimizer_cloud_scan">Dosya adlarını yükle</string>
   <string name="pref_title_open_optimizer_memory_scan">Uygulama hafızasını tara</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacy_app_desc">Hesap ve şifre</string>
   <string name="privacy_app_desc_message">Hesap, şifreler ve mesajlar</string>
   <string name="privacy_app_desc_search">Hesap, şifreler ve arama geçmişi</string>
@@ -506,6 +538,7 @@
   <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın.</Data>" "</string>
   <string name="resutl_function_qq_clean_summary">" "<Data>QQ tarafından oluşturulan &lt;font color=#ff0000 >%1$s&lt;/font> önbelleği temizleyebilirsiniz.</Data>" "</string>
   <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat önbelleği. Daha fazla alan boşaltın.</Data>" "</string>
+  <string name="search_menu_title">Ara</string>
   <string name="sc_allow_network_dialog_button">İzin ver</string>
   <string name="sc_allow_network_dialog_message">Güncellemeleri almak için bu uygulamanın internete bağlanmasına izin verilsin mi?</string>
   <string name="scanning">Taranıyor…</string>
@@ -523,6 +556,34 @@
   <string name="sponsored">Sponsorlu</string>
   <string name="start_downloading_app">İndirmeye başlıyor：%1$s</string>
   <string name="start_install">Şimdi yükle</string>
+  <string name="storage_activity_title">Depolama alanı</string>
+  <string name="storage_app_detail_activity_title">Dolu alan</string>
+  <string name="storage_app_detail_cache">Önbellek</string>
+  <string name="storage_app_detail_clear_all_data">Tüm veriyi temizle</string>
+  <string name="storage_app_detail_clear_cache">Önbelleği temizle</string>
+  <string name="storage_app_detail_manage_space">%s - Depolama alanını yönet</string>
+  <string name="storage_app_detail_sdcard">Uygulama verileri</string>
+  <string name="storage_app_detail_system">Uygulama boyutu</string>
+  <string name="storage_app_detail_third_clean_size">%s boş</string>
+  <string name="storage_app_detail_total">Kullanılan toplam alan</string>
+  <string name="storage_app_detail_uninstall_app">Uygulamaları sil</string>
+  <string name="storage_app_detail_wechat_cleaner">WeChat temizleyici</string>
+  <string name="storage_app_detail_wechat_session">WeChat sohbet geçmişini temizle</string>
+  <string name="storage_app_list_activity_title">Uygulama detayları</string>
+  <string name="storage_app_list_desc">Kullanılan alan: %s</string>
+  <string name="storage_app_space_details_entry">Uygulama ayrıntılarını görüntüle</string>
+  <string name="storage_available_total_size">%1$s / %2$s kullanılabilir</string>
+  <string name="storage_deepclean_entry">Derin temizlik</string>
+  <string name="storage_item_apk_name">APK\'lar</string>
+  <string name="storage_item_appdata_name">Uygulamalar ve verileri</string>
+  <string name="storage_item_audio_name">Ses</string>
+  <string name="storage_item_clean_name">Boş alan</string>
+  <string name="storage_item_doc_name">Belgeler</string>
+  <string name="storage_item_other_name">Diğer</string>
+  <string name="storage_item_picture_name">Resimler</string>
+  <string name="storage_item_system_name">Sistem</string>
+  <string name="storage_item_video_name">Video</string>
+  <string name="storage_space_release_hint">Daha fazla depolama alanına mı ihtiyacınız var?</string>
   <string name="summary_auto_cleaner">Çöp boyutu 100MB olduğunda her zaman bildirim alınsın mı?</string>
   <string name="summary_delete_apk">Seçili APK\'lar kalıcı olarak silinsin mi?</string>
   <string name="summary_delete_cache">Seçili uygulamaların önbelleği temizlensin mi?</string>
@@ -592,6 +653,8 @@
   <string name="total_clean_text">Temizle</string>
   <string name="unlike">Hayır teşekkürler</string>
   <string name="update_date_format">dd/MM/yyyy</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="virus_scan">Güvenlik taraması</string>
   <string name="wechat_chat_data_type_cache">WeChat önbelleği</string>
   <string name="wechat_chat_data_type_cache_desc">İnternet\'e bağlandıktan sonra bu dosyaları geri yükleyebileceksiniz.</string>
