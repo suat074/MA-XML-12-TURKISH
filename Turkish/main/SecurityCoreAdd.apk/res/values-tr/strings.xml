@@ -218,6 +218,14 @@ yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
   <string name="master_clear_not_available_ep">Fabrika ayarlarına sıfırlama işlemi yapmanıza veya yetkilendirmenizi iptal etmenize izin verilmiyor. Yöneticinize başvurun.</string>
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
   <string name="messageData">Mesajlar</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileme</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileme</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="more_settings">Daha</string>
   <string name="msg_switch_file">Dosyalar taşındıktan sonra İlk Alandan silinsin mi?</string>
   <string name="msg_switch_file_second">Dosyalar taşındıktan sonra İkinci Alandan silinsin mi?</string>
@@ -309,6 +317,8 @@ yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
   <string name="second_space_desktop_tips_dialog_title">Önemli güncelleme</string>
   <string name="second_space_finger_printf_desc">İkinci alana girmek için özel olarak kullanılan parmak izini ekle</string>
   <string name="second_space_finger_printf_title">İkinci alan parmak izi</string>
+  <string name="secondspace_homepage">"İkinci alan için özel bir ekran kilidi ayarlayın.
+Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="select_existed_fingerprint">Parmakizini seçin</string>
   <string name="serNameSummary">İkinci alan</string>
   <string name="setSecondSpacePassword">İkinci alan şifresini ayarla</string>
