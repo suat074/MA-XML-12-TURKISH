@@ -4,6 +4,10 @@
     <item quantity="other">Odaklandı. %d yüz algılandı</item>
     <item quantity="one">Odaklandı. %d yüz algılandı</item>
   </plurals>
+  <plurals name="clone_guide_tip2">
+    <item quantity="other">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
+    <item quantity="one">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
+  </plurals>
   <plurals name="toast_burst_snap_finished_summary">
     <item quantity="other">Seri çekim bitti, %1$s fotoğraf çekildi</item>
     <item quantity="one">Seri çekim bitti, %1$s fotoğraf çekildi</item>

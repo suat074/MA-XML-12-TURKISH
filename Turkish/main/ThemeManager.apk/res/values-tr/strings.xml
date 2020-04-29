@@ -402,6 +402,11 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="online_precust_scenery">Manzara</string>
   <string name="online_search_hint">Çevrimiçi kaynakları ara</string>
   <string name="order_list">Satın alma geçmişi</string>
+  <string name="ota_recovery_theme_dialog_message">Daha önce kullanılan temanın bazı öğeleri MIUI yeni sürümüyle uyumlu olmayabilir. Uyumsuz öğeler varsayılan seçeneklerle değiştirilecek.</string>
+  <string name="ota_recovery_theme_dialog_title">Orjinal tema geri yükleniyor</string>
+  <string name="ota_recovery_theme_notity_btn">Geri yükle</string>
+  <string name="ota_recovery_theme_notity_content">Güncellemeden önce kullandığınız temaya geri dönebilirsiniz</string>
+  <string name="ota_recovery_theme_notity_title">Temanızı geri yükleyin</string>
   <string name="password_toggle_content_description">Şifre görünürlüğünü değiştir</string>
   <string name="playing_ringtone">Oynatılıyor</string>
   <string name="pref_privacy_policy">Gizlilik Politikası</string>
@@ -554,6 +559,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="resource_import_failed">İçe aktarılamadı</string>
   <string name="resource_import_successful">Tamamlandı</string>
   <string name="resource_importing">İçe aktarılıyor…</string>
+  <string name="resource_incall_show_download">Video indir</string>
   <string name="resource_is_off_shelf">Mevcut değil</string>
   <string name="resource_is_off_shelf_can_not_share">Paylaşılamıyor. Bu ürün artık mevcut değil.</string>
   <string name="resource_list_title">En Son Seçilen</string>
@@ -693,10 +699,11 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="show_mamual_hide_theme">Gizli temaları göster</string>
   <string name="show_mamual_hide_wallpaper">Gizli duvar kağıtlarını göster</string>
   <string name="stagger_list_end">Şimdilik bu kadar</string>
+  <string name="super_wallpaper">Süper Duvar kağıdı</string>
   <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından oluşturulur. Uygulamamız, çalışmaları desteklememize olanak tanıyan az miktarda reklam içerir.</string>
   <string name="support_theme_store_supported">Desteğin için teşekkürler!</string>
   <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>
-  <string name="swipe_find_more">yukarı kaydırın</string>
+  <string name="swipe_find_more">Daha fazlasını görüntülemek için sola kaydırın</string>
   <string name="system_aod_dialog_message">Önce Ayarlar\'dan her zaman açık ekranı açın.</string>
   <string name="system_aod_dialog_positive_button">Ayarlar</string>
   <string name="system_aod_dialog_title">Her zaman açık ekran kapalı</string>
@@ -802,6 +809,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_user_agreement_remind_never">Tekrar gösterme</string>
   <string name="theme_user_agreement_remind_summary">Temalar uygulamasını her açışınızda Kullanım Şartları penceresini göster. Bu ayar, cihazı yeniden başlattıktan sonra geçerli olacaktır.</string>
   <string name="theme_user_agreement_title">Kullanım Şartları</string>
+  <string name="theme_wallpaper">Duvar kağıdı kategorisi</string>
   <string name="theme_yes">Evet</string>
   <string name="third_party_pickers_activity_title">%1$s ekle</string>
   <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
