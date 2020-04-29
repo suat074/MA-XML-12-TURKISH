@@ -291,11 +291,23 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_new_home_week_usage_title">Bireysel uygulamalar</string>
   <string name="usage_new_home_which_week">Hafta %d</string>
   <string name="usage_no_net_summary">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+  <string name="usage_optional_summary">Ek özellikler kullanırken bu izinler gereklidir.</string>
+  <string name="usage_optional_title">İsteğe bağlı izinler</string>
+  <string name="usage_permisison_agree_desc_o">Ekran süresi istatistiklerini sağlamak için, bu uygulamanın aşağıdaki verileri toplaması gerekir: cihazın kilidini açma sayısı, uygulamaların listesi ve ilgili kullanım süreleri.</string>
+  <string name="usage_permisison_agree_desc_p">Ekran süresi ve Odak modu istatistikleri sağlamak için bu uygulamanın aşağıdaki verileri toplaması gerekir: cihazın kilidini açma sayısı, uygulamaların listesi ve ilgili kullanım süreleri, ekranın aydınlanma sayısı ve Odak modu ayarları.</string>
+  <string name="usage_permission_double_link" formatted="false"><Data>"Bu uygulamanın normal şekilde çalışabilmesi için İnternet'e bağlanması ve gerekli kişisel verileri toplaması gerekir. Kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için &lt;a href='%1s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2s'>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</Data></string>
+  <string name="usage_permission_main_desc">"Ekran süresine hoş geldiniz!
+Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağıdaki izinleri alması gerekir:"</string>
+  <string name="usage_permission_title">Dikkat</string>
   <string name="usage_reach_device_limit">Süre doldu! Sınırınıza ulaştınız.</string>
   <string name="usage_reach_device_limit_warning_text">Bugün için ekran süresi sınırınıza ulaştınız</string>
   <string name="usage_refresh">Tekrar deneyin</string>
   <string name="usage_request_error_summary">Bilinmeyen bir hata oluştu</string>
   <string name="usage_request_timeout_summary">İstek zaman aşımına uğradı</string>
+  <string name="usage_runtime_per_des_summary">Ekran süresi istatistiklerinizi kaydetmek için</string>
+  <string name="usage_runtime_per_des_title">Aygıtın dahili depolamasına dosya ekleme ve silme</string>
+  <string name="usage_runtime_summary">Bu izinler, bu uygulamanın temel özelliklerini ve hizmetlerini kullanılabilir kılmak için gereklidir.</string>
+  <string name="usage_runtime_title">Zorunlu izinler</string>
   <string name="usage_special_feature">Ayrıcalıklı özellikler</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Oturum</string>
