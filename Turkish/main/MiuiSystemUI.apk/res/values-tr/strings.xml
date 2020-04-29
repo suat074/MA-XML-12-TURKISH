@@ -2077,7 +2077,7 @@
   <string name="qs_control_customize_title">Düğmeler eklendi</string>
   <string name="qs_control_expand_detail_title">Verilerim</string>
   <string name="qs_control_header_tiles_title">Kontrol merkezi</string>
-  <string name="small_window_guide_title">Yüzen pencere</string>
+  <string name="small_window_guide_title">Yüzen pencereler</string>
   <string name="small_window_notification_text">MIUI %d bu özelliği hakkında daha fazla bilgi edinmek için dokunun</string>
   <string name="small_window_notification_title">Yüzen pencere</string>
   <string name="wifi_security_none_owe">Yok/Gelişmiş Açık</string>

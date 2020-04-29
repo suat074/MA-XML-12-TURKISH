@@ -241,4 +241,7 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="voice_assist_title">Ses ile uyandırma</string>
   <string name="welcome">Hoşgeldiniz</string>
   <string name="zone_picker_title">Saat dilimini seç</string>
+  <string name="service_name_fast_pairing">Mi Link</string>
+  <string name="fast_pairing_introduction">Mi Link, cihazınızın yakınlardaki Bluetooth cihazlarına bağlanmasını sağlar. Yakındaki cihazları bulabilmek için Mi Link\'in internete bağlanmasına izin verin.</string>
+  <string name="disagreement_abnormal_running_fast_pairing">Bu izinleri vermeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.</string>
 </resources>

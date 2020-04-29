@@ -64,4 +64,16 @@
     <item quantity="other">%d dakika</item>
     <item quantity="one">%d dakika</item>
   </plurals>
+  <plurals name="data_item_count_pair">
+    <item quantity="other">%1$d/%2$d öğe</item>
+    <item quantity="one">%1$d/%2$d öğe</item>
+  </plurals>
+  <plurals name="new_task_backup_failed">
+    <item quantity="other">Başarıyla yedeklendi. %d öğe yedeklenemedi.</item>
+    <item quantity="one">Başarıyla yedeklendi. %d öğe yedeklenemedi.</item>
+  </plurals>
+  <plurals name="new_task_restore_failed">
+    <item quantity="other">Başarıyla geri yüklendi. %d öğe geri yüklenemedi.</item>
+    <item quantity="one">Başarıyla geri yüklendi. %d öğe geri yüklenemedi.</item>
+  </plurals>
 </resources>

@@ -34,11 +34,11 @@
   <string name="HIPS_Perm_Call">Telefon çağrıları yapma</string>
   <string name="HIPS_Perm_Call_Desc">doğrudan telefon numaralarını arar</string>
   <string name="HIPS_Perm_CallLog">Çağrı geçmişini yazma ve silme</string>
-  <string name="HIPS_Perm_CallLog_Desc">çağrı geçmişini yazar ve siler</string>
+  <string name="HIPS_Perm_CallLog_Desc">çağrı geçmişini düzenler</string>
   <string name="HIPS_Perm_clipboard">Pano</string>
   <string name="HIPS_Perm_clipboard_Desc">Uygulamanın panoya erişmesine ve öğe eklemesine izin ver</string>
   <string name="HIPS_Perm_Contact">Kişileri değiştirme ve silme</string>
-  <string name="HIPS_Perm_Contact_Desc">kişileri değiştirir ve siler</string>
+  <string name="HIPS_Perm_Contact_Desc">kişileri düzenler</string>
   <string name="HIPS_Perm_deamon_notification">Kalıcı bildirim</string>
   <string name="HIPS_Perm_deamon_notification_Desc">kalıcı bildirimler gösterir</string>
   <string name="HIPS_Perm_External_Storage">Dahili depolamadaki dosyalara erişme ve bunları değiştirme</string>
@@ -51,6 +51,22 @@
   <string name="HIPS_Perm_get_tasks_Desc">görevleri alır</string>
   <string name="HIPS_Perm_install_shortcut">Ana ekran kısayolları</string>
   <string name="HIPS_Perm_install_shortcut_Desc">ana ekrana kısayol ekler</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ses kaydetme ve çağrı yapma</string>
+  <string name="HIPS_Perm_Intl_group_desc_auto_start">Uygulamaları arka planda otomatik başlatma</string>
+  <string name="HIPS_Perm_Intl_group_desc_calendar">Takvim etkinliklerine erişme</string>
+  <string name="HIPS_Perm_Intl_group_desc_call_log">Çağrı geçmişine erişme ve düzenleme</string>
+  <string name="HIPS_Perm_Intl_group_desc_camera">Fotoğraf çekme ve videoları hazırlama</string>
+  <string name="HIPS_Perm_Intl_group_desc_contact">Kişileri düzenleme ve silme</string>
+  <string name="HIPS_Perm_Intl_group_desc_location">Hassas konuma erişme (GPS ve ağ tabanlı)</string>
+  <string name="HIPS_Perm_Intl_group_desc_storage">Cihazın dahili deposuna dosya ekleme ve silme</string>
+  <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofon</string>
+  <string name="HIPS_Perm_Intl_group_name_auto_start">Otomatik başlat</string>
+  <string name="HIPS_Perm_Intl_group_name_calendar">Takvim</string>
+  <string name="HIPS_Perm_Intl_group_name_call_log">Çağrı geçmişi</string>
+  <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
+  <string name="HIPS_Perm_Intl_group_name_contact">Kişiler</string>
+  <string name="HIPS_Perm_Intl_group_name_location">Konum</string>
+  <string name="HIPS_Perm_Intl_group_name_storage">Depolama</string>
   <string name="HIPS_Perm_Location">Konum bilgisi alma</string>
   <string name="HIPS_Perm_Location_Desc">kesin konumu alır (GPS ve ağ tabanlı)</string>
   <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>
@@ -126,7 +142,10 @@
   <string name="permission_group_title_charges_related">Ücretli</string>
   <string name="permission_group_title_media_related">Multimedya</string>
   <string name="permission_group_title_privacy_related">Gizlilik</string>
+  <string name="permission_group_title_sensitive_privacy_related">Hassas izinler</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
+  <string name="permission_list_include">"Aşağıdakiler dahil:
+"</string>
   <string name="permission_reminders">İzin hatırlatıcıları</string>
   <string name="permission_warning_template">%1$s için %2$s izni verilsin mi?</string>
   <string name="permission_warning_template_ask">%1$s için aşağıdaki izinler verilsin mi?</string>
@@ -136,9 +155,9 @@
   <string name="screen_overlay_title">Ekran kaplaması algılandı</string>
   <string name="Su_Package_Forbidden2">root erişimi yok.</string>
   <string name="virtual_reject_notice_content">Kişisel bilgilerinizi korumak için uygulamaya boş bir yanıt gönderildi</string>
-  <string name="virtual_reject_notice_title_calendar">%1$s takvime erişmeye çalışıyor</string>
-  <string name="virtual_reject_notice_title_calllog">%1$s çağrı geçmişine erişmeye çalışıyor</string>
-  <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişmeye çalışıyor</string>
-  <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgilerine erişmeye çalışıyor</string>
-  <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişmeye çalışıyor</string>
+  <string name="virtual_reject_notice_title_calendar">%1$s takvime erişti</string>
+  <string name="virtual_reject_notice_title_calllog">%1$s çağrı geçmişine erişti</string>
+  <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişti</string>
+  <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgilerine erişti</string>
+  <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişti</string>
 </resources>

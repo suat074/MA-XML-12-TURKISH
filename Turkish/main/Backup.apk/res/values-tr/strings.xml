@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="abort_backup_confirm">Yedekleme bitmedi. Yine de durdurulsun mu?</string>
   <string name="abort_restore_confirm">Geri yükleme bitmedi. Yine de durdurulsun mu?</string>
   <string name="account_contact_backup_info">Google Hesabı, Mi Hesabı ve Rehber verileri</string>
@@ -107,6 +124,7 @@
   <string name="connect_wifi">WLAN\'a bağlan</string>
   <string name="connect_wifi_tip">Ağa bağlanılamadı. ICloud\'dan öğeleri almak için WLAN\'a bağlanın.</string>
   <string name="contact_title">Kişiler</string>
+  <string name="copy">Kopyala</string>
   <string name="current_account">Merhaba %s</string>
   <string name="current_pad_location">Tablet</string>
   <string name="current_phone_location">Telefon</string>
@@ -157,6 +175,7 @@
   <string name="error_permissions">Bu uygulama Takvim’e erişmek için gereken izinlere sahip değil. Ayarlara gidin ve devam etmek için izinleri kontrol edin.</string>
   <string name="every_day">Her gün</string>
   <string name="exchange_account">Hesabı değiştir</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="fail">Başarısız</string>
   <string name="failed_description">başarısız</string>
   <string name="feature_title_account">Mi Hesabı</string>
@@ -263,6 +282,14 @@
   <string name="logining">Giriş yapılıyor…</string>
   <string name="miliao_account_guide">Herhangi bir yerden Xiaomi Bulut, MIUI Tema Mağazası ve diğer Mi hizmetlerinde oturum açmak için Mi Hesabınızı kullanın.</string>
   <string name="miliao_account_login">Mi Talk ile oturum açın</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="mms_title">Multimedya mesajlaşma</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="multi_user_mode_backup_message">Çoklu kullanıcı modunda Yedekleme kullanılamaz. Devam etmek için Çoklu kullanıcı modunu kapatın.</string>
@@ -271,6 +298,54 @@
   <string name="name_password_not_consistent">Kullanıcı ismi veya şifre yanlış</string>
   <string name="never">Asla</string>
   <string name="new_backup">Yedekle</string>
+  <string name="new_britem_audio">Ses</string>
+  <string name="new_britem_doc">Dosyalar</string>
+  <string name="new_britem_other">Diğer</string>
+  <string name="new_britem_pic">Görüntüler</string>
+  <string name="new_britem_video">Videolar</string>
+  <string name="new_confirm_enable_encrypt_content">MIUI, Mi Hesabınızla şifrelenmiş yedeklemeleri ilişkilendirir. Bu tür yedeklemelerden öğeleri geri yüklemek için Mi Hesabınızda oturum açmanız gerekir."</string>
+  <string name="new_confirm_enable_encrypt_title">Şifrele</string>
+  <string name="new_local_button_backup">Yedekle</string>
+  <string name="new_local_button_restore">Geri yükle</string>
+  <string name="new_local_click_to_jump">Ayrıntılı talimatları görüntülemek için dokunun</string>
+  <string name="new_local_detail_description">"Not:
+%1$d. Veri kaybını önlemek için yedeklemeleri bilgisayarınıza kopyalayın. %2$s.
+%3$d. Yedeklemeler MIUI-Backup-AllBackup klasörüne kaydedilir."</string>
+  <string name="new_local_tab_backup">Mobil cihaza yedekle</string>
+  <string name="new_local_tab_restore">Mobil cihazdan geri yükle</string>
+  <string name="new_low_storage_title">Yeterli depolama alanı yok</string>
+  <string name="new_more_settings_label">Ek ayarlar</string>
+  <string name="new_pc_backup_content1">%1$d. \"%2$s\" aç.</string>
+  <string name="new_pc_backup_content2">%d. Tüm öğeler yedeklenene kadar bekleyin.</string>
+  <string name="new_pc_backup_content3">%d. MIUI-Backup-AllBackup konumunda yedeklemeyi bulun.</string>
+  <string name="new_pc_backup_content4">%d. Dosyayı bilgisayarınıza kopyalayın.</string>
+  <string name="new_pc_backup_restore_link">Mobil cihaz</string>
+  <string name="new_pc_backup_summary1">Öğeleri seçin ve \"Yedekle\" düğmesine dokunun.</string>
+  <string name="new_pc_backup_summary2">Mobil cihazınızı bir USB kablosu ile bilgisayara bağlayın.</string>
+  <string name="new_pc_backup_summary4">Not: MIUI-DCIM konumundan fotoğraf ve video da kopyalayabilirsiniz.</string>
+  <string name="new_pc_restore_content1">%d. Mobil cihazınızı bir USB kablosu ile bilgisayara bağlayın.</string>
+  <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup konumuna kopyalayın.</string>
+  <string name="new_pc_restore_content3">%1$d. \"%2$s\" açın ve geri yüklenecek öğeleri seçin.</string>
+  <string name="new_pc_title">Yedeklemeleri kopyala</string>
+  <string name="new_select_file">Ses, videolar ve dosyalar</string>
+  <string name="new_select_message">SMS, kişiler ve çağrı geçmişi</string>
+  <string name="new_select_pic">Görüntüler</string>
+  <string name="new_select_system">Diğer sistem uygulaması verileri</string>
+  <string name="new_select_tencent">QQ ve WeChat</string>
+  <string name="new_select_third">3.parti uygulamaları ve uygulama verileri</string>
+  <string name="new_select_third_apk">3.parti uygulamaları</string>
+  <string name="new_select_third_data">3.parti uygulama verileri</string>
+  <string name="new_tab_pc_backup">Bilgisayara yedekle</string>
+  <string name="new_tab_pc_restore">Bilgisayardan geri yükle</string>
+  <string name="new_task_finished">Çık</string>
+  <string name="new_usb_detail_description">"Not:
+%1$d. Bu yöntem 3.parti uygulamalarının ve uygulama verilerinin yedeklenmesine izin verir.
+%2$d. Yedeklemeleri depolamak için USB sürücüsünde yeterli depolama alanı olduğundan emin olun."</string>
+  <string name="new_usb_disconnect_dialog_message">Önce bir USB sürücüsü takın.</string>
+  <string name="new_usb_disconnect_dialog_title">USB sürücüsü bulunamadı</string>
+  <string name="new_usb_select_data_no_space">USB sürücünüzde yalnızca %s depolama alanı var. Depolama alanını boşaltın.</string>
+  <string name="new_usb_tab_backup">USB sürücüsüne yedekle</string>
+  <string name="new_usb_tab_restore">USB sürücüsünden geri yükle</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="no_network">Ağa bağlanılamıyor</string>
   <string name="note_title">Notlar</string>
@@ -304,12 +379,14 @@
   <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
   <string name="notif_trans_sending_failed">Veri gönderilemedi</string>
   <string name="notif_trans_wait_for_reconnecting">Bağlantı kesildi. Tekrar bağlan.</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="old_soft_name">QR kodu ile bağlan</string>
   <string name="old_way">Ayrıca yeni cihazınızda bir QR kodu oluşturabilir ve eskisini kullanarak tarayabilirsiniz.</string>
   <string name="page_loading">Biraz bekleyin...</string>
   <string name="password">Şifre</string>
   <string name="password_null">Şifre boş olamaz</string>
   <string name="pause">Duraklat</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Konum</string>
   <string name="perm_read_call_log">Çağrı geçmişini oku</string>
@@ -368,6 +445,7 @@
   <string name="sdcard_no_enough_space">Yeterli alan yok</string>
   <string name="sdcard_no_enough_space_message">SD Kartınızda yeterli depolama alanı yok.</string>
   <string name="sdcard_unmounted">Şimdi SD kart ekleyin</string>
+  <string name="search_menu_title">Ara</string>
   <string name="see_backup_files_on_router">Mi Yönlendirici\'deki %s yedekleri görüntüle</string>
   <string name="select_all">Tümü</string>
   <string name="select_backup_item">Öğeleri seçin</string>
@@ -625,6 +703,8 @@
   <string name="user_notice_declaration_ignore">Tekrar gösterme</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısı gerekir.</string>
   <string name="user_notice_title">Dikkat</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="view_password_description">Şifreyi göster</string>
   <string name="wait_link">"Eski cihazda Mi Mover uygulamasını açın,
 \"Ben bir göndericiyim\" öğesine dokunun ve bağlanmak için bir etkin nokta seçin.
