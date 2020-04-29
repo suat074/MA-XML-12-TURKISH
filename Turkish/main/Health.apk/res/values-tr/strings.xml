@@ -196,7 +196,7 @@ Sağlık verilerinizi, saklamayı seçtikten sonra silmeye karar verirseniz, bun
   <string name="deep_sleep">Derin uyku</string>
   <string name="deep_sleep_duration">Derin uyku süresi</string>
   <string name="deep_sleep_duration_decrease_description">Derin uykun çok kısa</string>
-  <string name="deep_sleep_duration_description">İnsanlar uyurken periyodik olarak hızlı göz hareketleri olur, bu yüzden uyku hızlı göz hareketleri uykusu ve hızlı olmayan göz hareketleri uykusu olarak ayrılabilir. Derin uyku, tüm gece uykusunun yaklaşık 20% ila 25%\'ini oluşturan hızlı göz hareketleri uykusu sürelerinde gerçekleşir. Derin uykuda, daha az bilinç aktivitesi vardır ve beyin statik durumdadır, uyanması nispeten daha zordur.</string>
+  <string name="deep_sleep_duration_description">İnsanlar uyurken periyodik olarak hızlı göz hareketleri olur, bu yüzden uyku hızlı göz hareketleri uykusu ve hızlı olmayan göz hareketleri uykusu olarak ayrılabilir. Derin uyku, tüm gece uykusunun yaklaşık 20%% ila 25%%\'ini oluşturan hızlı göz hareketleri uykusu sürelerinde gerçekleşir. Derin uykuda, daha az bilinç aktivitesi vardır ve beyin statik durumdadır, uyanması nispeten daha zordur.</string>
   <string name="deep_sleep_duration_increase_description">Derin uykun çok uzun</string>
   <string name="deep_sleep_duration_normal_description">Yeterli miktarda derin uykunuz var</string>
   <string name="delete">Sil</string>
