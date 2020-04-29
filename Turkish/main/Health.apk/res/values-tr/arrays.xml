@@ -35,13 +35,13 @@
     <item>" m/s"</item>
   </string-array>
   <string-array name="stand_guide_page_content1">
-    <item>Hareketsizlik birçok sağlık sorununa neden olabilir. Hareketsizlik süresi azaltılamıyorsa, aralıklı ayakta kalma faaliyetleri, sık karşılaşılan sorunları etkin bir şekilde iyileştirebilir.</item>
-    <item>Ayakta Durma Asistanı, hareketsizliğin saatte en az 1 dakika ayakta durularak, her gün 12 saatlik periyot ile ayakta durma hedefine ulaşılmasına ve hareketsiz yaşam tehlikesinden uzak kalınmasına yardımcı olur.</item>
-    <item>Ayakta Durma Asistanı anlamak ve açmak için Devam\'ı tıklayın.</item>
+    <item>Oturmak sağlığınıza fayda sağlamaz. Otururken harcadığınız zamanı azaltamasanız bile, arada bir ayakta durmak iyi bir fikirdir.</item>
+    <item>Bu özellik, her saat için en az 1 dakika ayakta durmanızı hatırlatır. Her gün 12 saatlik ayakta durma hareketi ile hareketsiz yaşam tarzının risklerinden kaçınmanıza yardımcı olacaktır.</item>
+    <item>Daha fazla bilgi edinmek ve bu özelliği açmak için \"Devam\" düğmesine dokunun.</item>
   </string-array>
   <string-array name="stand_guide_page_content2">
-    <item>Ayakta asistan, cep telefonunun kullanım durumunu tespit ederek ayakta kalma durumu kaydeder. 1 saat içinde ayakta kalma durumu tespit edilmediğinde, size ayakta durmanızı veya elle bir kayıt eklemenizi hatırlatan bir bildirim gönderilecek.</item>
-    <item>Etkinleştirmenin onaylanması, eşzamanlı olarak ayakta durma algılamayı ve ayakta durma anımsatıcısını etkinleştirir.</item>
+    <item>Xiaomi Sağlık, cihazınızı nasıl kullandığınıza bağlı olarak ayağa kalkıp kalkmadığınızı öğrenir. Bir saat içinde hareket algılanmazsa, ayağa kalkmanız veya elle kayıt eklemeniz hatırlatılır.<item>
+    <item>Bu özellik hareketinizi izler ve hatırlatıcılar gönderir.</item>
   </string-array>
   <string-array name="week">
     <item>Pazar</item>

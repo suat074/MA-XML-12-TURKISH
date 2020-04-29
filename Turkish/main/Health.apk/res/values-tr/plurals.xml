@@ -33,6 +33,10 @@
     <item quantity="other">%1$d-%2$d kere</item>
     <item quantity="one">%1$d-%2$d kere</item>
   </plurals>
+  <plurals name="cousume_unit_format">
+    <item quantity="other">%1$d Kal</item>
+    <item quantity="one">%1$d Kal</item>
+  </plurals>
   <plurals name="daily_suggestions_steps">
     <item quantity="other">Her gün en az %1$d adım yürüyün</item>
     <item quantity="one">Her gün en az %1$d adım yürüyün</item>
@@ -56,6 +60,18 @@
   <plurals name="dream_talk_segment_unit">
     <item quantity="other">kayıt</item>
     <item quantity="one">kayıt</item>
+  </plurals>
+  <plurals name="duration_unit_hour_format">
+    <item quantity="other">%1$d saat</item>
+     <item quantity="one">%1$d sa</item>
+  </plurals>
+  <plurals name="duration_unit_minute_format">
+    <item quantity="other">%1$d dak.</item>
+    <item quantity="one">%1$d dak</item>
+  </plurals>
+  <plurals name="duration_unit_second_format">
+    <item quantity="other">%1$d san.</item>
+    <item quantity="one">%1$d san</item>
   </plurals>
   <plurals name="goal_format_with_unit">
     <item quantity="other">Hedef: %1$d adım</item>
@@ -96,6 +112,10 @@
   <plurals name="last_measure_day_body_weight">
     <item quantity="other">Son tartımdan bu yana %1$d gün</item>
     <item quantity="one">Son tartımdan bu yana %1$d gün</item>
+  </plurals>
+  <plurals name="length_unit_meter_format">
+    <item quantity="other">%1$d metre</item>
+    <item quantity="one">%1$d metre</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Şu anda</item>
