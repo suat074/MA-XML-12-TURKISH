@@ -447,4 +447,12 @@
     <item quantity="other">Sadece %1$d dakika için alarmı değiştir (%2$s kadar)</item>
     <item quantity="one">Sadece %2$s dakika boyunca alarmı değiştir</item>
   </plurals>
+  <plurals name="bt_usable_device_title">
+    <item quantity="other">%d kullanılabilir cihaz</item>
+    <item quantity="one">%d kullanılabilir cihaz</item>
+  </plurals>
+  <plurals name="saved_network_checked_num">
+    <item quantity="other">%d öğe seçildi</item>
+    <item quantity="one">%d öğe seçildi</item>
+  </plurals>
 </resources>

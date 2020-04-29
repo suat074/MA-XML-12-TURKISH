@@ -119,5 +119,33 @@
   <string-array name="pc_settings_thermal_summaries">
     <item>Varsayılan sıcaklık kontrol modunu kullan</item>
     <item>Performansı önceliklendir</item>
+  </string-array>
+  <string-array name="debug_open_intercept">
+    <item>Bir bilgisayar kullanarak cihazınızdaki dosyalara erişip bunları düzenlemek mümkün olacak.</item>
+    <item>Açık izniniz olmadan cihazınıza uygulamalar yüklemenize izin verilecek.</item>
+    <item>Ekran içeriğinizi uzaktan izleyebilir ve kaydedebilirsiniz.</item>
+	<item>Cihazınızla ilgili ayrıntılı bilgilere erişmek mümkün olacaktır.</item> 
+  </string-array>
+  <string-array name="miui_optimization_close_intercept">
+    <item>Önemli: Birden fazla sistem uygulaması düzgün çalışmayabilir.</item>
+    <item>Metin düzenleri, hesaplar ve içerik düzgün görüntülenmeyebilir.</item>
+  </string-array>
+  <string-array name="perm_intercept_notification">
+    <item>Kısa mesajlarınızın içeriği ve kişisel bilgiler içerebilecek diğer öğeler dahil olmak üzere tüm bildirimlerinizi okuyun</item>
+    <item>Bazı uygulamalar için bildirim izinlerini kısıtlama</item>
+    <item>Dokunma bildirimlerini ve açık uygulamaları simüle et</item>
+    <item>Rahatsız etme modunu açma ve kapatma</item>
+  </string-array>
+  <string-array name="perm_intercept_statitics">
+    <item>Hangi uygulamaları kullandığınızı ve ne sıklıkta kullandığınızı öğrenerek ilgi alanlarınız ve davranışlarınızla ilgili verileri toplayın</item>
+    <item>Operatörle ilgili ve dil ayarlarınıza ve diğer ayrıntılara erişin</item>
+  </string-array>
+  <string-array name="perm_intercept_unknown_source">
+    <item>GetApps tarafından doğrulanmayan üçüncü taraf uygulamaları birden fazla soruna neden olabilir ve sistem kararlılığını azaltabilir.</item>
+    <item>Bazı üçüncü taraf uygulamaları kişisel verilerinizi risk altına sokan kötü amaçlı yazılımlar içerebilir.</item>
+  </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Dahili depolama</item>
+    <item>Harici depolama</item>
   </string-array>  
 </resources>

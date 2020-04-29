@@ -220,4 +220,26 @@
   <string name="yellow_page_sms_send_failed">SMS gönderilemedi</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
   <string name="yellow_page_unable_send_sms">SMS gönderilemedi</string>
+  <string name="miui_clock_city_name_local">Yerel</string>
+  <string name="miui_clock_city_name_second">İkinci saat</string>
+  <string name="wallpaper_group_natural_texture_title">Doğa desenleri</string>
+  <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen ve diğerleri</string>
+  <string name="wallpaper_group_geometric_title">Geometri</string>
+  <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+  <string name="wallpaper_group_dynamic_nebula_title">Dinamik bulutsu</string>
+  <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+  <string name="wallpaper_group_minimalist_scenery_title">Minimalizm</string>
+  <string name="wallpaper_group_black_white_title">Siyah ve beyaz</string>
+  <string name="wallpaper_group_red_mars_title">Mars</string>
+  <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona Üniversitesi</string>
+  <string name="miui_lock_screen_date">dd/MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
+  <string name="miui_lock_screen_large_date">"dd/MM
+EEE"</string>
+  <string name="miui_lock_screen_large_date_12">"dd/MM
+EEE"</string>
+  <string name="miui_lock_screen_date_two_lines">"dd/MM
+EEEE"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"dd/MM
+EEEE"</string>
 </resources>

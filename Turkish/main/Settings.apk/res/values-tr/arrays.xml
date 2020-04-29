@@ -5,14 +5,14 @@
     <item>Tüm Ağ</item>
   </string-array>
   <string-array name="aggregate_entries">
-    <item>Önerilen</item>
-    <item>Önemli</item>
-    <item>Önemsiz</item>
+    <item>Gruplandır</item>
+    <item>Gruplandır ve düşük öncelik</item>
+    <item>Gruplandırma</item>
   </string-array>
   <string-array name="aggregate_summaries">
-    <item>MIUI, hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecek</item>
-    <item>Bildirimler, Bildirim alanında görünecek</item>
-    <item>Bildirimler ayrı bir klasörde görünecek</item>
+    <item>Tanıtım ve içerikle ilgili anlık bildirimler gruplandırılacak</item>
+    <item>Anlık bildirimler gruplandırılacak ve diğer bildirimlerin altında gösterilecek</item>
+    <item>Anlık bildirimler gruplandırılmayacak</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Hergün</item>

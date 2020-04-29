@@ -532,5 +532,49 @@
   <plurals name="videobox_settings_manager_apps_count">
     <item quantity="other">%d uygulama</item>
     <item quantity="one">%d uygulama</item>
+  </plurals>
+  <plurals name="app_behavior_desc_allow_minute">
+    <item quantity="other">%1$s içinde %2$d kez izin verildi</item>
+    <item quantity="one">%1$s içinde %2$d kez izin verildi</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny_minute">
+    <item quantity="other">%1$s içinde %2$d kez reddedildi</item>
+    <item quantity="one">%1$s içinde %2$d kez reddedildi</item>
+  </plurals>
+  <plurals name="app_behavior_desc_virtual_minute">
+    <item quantity="other">%1$s içinde %2$d boş ileti döndürüldü</item>
+    <item quantity="one">%1$s içinde %2$d boş ileti döndürüldü</item>
+  </plurals>
+  <plurals name="app_behavior_wakepath_multiple">
+    <item quantity="other">%1$1s, %2$d uygulama başlattı</item>
+    <item quantity="one">%1$1s, %2$d uygulama başlattı</item>
+  </plurals>
+  <plurals name="app_behavior_wakepath_multiple_single">
+    <item quantity="other">Bu uygulama %1$d başka uygulama başlattı</item>
+    <item quantity="one">Bu uygulama %1$d başka uygulama başlattı</item>
+  </plurals>
+  <plurals name="pc_battery_history_hour">
+    <item quantity="other">" saat"</item>
+    <item quantity="one">" sa"</item>
+  </plurals>
+  <plurals name="pc_battery_history_minute">
+    <item quantity="other">" dak."</item>
+    <item quantity="one">" dak"</item>
+  </plurals>
+  <plurals name="power_off_warning_button_ok_time">
+    <item quantity="other">Anladım (%ds)</item>
+    <item quantity="one">Anladım (%ds)</item>
+  </plurals>
+  <plurals name="power_off_warning_notification_message">
+    <item quantity="other">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın.</item>
+    <item quantity="one">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın.</item>
+  </plurals>
+  <plurals name="privacy_permission_summary">
+    <item quantity="other">%s uygulama kalıcı erişime sahip</item>
+    <item quantity="one">%s uygulama kalıcı erişime sahip</item>
+  </plurals>
+  <plurals name="privacy_pop_times">
+    <item quantity="other">%s kez</item>
+    <item quantity="one">%s kez</item>
   </plurals>  
 </resources>

@@ -256,7 +256,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="advanced_security_title">Gelişmiş</string>
   <string name="advanced_settings">Ek ayarlar</string>
   <string name="advanced_settings_summary">Daha fazla ayar seçeneğini etkinleştir</string>
-  <string name="aggregate_title">Gruplandırılmış bildirimler için kurallar</string>
+  <string name="aggregate_title">Bildirimleri gruplandırma kuralları</string>
   <string name="agps_roaming">Dolaşımdayken A-GPS</string>
   <string name="agps_roaming_dia">Dolaşımdayken A-GPS kullanmak mobil veri kullanımınızı artırabilir. Planınızın veri sınırını aşarsanız, operatörünüz ek ücretler alabilir.</string>
   <string name="agps_roaming_dia_title">Dolaşımdayken A-GPS kullan</string>
@@ -294,7 +294,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="allow_lights_title">LED ışık kullanmaya izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allow_oaid_used">Cihaz kimliğini kullanmaya izin ver</string>
+  <string name="allow_oaid_used">Herhangi bir kimliğe erişimi kısıtla</string>
   <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde görüntülenmesine izin ver. Bu, uygulamaları kullanmanıza engel olabilir, görünüm veya davranış şeklini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
   <string name="allow_sound_title">Sese izin ver</string>
@@ -1775,13 +1775,13 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="device_miui_version">MIUI Sürümü</string>
   <string name="device_miui_version_for_POCO">MIUI sürümü (POCO için)</string>
   <string name="device_miui_version_parameters">MIUI sürümü</string>
-  <string name="device_miui_version_update">MIUI güncellemesi mevcut</string>
+  <string name="device_miui_version_update">Güncelle</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_input_error">Cihaz adı kaydedilemedi</string>
   <string name="device_name_input_hint">Adı girin</string>
   <string name="device_name_input_overlength">Karakter sınırını aştın</string>
   <string name="device_name_usage_point">Diğer cihazlarda bu isim gözükecek.</string>
-  <string name="device_oaid">Cihaz kimliği</string>
+  <string name="device_oaid">Sanal kimliği yönet</string>
   <string name="device_picker">Bluetooth cihazı seçin</string>
   <string name="device_rear_camera">Arka kamera</string>
   <string name="device_screen_consumption">Ekranın pil tüketimi</string>
@@ -2281,7 +2281,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamayacak.</string>
   <string name="firmware_version">Android sürümü</string>
-  <string name="flash_drive_backup_restore">USB kullanarak yedekleme veya geri yükleme</string>
+  <string name="flash_drive_backup_restore">USB sürücüsü</string>
   <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>
   <string name="floating_window_switch_label">Kayan pencereleri aç</string>
   <string name="floating_window_switch_label_disable">Kayan pencereleri kapat</string>
@@ -2540,40 +2540,40 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="home_key">Ana sayfa</string>
   <string name="home_title">Ana ekran</string>
   <string name="home_work_profile_not_supported">İş profillerini desteklemiyor</string>
-  <string name="how_backup_content">"Oluşturabileceğiniz 3 tür yedekleme vardır: yerel, bulut ve USB.
+  <string name="how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir.
 
-Yerel yedeklemeler:
-Yerel yedeklemeler, sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya (MIUI-backup-AllBackup) kaydetmenizi sağlar. Yedekleme dosyası oluşturulduktan sonra, USB kablo vasıtasıyla bilgisayarınıza aktarabilirsiniz.
-Not:
-Öğeleri yedeklemek ve geri yüklemek için Mi PC Suite kullanabilirsiniz.
+Mobil cihaz
+Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya (MIUI-backup-AllBackup) kaydedin. Not: Fabrika ayarlarına sıfırlama işlemi gerçekleştirildiğinde bu tür yedeklemeler kalıcı olarak silinir. Yedekleri bilgisayarınıza kopyalamayı unutmayın.
 
-Bulut yedeklemeleri:
-Sistem ayarlarını, Ana ekran düzenini, uygulamaları ve diğer öğeleri Xiaomi Bulut\'a kablosuz olarak yedekleyebilirsiniz.
+Bilgisayar
+Bu cihazda bir yedek oluşturun, ardından MIUI-backup-AllBackup adresine gidin ve yedeklemeyi USB kablosuyla bilgisayarınıza kopyalayın.
 
-USB yedeklemeleri:
-Bu yöntem, sistem ayarlarını, hesapları, uygulama verilerini ve diğer öğeleri harici bir USB depolama aygıtına kaydetmenizi sağlar.
-"</string>
-  <string name="how_backup_title">1. Öğeleri nasıl yedekleyebilirim?</string>
-  <string name="how_encrypt_content">"Yalnızca yerel yedeklemeleri şifreleyebilirsiniz. Bunu yapmanın 2 yolu var:
-a) Sayfayı yerel yedeklemelerinizle açın, şifrelemeyi açmak için düğmeye dokunun ve Mi Hesabınızda oturum açın. Yedeklemeler bundan sonra otomatik olarak şifrelenir. Şifrelenmiş yedeklemelerdeki öğeleri geri yüklemek için Mi Hesabınızda oturum açmanız gerektiğini unutmayın.
-b) Öğeleri yedeklemek için Mi PC Suite kullanıyorsanız, orada şifreleme seçeneklerini kullanabilirsiniz.
+USB sürücüsü
+Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi bir USB sürücüsüne kaydedin.
 
-Not:
-Şifrelenmiş yedeklemeler için ayarladığınız şifreyi unutmayın! Unutursanız yedeklemelerinizin şifresini çözemezsiniz.
-"</string>
-  <string name="how_encrypt_title">3. Yedeklerimi nasıl şifreleyebilirim?</string>
+Xiaomi Bulut
+Kişilerinizi, fotoğraflarınızı, videolarınızı, uygulamalarınızın listesini, sistem ayarlarını ve Ana ekran düzenini bulutla senkronize edin."</string>
+  <string name="how_backup_title">Öğeleri nasıl yedekleyebilirim?</string>
+  <string name="how_encrypt_content">"Yalnızca yerel yedeklemeleri şifreleyebilirsiniz. Kullanabileceğiniz bazı şifreleme yöntemleri aşağıda verilmiştir:
+a) Yerel yedeklemelerinizle sayfadaki Ayarlar > Ek ayarlar öğesine gidin, şifrelemeyi açmak için düğmeye dokunun ve Mi Hesabınızda oturum açın. Yedeklemeler bundan sonra otomatik olarak şifrelenecektir. Şifrelenmiş yedeklemelerdeki öğeleri geri yüklemek için Mi Hesabınızda oturum açmanız gerekeceğini unutmayın.
+b) Öğeleri yedeklemek için Mi PC Suite kullanıyorsanız, buradaki şifreleme seçeneklerini kullanabilirsiniz.
+
+Not: Şifrelenmiş yedeklemeler için ayarladığınız parolayı unutmayın! Eğer unutursanız yedeklemelerinizin şifresini çözemezsiniz."</string>
+  <string name="how_encrypt_title">Yedeklerimi nasıl şifreleyebilirim?</string>
   <string name="how_restore_backup_content">"Farklı yöntemler kullanılarak yedeklenen öğeleri nasıl geri yükleyebilirsiniz:
 
-Yerel yedeklemeler:
-Yedekleme dosyasını bilgisayarınızdan cihazınıza kopyalayın (MIUI-backup-AllBackup). Ayarlar &gt; Yedekle, geri yükle veya sıfırla &gt; Bu cihazda, seçeneğine gidin ve yedekleme dosyasını seçin.
+Mobil cihaz
+\"Mobil cihaz\" öğesine dokunarak öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin.
 
-Bulut yedeklemeleri:
-Mi Hesabınızda oturum açın, Ayarlar &gt; Yedekle, geri yükle veya sıfırla &gt; Xiaomi Bulut\'ta, seçeneğine gidin ve yedekleme dosyasını seçin.
+Bilgisayar
+Yedeklemeyi USB kablosu ile bilgisayarınızdan MIUI-backup-AllBackup'a kopyalayın ve mobil cihazınızdan öğeleri geri yükleyin.
 
-USB yedeklemeleri:
-Yedekleme dosyasını cihazınıza kopyalayın (MIUI-backup-AllBackup). Ayarlar &gt; Yedekle, geri yükle veya sıfırla &gt; Bu cihazda, seçeneğine gidin ve yedekleme dosyasını seçin.
-"</string>
-  <string name="how_restore_backup_title">2. Yedeklenen öğeleri nasıl geri yüklerim?</string>
+USB sürücüsü
+Yedeklemeyi USB sürücünüzden MIUI-backup-AllBackup klasörüne kopyalayın ve devam etmek için USB sürücüsündeki öğeleri geri yükleme seçeneğini seçin.
+
+Xiaomi Bulutu
+Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
+  <string name="how_restore_backup_title">Yedeklenen öğeleri nasıl geri yüklerim?</string>
   <string name="http_invoke_app">Web Uygulamaları</string>
   <string name="http_invoke_app_summary">Uygulamaları yüklemeden daha hızlı açın</string>
   <string name="icons_shadow_title">Simge gölgesi(Ana ekran)</string>
@@ -3178,7 +3178,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="master_clear_progress_title">Siliniyor</string>
   <string name="master_clear_short_title">Tüm verileri sil (fabrika ayarları)</string>
   <string name="master_clear_title">Tüm verileri sil (fabrika ayarları)</string>
-  <string name="master_clear_title_new">Tüm verileri sil (fabrika ayarlarına sıfırla)</string>
+  <string name="master_clear_title_new">Fabrika ayarları</string>
   <string name="max_aspect_settings_all_app_display_loading">Sadece bir saniye…</string>
   <string name="max_cpu10_info">"Azami 10 Çekirdek "</string>
   <string name="max_cpu2_info">Azami Çift Çekirdek</string>
@@ -4195,7 +4195,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="privacy_protection_title">Gizlilik</string>
   <string name="privacy_relative">Gizlilik</string>
   <string name="privacy_settings">Yedekle &amp; sıfırla</string>
-  <string name="privacy_settings_new">Yedekle, geri yükle veya sıfırla</string>
+  <string name="privacy_settings_new">Yedekle ve geri yükle</string>
   <string name="privacy_settings_title">Sıfırla</string>
   <string name="privacy_thumbnail_blur_progress_message">Sadece bir saniye…</string>
   <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
@@ -4406,9 +4406,9 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="restore_dialog_content">Mevcut cihaz kimliğinizi sıfırlamak kişiselleştirilmiş önerileri de sıfırlar. Şimdi sıfırlansın mı?</string>
   <string name="restore_dialog_positive">Sıfırla</string>
   <string name="restore_dialog_title">Dikkat</string>
-  <string name="restore_oaid_content">Mevcut cihaz kimliğinizi sıfırlamak yeni bir tane oluşturacaktır. Şimdi sıfırlansın mı?</string>
+  <string name="restore_oaid_content">Davranış ve tercih kayıtlarınızı temizlemek için sanal kimliğinizi sıfırlayın</string>
   <string name="restore_oaid_positive">Sıfırla</string>
-  <string name="restore_oaid_title">Cihaz kimliğini sıfırlama</string>
+  <string name="restore_oaid_title">Sanal kimliği sıfırla</string>
   <string name="restr_pin_enter_admin_pin">Yönetici PIN kodunu girin</string>
   <string name="restrict_background_blacklisted">Arkaplan verileri kapatıldı</string>
   <string name="restrict_bg_app">Kısıtla</string>
@@ -5633,7 +5633,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="system_app_settings">Sistem uygulaması ayarları</string>
   <string name="system_apps_updater">Sistem uygulamaları güncelleyici</string>
   <string name="system_backup_section_title">Yedekle</string>
-  <string name="system_backup_section_title_new">Yedekle veya geri yükle</string>
+  <string name="system_backup_section_title_new">Yerel</string>
   <string name="system_dashboard_summary">Diller, zaman, yedekleme, güncellemeler</string>
   <string name="system_default_app">(Sistem varsayılanı)</string>
   <string name="system_haptic_feedback">Dokunsal geri bildirim</string>
@@ -7147,4 +7147,228 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="zone_menu_by_region">Bölgeye göre seç</string>
   <string name="zone_time_type_dst">Gün ışığı tasarruf zamanı</string>
   <string name="zone_time_type_standard">Standart zaman</string>
+    <string name="allow_oaid_used_desc">Açıkça izin vermedikçe uygulamalar herhangi bir kimliğe erişemez. Bu özellik açıkken bazı kişisel öneri özellikleri düzgün çalışmayabilir.</string>
+    <string name="auto_clean_description">Bu özellik hakkında
+1. Hoparlörünüzün tozla hafifçe tıkanmış olduğunu fark ederseniz, bu özelliği bir veya iki kez çalıştırın.
+2. Hoparlör aşırı derecede engellenirse, cihazınızı hoparlör aşağı bakacak şekilde sallarken bu özelliği 2-5 kez çalıştırın.</string>
+    <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
+    <string name="auto_clean_title">Açık hoparlör</string>
+    <string name="backup_at_once">Destek ol</string>
+    <string name="backup_more_settings">Ayarlar</string>
+    <string name="bluetooth_device_nearby_title">Yakındaki cihazlar</string>
+    <string name="bottom_function_settings">Ek düğmelerin işlevleri</string>
+    <string name="change_lock_screen_password_title">Ekran kilidini değiştir</string>
+    <string name="clear_data_alert_info">"Bu cihazda depolanan tüm yedeklemeler kalıcı olarak silinecek. Devam etmeden önce önemli öğeleri bilgisayarınıza ve Xiaomi Bulut'a yedekleyin."</string>
+    <string name="cloud_category_text">Bulut</string>
+    <string name="computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
+    <string name="computer_backup_title">Bilgisayar</string>
+    <string name="continue_reset_factory">Fabrika ayarları</string>
+    <string name="current_password">Geçerli ekran kilidi</string>
+    <string name="custom_color">Özel</string>
+    <string name="dark_mode_contrast">Kontrastı otomatik olarak ayarla</string>
+    <string name="dark_mode_contrast_hint">Parlaklık azaltıldığında renkleri otomatik olarak ayarlayın ve kontrastı azaltın</string>
+    <string name="default_keyboard">Varsayılan</string>
+    <string name="detail_question">Ayrıntılar</string>
+    <string name="device_oaid_desc">Gerçek tanımlayıcınız yerine, MIUI üçüncü taraf uygulamalarına bir sanal kimlik (OAID) sağlayacaktır. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
+    <string name="device_oaid_title">Sanal Kimlik</string>
+    <string name="device_of_someone">"%1$s's %2$s"</string>
+    <string name="dialog_backup_title">Fabrika ayarlarına sıfırlama yapmadan önce yedeklemeler güncellensin mi?</string>
+    <string name="dialog_speaker_auto_clean_button">Anladım</string>
+    <string name="dialog_speaker_auto_clean_content">Temizleme 30 saniye sürer. Bu sayfadan ayrılmayın. En iyi etki için ses seviyesini en üst düzeye çıkarın.</string>
+    <string name="dialog_speaker_auto_clean_title">Dikkat</string>
+    <string name="face_data_apply_for_category_title">Yüz verilerini kullanarak kilidi aç</string>
+    <string name="face_data_apply_for_keyguard_title">Kilit ekranı</string>
+    <string name="face_data_input_camera_fail">Kamera yüklenemedi</string>
+    <string name="face_data_input_camera_ok">Kamera yükleniyor…</string>
+    <string name="face_data_input_cancel_msg">Yüz verileri eklenemedi</string>
+    <string name="face_data_input_ok">Bitti</string>
+    <string name="face_data_input_ok_title">Başarıyla eklendi</string>
+    <string name="face_data_input_structure_title">3D yüz verileri</string>
+    <string name="face_data_input_title">Yüz verileri ekle</string>
+    <string name="face_data_introduction_msg">Yüz verileri cihazınızın kilidini açmak veya kimliğinizi doğrulamak için kullanılabilir. Yüz verilerinizi eklemeden önce Kilit ekranı şifresi ekleyin.</string>
+    <string name="face_data_introduction_next">Sonraki</string>
+    <string name="face_data_introduction_title">Yüz tanıma</string>
+    <string name="face_data_manage_delete">Yüz verileri silinsin mi?</string>
+    <string name="face_data_manage_delete_msg">Yüz verilerini sil</string>
+    <string name="face_data_manage_delete_sure">Sildikten sonra yüz verilerinizi kullanarak cihazın kilidini açamazsınız.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">Ekran aydınlandıktan sonra, yüz verilerini kullanarak cihazın kilidini açmak için yukarı kaydırın.</string>
+    <string name="face_data_manage_unlock_msg">Yüz verilerinizi kullanarak cihazın kilidini açın</string>
+    <string name="face_data_manage_unlock_slide_msg">Replace slider shortcuts with face unlock</string>
+    <string name="face_data_manage_unlock_title">Yüz verilerini kullanarak kilidi aç</string>
+    <string name="face_data_siggesstion_next">Sonraki</string>
+    <string name="face_data_siggesstion_next_time">Sonraki (%ds)</string>
+    <string name="face_data_suggesstion_first">Güvenlik sorunları: Yüz kilidi, PIN, parola veya desenden daha az güvenlidir. Cihazınızın kilidini fotoğrafınızla, aynı şekilde benzer görünümlü kişiler veya nesneler açabilir.</string>
+    <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin nesnelerle kaplı olmadığından ve açıkça görülebildiğinden emin olun. Yüzünüz iyi aydınlatılmış olmalıdır.</string>
+    <string name="face_unlock">Yüz tanıma kilidi</string>
+    <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Ekran, gelen bildirimler için her aydınlandığında yüz verilerini kullanarak cihazın kilidini açabilirsiniz. Bu, pili daha hızlı boşaltabilir.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Ekran aydınlandığında Yüz kilidinin açılmasına izin ver</string>
+    <string name="face_unlock_category_title">Kilit ekranı seçenekleri</string>
+    <string name="face_unlock_check_failed">Seni tanıyamadım</string>
+    <string name="face_unlock_close_screen">Ekrana yaklaşın</string>
+    <string name="face_unlock_down">Başınızı kaldırın</string>
+    <string name="face_unlock_not_found">Seni tanıyamadım</string>
+    <string name="face_unlock_offset_bottom">Telefonunuzu biraz indirin</string>
+    <string name="face_unlock_offset_left">Sağa doğru çevirin</string>
+    <string name="face_unlock_offset_right">Sola doğru çevirin</string>
+    <string name="face_unlock_offset_top">Telefonunuzu biraz kaldırın</string>
+    <string name="face_unlock_open_eye">Gözlerinizi biraz daha açın</string>
+    <string name="face_unlock_quality">Yüzünüzü net göremedim</string>
+    <string name="face_unlock_reveal_eye">Gözlerinizi görünür yapın</string>
+    <string name="face_unlock_reveal_mouth">Dudaklarınızı görünür yapın</string>
+    <string name="face_unlock_rise">Başınızı indirin</string>
+    <string name="face_unlock_rotated_left">Başınızı sağa çevirin</string>
+    <string name="face_unlock_rotated_right">Başınızı sola çevirin</string>
+    <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru itin</string>
+    <string name="face_unlock_stay_away_screen">Ekrandan 25 ila 40cm uzakta kalın</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Kilit ekranı bildirimlerinin Kilit ekranınızda bildirimleri görüntülemesine izin verin.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Hayır teşekkürler</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">İzin ver</string>
+    <string name="face_unlock_success_show_message_dialog_title">Kilit ekranı bildirimleri</string>
+    <string name="face_unlock_success_show_message_msg">Cihaz kilitlendiğinde yalnızca bildirim kaynağını göster ve yüz verileri doğrulandıktan sonra bildirim ayrıntıları ekle</string>
+    <string name="face_unlock_success_show_message_title">Yüz verilerini doğruladıktan sonra bildirim ayrıntılarını göster</string>
+    <string name="face_unlock_success_show_message_toast">Bildirimler Kilit ekranında gösterilecek</string>
+    <string name="face_unlock_success_stay_screen_msg">Yüzünüz doğrulandıktan sonra Kilit ekranında kalın. Ana ekranı açmak için yukarı kaydırın.</string>
+    <string name="face_unlock_success_stay_screen_title">Kilidi açtıktan sonra Kilit ekranında kal</string>
+    <string name="feedback_btn_text">Geri bildirim gönderin</string>
+    <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın</string>
+    <string name="flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücü kullanın</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Kayan pencerenin eylem çubuğunu basılı tutun ve ardından aşağı çekin</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Kayan pencereleri tam ekran modunda görüntüleme</string>
+    <string name="freeform_guide_move_summary">Sürüklemek için kayan bir pencerenin işlem çubuğunu basılı tutun</string>
+    <string name="freeform_guide_move_title">Kayan pencereleri hareket ettirme</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Kayan pencereyi ekranın köşesine sürükleyin</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Kayan pencereleri küçültme</string>
+    <string name="freeform_guide_notification_drop_down_summary">Bir bildirimin eylem çubuğunu basılı tutun ve ardından aşağı çekin</string>
+    <string name="freeform_guide_notification_drop_down_title">Kayan pencereleri açma</string>
+    <string name="freeform_guide_settings">Kayan pencere</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Kayan bir pencerenin işlem çubuğundan hızlıca yukarı kaydırın</string>
+    <string name="freeform_guide_slide_up_to_close_title">Kayan pencereleri kapatma</string>
+    <string name="freeform_vedio_description">"·Kayan bir pencerede açmak için basılı tutun ve bildirimi aşağı çekin.
+•Uygulamaları seçmek için Son Aramalar\'da \"Kayan pencereler\" öğesine dokunun.</string>
+    <string name="gps_description_global">Çoklu uydu navigasyon sistemleri (%s) desteklenir</string>
+    <string name="help_and_feedback_title">Yardım ve geri bildirim</string>
+    <string name="micloud_service_summary">Uygulama listesini senkronize edin, sistem ayarlarını ve Ana ekran düzenini yedekleyin</string>
+    <string name="micloud_service_title">Xiaomi Bulut</string>
+    <string name="miui_accessibility_asr_summary">Sesi aktarın ve metni kaydedin</string>
+    <string name="miui_accessibility_asr_title">Mi Ditto</string>
+    <string name="miui_face_enroll_success">"Artık yüz verilerinizi kullanarak bu cihazın kilidini açabilirsiniz.
+Ek ayarlara erişmeye devam edin."</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırakın</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+    <string name="multi_face_delete_message">Dikkat</string>
+    <string name="multi_face_delete_show_message">Yüz verileri şimdi silinsin mi?</string>
+    <string name="multi_face_input">Yüz verileri ekle</string>
+    <string name="multi_face_input_reach_upper_limit">Yüz verileri eklenemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+    <string name="multi_face_input_success_name_title">İsim</string>
+    <string name="multi_face_list">Yüz verileri</string>
+    <string name="multi_face_name_prefix">"Yüz "</string>
+    <string name="multi_face_number_reach_limit">"2'den fazla yüz için veri eklenemiyor"</string>
+    <string name="multifunction_keyboard">Çok Fonksiyonlu</string>
+    <string name="nfc_repair_action_btn">Onar</string>
+    <string name="nfc_repair_action_desc">NFC özelliklerini kullanmanızı engelleyen sorunları çözmek için \"<b> Geri Yükle </b>"\"öğesine hafifçe vurun. NFC işlevi geri yüklenirken geçerli sayfadan ayrılmayın. Değişiklikleri uygulamak için cihazınızı yeniden başlatın."</string>
+    <string name="nfc_repair_btn_no">Hayır</string>
+    <string name="nfc_repair_btn_reboot">Yeniden Başlat</string>
+    <string name="nfc_repair_btn_reboot_later">Sonra</string>
+    <string name="nfc_repair_btn_retry">Tekrar deneyin</string>
+    <string name="nfc_repair_btn_yes">Evet</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"Bu sorunlardan herhangi birini yaşadınız mı?
+%d. Bir NFC kartı ekleyemez veya dolduramazsınız.
+%d. NFC kartınız çalışmadı.
+%d. Diğer NFC özellikleri yüklenmez."</string>
+    <string name="nfc_repair_fail_desc">NFC işlevinin geri yüklenmesini engelleyen bir hata oluştu. Tekrar deneyin.</string>
+    <string name="nfc_repair_fail_title">Geri yüklenemedi</string>
+    <string name="nfc_repair_ongoing">Geri yükleniyor… Bu sayfadan ayrılmayın.</string>
+    <string name="nfc_repair_pass_desc">Değişiklikleri uygulamak için cihazınızı yeniden başlatın.</string>
+    <string name="nfc_repair_pass_title">Başarıyla geri yüklendi</string>
+    <string name="nfc_repair_summary">NFC özelliklerini kullanmanızı engelleyen sorunları giderin</string>
+    <string name="nfc_repair_title">NFC işlevini geri yükleme</string>
+    <string name="oaid_string">"Mevcut sanal kimlik:
+%1s"</string>
+    <string name="operation_guide_title">Öğretici</string>
+    <string name="other_password">Diğer parolalar</string>
+    <string name="password_and_security">Parolalar &amp; güvenlik</string>
+    <string name="phone_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
+    <string name="phone_backup_title">Mobil cihaz</string>
+    <string name="privacy_protection">Gizlilik koruması</string>
+    <string name="regional_screen_shot">Kısmi ekran görüntüsü</string>
+    <string name="rgb_face_data_manage_delete_msg">2D yüz verilerini sil</string>
+    <string name="sos_phone_call_privacy_dialog_message">"Acil durum kişilerinizi aramak ve SOS kaydını çalmak için bu uygulamanın aşağıdaki izinlere ihtiyacı vardır:
+• Arama yapma
+Acil durum kişilerinize çağrı yapmak için
+• Aygıt durumunu izleme
+Acil durum kişileriniz alındığında SOS kaydı için
+Bu izinleri vermeyi kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak temel işlevleri yine de sizin için kullanılabilir olacaktır. Bu özelliği her zaman kapatmayı seçebilirsiniz."</string>
+    <string name="sos_phone_call_privacy_dialog_message_confirm">İzin ver</string>
+    <string name="sos_phone_log_privacy_dialog_message">"Acil durum kişilerinizle paylaşabilmek için bu uygulamanın çağrı geçmişinize erişme izni gerekiyor.
+Bu izinleri vermeyi kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak temel işlevleri yine de sizin için kullanılabilir olacaktır. Bu özelliği her zaman kapatmayı seçebilirsiniz."</string>
+    <string name="sos_privacy_dialog_message_new_version">"Acil Durum SOS, konumunuzu gerçek zamanlı olarak paylaşmanızı ve acil durum kişilerinize kısa mesaj göndermenizi sağlar.
+Kişisel bilgilerinizi ilgili yasalar, düzenlemeler ve gizlilik politikalarına uygun olarak koruyacağız.
+Bu uygulamanın İnternet'e bağlanması gerektiğini ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri gerektirdiğini unutmayın:
+• Depolamaya erişme
+Acil durum kişilerini kaydetmek için
+• Kişilere erişme
+Kişileri acil durum kişileri olarak işaretlemek için
+• SMS Gönderme
+Acil durum kişilerine metin iletileri göndermek için
+• Konuma erişme
+Konumunuzu acil durum kişileriyle paylaşmak için
+Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Acil Durum SOS'u kapatmayı veya kullanmamayı seçebilirsiniz.
+Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
+    <string name="sound_assist_summary">Ses ayarlarınızı özelleştirin</string>
+    <string name="sound_assist_title">Ses asistanı</string>
+    <string name="storage_use_title">Meşgul</string>
+    <string name="structure_face_data_delete_fail">3D yüz verileri silinemedi. Tekrar deneyin.</string>
+    <string name="structure_face_data_input_down">Başınızı eğin</string>
+    <string name="structure_face_data_input_error_away_screen">Telefonu yüzünüzden biraz daha uzaklaştırın</string>
+    <string name="structure_face_data_input_error_expose_features">Yüzünüzün bazı kısımlarını göremiyorum</string>
+    <string name="structure_face_data_input_error_keep_inface">Yüzünüzü çerçevenin içinde tutun</string>
+    <string name="structure_face_data_input_error_overly_light">Şuanda arka ışık çok güçlü</string>
+    <string name="structure_face_data_input_left">Başınızı sola çevirin</string>
+    <string name="structure_face_data_input_right">Başınızı sağa çevirin</string>
+    <string name="structure_face_data_input_timeout_msg">Kayıt yapılamadı. Tekrar deneyin.</string>
+    <string name="structure_face_data_input_timeout_title">Tekrar deneyin</string>
+    <string name="structure_face_data_input_up">Yukarı bak</string>
+    <string name="structure_face_data_introduction_back">Geri</string>
+    <string name="structure_face_data_introduction_msg">3D yüz verileri cihazınızın kilidini açmanıza ve kimliğinizi doğrulamanıza olanak tanır. Bu özelliği kullanmadan önce bir şifre belirlemelisiniz.</string>
+    <string name="structure_face_data_introduction_title">3D yüz verileri ekle</string>
+    <string name="structure_face_data_ir_input_face">Başınızı hafifçe hareket ettirin</string>
+    <string name="structure_face_data_manage_delete_msg">3D yüz verilerini sil</string>
+    <string name="structure_face_data_suggestion_text">Yüzünüzün tüm bölümlerinin açıkça göründüğünden emin olun. 3D yüz verilerini kaydederken yüzünüzü kaplayabilecek şapka, güneş gözlüğü veya diğer aksesuarları takmayın. Yüzünüzün eşit şekilde aydınlandığından emin olun.</string>
+    <string name="structure_face_data_suggestion_warning_text">Not: 3D yüz verilerini kullanmak, şifre kullanmaktan biraz daha az güvenlidir. Size çok benzeyen kişiler veya nesneler cihazınızın kilidini açabilir.</string>
+    <string name="structure_face_delete_data_dialog_msg">Kamera başlatılamadı ve önizleme alınamadı. Tekrar deneyin.</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">Tekrar deneyin</string>
+    <string name="structure_face_delete_data_dialog_title">Kamera başlatılamadı</string>
+    <string name="structure_face_hardware_abnormal_btn">Anladım</string>
+    <string name="structure_face_hardware_abnormal_msg">Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu işe yaramazsa, yardım almak için 400–100–5678'i arayın.</string>
+    <string name="structure_face_hardware_abnormal_title">Donanım hatası</string>
+    <string name="structure_face_modules_abnormal_btn">Yeniden Başlat</string>
+    <string name="structure_face_modules_abnormal_msg">Optik modül hatası nedeniyle yüz verileri kaydedilemiyor. Cihazınızı yeniden başlatın ve tekrar deneyin.</string>
+    <string name="structure_face_modules_abnormal_title">Optik modül hatası</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">3D tanıma kapatılacak. 3D yüz verileriniz silinecek. Ayrıca 2D yüz verilerinizi de eklemeniz gerekir. 2D tanıma açılsın mı?</string>
+    <string name="structure_face_unlock_model2d_dialog_title">2D tanımayı aç</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">2D tanıma kapatılacak. 2D yüz verileriniz silinecek. 3D yüz verilerinizi de eklemeniz gerekir. 3D tanıma açılsın mı?</string>
+    <string name="structure_face_unlock_model3d_dialog_title">3D tanımayı aç</string>
+    <string name="structure_face_unlock_model_dialog_enable">Aç</string>
+    <string name="structure_face_unlock_model_dialog_notenable">Hayır teşekkürler</string>
+    <string name="structure_face_unlock_model_other">Diğer</string>
+    <string name="structure_face_unlock_model_other_msg_2d">2D tanıma</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D tanıma</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D yüz tanıma, desen, PIN veya paroladan daha az güvenlidir. Bu özellik açıkken, cihazınızın kilidi fotoğrafınızın yanı sıra size benzeyen kişiler veya nesneler tarafından açılabilir.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">3D yüz tanıma nispeten güvenlidir. Bu özellik açıkken cihazınızın fotoğrafınızla kilidinin açılması pek olası değildir. Ancak, size benzeyen insanlar veya nesneler tarafından açılmış olabilir.</string>
+    <string name="structure_face_unlock_model_other_title">Yüz tanıma</string>
+    <string name="structure_face_unlock_not_same_person">Tüm adımları kendiniz tamamlamalısınız. Kimseyle yer değiştirmeyin.</string>
+    <string name="structure_face_unlock_tof_covered">Yüz verileri eklenemedi. Ekrandan uzaklaşın.</string>
+    <string name="three_gesture_long_press">%d parmakla basılı tutun</string>
+    <string name="turn_off_keyguard_password_title">Ekran kilidini kapat</string>
+    <string name="unlock_failed">İç hata</string>
+    <string name="use_control_panel">Kontrol merkezini kullan</string>
+    <string name="wifi_security_none_owe">Yok/Gelişmiş Açık</string>
+    <string name="wifi_security_short_none_owe">Yok/OWE</string>
 </resources>

@@ -88,7 +88,7 @@
   <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna gir</string>
   <string name="handy_mode_summary">Kapatmak için karanlık alana dokunun.</string>
   <string name="handy_mode_title">Tek elle kullanım modu</string>
-  <string name="help">Yardımı görüntüle</string>
+  <string name="help">Cihazlar bulunamıyor mu?</string>
   <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız, diğer kişiden Mi Paylaşım\'ı açmasını isteyin.</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Ana sayfa düğmesi üzerine parmağınızı koyun</string>
   <string name="input_method_clipboard_checkbox_cancle">İptal</string>
@@ -316,4 +316,11 @@
   <string name="xiaomi_poco_f1">Xiaomi POCO F1</string>
   <string name="xspace_head">Klonlu uygulama</string>
   <string name="xspace_resolver_activity_title">Uygulama seç</string>
+  <string name="device_status_failed">Gönderilemedi</string>
+  <string name="device_status_sending">Gönderiliyor…</string>
+  <string name="device_status_success">Başarıyla gönderildi</string>
+  <string name="device_status_waiting">Bekleniyor…</string>
+  <string name="open_close_tip_action">Anladım</string>
+  <string name="open_close_tip_content">Kayan pencereyi kapatmak için eylem çubuğunu basılı tutun ve yukarı kaydırın</string>
+  <string name="security_share_text">Gizlilik koruması</string>
 </resources>
