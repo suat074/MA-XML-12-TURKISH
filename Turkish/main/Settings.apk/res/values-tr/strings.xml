@@ -1809,7 +1809,6 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dialog_restrict_positive">İptal</string>
   <string name="dialog_speaker_auto_clean_button">Anladım</string>
   <string name="dialog_speaker_auto_clean_content">Temizleme 30 saniye sürer. Bu sayfadan ayrılmayın. En iyi etki için ses seviyesini en üst düzeye çıkarın.</string>
-  <string name="dialog_speaker_auto_clean_title">Dikkat</string>
   <string name="dialog_title_color_calibration">Renk düzeltme hazır ayarı</string>
   <string name="dialog_title_hdmi_color_calibration">Renk düzeltme hazır ayarı</string>
   <string name="dialog_title_login">Mi Hesabınızda oturum açın</string>
@@ -7148,11 +7147,6 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="zone_time_type_dst">Gün ışığı tasarruf zamanı</string>
   <string name="zone_time_type_standard">Standart zaman</string>
     <string name="allow_oaid_used_desc">Açıkça izin vermedikçe uygulamalar herhangi bir kimliğe erişemez. Bu özellik açıkken bazı kişisel öneri özellikleri düzgün çalışmayabilir.</string>
-    <string name="auto_clean_description">Bu özellik hakkında
-1. Hoparlörünüzün tozla hafifçe tıkanmış olduğunu fark ederseniz, bu özelliği bir veya iki kez çalıştırın.
-2. Hoparlör aşırı derecede engellenirse, cihazınızı hoparlör aşağı bakacak şekilde sallarken bu özelliği 2-5 kez çalıştırın.</string>
-    <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
-    <string name="auto_clean_title">Açık hoparlör</string>
     <string name="backup_at_once">Destek ol</string>
     <string name="backup_more_settings">Ayarlar</string>
     <string name="bluetooth_device_nearby_title">Yakındaki cihazlar</string>
@@ -7173,8 +7167,6 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="device_oaid_title">Sanal Kimlik</string>
     <string name="device_of_someone">"%1$s's %2$s"</string>
     <string name="dialog_backup_title">Fabrika ayarlarına sıfırlama yapmadan önce yedeklemeler güncellensin mi?</string>
-    <string name="dialog_speaker_auto_clean_button">Anladım</string>
-    <string name="dialog_speaker_auto_clean_content">Temizleme 30 saniye sürer. Bu sayfadan ayrılmayın. En iyi etki için ses seviyesini en üst düzeye çıkarın.</string>
     <string name="dialog_speaker_auto_clean_title">Dikkat</string>
     <string name="face_data_apply_for_category_title">Yüz verilerini kullanarak kilidi aç</string>
     <string name="face_data_apply_for_keyguard_title">Kilit ekranı</string>
@@ -7346,7 +7338,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Tekrar deneyin</string>
     <string name="structure_face_delete_data_dialog_title">Kamera başlatılamadı</string>
     <string name="structure_face_hardware_abnormal_btn">Anladım</string>
-    <string name="structure_face_hardware_abnormal_msg">Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu işe yaramazsa, yardım almak için 400–100–5678'i arayın.</string>
+    <string name="structure_face_hardware_abnormal_msg">Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu işe yaramazsa, yardım almak için 400–100–5678 arayın.</string>
     <string name="structure_face_hardware_abnormal_title">Donanım hatası</string>
     <string name="structure_face_modules_abnormal_btn">Yeniden Başlat</string>
     <string name="structure_face_modules_abnormal_msg">Optik modül hatası nedeniyle yüz verileri kaydedilemiyor. Cihazınızı yeniden başlatın ve tekrar deneyin.</string>

@@ -284,11 +284,9 @@
   <string name="app_behavior_warning_audio_title">%1s arka planda ses kaydediyor</string>
   <string name="app_behavior_warning_content">İzin vermediyseniz bu işlemi sonlandırın</string>
   <string name="app_behavior_warning_location_title">%1s konumunuza erişiyor</string>
-  <string name="app_behavior_desc_virtual_once">Adresinde boş bir ileti döndürdü %1$s</string>
   <string name="app_behavior_get_install">%1s uygulamalarınızın listesine erişti</string>
   <string name="app_behavior_get_install_single">Bu uygulama uygulamalarınızın listesine erişti</string>
   <string name="app_behavior_now_running">Çalışıyor</string>
-  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" \"Boş ileti döndürme\" olarak değiştirildi"</string>
   <string name="app_behavior_start_from_app" formatted="false">%1s tarafından başlatıldı %2s</string>
   <string name="app_behavior_this_run">Bir kere</string>
   <string name="app_bg_restrict_dialog_message">Arka plan ağ bağlantısını kısıtlamak, uygulamanın normal şekilde çalışmasını engelleyebilir. Örneğin, artık iletileri almak veya içeriği güncelleştirmek mümkün olmayabilir.</string>
@@ -1925,7 +1923,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişir</string>
   <string name="permission_action_accept">Kabul</string>
   <string name="permission_action_always">Her zaman izin ver</string>
-  <string name="permission_action_desc">İzin verin, ancak gizliliği korumak için uygulamaya boş mesajlar geri gönderin</string>
+  <string name="permission_action_desc">İzin verin, ancak gizliliği korumak için uygulamaya boş mesajlar geri gönder</string>
   <string name="permission_action_foreground">Uygulamayı kullanırken</string>
   <string name="permission_action_prompt">Bildir</string>
   <string name="permission_action_reject">Reddet</string>
@@ -3110,7 +3108,6 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
     <string name="perm_intercept_privacy_content">Bu eylemler kişisel verilerinizi ortaya çıkarabilir. İzin (%1s) yine de verilsin mi?</string>
     <string name="perm_intercept_title">%1s ye kullanım verilerine erişim izni vermek, bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:</string>
     <string name="perm_intercept_unknown_title">%1s nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki riskleri oluşturabilir:</string>
-    <string name="permission_action_desc">İzinleri verin ancak gizliliği korumak için uygulamaya boş iletiler gönderin</string>
     <string name="permission_action_desc_always">Bu izin her zaman kullanılabilir</string>
     <string name="permission_action_desc_foreground">Bu izin yalnızca uygulamayı kullanırken kullanılabilir</string>
     <string name="permission_action_desc_prompt">Bu izin yalnızca izin verdiğinizde kullanılabilir</string>
