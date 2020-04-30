@@ -15,6 +15,7 @@
   <string name="dialog_connect_verify_perssion_fail">TV’niz yayın izni veremedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="dialog_connected">Bağlandı</string>
   <string name="dialog_connecting">Bağlanıyor…</string>
+  <string name="dialog_nfc_cast_wifi_off">"NFC'yi kullanabilmek için Wi-Fi'yı açın. Şimdi açılsın mı?"</string>
   <string name="dialog_ok">Tamam</string>
   <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
   <string name="dialog_open_wifi_bt">Aç</string>
@@ -136,5 +137,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="toast_guide_title">Explore our new features here</string>
   <string name="toast_msg_for_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
   <string name="toast_msg_for_small_window">Telefonunuzun diğer özelliklerini yansıtma işlemini durdurmadan kullanabilmek için açılan pencereyi simge durumuna küçültebilirsiniz.</string>
+  <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>
   <string name="toast_title_for_small_window">Uygulamada \"Pencereyi küçült \" seçeneğini seçin</string>
+  <string name="toast_turn_off_hotspot_before_cast">Yansıtmadan önce internet paylaşımını kapatın</string>
 </resources>

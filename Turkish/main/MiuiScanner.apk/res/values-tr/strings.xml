@@ -359,4 +359,8 @@
   <string name="you_have_permission_to_download">Beta sürümünü indirmek için dokunun</string>
   <string name="you_id">"Kimliğiniz: "</string>
   <string name="your_application_is_under_review">" (Başvurunuz inceleniyor.)"</string>
+  <string name="translation_type_chat">Sohbet</string>
+  <string name="qureyGoods">Ürün ara</string>
+  <string name="queryGoodsFailed">Ürün bilgisi bulunamadı</string>
+  <string name="downloadAiVison">Bu özelliği kullanmak için bir eklenti yükleyin</string>
 </resources>

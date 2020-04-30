@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ai_assistant">AI Çağrı asistanı</string>
+  <string name="ai_assistant_not_installed">Önce AI Çağrı asistanını yükleyin</string>
   <string name="antispam_local_marked">Yerel olarak işaretlendi</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
@@ -108,6 +110,8 @@
   <string name="description_target_answer">Cevapla</string>
   <string name="do_not_support_video_calls_by_remote">Görüntülü çağrı aramaları diğer cihazda desteklenmiyor</string>
   <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
+  <string name="enter_ai_assistant">Kullan</string>
+  <string name="enter_ai_assistant_tip">"AI Çağrı asistanı bu çağrıyı alabilir ve diğer kişinin konuşmasını sizin yerinize metne dönüştürebilir. AI'nın şimdi yanıtlamasına izin verilsin mi?"</string>
   <string name="inCallLabel">Telefon</string>
   <string name="incall_bubble_hangup_click_hint">Çağrıya geri dönmek için tekrar dokunun</string>
   <string name="incall_call_type_label_sip">İnternet çağrısı</string>
@@ -190,6 +194,7 @@
   <string name="unlock_phone">Cihaz kilidini aç</string>
   <string name="upgrade_vt_prompt">Görüntülü görüşmeye geçilsin mi?</string>
   <string name="user_locked_prompt">Kişilere erişmek için cihazın kilidini açın.</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Yetersiz bant genişliği, sesli çağrıya geçiş</string>
   <string name="video_conference_caller_info_name">%1$s için görüntülü konferans çağrısı</string>
   <string name="video_crbt_title">Diğer tarafın video geri arama tonu çalıyor</string>
   <string name="voicemail">Sesli mesaj</string>

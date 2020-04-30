@@ -90,6 +90,8 @@
   <string name="notify_device_lose_connection_text">%1$s eşlemesini kaldırmak için dokunun</string>
   <string name="notify_device_lose_connection_title">%1$s ile bağlantı kesildi</string>
   <string name="ok_button">Tamam</string>
+  <string name="perm_ble_des">BLE ayarlarına erişim</string>
+  <string name="perm_ble_lab">BLE ayarlarına erişim</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="progress_scanning">Aranıyor…</string>
   <string name="reset_function_msg">Bu özelliği sıfırlamak, %1$s öğesinin normal şekilde çalışmasını engelleyebilir.</string>
