@@ -86,6 +86,14 @@
   <string name="mihome_ignore_title">Bu cihaz yok sayılsın mı?</string>
   <string name="mihome_update_tips">Mi Home uygulamasını güncelleyin ve telefonunuzu cihaza yakın tutun.</string>
   <string name="mihome_update_title">Mi Home\'u güncelle</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="notify_device_lose_connection_text">%1$s eşlemesini kaldırmak için dokunun</string>
   <string name="notify_device_lose_connection_title">%1$s ile bağlantı kesildi</string>

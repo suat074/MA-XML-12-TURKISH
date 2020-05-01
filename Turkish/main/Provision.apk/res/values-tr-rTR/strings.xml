@@ -49,7 +49,7 @@
   <string name="disagreement_function">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kullanmamayı seçebilirsiniz.</string>
   <string name="disagreement_location_service">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız.</string>
   <string name="disagreement_terminate_service">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda kaldırmayı, çıkış yapmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.</string>
-  <string name="download_introduction">Bu uygulama GetApps, Mi Video, Güncelleyici, Temalar ve Tarayıcı\'da yapılanlar da dahil olmak üzere tüm indirmelerinizi yönetir.</string>
+  <string name="download_introduction">\"İndirilenler\", cihazınıza öğeleri indirmek için Xunlei kullanır. Bu araç GetApps, sistem güncellemeleri, temalar, videolar ve tarayıcı indirmelerinde çalışır.</string>
   <string name="enable_accessibility_canceled">Erişilebilirlik iptal edildi.</string>
   <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack\'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine ve ardından ekrana iki kez dokunun.</string>
   <string name="enable_accessibility_dialog_negative_btn">İptal</string>

@@ -57,6 +57,14 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="lasttime_applist_cloud">Güncellenmiş uygulamalar:</string>
   <string name="lasttime_feature_cloud">Güncellenmiş özellikler:</string>
   <string name="message_i_know">Anladım</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde, bildirimler için ekranı aydınlatmayacak, LED ışığını, parmak izi sensörünü ve dokunmatik kontrolleri kapatacak.</string>
   <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
   <string name="notification_exit_extreme_mode_text">Pil %s üzerinde şarj edildi</string>
