@@ -61,14 +61,14 @@
   <string name="iv_fw_resize_content_description">Küçültülmüş uygulamanın boyutunu ayarla</string>
   <string name="iv_speaking_content_description">Oynat</string>
   <string name="loading">Sadece bir saniye…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="new_permission_agree"><Data>Hizmetlerimizi kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="new_permission_agree_explain">Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.</string>
   <string name="new_permission_content_first_line">"Mi Ditto\'ya hoş geldiniz! Bu uygulamayı, sesi metne dönüştürmek ve metin girişinize göre konuşma oluşturmak için kullanabilirsiniz.

@@ -53,6 +53,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="app_disable_transparent_wallpaper">Şeffaf duvar kağıdı olmadan</string>
   <string name="app_enable_transparent_wallpaper">Şeffaf duvar kağıdı ile</string>
   <string name="app_name">Temalar</string>
+  <string name="apply_choosen_type_resource">Seçili öğeleri uygula</string>
   <string name="apply_default_font_tip">Sistemin geçerli yazı tipini kullanmaya devam etsin mi?</string>
   <string name="apply_font_btn_exclude">Şimdi değil</string>
   <string name="apply_font_btn_reboot">Yeniden başlat</string>
@@ -116,6 +117,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="current_using_lockscreen_wallpaper_text">Kilit ekranı</string>
   <string name="current_version">Geçerli sürüm: %1$s</string>
   <string name="current_version_incompatible">Uyumlu değil</string>
+  <string name="date_picker_lunar">Ay Takvimi</string>
   <string name="de_apply_icons">Uygulama simgeleri</string>
   <string name="de_apply_icons_and_wallpaper">Uygulama simgeleri ve duvar kağıdı</string>
   <string name="de_author_follow">Takip et</string>
@@ -223,6 +225,8 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="find_more_theme">Daha fazla</string>
   <string name="find_more_wallpapers">Daha fazla</string>
   <string name="first_page_recommend">Önerilen</string>
+  <string name="gallery_wallpaper">Duvar Kağıdı Döngüsü</string>
+  <string name="gallery_wallpaper_theme">Olmazsa olmaz duvar kağıtları</string>
   <string name="gift_anonymous">Anonim</string>
   <string name="gift_operation_fail_dlg_abandon">İptal</string>
   <string name="gift_operation_fail_dlg_retry">Tekrar dene</string>
@@ -788,6 +792,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_is_external_priority_storage_summary">Temalar yeniden başlatılınca etkinleştirilecektir</string>
   <string name="theme_multiple_button_title_customize">Özelleştir</string>
   <string name="theme_no">Hayır</string>
+  <string name="theme_not_include_module_desc">Bu tema aşağıdaki öğeleri içermez: %s</string>
   <string name="theme_on_the_phone_alert">Çağrı sırasında oynatılamıyor</string>
   <string name="theme_preview">Tema önizlemesi</string>
   <string name="theme_purchased_list_empty">Satın aldığınız herhangi tema yok.</string>

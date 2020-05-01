@@ -45,6 +45,10 @@
     <item quantity="one">%1$d öğe</item>
     <item quantity="other">%1$d öğe</item>
   </plurals>
+  <plurals name="de_icon_count">
+    <item quantity="other">%1$d simge</item>
+    <item quantity="one">%1$d simge</item>
+  </plurals>
   <plurals name="de_more_comment">
     <item quantity="one">%1$d daha fazla yorum</item>
     <item quantity="other">%1$d daha fazla yorum</item>
@@ -63,6 +67,14 @@
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Yarım saat önce</item>
+  </plurals>
+  <plurals name="icon_batch_has_update_text">
+    <item quantity="other">%1$d simge için güncelleme var</item>
+    <item quantity="one">%1$d simge için güncelleme var</item>
+  </plurals>
+  <plurals name="icon_batch_updating_text">
+    <item quantity="other">%1$d simge güncelleniyor…</item>
+    <item quantity="one">%1$d simge güncelleniyor…</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">1 saat içinde</item>

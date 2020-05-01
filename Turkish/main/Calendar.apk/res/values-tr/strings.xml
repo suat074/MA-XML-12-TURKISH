@@ -55,7 +55,7 @@
   <string name="add_countdown">Sayaç ekle</string>
   <string name="add_event">Etkinlik ekle</string>
   <string name="address">Adres</string>
-  <string name="agenda_month_empty_hint">Bugün için planlanmış etkinlik yok. Oluşturmak için dokunun.</string>
+  <string name="agenda_month_empty_hint">Bugün için etkinlik yok</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
   <string name="agenda_view">Etkinlikler</string>
   <string name="alarm_label">Anladım</string>
@@ -65,7 +65,6 @@
   <string name="anniversary_event_title">Yıldönümü: %1$s</string>
   <string name="anniversary_secondary_tag">Yıldönümü</string>
   <string name="app_label">Takvim</string>
-  <string name="app_name">ortak</string>
   <string name="birthday_born">Doğum günü</string>
   <string name="birthday_calendar_display_name">Doğum günü hatırlatmaları</string>
   <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
@@ -738,7 +737,7 @@
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>

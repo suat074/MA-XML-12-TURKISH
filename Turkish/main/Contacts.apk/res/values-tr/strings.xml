@@ -31,7 +31,7 @@
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
