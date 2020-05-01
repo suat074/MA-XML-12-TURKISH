@@ -160,6 +160,9 @@
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonlu uygulamalar bunlarla birlikte kaldırılacak.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonlu uygulama bununla birlikte kaldırılacak.</string>
   <string name="confirm_uninstall_dialog_title">Klonlu uygulamalar kaldırıldı.</string>
+  <string name="content_description_button_add">Geçerli uygulamalara eklemek için dokunun</string>
+  <string name="content_description_button_disable">Daha fazla geçerli uygulama eklenemiyor</string>
+  <string name="content_description_button_remove">Geçerli uygulamalardan kaldırmak için dokunun</string>
   <string name="content_description_for_shortcut_icon_checked">%1$s, kontrol edildi</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, kontrol edilmedi</string>
   <string name="content_description_workspace_thumbnail_item">Ekran önizlemesi, sayfa %1$s</string>

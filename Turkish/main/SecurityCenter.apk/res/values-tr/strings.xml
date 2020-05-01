@@ -299,6 +299,7 @@
   <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
   <string name="app_manager_advanced_setting">Gelişmiş ayarlar</string>
   <string name="app_manager_allow">Evet</string>
+  <string name="app_manager_anomaly_analysis">Uygulama anormalliklerini analiz et</string>
   <string name="app_manager_app_ifno_version">Uygulama sürümü</string>
   <string name="app_manager_app_info_label">Uygulama bilgisi</string>
   <string name="app_manager_app_info_name">Uygulama ismi</string>

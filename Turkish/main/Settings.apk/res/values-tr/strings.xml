@@ -4407,6 +4407,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="restore_dialog_title">Dikkat</string>
   <string name="restore_oaid_content">Davranış ve tercih kayıtlarınızı temizlemek için sanal kimliğinizi sıfırlayın</string>
   <string name="restore_oaid_positive">Sıfırla</string>
+  <string name="restore_oaid_positive_step">Sıfırla(%1$d)</string>
   <string name="restore_oaid_title">Sanal kimliği sıfırla</string>
   <string name="restr_pin_enter_admin_pin">Yönetici PIN kodunu girin</string>
   <string name="restrict_background_blacklisted">Arkaplan verileri kapatıldı</string>

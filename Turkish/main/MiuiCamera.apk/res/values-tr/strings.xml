@@ -212,6 +212,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="clone_offset_is_too_large">Çok fazla hareket. Yeniden başlamayı deneyin.</string>
   <string name="clone_photo_mode">Fotoğraflar</string>
   <string name="clone_put_phone_back_in_place">Cihazınızı orijinal konumuna getirin</string>
+  <string name="clone_recapture_alert">Baştan başlansın mı?</string>
   <string name="clone_start_capture">Klonlamaya başla</string>
   <string name="clone_too_much_movement_stop">Cihazı çok ileri taşıdınız. Şimdilik yakalama durduruldu.</string>
   <string name="clone_video_mode">Video</string>

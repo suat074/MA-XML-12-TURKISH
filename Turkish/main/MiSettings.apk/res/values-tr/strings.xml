@@ -37,6 +37,7 @@
   <string name="contact_title">Kişi kısayolları</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="control_center_title">Bugünkü ekran süresi</string>
+  <string name="control_center_title_new">Bugünkü kullanım</string>
   <string name="copy">Kopyala</string>
   <string name="create">Oluştur</string>
   <string name="create_failed">Oluşturulamadı</string>
@@ -50,6 +51,7 @@
   <string name="exit_easymode">Basit modu kapat</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="first_unlock_time">"İlk kilidi açma: "</string>
+  <string name="focus_mode_custom_time">Özel süre</string>
   <string name="focus_mode_timer_add_limit">%d taneye kadar özel süre oluşturabilirsiniz</string>
   <string name="focus_mode_timer_delete">Sil</string>
   <string name="focus_mode_timer_exist">Bu oturum zaten var</string>
@@ -302,6 +304,7 @@ Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağı
   <string name="usage_reach_device_limit">Süre doldu! Sınırınıza ulaştınız.</string>
   <string name="usage_reach_device_limit_warning_text">Bugün için ekran süresi sınırınıza ulaştınız</string>
   <string name="usage_refresh">Tekrar deneyin</string>
+  <string name="usage_remain_hour_miunte">%1$s %2$s</string>
   <string name="usage_request_error_summary">Bilinmeyen bir hata oluştu</string>
   <string name="usage_request_timeout_summary">İstek zaman aşımına uğradı</string>
   <string name="usage_runtime_per_des_summary">Ekran süresi istatistiklerinizi kaydetmek için</string>
