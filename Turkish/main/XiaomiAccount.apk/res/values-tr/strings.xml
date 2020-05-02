@@ -574,8 +574,8 @@
   <string name="xiao_mi_vip">Mi VIP</string>
   <string name="account_user_id_show">Mi Hesabı: %s</string>
   <string name="action_retry">Tekrar deneyin</string>
-  <string name="cloud_description_closed">Meşgul | Eşitleme kapalı</string>
-  <string name="cloud_description_normal">Meşgul</string>
+  <string name="cloud_description_closed">Dolu | Eşitleme kapalı</string>
+  <string name="cloud_description_normal">Dolu</string>
   <string name="copy">Kopyala</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="health_action_activate">Etkinleştir</string>

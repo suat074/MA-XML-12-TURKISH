@@ -35,7 +35,7 @@
   <string name="agenda_settings_account">Takvim hesaplarını yönet</string>
   <string name="agenda_settings_birthday">Doğum günlerini göster</string>
   <string name="agenda_settings_credit">Kredi kartı faturalarını göster</string>
-  <string name="agenda_settings_elecbill">Elektrik fatura &amp; gaz fatura</string>
+  <string name="agenda_settings_elecbill">Elektrik ve gaz faturalarını göster</string>
   <string name="agenda_settings_loan">Kredi geri ödeme bilgisini göster</string>
   <string name="alipay_init">Alipay başlatılıyor…</string>
   <string name="alipay_init_success">Alipay başarıyla başlatıldı</string>

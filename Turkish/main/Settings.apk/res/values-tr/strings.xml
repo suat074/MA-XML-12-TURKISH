@@ -2438,6 +2438,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="got_it">Anladım</string>
   <string name="gps_description">Birden fazla uydu navigasyon sistemi (GPS, BeiDou, GLONASS, Galileo) desteklenir</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den WLAN\'a</string>
+  <string name="gxzw_add_fingerprint_area">Parmak izi tarayıcısı</string>
   <string name="gxzw_add_fingerprint_continue">Devam et</string>
   <string name="gxzw_add_fingerprint_edge_message">Parmağınızın kenarlarını kaydetmek için parmağınızı hareket ettirin</string>
   <string name="gxzw_add_fingerprint_edge_title">Kavramanızı ayarlayın</string>
@@ -2586,6 +2587,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="ime_security_warning_title_global">Klavyeyi açma</string>
   <string name="imei_information_summary">IMEI İle İlgili Bilgi</string>
   <string name="imei_information_title">IMEI Bilgisi</string>
+  <string name="imei_multi_sim">IMEI (sim yuva %1$d)</string>
   <string name="immediately_destroy_activities">Faaliyetleri saklama</string>
   <string name="immediately_destroy_activities_summary">Kullanıcı ayrılır ayrılmaz tüm faaliyetler kaldırılır</string>
   <string name="importance_default">Varsayılan</string>
@@ -5346,9 +5348,11 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="status_iccid">ICCID</string>
   <string name="status_invalid_password">Geçersiz şifre, tekrar deneyin.</string>
   <string name="status_latest_area_info">Operatör bilgisi</string>
-  <string name="status_min_number">MİN</string>
+  <string name="status_min_number">MIN</string>
   <string name="status_network_type">Hücresel ağ türü</string>
-  <string name="status_number">Telefon numaram</string>
+  <string name="status_number">Telefon numarası</string>
+  <string name="status_number_sim_slot">Telefon numarası (sim yuvası %1$d)</string>
+  <string name="status_number_sim_status">SIM\'deki telefon numarası</string>
   <string name="status_operator">Ağ</string>
   <string name="status_prl_version">PRL sürümü</string>
   <string name="status_roaming">Dolaşım</string>
@@ -5434,7 +5438,7 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="storage_unmount_success">%1$s güvenli şekilde çıkartıldı</string>
   <string name="storage_usb">USB Depolama</string>
   <string name="storage_usb_settings">Depolama</string>
-  <string name="storage_used">Kullanılan depolama alanı</string>
+  <string name="storage_used">Depolama kulanımı</string>
   <string name="storage_volume_summary">%2$s / %1$s kullanıldı</string>
   <string name="storage_volume_total">%1$s kullanıldı</string>
   <string name="storage_volume_used">%1$s kullanıldı</string>
@@ -7226,19 +7230,19 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="feedback_btn_text">Geri bildirim gönderin</string>
     <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın</string>
     <string name="flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücü kullanın</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Kayan pencerenin eylem çubuğunu basılı tutun ve ardından aşağı çekin</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Kayan pencereleri tam ekran modunda görüntüleme</string>
-    <string name="freeform_guide_move_summary">Sürüklemek için kayan bir pencerenin işlem çubuğunu basılı tutun</string>
-    <string name="freeform_guide_move_title">Kayan pencereleri hareket ettirme</string>
-    <string name="freeform_guide_move_to_small_freeform_window_summary">Kayan pencereyi ekranın köşesine sürükleyin</string>
-    <string name="freeform_guide_move_to_small_freeform_window_title">Kayan pencereleri küçültme</string>
-    <string name="freeform_guide_notification_drop_down_summary">Bir bildirimin eylem çubuğunu basılı tutun ve ardından aşağı çekin</string>
-    <string name="freeform_guide_notification_drop_down_title">Kayan pencereleri açma</string>
-    <string name="freeform_guide_settings">Kayan pencere</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Kayan bir pencerenin işlem çubuğundan hızlıca yukarı kaydırın</string>
-    <string name="freeform_guide_slide_up_to_close_title">Kayan pencereleri kapatma</string>
-    <string name="freeform_vedio_description">"·Kayan bir pencerede açmak için basılı tutun ve bildirimi aşağı çekin.
-•Uygulamaları seçmek için Son Aramalar\'da \"Kayan pencereler\" öğesine dokunun.</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Yüzer bir pencerenin eylem çubuğuna basılı tutun ve ardından aşağı çekin</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Yüzer pencereleri tam ekran modunda görüntüleme</string>
+    <string name="freeform_guide_move_summary">Sürüklemek için Yüzer bir pencerenin eylem çubuğuna basılı tutun</string>
+    <string name="freeform_guide_move_title">Yüzer pencereleri taşıma</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Yüzer pencereyi ekranın köşesine sürükleyin</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Yüzer pencereleri küçültme</string>
+    <string name="freeform_guide_notification_drop_down_summary">Bir bildirimin eylem çubuğuna basılı tutun ve ardından aşağı çekin</string>
+    <string name="freeform_guide_notification_drop_down_title">Yüzer pencereleri açma</string>
+    <string name="freeform_guide_settings">Yüzer pencere</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Yüzer bir pencerenin eylem çubuğundan  yukarı kaydırın</string>
+    <string name="freeform_guide_slide_up_to_close_title">Yüzer pencereleri kapatma</string>
+    <string name="freeform_vedio_description">"·Yüzer bir pencerede açmak için basılı tutun ve bildirimi aşağı çekin.
+·Uygulamaları seçmek için Son Kullanılanlar bölümünde \"Yüzer pencereler\" öğesine dokunun.</string>
     <string name="gps_description_global">Çoklu uydu navigasyon sistemleri (%s) desteklenir</string>
     <string name="help_and_feedback_title">Yardım ve geri bildirim</string>
     <string name="micloud_service_summary">Uygulama listesini senkronize edin, sistem ayarlarını ve Ana ekran düzenini yedekleyin</string>
@@ -7316,7 +7320,7 @@ Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yükle
 Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
     <string name="sound_assist_summary">Ses ayarlarınızı özelleştirin</string>
     <string name="sound_assist_title">Ses asistanı</string>
-    <string name="storage_use_title">Meşgul</string>
+    <string name="storage_use_title">Dolu</string>
     <string name="structure_face_data_delete_fail">3D yüz verileri silinemedi. Tekrar deneyin.</string>
     <string name="structure_face_data_input_down">Başınızı eğin</string>
     <string name="structure_face_data_input_error_away_screen">Telefonu yüzünüzden biraz daha uzaklaştırın</string>

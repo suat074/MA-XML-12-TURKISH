@@ -1070,7 +1070,14 @@
   <string name="msim_set_sub_not_supported_phone_in_call">Çağrı esnasında ayarlanamıyor</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kart hatası</string>
   <string name="msim_setting_categery_title">SIM Kart Ayarları</string>
+  <string name="msim_setting_default_data">Veri kartı</string>
+  <string name="msim_setting_default_voice">Çağrılar için varsayılan</string>
+  <string name="msim_setting_install_virtual_sim_install">Yükle</string>
+  <string name="msim_setting_install_virtual_sim_message">SIM kart satın almak ve operatör planınızı yönetmek için Mi Operatör Hizmetleri\'ni yükleyin.</string>
+  <string name="msim_setting_install_virtual_sim_tip">Mi Operatör Hizmetleri</string>
   <string name="msim_setting_no_sim_indicator">SIM kart yok</string>
+  <string name="msim_setting_no_sim_number">Ayarlanmadı</string>
+  <string name="msim_setting_no_sim_package_info">Bakiye bilgisi yok</string>
   <string name="msim_setting_operator_network_title">Mobil Ağ</string>
   <string name="msim_setting_screen_title">SIM Kartlar &amp; Mobil Ağlar</string>
   <string name="msim_setting_sim_info_editor_title">SIM bilgilerini düzenle</string>
@@ -1140,6 +1147,7 @@
   <string name="no_wifi_available">SIP çağrıları için bir WLAN ağına bağlı olmanız gerekir (Kablosuz &amp; Ağ Ayarlarını kullanın).</string>
   <string name="not_a_valid_port">Port numarası %1$d ile %2$d arasında olmalıdır.</string>
   <string name="not_allowed">SIM kartınız bu ağa bağlanmaya izin vermiyor.</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="not_voice_capable">Sesli arama desteklenmiyor</string>
   <string name="notification_channel_demo">Demo cihaz</string>
   <string name="notification_demo_version_text">Çağrı yapılamıyor veya mobil veri kullanılamıyor</string>

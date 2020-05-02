@@ -439,7 +439,7 @@
   <string name="recents_title_garbage_deepclean">Derin temizlik</string>
   <string name="recents_title_market">Uygulamaları bul</string>
   <string name="recents_title_security_scan">Güvenlik taraması</string>
-  <string name="recents_tv_small_window_text">Yüzen pencereler</string>
+  <string name="recents_tv_small_window_text">Yüzer pencereler</string>
   <string name="recommend_app">Uygulama önerileri</string>
   <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_no_data">Veri yok</string>
@@ -487,7 +487,7 @@
   <string name="small_window_edit_title">Geçerli uygulamalar</string>
   <string name="small_window_empty">Kullanılabilir uygulamalardan seçin</string>
   <string name="small_window_select_title">Kullanılabilir uygulamalar</string>
-  <string name="small_window_title_text">Yüzen bir pencere açmak için dokunun</string>
+  <string name="small_window_title_text">Yüzer bir pencere açmak için dokunun</string>
   <string name="small_window_toast">En fazla %d uygulama ekleyebilirsiniz</string>
   <string name="sort_by_abc">İsme göre sırala</string>
   <string name="sort_by_frequency">Kullanıma göre sırala</string>

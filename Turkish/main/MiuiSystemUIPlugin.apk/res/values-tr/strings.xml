@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="already_in_small_freeform">Bazı uygulamalar yüzen pencerelerde açılır</string>
+    <string name="already_in_small_freeform">Bazı uygulamalar yüzer pencerede açılır</string>
     <string name="no_avaliable_application">Kullanılabilir uygulama yok</string>
-    <string name="quick_settings_hang_label">Yüzen pencereler</string>
-    <string name="quick_settings_hang_on">Şimdi yüzen pencereleri kullanabilirsiniz</string>
+    <string name="quick_settings_hang_label">Yüzer pencereler</string>
+    <string name="quick_settings_hang_on">Şimdi yüzer pencereleri kullanabilirsiniz</string>
 </resources>

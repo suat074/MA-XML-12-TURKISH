@@ -109,7 +109,7 @@ Bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için 
   <string name="title_how_to_reply">Diğer kişiye nasıl cevap verebilirim?</string>
   <string name="title_how_to_save_messages">Metne dönüştürülen öğeleri nasıl kaydedebilirim?</string>
   <string name="title_how_to_switch_float_window">Uygulamayı nasıl simge durumuna küçültebilirim?</string>
-  <string name="toast_already_in_float_window_mode">Yüzen pencereye geçildi</string>
+  <string name="toast_already_in_float_window_mode">Yüzer pencereye geçildi</string>
   <string name="toast_create_shortcut_success">Ana ekran kısayolu başarıyla oluşturuldu</string>
   <string name="toast_long_time_no_sound">Hiçbir şey duyamıyorum. Şimdilik metne dönüştürme durduruldu. Aşağıdaki düğmeye dokunarak dönüştürmeye devam edebilirsiniz.</string>
   <string name="toast_save_done">Notlar\'a başarıyla kaydedildi</string>
