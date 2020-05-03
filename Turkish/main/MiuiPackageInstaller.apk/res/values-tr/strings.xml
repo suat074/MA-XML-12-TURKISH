@@ -20,7 +20,7 @@
   <string name="copy">Kopyala</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="miui_clear_apks_summary">Toplam %s</string>
-  <string name="miui_clear_apks_title">Kurulum paketlerini otomatik olarak temizle</string>
+  <string name="miui_clear_apks_title">Kurulum paketl. otomatik temizle</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>

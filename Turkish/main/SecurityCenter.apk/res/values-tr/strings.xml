@@ -3144,7 +3144,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
     <string name="privacy_dialog_call_title">Çağrıları koruyun</string>
     <string name="privacy_dialog_camera_message">Gizliliğinizi korumak için MIUI, uygulamaların kameranızı arka planda kullanmasına izin vermez.</string>
     <string name="privacy_dialog_camera_title">Arka plan kamera kullanımını kısıtla</string>
-    <string name="privacy_dialog_danger_mission_message">"Android'in birden fazla yüksek riskli izni vardır (örneğin, anlık ileti bildirimleri gönderme izni). Gizliliğinizi korumak için, MIUI bu gibi davranışa izin verip vermediğini soracak ve kısıtlama seçenekleri sunacak."</string>
+    <string name="privacy_dialog_danger_mission_message">"Android'in birden fazla yüksek riskli izni vardır (örn. size anlık bildirim gönderme izni). Gizliliğinizi korumak için MIUI, bu tür davranışlara izin verip vermediğinizi soracak ve kısıtlama seçenekleri sunacaktır."</string>
     <string name="privacy_dialog_danger_mission_title">Yüksek riskli izinler</string>
     <string name="privacy_dialog_feedback">Geri bildirim</string>
     <string name="privacy_dialog_ok">Anladım</string>

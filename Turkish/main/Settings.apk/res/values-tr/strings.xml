@@ -1428,7 +1428,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="convert_to_file_encryption_done">Zaten şifrelenmiş</string>
   <string name="convert_to_file_encryption_enabled">Dönüştür...</string>
   <string name="cool_color">Soğuk</string>
-  <string name="copyright_title">Telif Hakkı</string>
+  <string name="copyright_title">Telif hakkı</string>
   <string name="corner_assistant_gesture_summary">Google Asistan\'ı uyandırmak için sol veya sağ alt köşeden yukarı kaydırın</string>
   <string name="corner_assistant_gesture_title">Google Asistan için köşeden yukarı kaydır</string>
   <string name="country_name">%s (sistem)</string>
@@ -6673,7 +6673,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_p2p_menu_rename">Cihazı adlandır</string>
   <string name="wifi_p2p_menu_search">Cihazları ara</string>
   <string name="wifi_p2p_menu_searching">Aranıyor...</string>
-  <string name="wifi_p2p_peer_devices">Emsal Cihazlar</string>
+  <string name="wifi_p2p_peer_devices">Eş cihazlar</string>
   <string name="wifi_p2p_persist_network">Bu bağlantıyı hatırla</string>
   <string name="wifi_p2p_remembered_groups">Hatırlanan gruplar</string>
   <string name="wifi_p2p_settings_title">Doğrudan WLAN Bağlantısı</string>
