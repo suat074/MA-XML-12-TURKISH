@@ -7,12 +7,12 @@
   <string name="grant_dialog_button_allow">İzin ver</string>
   <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
   <string name="grant_dialog_button_allow_background">Her zaman izin ver</string>
-  <string name="grant_dialog_button_allow_foreground">Yalnızca uygulamayı kullanırken izin ver</string>
+  <string name="grant_dialog_button_allow_foreground">Sadece uygulamayı kullanırken izin ver</string>
   <string name="grant_dialog_button_allow_onetime">Bir kez</string>
   <string name="grant_dialog_button_deny">Reddet</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
   <string name="grant_dialog_button_deny_background">Sadece uygulamayı kullanırken</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Her zaman, ama yalnızca uygulamayı kullanırken</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Her zaman, ama sadece uygulamayı kullanırken</string>
   <string name="HIPS_Action_Accept">İzin ver</string>
   <string name="HIPS_Action_Accept_Once">Bir kez izin ver</string>
   <string name="HIPS_Action_Reject">Reddet</string>
