@@ -2219,7 +2219,9 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="privacy_description_camera_mic">%1s arka planda kamerayı ve mikrofonu kullanıyor. Bu etkinliği kısıtlamak için aşağıdaki anahtarı değiştirebilirsiniz.</string>
   <string name="privacy_description_mic">%1s arka planda mikrofonu kullanıyor. Bu etkinliği kısıtlamak için aşağıdaki anahtarı değiştirebilirsiniz.</string>
   <string name="privacy_dialog_message">Internet\'e bağlandığınızda, taşıyıcı bilgileri ile birlikte bu ileti şifrelenir ve veri kullanımı izleme geliştirmemize yardımcı olmak için Mİ sunucularına yüklenir.</string>
-  <string name="privacy_mode_dialog_title">Misafir Modu</string>
+  <string name="privacy_mask_summary">Gerçek tanımlayıcınız yerine, MIUI üçüncü taraf uygulamalarına bir sanal kimlik (OAID) sağlayacak. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
+  <string name="privacy_mask_title">Sanal Kimlik açık</string>
+  <string name="privacy_mode_dialog_title">Misafir modu</string>
   <string name="privacy_notification_subtitle">İzinleri yönetmek için dokunun</string>
   <string name="privacy_notification_title_camera">%1s arka planda kamerayı kullanıyor.</string>
   <string name="privacy_notification_title_camera_mic">%1s arka planda kamerayı ve mikrofonu kullanıyor.</string>

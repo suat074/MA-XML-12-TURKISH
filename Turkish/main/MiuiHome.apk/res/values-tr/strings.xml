@@ -522,12 +522,12 @@
   <string name="transformation_type_rotate">Çevir</string>
   <string name="transformation_type_stack">Basamak</string>
   <string name="uninstall">Kaldır</string>
-  <string name="uninstall_dialog_message">Kaldırma, tüm uygulama verilerini silecektir.</string>
+  <string name="uninstall_dialog_message">Kaldırma tüm uygulama verilerini siler.</string>
   <string name="uninstall_dialog_title_format">%s kaldırılsın mı?</string>
   <string name="uninstall_result_failed">%s kaldırılamadı</string>
   <string name="uninstall_result_succeeded">Başarıyla kaldırıldı</string>
   <string name="uninstall_with_xspace_dialog_message">İlgili klonlu uygulamalar, uygulama verileriyle birlikte kaldırılacak.</string>
-  <string name="uninstall_xspace_dialog_message">Klonlu uygulamayı kaldırmak tüm uygulama verilerini silecektir.</string>
+  <string name="uninstall_xspace_dialog_message">Klonlu uygulamayı kaldırma tüm uygulama verilerini siler.</string>
   <string name="uninstall_xspace_dialog_title_format">Klonlu \"%s\" kaldırılsın mı?</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Klasör</string>

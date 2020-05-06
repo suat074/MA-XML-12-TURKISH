@@ -322,7 +322,7 @@
   <string name="new_pc_backup_restore_link">Mobil cihaz</string>
   <string name="new_pc_backup_summary1">Öğeleri seçin ve \"Yedekle\" düğmesine dokunun.</string>
   <string name="new_pc_backup_summary2">Mobil cihazınızı bir USB kablosu ile bilgisayara bağlayın.</string>
-  <string name="new_pc_backup_summary4">Not: MIUI-DCIM konumundan fotoğraf ve video da kopyalayabilirsiniz.</string>
+  <string name="new_pc_backup_summary4">Not: DCIM konumundan fotoğraf ve video da kopyalayabilirsiniz.</string>
   <string name="new_pc_restore_content1">%d. Mobil cihazınızı bir USB kablosu ile bilgisayara bağlayın.</string>
   <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup konumuna kopyalayın.</string>
   <string name="new_pc_restore_content3">%1$d. \"%2$s\" açın ve geri yüklenecek öğeleri seçin.</string>

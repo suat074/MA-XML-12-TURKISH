@@ -960,7 +960,7 @@
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kkmm</string>
   <string name="kg_enter_confirm_pin_hint">Yeni PIN kodunu onaylayın</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile">Telefonun kilidini %1$d kez hatalı bir şekilde açmayı denediniz. %2$d başarısız denemeden sonra, çalışma profili kaldırılacak, bu da tüm profil verilerini silecektir.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile">Telefonun kilidini %1$d kez hatalı bir şekilde açmayı denediniz. %2$d başarısız denemeden sonra, iş profili kaldırılacak ve bu işlem tüm profil verilerini silecek.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Telefonun kilidini %1$d kez hatalı bir şekilde açmayı denediniz. %2$d başarısız denemeden sonra, bu kullanıcı kaldırılacak, tüm kullanıcı verileri silinecek.</string>
   <string name="kg_failed_attempts_almost_at_login">Kilit açma deseninizi %1$d kez yanlış çizdiniz. %2$d başarısız denemeden sonra, bir e-posta hesabı kullanarak telefonunuzun kilidini açmanız istenecektir.\n\n %3$d saniye içinde tekrar deneyin.</string>
   <string name="kg_failed_attempts_almost_at_wipe">Telefonun kilidini %1$d kez hatalı bir şekilde açmayı denediniz. %2$d başarısız denemeden sonra, bu telefon sıfırlanacak ve tüm veriler silinecek.</string>

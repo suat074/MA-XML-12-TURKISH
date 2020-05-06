@@ -32,14 +32,19 @@
   <string name="accessibility_add_attendee">Katılımcı ekle</string>
   <string name="accessibility_alarm_remind">Alarm hatırlatıcıları</string>
   <string name="accessibility_all_day">Tüm gün etkinlik</string>
+  <string name="accessibility_month_page_selected_prefix">%2$d / %1$d için aylık görünüm. Seçilen tarih: %4$d/%5$d/%3$d.</string>
   <string name="accessibility_pick_start_date">Başlangıç tarihi</string>
   <string name="accessibility_pick_time_zone">Saat dilimi</string>
   <string name="accessibility_remove_attendee">Katılımcıyı kaldır</string>
   <string name="accessibility_repeats">Tekrar</string>
   <string name="accessibility_sync_cal">Takvimi eşitle</string>
+  <string name="accessibility_year_item_selected">Seçilen ay: %d. Ay görünümünü açmak için dokunun.</string>
+  <string name="accessibility_year_page_selected">%d için yıl görünümü. Yıllar arasında geçiş yapmak için sola veya sağa kaydırın, ayları seçmek için dokunun.</string>
   <string name="account_and_calendar">Hesaplar</string>
   <string name="action_bar_date_button_title">Tarih hesapla</string>
   <string name="action_bar_return">Geri</string>
+  <string name="action_bar_cancel">İptal</string>
+  <string name="action_bar_confirm">Tamam</string>
   <string name="action_label">Girin</string>
   <string name="action_text_card_manager">Kanal</string>
   <string name="ad_card_connecting">Bağlanıyor</string>
@@ -368,7 +373,7 @@
   <string name="lottery_blue_ball_tip">Mavi top</string>
   <string name="lottery_red_ball_tip">Kırmızı top</string>
   <string name="lunar_date">Ay tarihi</string>
-  <string name="lunar_day_chinese_calendar">农历%1$s</string>
+  <string name="lunar_date_content_desc">Geleneksel Çin takvimine göre tarih</string>
   <string name="lunar_to_solar_chinese_calendar">Çince-Gregoryen</string>
   <string name="lunar_yue">Ay</string>
   <string name="match_ed">Sona erdi</string>
@@ -593,6 +598,7 @@
   <string name="shortcut_settings">Ayarlar</string>
   <string name="show_day_view">Günü göster</string>
   <string name="sms_import_description">Zaman ile ilgili SMS etkinliklerini daha iyi yönetin</string>
+  <string name="solar_date_content_desc">Miladi takvime göre tarih</string>
   <string name="solar_lunar_convert_description">Geleneksel Çince-Gregoryen</string>
   <string name="solar_lunar_convert_description_2">Geleneksel Çince ve Gregoryen takvimleri arasında geçiş yap</string>
   <string name="solar_lunar_convert_tab">Dönüştür</string>
