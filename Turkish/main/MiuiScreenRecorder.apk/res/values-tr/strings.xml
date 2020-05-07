@@ -81,6 +81,14 @@
   <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi.</string>
   <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt için bir miktar yer açın.</string>
   <string name="mic_sound">Mikrofon</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="no_recorder_info">Video yok</string>
   <string name="no_recorder_info2">Kaydı başlatmak için düğmeye dokunun</string>
   <string name="no_sound">Sessiz</string>
