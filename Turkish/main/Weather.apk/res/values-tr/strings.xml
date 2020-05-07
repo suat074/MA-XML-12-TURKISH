@@ -254,6 +254,8 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="radar_cloud_update_time">%1$s saatinden önce</string>
     <string name="rainfall_settings_summary">Yağış uyarıları</string>
     <string name="rainfall_settings_title">Yağış</string>
+	<string name="rain_sound_setting_summary_text">Ses efektleriyle hava değişikliklerine eşlik edin</string>
+    <string name="rain_sound_setting_title_text">Ses efektleri</string>
     <string name="real_time_sunrise">Gündoğumu %1$s</string>
     <string name="real_time_sunset">Günbatımı %1$s</string>
     <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
@@ -263,6 +265,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="refresh_empty_data">Veriler yüklemedi. Birkaç dakika bekleyin ve tekrar deneyin.</string>
     <string name="refresh_fail">Ağa bağlanılamadı</string>
     <string name="reminder_from_xiaomi_weather_app">Mi Hava durumu uyarısı</string>
+	<string name="request_cta_connect_net">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri almasına izin verin.</string>
     <string name="request_permission_location_dialog_content">Mevcut konumunuzdaki hava durumu bilgilerini görüntülemek için</string>
     <string name="request_permission_main_purpose">Hava durumu bilgilerini görüntülemek</string>
     <string name="request_permission_read_phone_state_dialog_content">Cihazınızı tanımlamak için</string>

@@ -58,8 +58,8 @@
     <item quantity="one">%1$d kayıt</item>
   </plurals>
   <plurals name="dream_talk_segment_unit">
-    <item quantity="other">kayıt</item>
-    <item quantity="one">kayıt</item>
+    <item quantity="other">" örnek"</item>
+    <item quantity="one">" örnek"</item>
   </plurals>
   <plurals name="duration_unit_hour_format">
     <item quantity="other">%1$d saat</item>

@@ -61,6 +61,7 @@
   <string name="audio_toast_file_invalid">Ses dosyası geçersiz</string>
   <string name="audio_toast_file_undownload">Ses dosyası tam olarak indirilmedi veya eksik</string>
   <string name="audio_toast_network_is_not_available">Ağa bağlanılamadı</string>
+  <string name="btn_next">Sonraki</string>
   <string name="call_folder_name">Çağrı notları</string>
   <string name="cancel_alarm_description">Alarmı iptal et</string>
   <string name="check_in_todo_app">Görevleri görüntüle</string>
@@ -257,6 +258,9 @@
   <string name="not_set">Ayarlanmadı</string>
   <string name="note_description_content">Notlar uygulaması, fikirlerinizi kaydetmek için harika bir araçtır. Yerleşik hatırlatıcılara sahiptir ve öğelerinizi bulut ile eşitler, böylece her yerde, istediğiniz zaman erişebilirsiniz. Uygulamayı silmeden önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="note_description_title">Notlar hakkında</string>
+  <string name="note_gesture_guide_step1">Bir sesli not oluşturmak için artı işaretini basılı tutun</string>
+  <string name="note_gesture_guide_step2">Bir klasör oluşturmak için bir nota basılı tutup başka bir notun üzerine sürükleyin</string>
+  <string name="note_gesture_guide_step3">Bir nota basılı tutun ve notu oraya taşımak için bir klasörün üzerine sürükleyin</string>
   <string name="note_link_email">E-posta oluştur</string>
   <string name="note_link_other">Harita uygulamasını kullanarak aç</string>
   <string name="note_link_select">Metni seç</string>

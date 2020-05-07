@@ -275,9 +275,9 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
   <string name="edit_basic_info_desc">Temel bilgiler</string>
   <string name="edit_sleep_record_button">Düzenle</string>
   <string name="enable">Açık</string>
-  <string name="enable_go_now">Açık</string>
-  <string name="enable_not_now">Kapalı</string>
-  <string name="enable_right_now">Açık</string>
+  <string name="enable_go_now">Aç</string>
+  <string name="enable_not_now">Şimdi değil</string>
+  <string name="enable_right_now">Aç</string>
   <string name="enough">Yeterli</string>
   <string name="enter_mi_health">Mi Sağlık\'ı açın</string>
   <string name="equivalent_exercise">yaklaşık %1$s km yürüyüş (%2$s kal)</string>
@@ -572,7 +572,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="no_data">Veri yok</string>
   <string name="no_records">Burada henüz öge yok.</string>
   <string name="no_snore">Horlamadın veya uykunda konuşmadın</string>
-  <string name="no_snore_1">Horlamadın veya uykunda konuşmadın</string>
+  <string name="no_snore_1">Burada henüz öğe yok</string>
   <string name="noon">ÖS</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">Hedefine ulaşmadın</string>
@@ -679,7 +679,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="sedentary_time_is_too_long">Hareket zamanı! Biraz su için ve bir yürüyüşe çıkın.</string>
   <string name="sedentary_title">Hareketli olmayı hatırlat</string>
   <string name="sedentary_toggle_content">Mi Sağlık, uzun süre hareketsiz kaldığınızda ayağa kalkıp yürümenizi hatırlatır.</string>
-  <string name="sedentaty_hazard_description">Oturmak sağlığınıza fayda sağlamaz. Her gün 12 saatlik ayakta durma hareketleri, hareketsiz yaşam tarzının risklerinden kaçınmanıza yardımcı olacaktır.</string>
+  <string name="sedentaty_hazard_description">Oturmak sağlığınıza fayda sağlamaz. Her gün 12 saat boyunca 1 dakikalık ayağa kalkma egzersizleri  hareketsiz bir yaşam tarzının risklerinden kaçınmanıza yardımcı olacaktır.</string>
   <string name="select_menstruation_end_date">Bu adet döneminin bitiş tarihini seçin</string>
   <string name="select_null">Seçilmedi</string>
   <string name="select_target">Hedef seçin</string>
@@ -701,8 +701,8 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="sleep_deep">Derin uyku</string>
   <string name="sleep_deep_light_analysis">Hafif uyku ve derin uyku</string>
   <string name="sleep_deep_light_close_tip">Derin uyku analizi kapalı</string>
-  <string name="sleep_deep_light_no_data">Derin uyku kaydı yok</string>
-  <string name="sleep_deep_light_no_data_improvement">Derin hafif uyku özellikleri tanımlanmamış ve algoritmayı optimize etmek için çaba gösterilecektir.</string>
+  <string name="sleep_deep_light_no_data">Burada henüz veri yok</string>
+  <string name="sleep_deep_light_no_data_improvement">Uyku aşamaları algılanamadı. Algoritmalarımızı geliştiriyoruz. Bizi izlemeye devam edin!</string>
   <string name="sleep_detection_enable">Uyku döngüsünü analiz edin</string>
   <string name="sleep_detection_feedback">Geri bildirim</string>
   <string name="sleep_detection_guide_four_description">Uyku izleme her gün pilinizde yaklaşık 1% tüketim yapar.</string>
@@ -782,7 +782,7 @@ bulunamadı"</string>
   <string name="sleep_snore_audio_enable_desc">Bu gece uykunuz otomatik olarak izlenecek.</string>
   <string name="sleep_snore_audio_hight_power_desc">Yatmadan önce cihazınızın şarjının yeterli olduğundan emin olun.</string>
   <string name="sleep_snore_detection">Horlamayı ve konuşmayı tespit et</string>
-  <string name="sleep_snore_detection_desc">Uykunuzu takip edin</string>
+  <string name="sleep_snore_detection_desc">Uykunuz hakkında daha fazla bilgi edinmek için horlamayı ve konuşmayı algılayın</string>
   <string name="sleep_sober">Uyanık</string>
   <string name="sleep_sober_times_title">Uyandı</string>
   <string name="sleep_status">Uyku durumu</string>
@@ -817,8 +817,10 @@ bulunamadı"</string>
   <string name="snore_detection_notification_content">Mikrofon açık. Arka planda çalışmaya devam edecek.</string>
   <string name="snore_detection_notification_title">Uyku testi devam ediyor</string>
   <string name="snore_detection_running_state">Algılanıyor...</string>
+  <string name="snore_detection_sotp_opt_1">Durdur ve sonuçları sil</string>
+  <string name="snore_detection_sotp_opt_2">Durdur ve sonuçları kaydet</string>
   <string name="snore_detection_stop_pop_content">Şimdi sonlandırırsanız bu oturuma devam edemezsiniz. Bir dahaki sefere yatağa gittiğinizde bir sonraki oturum başlayacaktır.</string>
-  <string name="snore_detection_stop_pop_title">Oturumu şimdi sonlandırılsın mı?</string>
+  <string name="snore_detection_stop_pop_title">Geçerli horlama algılama oturumu durdurulsun mu?</string>
   <string name="snore_detection_stopped_notification_title">Horlama ve konuşmayı algılama durdu</string>
   <string name="snore_dream_talk">Horlama ve konuşma</string>
   <string name="snore_duration_label">Horlama süresi</string>
@@ -905,6 +907,7 @@ bulunamadı"</string>
   <string name="sync_status_in_progress">Eşitleniyor...</string>
   <string name="sync_status_network_failure">Eşitlenemedi. Ağa bağlanın ve yeniden deneyin.</string>
   <string name="sync_status_never_done">Eşitlenmedi</string>
+  <string name="sync_status_oauth_error">Veri kaynağı eşitlemesi başarısız oldu, lütfen yeniden yetkilendirin</string>
   <string name="tb_audio_progress_bar">Ses çalma çubuğu</string>
   <string name="tb_card_on_using_list">Eklendi</string>
   <string name="tb_click_finish_stand">Görünüşe göre son bir saat içinde ayağa kalkmadınız. Varsa, el ile bir kayıt ekleyin.</string>
@@ -1000,8 +1003,8 @@ bulunamadı"</string>
   <string name="tb_picker_sleep_goal">Seçilen uyku hedefi: %1$s. Hedefi seçmek için dikey olarak kaydırın.</string>
   <string name="tb_picker_weight">Seçilen ağırlık: %1$s. Ağırlığı seçmek için dikey olarak kaydırın.</string>
   <string name="tb_picker_year">Seçilen yıl: %1$d. Yılı seçmek için dikey olarak kaydırın.</string>
-  <string name="tb_play_next">Sonraki ses</string>
-  <string name="tb_play_previous">Önceki ses</string>
+  <string name="tb_play_next">Sonraki kayda geç</string>
+  <string name="tb_play_previous">Önceki kayda geç</string>
   <string name="tb_select_a_column">%1$s seçildi</string>
   <string name="tb_show_sleep_info">%1$s için uyku durumları gösteriliyor</string>
   <string name="tb_sleep_evaluation">Tahmini sonuç: %1$s</string>
