@@ -723,11 +723,11 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="sleep_detection_question_four_title">Neden farklı cihazlar uykuyu izlemek için farklı oranlarda güç tüketiyor?</string>
   <string name="sleep_detection_question_one_answer">"Cihaz kapatıldığında, yeniden başlatıldığında veya pil zayıfladığında, sensörler veri toplayamayacağı ve analiz yapamayacağı için uyku izleme kesintiye uğrar. Bu gibi durumlarda, uyku istatistikleri eksik görünecektir.
 Bu sorun sık sık meydana geliyorsa, cihazınızda zamanlanmış kapatma görevleri veya gece sistem güncellemeleri olup olmadığını kontrol edin."</string>
-  <string name="sleep_detection_question_one_answer_1">"Derin hafif uykusu analizi cep telefonu sensörlerinin topladığı vücut hareketi verilerine dayanır. Aşağıdaki koşullar, derin hafif uyku analizi sonuçları içermeyebilir: 
-1. Veri toplama hatası. Veri toplama ve hesaplama, cep telefonunun kapatılması veya uyku sırasında yetersiz güç olması nedeniyle normal olarak gerçekleştirilemeyebilir. 
-2. Veri ayrıştırma başarısız oldu. Cep telefonunun vücuttan uzakta veya hareketsiz bir yere yerleştirilmiş olması, toplanan vücut hareketi verisinin yetersiz olması derin hafif uyku özelliklerinin geçici olarak analiz edilememesine sebep olabilir. Algoritmayı optimize etmeye devam edeceğiz."</string>
+  <string name="sleep_detection_question_one_answer_1">"Derin ve hafif uyku evreleri, cihazınızın sensörleri tarafından toplanan vücut hareketi verilerine göre tespit edilir. İstatistikleri görememenizin nedeni bunlar olabilir: 
+1. Xiaomi Sağlık veri toplayamadı. Bu durum siz uyurken cihazınızın gücü kesildiğinde, pili çok düşük olduğunda veya uygulamanın arka planda çalışmasına izin verilmediğinde meydana gelebilir. Bunun olmasını önlemek için, Xiaomi Sağlık\'a otomatik başlatma izni verin, Pil tasarrufu istisnalarına ekleyin ve arka planda kilitleyin.
+2. Xiaomi Sağlık toplanan verileri analiz edemedi. Bu, uyurken telefonun vücudunuzdan çok uzağa konmasından olabilir. Alternatif olarak, vücut hareketiniz uyku döngüsü değişiklikleriniz hakkında herhangi bir varsayımda bulunmak için çok az olabilir. Xiaomi Sağlık\'ın uykunuzu daha iyi analiz etmesi için algoritmalarımızı sürekli geliştiriyoruz."</string>
   <string name="sleep_detection_question_one_title">İstatistiklerim neden eksik?</string>
-  <string name="sleep_detection_question_one_title_1">Hafif ve derin uyku neden kaydedilmiyor?</string>
+  <string name="sleep_detection_question_one_title_1">Uyku döngüsü istatistiklerini neden görmüyorum?</string>
   <string name="sleep_detection_question_three_answer">Cihazınız, yerleşik sensörleri kullanarak uyku sırasında vücut hareketinizi izler. İstatistikleri daha doğru hale getirmek için cihazı vücudunuza yakın yumuşak bir yüzeye koyun. Başucunuzdaki masaya ya da yataktan uzağa koymaktan kaçının.</string>
   <string name="sleep_detection_question_three_title">İstatistiklerimi nasıl daha doğru hale getirebilirim?</string>
   <string name="sleep_detection_question_two_answer">Uyku döngüleriniz cihazda yerel olarak analiz edilir. Ağa bağlı olmadığınızda ya da mevcut bağlantınız kesildiğinde bile uyku izleme çalışır.</string>
@@ -775,12 +775,12 @@ bulunamadı"</string>
   <string name="sleep_service">Uyku izleme hizmeti</string>
   <string name="sleep_service_background_running">Uyku izleme hizmeti arka planda çalışıyor</string>
   <string name="sleep_setting_title">Uyku ayarları</string>
-  <string name="sleep_snore_audio_auto">Sesinizi takip edin</string>
-  <string name="sleep_snore_audio_auto_desc">Konuşmanızı uyurken kaydeder ve gizliliğinizi güvenli bir şekilde korumak için dosyayı telefonunuzda saklar.</string>
-  <string name="sleep_snore_audio_close_desc">Uyku ayarlarından devre dışı bırakabilirsiniz.</string>
-  <string name="sleep_snore_audio_enable">Algılamalar etkinleştirildi</string>
-  <string name="sleep_snore_audio_enable_desc">Bu gece uykunuz otomatik olarak izlenecek.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Yatmadan önce cihazınızın şarjının yeterli olduğundan emin olun.</string>
+  <string name="sleep_snore_audio_auto">Horlama ve konuşmayı otomatik olarak kaydet</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Sağlık, uyku zamanı programınıza göre horlama ve konuşma kayıtlarını otomatik olarak kaydedebilir. Kalktığınızda kayıt duracak. Gizliliğinizi korumak için, tüm kayıtlı dosyalar dahili bir algoritma kullanılarak cihazınıza yerel olarak kaydedilir.</string>
+  <string name="sleep_snore_audio_close_desc">Bu özelliği Ayarlar\'dan istediğiniz zaman kapatabilirsiniz.</string>
+  <string name="sleep_snore_audio_enable">Otomatik algılama açık</string>
+  <string name="sleep_snore_audio_enable_desc">Horlamanız ve konuşmanız uykuya daldığınızda otomatik olarak kaydedilir.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Bu özelliği kullanmanın önemli miktarda güç tükettiğini unutmayın. Beklenmeyen kesintileri önlemek için uyurken cihazınızı şarja bağlı tutmak iyi bir fikirdir.</string>
   <string name="sleep_snore_detection">Horlamayı ve konuşmayı tespit et</string>
   <string name="sleep_snore_detection_desc">Uykunuz hakkında daha fazla bilgi edinmek için horlamayı ve konuşmayı algılayın</string>
   <string name="sleep_sober">Uyanık</string>
