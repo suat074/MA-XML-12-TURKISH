@@ -64,6 +64,7 @@
   <string name="friday_shortest">C</string>
   <string name="gamma">Gama</string>
   <string name="healthy_use_phone">Ekran süresini yönet</string>
+  <string name="high_fps_description">Yüksek ekran yenileme hızı. Daha yüksek güç tüketimi.</string>
   <string name="hsv_space_color">HSV renk alanı</string>
   <string name="hsv_space_color_hue">Ton</string>
   <string name="hsv_space_color_saturation">Doygunluk</string>
@@ -71,6 +72,7 @@
   <string name="intelligent_recognition_item_summary">Teslimat ve taksi hizmetlerinden gelen çağrılar için belirlenmiş bir zil sesi kullanın. Bu özellik, %s varsayılan zil sesiniz olarak ayarlandığında çalışacaktır.</string>
   <string name="intelligent_recognition_item_title">Hizmetleri tanımla</string>
   <string name="lock_summary">Kişisel bilgilerinizi koruyun</string>
+  <string name="low_fps_description">Düşük ekran yenileme hızı. Düşük güç tüketimi.</string>
   <string name="low_light_preview">Düşük ışık önizlemesi</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile eşitlendi</string>
@@ -166,6 +168,7 @@
   <string name="search_menu_title">Ara</string>
   <string name="several_days_use_time">Ekran süresi: %2$s</string>
   <string name="shortcut_created">Bu kısayol zaten var</string>
+  <string name="silent_ringtone_hint">Ses şimdi susturuldu. Sesi açın ve tekrar deneyin.</string>
   <string name="sim_slot_1"> (SIM 1)</string>
   <string name="sim_slot_2"> (SIM 2)</string>
   <string name="sms_delivered_sound_title">İletilen mesaj</string>
@@ -266,8 +269,12 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_home_premission_second_summary_double_link_prefix">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden yetkinizi iptal edebilirsiniz.</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Bu uygulamayı kullanmadan önce, &lt;a href='%1s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2s'>Gizlilik Politikamızı&lt;/a> okuyup kabul edin."</Data></string>
   <string name="usage_home_premission_second_summary_new">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden iptal edebilirsiniz. Gizlilik hakkında daha fazlası için, privacy@xiaomi.com adresinden bizimle iletişime geçebilirsiniz.</string>
+  <string name="usage_new_home_app_limit_summary">Bu uygulama için günlük ekran süresi sınırı ayarlayın</string>
+  <string name="usage_new_home_app_limit_title">Ekran süresini sınırla</string>
   <string name="usage_new_home_average">"Ort "</string>
+  <string name="usage_new_home_avg_usage_day">Günlük ort. %s </string>
   <string name="usage_new_home_category">Kategori</string>
+  <string name="usage_new_home_classify_manage">Uygulama kategorilerini yönet</string>
   <string name="usage_new_home_compare_text1">Bir önceki günden %.2f daha fazla</string>
   <string name="usage_new_home_compare_text2">Bir önceki günden %.2f daha az</string>
   <string name="usage_new_home_compare_text3">Önceki günle aynı</string>
@@ -281,9 +288,11 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_new_home_name">Ad</string>
   <string name="usage_new_home_show_more_data_summary">Uygulamalar için tek tek ekran süresini de sınırlayabilirsiniz</string>
   <string name="usage_new_home_show_more_data_title">Daha fazla istatistik görüntüle</string>
+  <string name="usage_new_home_sys_no_limit_summary">Sistem uygulamaları için ekran süresi sınırlandırılamıyor</string>
   <string name="usage_new_home_unlock_equals_text">Önceki günle aynı</string>
   <string name="usage_new_home_unused">Kullanılmadı</string>
   <string name="usage_new_home_update">Değişiklik</string>
+  <string name="usage_new_home_usage_detail">Kullanım ayrıntıları</string>
   <string name="usage_new_home_week_category_title">Uygulama kategorileri</string>
   <string name="usage_new_home_week_compare_text1">Önceki haftadan %.2f daha fazla</string>
   <string name="usage_new_home_week_compare_text2">Önceki haftadan %.2f daha az</string>
