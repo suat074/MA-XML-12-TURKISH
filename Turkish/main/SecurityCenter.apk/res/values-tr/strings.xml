@@ -3107,7 +3107,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
     <string name="perm_intercept_content">Bu uygulamaya aşağıdaki izni verin: %1s?</string>
-    <string name="perm_intercept_notification_title">%1 öğesinin bildirimleri kullanmasına izin vermek, bu uygulamanın aşağıdaki eylemleri gerçekleştirmesine izin verir:</string>
+    <string name="perm_intercept_notification_title">%1s öğesinin bildirimleri kullanmasına izin vermek, bu uygulamanın aşağıdaki eylemleri gerçekleştirmesine izin verir:</string>
     <string name="perm_intercept_privacy_content">Bu eylemler kişisel verilerinizi ortaya çıkarabilir. İzin (%1s) yine de verilsin mi?</string>
     <string name="perm_intercept_title">%1s ye kullanım verilerine erişim izni vermek, bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:</string>
     <string name="perm_intercept_unknown_title">%1s nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki riskleri oluşturabilir:</string>

@@ -131,9 +131,9 @@
     <item>Metin düzenleri, hesaplar ve içerik düzgün görüntülenmeyebilir.</item>
   </string-array>
   <string-array name="perm_intercept_notification">
-    <item>Kısa mesajlarınızın içeriği ve kişisel bilgiler içerebilecek diğer öğeler dahil olmak üzere tüm bildirimlerinizi okuyun</item>
+    <item>Kısa mesajlarınızın içeriği ve kişisel bilgiler içerebilecek diğer öğeler dahil olmak üzere tüm bildirimlerinizi okuma</item>
     <item>Bazı uygulamalar için bildirim izinlerini kısıtlama</item>
-    <item>Dokunma bildirimlerini ve açık uygulamaları simüle et</item>
+    <item>Dokunarak bildirimleri ve açık uygulamaları simüle etme</item>
     <item>Rahatsız etme modunu açma ve kapatma</item>
   </string-array>
   <string-array name="perm_intercept_statitics">
