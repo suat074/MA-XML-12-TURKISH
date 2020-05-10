@@ -213,8 +213,8 @@
     <item quantity="one">%1$d kere</item>
   </plurals>
   <plurals name="times_format">
-    <item quantity="other">%1$d kez</item>
-    <item quantity="one">%1$d kez</item>
+    <item quantity="other">%1$d kere</item>
+    <item quantity="one">%1$d kere</item>
   </plurals>
   <plurals name="title_menstruation_day">
     <item quantity="other">Adetin %1$d günü</item>
@@ -237,8 +237,8 @@
     <item quantity="one">" gün"</item>
   </plurals>
   <plurals name="unit_times">
-    <item quantity="other"> kez</item>
-    <item quantity="one"> kez</item>
+    <item quantity="other">" kere"</item>
+    <item quantity="one">" kere"</item>
   </plurals>
   <plurals name="user_age_display_format_year">
     <item quantity="other">%1$d yaşında</item>

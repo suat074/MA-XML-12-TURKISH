@@ -1141,7 +1141,6 @@ Yenilikler:
   <string name="update_notify_dialog_title">Bir güncelleme mevcut</string>
   <string name="update_notify_no_update_log">Burada henüz hiçbir şey yok.</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="visceral_fat">Viseral yağ</string>
