@@ -1420,6 +1420,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="contact_data">Kişiler</string>
   <string name="content_description_menu_button">Menü</string>
   <string name="contributors_title">Katkıda bulunanlar</string>
+  <string name="control_panel_switch_side">Kontrol merkezi tarafını değiştir</string>
   <string name="controls_label">Kontroller</string>
   <string name="controls_subtitle">Güç kullanımını ayarla</string>
   <string name="convenience_key_category_title">Kısayollar</string>
