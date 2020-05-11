@@ -28,6 +28,7 @@
   <string name="bluetooth_device_context_unpair">Eşleşmeyi kaldır</string>
   <string name="bluetooth_disconnected">Eşleştirilmemiş</string>
   <string name="bluetooth_disconnecting">Eşleştirme kaldırılıyor…</string>
+  <string name="bluetooth_paired">Kaydedildi</string>
   <string name="bluetooth_preference_connected_devices">Eşleştirilmiş cihazlar</string>
   <string name="bluetooth_preference_found_devices">Mevcut cihazlar</string>
   <string name="bluetooth_preference_scan_title">Cihazları ara</string>

@@ -294,7 +294,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="allow_lights_title">LED ışık kullanmaya izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allow_oaid_used">Herhangi bir kimliğe erişimi kısıtla</string>
+  <string name="allow_oaid_used">Sanal kimlik kullan</string>
   <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde görüntülenmesine izin ver. Bu, uygulamaları kullanmanıza engel olabilir, görünüm veya davranış şeklini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
   <string name="allow_sound_title">Sese izin ver</string>
@@ -917,6 +917,7 @@ Sorun şunlar olabilir:
   <string name="bluetooth_opp_profile_summary_connected">Dosya transfer sunucusuna bağlandı</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Dosya transfer sunucusuna bağlanamadı</string>
   <string name="bluetooth_opp_profile_summary_use_for">Dosya transferini kullan</string>
+  <string name="bluetooth_paired">Kaydedildi</string>
   <string name="bluetooth_pairing">Eşleşiyor...</string>
   <string name="bluetooth_pairing_accept">Eşleştir</string>
   <string name="bluetooth_pairing_accept_all_caps">EŞLE</string>
@@ -4378,6 +4379,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
 
  Herhangi bir uygulama verisini kaybetmezsiniz."</string>
   <string name="reset_app_preferences_title">Uygulama seçeneklerini sıfırlamak istiyor musunuz?</string>
+  <string name="reset_confirm_directory">Not: Öğeleri geri yüklemeden önce, mobil cihazınızda \"MIUI-Backup-AllBackup\" klasörünün bulunup bulunmadığını kontrol edin. Yoksa, oluşturun.</string>
   <string name="reset_dashboard_title">Sıfırla</string>
   <string name="reset_legacy_password_settings_preface_text">Kilit ekranınızın şifresini sıfırlamalısınız.</string>
   <string name="reset_network_bluetooth">Bluetooth</string>
@@ -4391,6 +4393,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="reset_network_final_desc">Tüm ağ ayarları şimdi sıfırlansın mı? Bu birkaç saniye sürebilir. Bu işlemi geri alamazsınız.</string>
   <string name="reset_network_title">WLAN\'ı, mobil ağları ve Bluetooth\'u sıfırla</string>
   <string name="reset_network_wifi">WLAN</string>
+  <string name="reset_remove_data_hint">Yukarıda listelenen tüm öğeler kalıcı olarak silinecek. Devam etmeden önce tüm önemli öğeleri bilgisayarınıza veya Xiaomi Bulut\'a yedekleyin.</string>
   <string name="reset_second_space_passwd">İkinci Alan şifresini sıfırla</string>
   <string name="reset_second_space_passwd_cancel">İptal</string>
   <string name="reset_second_space_passwd_confirm">Devam</string>
@@ -4409,8 +4412,9 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="restore_dialog_positive">Sıfırla</string>
   <string name="restore_dialog_title">Dikkat</string>
   <string name="restore_oaid_content">Davranış ve tercih kayıtlarınızı temizlemek için sanal kimliğinizi sıfırlayın</string>
+  <string name="restore_oaid_dialog_content">Birden fazla uygulama sanal kimliğinizi kullanıyor. Şimdi sıfırlarsanız uygulama verilerinizin bir kısmı kaybolabilir veya kullanılamaz hale gelebilir. Sanal kimlik yine de sıfırlansın mı?</string>
   <string name="restore_oaid_positive">Sıfırla</string>
-  <string name="restore_oaid_positive_step">Sıfırla(%1$d)</string>
+  <string name="restore_oaid_positive_step">Sıfırla (%1$d)</string>
   <string name="restore_oaid_title">Sanal kimliği sıfırla</string>
   <string name="restr_pin_enter_admin_pin">Yönetici PIN kodunu girin</string>
   <string name="restrict_background_blacklisted">Arkaplan verileri kapatıldı</string>
@@ -7245,7 +7249,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="freeform_guide_slide_up_to_close_title">Yüzer pencereleri kapatma</string>
     <string name="freeform_vedio_description">"·Yüzer bir pencerede açmak için basılı tutun ve bildirimi aşağı çekin.
 ·Uygulamaları seçmek için Son Kullanılanlar bölümünde \"Yüzer pencereler\" öğesine dokunun.</string>
-    <string name="gps_description_global">Çoklu uydu navigasyon sistemleri (%s) desteklenir</string>
+    <string name="gps_description_global">Xiaomi cihazları GPS, NavIC, BeiDou, GLONASS ve Galileo gibi çoklu navigasyon sistemleriyle uyumludur.</string>
     <string name="help_and_feedback_title">Yardım ve geri bildirim</string>
     <string name="micloud_service_summary">Uygulama listesini senkronize edin, sistem ayarlarını ve Ana ekran düzenini yedekleyin</string>
     <string name="micloud_service_title">Xiaomi Bulut</string>

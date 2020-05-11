@@ -4,4 +4,5 @@
     <string name="no_avaliable_application">Kullanılabilir uygulama yok</string>
     <string name="quick_settings_hang_label">Yüzer pencereler</string>
     <string name="quick_settings_hang_on">Şimdi yüzer pencereleri kullanabilirsiniz</string>
+	<string name="quick_settings_scanner_label">Tarayıcı</string>
 </resources>

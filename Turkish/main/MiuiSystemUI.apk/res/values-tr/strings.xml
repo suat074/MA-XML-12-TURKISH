@@ -372,6 +372,7 @@
   <string name="bluetooth_opp_profile_summary_connected">Dosya aktarım sunucusuna bağlandı</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Dosya aktarım sunucusuna bağlanmadı</string>
   <string name="bluetooth_opp_profile_summary_use_for">Dosya aktarımı için kullan</string>
+  <string name="bluetooth_paired">Kaydedildi</string>
   <string name="bluetooth_pairing">Eşleniyor…</string>
   <string name="bluetooth_pairing_accept">Eşle</string>
   <string name="bluetooth_pairing_accept_all_caps">EŞLE</string>

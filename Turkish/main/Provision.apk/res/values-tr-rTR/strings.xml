@@ -19,6 +19,7 @@
   <string name="application_package_introduction">Bu uygulama, üçüncü taraf uygulamaları yüklemenizi, yüklemeden önce onları taramanızı sağlar, ve ondan sonra tavsiyelerde bulunur.</string>
   <string name="application_permissions">Uygulama izinleri</string>
   <string name="back">Geri</string>
+  <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz.</string>
   <string name="calculator_introduction">Bu uygulamayı hesaplama, birimler ve para birimleri dönüştürme ve ipotek geri ödemelerinizi tahmin etmek için kullanabilirsiniz.</string>
   <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için Kamera\'yı kullanabilirsiniz.</string>
   <string name="carrier_introduction">Size daha iyi hizmet verebilmek için, cihazınız periyodik olarak cihaz sürüm bilgilerini, cihaz tanımlama verilerini (IMEI/IMSI/MSISDN/MAC adresi, MEID/ICCID dahil) ve yaklaşık konum bilgilerini (baz istasyonu kimliği dahil) WLAN, mobil veri ağı veya ücretsiz SMS yoluyla operatöre gönderebilir. Operatör, yalnızca hizmetlerin kalitesini artırmak veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için ilgili bilgileri analiz etmeyi vaat eder ve ilgili bilgileri sizi kişisel olarak tanımlayan herhangi bir biçimde üçüncü taraflara açıklamaz. Özel operatör beyanı geçerli olacaktır. Bu servisi kullanmanın maliyeti konusunda operatörünüze danışın.</string>
@@ -109,6 +110,8 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="permission_account">Cihazınızdaki hesaplara erişim:</string>
   <string name="permission_account_introduction">Mi Hesabı ile giriş yapmak için</string>
   <string name="permission_application_package_introduction">Kurulum paketlerini ayrıştırma ve tarama adına depolamaya erişmek için</string>
+  <string name="permission_backup">Depolama alanına erişim</string>
+  <string name="permission_backup_introduction">Cihazınızdaki yedeklere erişmek ve bunları kaydetmek için</string>
   <string name="permission_call_records">Çağrı geçmişine erişim:</string>
   <string name="permission_call_records_introduction">Engellenen öğeleri görüntülemek adına çağrı geçmişine erişmek için</string>
   <string name="permission_call_state_introduction">Telefon durumuna erişmek, aramaları kaydetmek ve gelen aramalar sırasında kayıtları duraklatmak için</string>
@@ -165,6 +168,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum.</string>
   <string name="service_name_album">Galeri</string>
   <string name="service_name_application_package">Paket yükleyici</string>
+  <string name="service_name_backup">Yedekler</string>
   <string name="service_name_calculator">Hesap makinesi</string>
   <string name="service_name_camera">Kamera</string>
   <string name="service_name_carrier">Operatör hizmetleri hakkında açıklama</string>

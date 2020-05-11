@@ -381,6 +381,8 @@
   <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
   <string name="open_personal_assistant_title">Uygulama kasası</string>
   <string name="out_of_space">Bu Ana ekranda daha fazla yer yok</string>
+  <string name="perfect_icons_switch_summary">Üçüncü taraf simgelerini yeniden çiz</string>
+  <string name="perfect_icons_switch_title">Mükemmel simgeler</string>
   <string name="permdesc_install_shortcut">Uygulamaya, kullanıcı müdahalesi olmadan kısayol ekleme izni verir.</string>
   <string name="permdesc_install_widget">Uygulamaya, kullanıcı müdahalesi olmadan widget ekleme izni verir.</string>
   <string name="permdesc_read_settings">Uygulamaya, Ana ekran ayarlarını ve kısayollarını okuma izni verir.</string>

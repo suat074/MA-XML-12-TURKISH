@@ -135,6 +135,22 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ai_scene_top_moon_off">Düşük ışık modu</string>
   <string name="ai_scene_top_tip">Ay modu</string>
   <string name="ai_watermark_title">AI Filigranı</string>
+  <string name="ambilight_description_title">Uzun pozlama hakkında</string>
+  <string name="ambilight_intro_crowd_moving_part1">Kalabalık bir sokakta çekim yaparken, nesnenizin sabit durmasını isteyin. Diğer insanlar bulanık yollar olarak görünecek.</string>
+  <string name="ambilight_intro_crowd_moving_part2">Yoğun trafik ve hareketli kalabalıkların fotoğraflarını da çekebilirsiniz. Uzun pozlama binaları canlı tutacaktır, ancak tüm hareketli nesneler bulanık olacaktır.</string>
+  <string name="ambilight_intro_light_track">Aydınlatılmış tüm parçaları tek bir görüntüde bir araya getirmek için karanlık bir sahnede \"boyama\" için bir ışık kaynağı kullanın.</string>
+  <string name="ambilight_intro_magic_star">Düşük ışık kirliliği olan yerlerde bu modu kullanın. Pozlama %d saniye olarak ayarlanacak, bu nedenle tripod kullanmak harika bir fikir.</string>
+  <string name="ambilight_intro_silky_water_part1">Hareketli bulutları çekerken bu modu kullanın. Gökyüzüne \"petrol boyama\" efekti verir.</string>
+  <string name="ambilight_intro_silky_water_part2">Bu mod hareketli suyu (nehirler, şelaleler ve göller) ipeksi gibi gösterir.</string>
+  <string name="ambilight_intro_star_track">Yıldızlı gökyüzünü uzun süre çekmek yıldızların yörüngelerini yakalayabilir. Bir tripod kullanmayı ve en az %d dakika boyunca sürekli çekim yapmayı unutmayın.</string>
+  <string name="ambilight_intro_traffic_light">Geceleri, parlak hareketli ışıkların (örneğin arabalar ve gemilerde) gidişatını yakalayabilirsiniz. Bu mod, ekranınızdaki nihai sonucun gerçek zamanlı olarak önizlemesini sağlar.</string>
+  <string name="ambilight_scene_crowd_moving">Hareketli kalabalık</string>
+  <string name="ambilight_scene_light_track">Hafif boyama</string>
+  <string name="ambilight_scene_magic_star">Yıldızlı gökyüzü</string>
+  <string name="ambilight_scene_silky_water">İpeksi su</string>
+  <string name="ambilight_scene_star_track">Yıldız gezileri</string>
+  <string name="ambilight_scene_traffic_light">Neon izleri</string>
+  <string name="ambilight_tips_for_using_tripod">Bir tripod kullanın</string>
   <string name="app_name">Efekt Yöneticisi</string>
   <string name="audio_focus_exit_button_text">Ses odağını kapat</string>
   <string name="autozoom_click_hint">Hareket halindeyken odağı korumak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
@@ -578,6 +594,9 @@ Makro modunu kullanın"</string>
   <string name="module_name_square">Kare</string>
   <string name="module_name_video">Video</string>
   <string name="moive_frame">Film çerçevesi</string>
+  <string name="more_mode_style">Tüm kamera modlarını nasıl düzenlemek istediğinizi seçin</string>
+  <string name="more_mode_style_popup">\"Daha fazla\" paneli</string>
+  <string name="more_mode_style_tab">\"Daha fazla\" sekmesi</string>
   <string name="multi_window_mode_not_supported">Kamera çoklu pencere modunda kullanılamaz</string>
   <string name="network_access_user_notice_agree">Kabul</string>
   <string name="network_access_user_notice_message_live_video"><Data>"Kamera\'nın, kısa videolar için efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
@@ -596,6 +615,7 @@ Makro modunu kullanın"</string>
   <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
   <string name="pano_how_to_use_prompt_start">Yön değiştirmek için oka dokunun ve yavaşça kaydırmaya başlayın.</string>
   <string name="pano_how_to_use_prompt_to_move">Yavaş yavaş kaydırmaya başlayın</string>
+  <string name="parameter_ambilight_title">Uzun pozlama</string>
   <string name="parameter_description_pro_capture_title">Fotoğraf çekmek için profesyonel özellikler</string>
   <string name="parameter_description_pro_video_title">Video çekimi için profesyonel özellikler</string>
   <string name="parameter_description_sub_title">Fotoğraflarınız ve videolarınız üzerinde daha yaratıcı bir kontrol elde edin</string>
@@ -968,6 +988,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_manual_exposure_title_abbr">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="pref_more_mode_style_title">Kamera modları</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">240fps ile sadece 720p video kaydedebilirsiniz</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">960fps ile yalnızca 720p video kaydedebilirsiniz</string>
   <string name="pref_photo_assistance_tips_off">Kapalı</string>
