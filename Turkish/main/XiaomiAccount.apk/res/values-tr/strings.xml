@@ -331,7 +331,7 @@
   <string name="passport_extra_gdpr_license">Mi hesabınızı oluşturmak, xiaomi\'nin doğrulama verileri (örneğin, doğrulama kodları), ikinci alan verileri (örneğin, ikinci alanı kullanma yolları hakkında bilgi, birinci ve ikinci alanlarda kullanılan kimlikler) ve Gizlilik Politikamızda belirtilen diğer veriler de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul ettiğiniz anlamına gelir. Kişisel verileri nasıl işlediğimizi ve kullandığımızı öğrenmek için Gizlilik Politikamıza bakın.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_first_login_prompt">İlk kez oturum açtığınızda, Mi Hesabı otomatik olarak oluşturulacaktır.</string>
+  <string name="passport_first_login_prompt">İlk kez oturum açtığınızda, Mi Hesabı otomatik olarak oluşturulur.</string>
   <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
@@ -354,7 +354,7 @@
   <string name="passport_input_vcode_hint">Doğrulama kodunu girin</string>
   <string name="passport_input_voice_captcha_hint">Ses doğrulama kodunu girin</string>
   <string name="passport_input_voice_hint">Ses kodunu girin</string>
-  <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>
+  <string name="passport_international_register_by_email">E-posta adresini kullanarak hesap oluştur</string>
   <string name="passport_license_host_unreachable">Ağa bağlanamıyor. %s sayfayı görebilirsiniz.</string>
   <string name="passport_license_info_collapse">Daralt</string>
   <string name="passport_license_info_open">Ayrıntılar</string>
@@ -374,7 +374,7 @@
   <string name="passport_next">Sonraki</string>
   <string name="passport_no">Hayır</string>
   <string name="passport_notification_title">%1$s için oturum açma hatası</string>
-  <string name="passport_password_phone_login">Mi Hesabını kullanarak giriş yap</string>
+  <string name="passport_password_phone_login">Mi Hesabını kullanarak oturum açın</string>
   <string name="passport_password_req_notice">Şifre 8-16 karakter haneli olmalı sayılar ve harfler içermelidir (küçük harfe duyarlı).</string>
   <string name="passport_phone_num_hint_text">Telefon numarası</string>
   <string name="passport_phone_ticket_login">SMS ile giriş yap</string>
@@ -412,7 +412,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email"><u>E-posta adresini kullanarak bir hesap oluşturun</u></string>
+  <string name="passport_register_by_email"><u>E-posta adresini kullanarak hesap oluştur</u></string>
   <string name="passport_register_restricted">Bu numarayla ilişkilendirilmiş çok fazla hesap var, farklı bir hesap deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_register_using_other_ways">Hesap oluşturmak için diğer yollar</string>

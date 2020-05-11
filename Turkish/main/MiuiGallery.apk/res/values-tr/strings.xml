@@ -541,7 +541,7 @@
   <string name="drag_failed_because_not_custom_sort">Yalnızca özel sıralama düzeni seçiliyken öğeleri yeniden düzenleyebilirsiniz</string>
   <string name="drag_failed_because_screenshots_album_cant_sort">Ekran görüntüsü albümü silinemiyor veya gizlenemiyor</string>
   <string name="drag_failed_because_share_album_cant_sort">Diğer kişiler tarafından paylaşılan albümler silinemiyor</string>
-  <string name="drag_view_tip_sub_title">Yeniden düzenlemek için bir albüme basın ve basılı tutun</string>
+  <string name="drag_view_tip_sub_title">Yeniden düzenlemek için bir albüme basılı tutun</string>
   <string name="drag_view_tip_title">Albümleri yeniden düzenle</string>
   <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
   <string name="early_morning">ÖÖ</string>
@@ -558,7 +558,7 @@
   <string name="empty_album_other_list_title">Burada albüm yok</string>
   <string name="empty_album_rubbish_list_title">Burada albüm yok</string>
   <string name="empty_description_conditions">Önemli olan şeyleri hatırla</string>
-  <string name="empty_description_conditions_new">Öğelerin burada daha erken görünmesini sağlamak için yeterince fotoğraf çektiğinizden, şarj cihazını bağladığınızdan ve ekranı kapattığınızdan emin olun.</string>
+  <string name="empty_description_conditions_new">Öğelerin burada erken görünmesi için yeterince fotoğraf çekin, şarj cihazını bağlayın ve ekranı kapatın.</string>
   <string name="empty_description_no_cards">Fotoğraf çekmeye devam et. Öğeler oluşturulur oluşturulmaz burada görüntülenir.</string>
   <string name="empty_query_text_msg">Ne arayacağımı bilmiyorum...</string>
   <string name="empty_recommend_back">Geri</string>
