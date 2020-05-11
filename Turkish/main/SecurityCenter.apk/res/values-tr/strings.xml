@@ -2382,7 +2382,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="sim_location_error_notify_message">SIM konumunu değiştirmek için dokunun.</string>
   <string name="sim_location_error_notify_title">SIM kart hatası</string>
   <string name="sim_not_ready_toast">SIM kart hazır değil</string>
-  <string name="sim_state_exception_summary">SIM durumunda SIM kart ile ilgili bilgiler yanlışta olabilir.</string>
+  <string name="sim_state_exception_summary">SIM durumu, SIM kartınızda bir sorun olabileceğini gösterir.</string>
   <string name="sip_phone">SIP Telefon</string>
   <string name="skin_change_close_toast">Değişiklikler, bir sonraki Güvenlik başlatımı esnasında uygulanacak.</string>
   <string name="sms_address">Engelli Listesi Alanı</string>
