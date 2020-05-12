@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="doc_photo_adjust_section_title">Ayarlamak için sürükleyin</string>
+  <string name="doc_photo_cancel">İptal</string>
+  <string name="doc_photo_confirm">Çık</string>
   <string name="doc_photo_doc_photo_title">Belgeyi düzenle</string>
   <string name="doc_photo_enhance_bin">S&amp;B</string>
   <string name="doc_photo_enhance_color">Geliştirilmiş</string>
   <string name="doc_photo_enhance_none">Orijinal</string>
+  <string name="doc_photo_idcard_alert_msg">Tüm değişikliklerden vazgeçilsin ve düzenleyiciden çıkılsın mı?</string>
   <string name="doc_photo_idcard_emblem">Geri</string>
   <string name="doc_photo_idcard_mode_title">Kimlik kartı</string>
   <string name="doc_photo_idcard_portrait">Ön</string>

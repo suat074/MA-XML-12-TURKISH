@@ -382,8 +382,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_warn_low_sum">Xiaomi Bulut alanınız 90% doldu.</string>
   <string name="micloud_warn_low_title">Boş alanınız bitmek üzere</string>
   <string name="micloud_web_discription_place_holder">Verilerinizi yönetmek için bilgisayarınızdan %1$s adresini ziyaret edin.</string>
-  <string name="micloud_wipe_data_confirm_label">Verileri buluttan kaldır</string>
-  <string name="micloud_wipe_data_confirm_title">Telefonda oturum kapatıldığında Xiaomi Bulut ile eşitlenmiş öğeler kaldırılsın mı?</string>
+  <string name="micloud_wipe_data_confirm_label">Eşitlenen öğeler bu cihazdan silinsin mi?</string>
+  <string name="micloud_wipe_data_confirm_title">Aşağıdaki uygulamalardaki bazı öğeler Xiaomi Bulut ile eşitlenir. Onları bulutta tutarak bu cihazdan silebilirsiniz.</string>
   <string name="micloud_wipe_data_remove">Kaldır</string>
   <string name="micloud_wipe_data_retain">Koru</string>
   <string name="mx_dspt">Mi Mesaj</string>

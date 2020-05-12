@@ -211,6 +211,7 @@
   <string name="select">Seç</string>
   <string name="select_all">Tümünü Seç</string>
   <string name="send_files_to">Öğeleri gönder</string>
+  <string name="serviceEnabled">Hizmet etkinleştirildi.</string>
   <string name="set_password_action">Şifreyi ayarla</string>
   <string name="set_password_message">Bu özelliği kullanmak için bir şifre belirleyin.</string>
   <string name="set_password_title">Bir şifre ayarlayın</string>
