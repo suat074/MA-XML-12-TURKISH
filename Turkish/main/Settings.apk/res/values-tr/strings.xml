@@ -7295,8 +7295,8 @@ Ek ayarlara erişmeye devam edin."</string>
     <string name="oaid_string">"Mevcut sanal kimlik:
 %1s"</string>
     <string name="operation_guide_title">Öğretici</string>
-    <string name="other_password">Diğer parolalar</string>
-    <string name="password_and_security">Parolalar &amp; güvenlik</string>
+    <string name="other_password">Diğer şifreler</string>
+    <string name="password_and_security">Şifreler &amp; güvenlik</string>
     <string name="phone_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
     <string name="phone_backup_title">Mobil cihaz</string>
     <string name="privacy_protection">Gizlilik koruması</string>
