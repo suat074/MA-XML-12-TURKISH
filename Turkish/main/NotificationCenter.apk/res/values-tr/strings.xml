@@ -19,6 +19,7 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="app_name">Bildirimler</string>
+  <string name="back">Geri</string>
   <string name="cancel">İptal</string>
   <string name="category_other">Diğer</string>
   <string name="character_counter_content_description">Girilen karakter sayısı %1$d / %2$d</string>

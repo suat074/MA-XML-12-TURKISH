@@ -1386,6 +1386,11 @@
   <string name="quick_settings_cellular_detail_data_usage">Veri kullanımı</string>
   <string name="quick_settings_cellular_detail_data_used">%s kullanıldı</string>
   <string name="quick_settings_cellular_detail_data_warning">%s uyarısı</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) kapatılacak. WLAN kullanmadığınız sürece, veri bağlantısı gerektiren uygulamaları artık kullanamayacaksınız. Multimedya mesajı gönderme veya almada kısıtlanacaktır.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak, ödeme planınıza bağlı olarak ek ücretlere neden olabilir.</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
   <string name="quick_settings_cellular_detail_over_limit">Sınır aşıldı</string>
   <string name="quick_settings_cellular_detail_remaining_data">Kalan veri</string>
   <string name="quick_settings_cellular_detail_title">Mobil veri</string>

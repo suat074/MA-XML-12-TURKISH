@@ -54,6 +54,7 @@
   <string name="fast_connect_device_title_find_headset">%1$s bul</string>
   <string name="fast_connect_device_title_find_headset_others">Görünüşe göre bu cihaz senin değil: %1$s</string>
   <string name="fast_connect_nzbt_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
+  <string name="fast_connect_reset_common">Eşleştirmek için bu cihazı sıfırlayın</string>
   <string name="fast_connect_wbs_name">Mi kablosuz şarj hoparlörü</string>
   <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
   <string name="goto_package">%1$s aç</string>

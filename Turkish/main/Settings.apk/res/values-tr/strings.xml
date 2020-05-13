@@ -3354,6 +3354,8 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="miui_sos_msg_call_log_prefix">İşte son saat için arama geçmişim:</string>
   <string name="miui_sos_play_voice">SOS mesajını çal</string>
   <string name="miui_sos_remind_add">Ekle</string>
+  <string name="miui_sos_remind_close">Acil SOS modu açık. İlgili tüm işlevlerle birlikte kapatılsın mı?</string>
+  <string name="miui_sos_remind_close_confirm">Kapat</string>
   <string name="miui_sos_remind_infocontent">Seni acil durum kişisi olarak ekledim. Tehlikede olduğum durumlarda konum bilgim ile ilgili bir mesaj alacaksın. [Mi Acil SOS]</string>
   <string name="miui_sos_remind_open">Acil durum SOS\'in normal çalışması için en az 1 acil durum kişisine ihtiyacı vardır.</string>
   <string name="miui_sos_remind_sendinfo">Bu insanlara şimdi acil durum kişileri olduklarını söylemeyi unutmayın. Böylece, acil durumlarda size daha hızlı yardımcı olacaktır.</string>
