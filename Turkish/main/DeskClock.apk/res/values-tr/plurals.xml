@@ -65,11 +65,11 @@
         <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="sleep_duration_hour">
-        <item quantity="other">%1s saat</item>
+        <item quantity="other">%1$s saat</item>
         <item quantity="one">%1$s saat</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1s saat</item>
+        <item quantity="other">%1$s saat</item>
         <item quantity="one">%1$s saat</item>
     </plurals>
     <plurals name="sleep_duration_min">
