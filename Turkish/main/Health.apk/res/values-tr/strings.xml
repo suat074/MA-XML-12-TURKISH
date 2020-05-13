@@ -57,7 +57,6 @@ düğmeye dokunun"</string>
   <string name="all_records">Tüm kayıtlar</string>
   <string name="allow_notice_periods">Aktif zaman aralığı</string>
   <string name="altitude">Rakım</string>
-  <string name="am">ÖÖ</string>
   <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek, konuşma ve horlamayı kaydetmek için Xiaomi Sağlık\'ın ses kaydı iznine ihtiyacı var.</string>
   <string name="audio_permission_dialog_title">Ses kaydetmeye izin ver</string>
   <string name="audio_record_perm_description">Uyku döngüsünü analiz ederken horlamayı ve konuşmayı kaydetmek için</string>
@@ -105,10 +104,8 @@ düğmeye dokunun"</string>
   <string name="body_water">Su</string>
   <string name="body_water_descripe_content">Vücut su yüzdesi, insan vücudunun toplam ağırlığındaki su oranını ifade eder. Genellikle, kas dokusu diğer vücut kısımlarından daha fazla su içerir.</string>
   <string name="body_weight">Ağırlık</string>
-  <string name="body_weight_descripe_content">Vücut kitle endeksi (BMI), vücut kitlesinin vücut boyunun karesine bölünmesidir (kg/m).</string>
+  <string name="body_weight_descripe_content">Vücut kitle indeksi (VKİ), vücut kitlesinin vücut boyunun karesine bölünmesidir (kg/m).</string>
   <string name="body_weight_extremely_obesity">Hastalık derecesinde obez</string>
-  <string name="body_weight_fkg">%1$.1f KG</string>
-  <string name="body_weight_kg">%1$d KG</string>
   <string name="body_weight_little_obesity">Orta derece obez</string>
   <string name="body_weight_normal">Normal</string>
   <string name="body_weight_obesity">Aşırı obez</string>
@@ -271,7 +268,6 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
   <string name="dream_talk_title">Konuşma</string>
   <string name="drink_water">Biraz su için ve bir yürüyüşe çıkın.</string>
   <string name="early">Erken</string>
-  <string name="early_morning">ÖÖ</string>
   <string name="edit_basic_info_desc">Temel bilgiler</string>
   <string name="edit_sleep_record_button">Düzenle</string>
   <string name="enable">Açık</string>
@@ -385,7 +381,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="health_data_cloud_sync_subtitle">Sağlık verilerinizi bulutla eşitleyin ve tüm cihazlardan erişin</string>
   <string name="health_data_cloud_sync_title">Bulut ile eşitle</string>
   <string name="health_score">Sağlık puanı</string>
-  <string name="health_score_tips">Sağlık puanınız, VKE\'niz (vücut kitle endeksi) ile uyku ve etkinlik adımlarınıza dayanarak hesaplanır. Hedefinize ne kadar yakınlaşırsanız, sağlık puanınız o kadar artar.</string>
+  <string name="health_score_tips">Sağlık puanınız, VKİ\'niz (vücut kitle indeksi) ile uyku ve etkinlik adımlarınıza dayanarak hesaplanır. Hedefinize ne kadar yakınlaşırsanız, sağlık puanınız o kadar artar.</string>
   <string name="high_intensity">Yüksek</string>
   <string name="history_statistics">İstatistikler</string>
   <string name="home_page_card_setting">Başlangıç sayfası kartları</string>
@@ -488,7 +484,6 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="mesens_card_title_today_begin">Dönem bugün başlayabilir</string>
   <string name="mesens_card_title_tomorrow_begin">Dönem yarın başlayabilir</string>
   <string name="mi_health">Mi Sağlık</string>
-  <string name="midnight">ÖÖ</string>
   <string name="min_altitude">En düşük rakım</string>
   <string name="min_heart_rate">En düşük kalp atış hızı</string>
   <string name="min_pace">En düşük hız</string>
@@ -550,7 +545,6 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="month_september_shortest">E</string>
   <string name="more">Çok fazla</string>
   <string name="more_card">Daha fazla kart</string>
-  <string name="morning">ÖÖ</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
@@ -566,14 +560,12 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="need_unrestricted_permission">Daha doğru istatistikler almak için Mi Sağlık\'a arka planda çalışma izni verin.</string>
   <string name="network_connect_failure">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="next_step">İleri</string>
-  <string name="night">ÖS</string>
   <string name="no_available_device">Cihaz yok</string>
   <string name="no_body_weight_record">Burada henüz kayıt yok</string>
   <string name="no_data">Veri yok</string>
   <string name="no_records">Burada henüz öge yok.</string>
   <string name="no_snore">Horlamadın veya uykunda konuşmadın</string>
   <string name="no_snore_1">Burada henüz öğe yok</string>
-  <string name="noon">ÖS</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">Hedefine ulaşmadın</string>
   <string name="not_added">Eklenmedi</string>
@@ -610,7 +602,6 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="picker_month">Seçilen ay: %1$d. Seçmek için dikey olarak kaydırın.</string>
   <string name="picker_year">Seçilen yıl: %1$d. Seçmek için dikey olarak kaydırın.</string>
   <string name="play">Oynat</string>
-  <string name="pm">ÖS</string>
   <string name="pool_swimming">Havuzda yüzme</string>
   <string name="predict_menstruation">Beklenen adet dönemi</string>
   <string name="preference_about">Hakkında</string>
@@ -641,7 +632,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="rb_gender_female">Cinsiyet: Kadın</string>
   <string name="rb_gender_male">Cinsiyet erkek</string>
   <string name="reach_standard">Standardı karşılar</string>
-  <string name="recommand_body_weight_msg">Tavsiye edilen hedef kilo: %1$.1f kg. Kardiyovasküler ve karaciğer hastalıkları riskini azaltmak için %2$.1f BMI\'ye ulaşın.</string>
+  <string name="recommand_body_weight_msg">Tavsiye edilen hedef kilo: %1$.1f kg. Kardiyovasküler ve karaciğer hastalıkları riskini azaltmak için %2$.1f VKİ\'ne ulaşın.</string>
   <string name="record_body_weight_button">Kiloyu kaydet</string>
   <string name="record_detail_page_title">Ayrıntılar</string>
   <string name="recorded_menstruation">Kaydedilen adet dönemi</string>
@@ -817,6 +808,7 @@ bulunamadı"</string>
   <string name="snore_detection_notification_content">Mikrofon açık. Arka planda çalışmaya devam edecek.</string>
   <string name="snore_detection_notification_title">Uyku testi devam ediyor</string>
   <string name="snore_detection_running_state">Algılanıyor...</string>
+  <string name="snore_detection_running_state_description">Mikrofon açık. Arka planda çalışmaya devam edecek.</string>
   <string name="snore_detection_sotp_opt_1">Durdur ve sonuçları sil</string>
   <string name="snore_detection_sotp_opt_2">Durdur ve sonuçları kaydet</string>
   <string name="snore_detection_stop_pop_content">Şimdi sonlandırırsanız bu oturuma devam edemezsiniz. Bir dahaki sefere yatağa gittiğinizde bir sonraki oturum başlayacaktır.</string>
@@ -1027,7 +1019,7 @@ bulunamadı"</string>
   <string name="tb_user_sleep_target_btn">Uyku hedefini değiştir</string>
   <string name="tb_user_step_card_info">Günlük hedef: %1$s, hakkında %2$s veya %3$s.</string>
   <string name="tb_user_step_target_btn">Hedefi değiştir</string>
-  <string name="tb_user_weight_card_info">%1$s VKE, %2$s. Önerilen ağırlık: %3$s.</string>
+  <string name="tb_user_weight_card_info">%1$s VKİ, %2$s. Önerilen ağırlık: %3$s.</string>
   <string name="tb_weight_choice">%1$s\'den %2$s %3$s</string>
   <string name="tb_weight_decrease">Kilo kaybı</string>
   <string name="tb_weight_has_record">Tartım bulundu</string>
@@ -1141,6 +1133,7 @@ Yenilikler:
   <string name="update_notify_dialog_title">Bir güncelleme mevcut</string>
   <string name="update_notify_no_update_log">Burada henüz hiçbir şey yok.</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="visceral_fat">Viseral yağ</string>
