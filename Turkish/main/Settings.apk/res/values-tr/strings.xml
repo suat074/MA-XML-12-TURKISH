@@ -7159,7 +7159,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="zone_menu_by_region">Bölgeye göre seç</string>
   <string name="zone_time_type_dst">Gün ışığı tasarruf zamanı</string>
   <string name="zone_time_type_standard">Standart zaman</string>
-    <string name="allow_oaid_used_desc">Açıkça izin vermedikçe uygulamalar herhangi bir kimliğe erişemez. Bu özellik açıkken bazı kişisel öneri özellikleri düzgün çalışmayabilir.</string>
+    <string name="allow_oaid_used_desc">MIUI, yüklü uygulamalara bir sanal kimlik (OAID) sağlamayacak. Bazı kişisel öneri özellikleri bu nedenle düzgün çalışmayabilir.</string>
     <string name="backup_at_once">Destek ol</string>
     <string name="backup_more_settings">Ayarlar</string>
     <string name="bluetooth_device_nearby_title">Yakındaki cihazlar</string>
@@ -7176,9 +7176,9 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="dark_mode_contrast_hint">Parlaklık azaltıldığında renkleri otomatik olarak ayarlayın ve kontrastı azaltın</string>
     <string name="default_keyboard">Varsayılan</string>
     <string name="detail_question">Ayrıntılar</string>
-    <string name="device_oaid_desc">Gerçek tanımlayıcınız yerine, MIUI üçüncü taraf uygulamalarına bir sanal kimlik (OAID) sağlayacaktır. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
+    <string name="device_oaid_desc">MiUI, benzersiz tanımlayıcınız yerine, yüklü uygulamalar için sanal bir kimlik (OAID) sağlar. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
     <string name="device_oaid_title">Sanal Kimlik</string>
-    <string name="device_of_someone">"%1$s's %2$s"</string>
+    <string name="device_of_someone">%1$s, %2$s</string>
     <string name="dialog_backup_title">Fabrika ayarlarına sıfırlama yapmadan önce yedeklemeler güncellensin mi?</string>
     <string name="dialog_speaker_auto_clean_title">Dikkat</string>
     <string name="face_data_apply_for_category_title">Yüz verilerini kullanarak kilidi aç</string>
