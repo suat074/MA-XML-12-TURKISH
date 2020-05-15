@@ -44,8 +44,7 @@
   <string name="add_body_weight_button">Ağırlık verisi ekle</string>
   <string name="add_body_weight_record_button">Ağırlık verisi ekle</string>
   <string name="add_data_source">Veri kaynakları ekleniyor</string>
-  <string name="add_data_source_description">"İstatistiklerin doğruluğunu artırmak ve daha ilgili sağlık önerileri almak için Mi Sağlık\'a diğer cihazlar tarafından oluşturulan sağlık verilerini ekleyin.
-Mi Sağlık, Mi Ev uygulamasına daha önce eklediğiniz cihazları destekler. Eklemek istediğiniz cihazı bulamıyorsanız, ilk olarak Mi Ev uygulamasına ekleyip eklemediğinizi kontrol edin."</string>
+  <string name="add_data_source_description">İstatistiklerin doğruluğunu artırmak ve daha alakalı sağlık tavsiyeleri almak için Xiaomi Sağlık\'a diğer cihazlar tarafından oluşturulan sağlık verilerini ekleyin.</string>
   <string name="add_data_source_login_and_open_sync">Veri kaynakları ekleyebilmek için Mi Hesabınızda oturum açın ve bulutla eşitlemeyi açın.</string>
   <string name="add_data_source_open_sync">Veri kaynakları ekleyebilmek için bulutla eşitlemeyi açın.</string>
   <string name="add_data_source_support_step">Bu cihaz, adım sayısı verileri oluşturmuyor. Diğer veri kaynaklarına geçmeyi deneyebilirsiniz.</string>
@@ -492,14 +491,14 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile eşitlendi</string>
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="model_card_setting">Kart ayarları</string>
   <string name="modify">Düzenle</string>
   <string name="modify_end_date">Bitiş tarihini değiştir</string>
@@ -659,6 +658,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız, bu 
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cmt</string>
   <string name="saturday_shortest">C</string>
+  <string name="save">Kaydet</string>
   <string name="search_menu_title">Ara</string>
   <string name="sedentary_detail_title">Çok uzun süre oturmak zararlıdır</string>
   <string name="sedentary_enhance_remind">Ayrıca titret</string>
@@ -767,7 +767,7 @@ bulunamadı"</string>
   <string name="sleep_service_background_running">Uyku izleme hizmeti arka planda çalışıyor</string>
   <string name="sleep_setting_title">Uyku ayarları</string>
   <string name="sleep_snore_audio_auto">Horlama ve konuşmayı otomatik olarak kaydet</string>
-  <string name="sleep_snore_audio_auto_desc">Xiaomi Sağlık, uyku zamanı programınıza göre horlama ve konuşma kayıtlarını otomatik olarak kaydedebilir. Kalktığınızda kayıt duracak. Gizliliğinizi korumak için, tüm kayıtlı dosyalar dahili bir algoritma kullanılarak cihazınıza yerel olarak kaydedilir.</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Sağlık, uyku zamanı programınıza göre horlama ve konuşma kayıtlarını otomatik olarak kaydedebilir. Kalktığınızda kayıt duracak.</string>
   <string name="sleep_snore_audio_close_desc">Bu özelliği Ayarlar\'dan istediğiniz zaman kapatabilirsiniz.</string>
   <string name="sleep_snore_audio_enable">Otomatik algılama açık</string>
   <string name="sleep_snore_audio_enable_desc">Horlamanız ve konuşmanız uykuya daldığınızda otomatik olarak kaydedilir.</string>
@@ -899,7 +899,7 @@ bulunamadı"</string>
   <string name="sync_status_in_progress">Eşitleniyor...</string>
   <string name="sync_status_network_failure">Eşitlenemedi. Ağa bağlanın ve yeniden deneyin.</string>
   <string name="sync_status_never_done">Eşitlenmedi</string>
-  <string name="sync_status_oauth_error">Veri kaynağı eşitlemesi başarısız oldu, lütfen yeniden yetkilendirin</string>
+  <string name="sync_status_oauth_error">Veriler eşitlenemedi. Önce gerekli izinleri verin.</string>
   <string name="tb_audio_progress_bar">Ses çalma çubuğu</string>
   <string name="tb_card_on_using_list">Eklendi</string>
   <string name="tb_click_finish_stand">Görünüşe göre son bir saat içinde ayağa kalkmadınız. Varsa, el ile bir kayıt ekleyin.</string>
@@ -984,6 +984,7 @@ bulunamadı"</string>
   <string name="tb_month_dialog_go_today">Bugün seçildi</string>
   <string name="tb_month_dialog_select_date">%1$s seçildi</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">%1$s seçildi, %s</string>
+  <string name="tb_multiple_selecte_all">Tümünü seç</string>
   <string name="tb_not_add_list">Eklenmedi</string>
   <string name="tb_pause_detection">Duraklat</string>
   <string name="tb_picker_day">Seçilen gün: %1$d. Günü seçmek için dikey olarak kaydırın.</string>
@@ -1013,6 +1014,7 @@ bulunamadı"</string>
   <string name="tb_stand_day_ring">Bugün ayağa kalkma: %1$s. Bugün en az 12 tane yapmalısın.</string>
   <string name="tb_stand_wm_column_chart">%1$s ve %2$s arasındaki ayakta durma. Zaman periyotları arasında geçiş yapmak için yatay olarak kaydırın. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="tb_stand_wm_column_click">%1$s. Ayağa kalkma: %2$d. %3$s.</string>
+  <string name="tb_unmultiple_selecte_all">Hiçbiri</string>
   <string name="tb_user_account_signed">Mi Hesabı: %1$s.</string>
   <string name="tb_user_account_unsigned">Mi Hesabında oturum açmak için dokunun</string>
   <string name="tb_user_sleep_card_info">Günlük uyku hedefi: %1$s.</string>

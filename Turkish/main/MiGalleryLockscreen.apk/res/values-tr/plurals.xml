@@ -24,6 +24,14 @@
     <item quantity="other">%1$s duvar kağıdı</item>
     <item quantity="one">%1$s duvar kağıdı</item>
   </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d yeni bildirim</item>
+    <item quantity="other">%d yeni bildirim</item>
+  </plurals>
+  <plurals name="photo_count">
+    <item quantity="one">%s fotoğraf</item>
+    <item quantity="other">%s fotoğraf</item>
+  </plurals>
   <plurals name="time_day_ago">
     <item quantity="other">%d gün önce</item>
     <item quantity="one">%d gün önce</item>

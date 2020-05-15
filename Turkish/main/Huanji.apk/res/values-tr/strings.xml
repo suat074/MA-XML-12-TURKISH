@@ -931,6 +931,7 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="trans_time_format_second">Bir dakikadan az</string>
   <string name="trans_time_spent">Zaman: %s</string>
   <string name="transfer_bottom_tip">Aktarım sırasında Wi-Fi veya Bluetooth kullanamazsınız. Bu sayfadan ayrılmayın.</string>
+  <string name="transfer_connect_fail_summary">Manuel bağlanmak için aşağıdaki düğmeye dokunun</string>
   <string name="transfer_finish_bottom_tip">Eski cihazınızı artık kullanmayacaksanız, tüm önemli öğelerin başarıyla aktarıldığını onayladıktan sonra üzerindeki tüm verileri silebilirsiniz.</string>
   <string name="transfer_lose_connect_summary">Bağlantı kesilmiş gibi görünüyor. Tekrar bağlanın.</string>
   <string name="transfer_lose_connect_title">Bağlantı kesildi</string>
