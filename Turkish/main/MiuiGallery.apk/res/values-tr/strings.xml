@@ -1572,7 +1572,7 @@ mevcut"</string>
   <string name="send_file_beautify_failed">Paylaşılamadı</string>
   <string name="send_files_to">Öğeleri gönder</string>
   <string name="send_heif_summary">Uyumluluğu sağlamak için HEIF görüntüleri JPEG\'e dönüştürün</string>
-  <string name="send_heif_title">Göndermeden önce HEIF\'i JPEG\'e dönüştürün</string>
+  <string name="send_heif_title">Göndermeden önce HEIF\'i JPEG\'e dönüştür</string>
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
   <string name="send_secret_file_failed">Paylaşılamadı</string>
@@ -1615,7 +1615,7 @@ mevcut"</string>
   <string name="sky_static">Sabit</string>
   <string name="slideshow_interval_dialog_title">Aralığı girin</string>
   <string name="slideshow_interval_invalid">Aralık 3 ile 3600 saniye arasında olmalıdır</string>
-  <string name="slideshow_interval_title">Her slayt için göster</string>
+  <string name="slideshow_interval_title">Her slayt için gösterim</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_loop_title">Tüm slaytları döngüye al</string>
   <string name="slim_complete">Bitti</string>

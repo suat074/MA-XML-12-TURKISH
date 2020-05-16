@@ -103,11 +103,11 @@
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
   <string name="accessibility_calllog_detail">Çağrı geçmişi ayrıntıları</string>
-  <string name="accessibility_contact_detail">Kişi detayları</string>
+  <string name="accessibility_contact_detail">Kişi ayrıntıları</string>
   <string name="account_container_title">Şuradan alındı:</string>
   <string name="account_default">Yerel</string>
   <string name="account_dual_sim">SIM kart %s</string>
-  <string name="account_phone">Sadece telefon, eşitlenmedi</string>
+  <string name="account_phone">Yalnızca cihaz, eşitlenmemiş</string>
   <string name="account_sim">SIM kart</string>
   <string name="account_type_format">%1$s kişi</string>
   <string name="action_menu_overflow_description">Daha fazla seçenek</string>
