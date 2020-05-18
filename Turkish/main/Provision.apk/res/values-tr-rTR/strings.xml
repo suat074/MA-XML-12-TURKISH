@@ -79,6 +79,12 @@
   <string name="mint_keyboard_oobe_terms">Mint Klavye Gizlilik Politikası</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını %s adresinden görüntüleyin.</string>
   <string name="miui_terms_no_network">İnternet bağlantınız yok. Kullanıcı Sözleşmesi\'ni %s adresinde görüntüleyin.</string>
+  <string name="mobile_network">Mobil veri kullanımı</string>
+  <string name="move_data_dialog_box_le">Bu, kullanıcının isteğine göre mobil veri ve GPS bağlantısının kullanılmasına izin verir. Akıllı telefon özelliklerine bağlı olarak hesapların ve diğer öğelerin eşitlenmesi için mobil veri kullanılması gerekebilir.</string>
+  <string name="move_data_dialog_box_title">Sınırsız veriye sahip bir planınız olmadığı sürece, mobil veri kullanmak ek operatör ücretleri oluşturabilir. Mobil veri yine de kullanılsın mı?</string>
+  <string name="move_data_dialog_cancel">İptal</string>
+  <string name="move_data_dialog_title">Mobil veri bağlantısını daha sonra Ayarlar\'dan kısıtlayabilirsiniz</string>
+  <string name="move_data_dialog_use">Kullan</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
   <string name="multisim_settings_title">2 SIM kart algılandı</string>
   <string name="navigation_picker_gesture_guide">Hareket kılavuzu</string>

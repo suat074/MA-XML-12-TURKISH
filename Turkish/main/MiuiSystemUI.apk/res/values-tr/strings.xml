@@ -1240,6 +1240,7 @@
   <string name="notification_otg_trackball_out">Trackball bağlantısı kesildi</string>
   <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
   <string name="notification_otg_unknow_out">OTG cihaz bağlantısı kesildi</string>
+  <string name="notification_storage_float">Harici depolama</string>
   <string name="notification_tap_again">Açmak için tekrar dokunun</string>
   <string name="notification_template_text">" bildirimi var. Görüntülemek için dokunun."</string>
   <string name="oem_unlock_enable">OEM kilit açma</string>
@@ -1681,6 +1682,7 @@
   <string name="status_bar_use_physical_keyboard">Fiziksel klavye</string>
   <string name="status_bar_work">İş profili</string>
   <string name="status_unavailable">Kullanım dışı</string>
+  <string name="storage_is_connecting">%1$s bağlandı</string>
   <string name="stream_accessibility">Ulaşılabilirlik</string>
   <string name="stream_alarm">Alarm</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>

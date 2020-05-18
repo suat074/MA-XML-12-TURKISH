@@ -154,6 +154,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="error_unknown">Bazı şeyler ters gitti</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
+  <string name="help_and_feedback">Yardım ve Geri bildirim</string>
   <string name="hint_restore_cross_space">Öğeleri alanlar arasında aktarırsanız, Ana ekran düzeni yanlış görüntülenebilir.</string>
   <string name="home_hint_global_launcher">POCO Başlatıcı</string>
   <string name="home_hint_other_launcher">Diğer başlatıcı</string>

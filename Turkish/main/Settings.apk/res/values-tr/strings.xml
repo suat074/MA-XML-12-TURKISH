@@ -1420,6 +1420,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="connection_and_sharing">Bağlantı &amp; paylaşım</string>
   <string name="contact_data">Kişiler</string>
   <string name="content_description_menu_button">Menü</string>
+  <string name="content_miui_music_mute_by_user">Sessiz mod açıkken medya sesi çalınsın mı?</string>
   <string name="contributors_title">Katkıda bulunanlar</string>
   <string name="control_panel_switch_side">Kontrol merkezi tarafını değiştir</string>
   <string name="controls_label">Kontroller</string>
@@ -5730,6 +5731,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="title_layout_current2">Yazı boyutu</string>
   <string name="title_layout_current2_weight">Metin boyutu &amp; yazı tipi kalınlığı</string>
   <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>
+  <string name="title_miui_music_mute_by_user">Sessiz mod</string>
   <string name="title_of_auto_launch_manage">Otomatik başlat</string>
   <string name="to_close">Kapat</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>

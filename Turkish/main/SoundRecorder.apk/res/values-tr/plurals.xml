@@ -35,5 +35,13 @@
     <plurals name="search_result">
         <item quantity="other">%d kayıt bulundu</item>
         <item quantity="one">%d kayıt bulundu</item>
-    </plurals>	
+    </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">%d kayıt arasında ara</item>
+        <item quantity="one">%d kayıt arasında ara</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">%d çağrı kaydı arasında ara</item>
+        <item quantity="one">%d çağrı kaydı arasında ara</item>
+    </plurals>
 </resources>

@@ -107,5 +107,13 @@
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s saat geride</item>
         <item quantity="one">%s saat geride</item>
-    </plurals>	
+    </plurals>
+	<plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Kronometre %s gündür çalışıyor. Görüntülemek için dokunun.</item>
+        <item quantity="one">Kronometre %s gündür çalışıyor. Görüntülemek için dokunun.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Kronometre %s saattir çalışıyor. Görüntülemek için dokunun.</item>
+        <item quantity="one">Kronometre %s saattir çalışıyor. Görüntülemek için dokunun.</item>
+    </plurals>
 </resources>

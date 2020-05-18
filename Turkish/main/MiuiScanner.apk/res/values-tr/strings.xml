@@ -78,6 +78,7 @@
   <string name="classes_titlt">Sınıf programı</string>
   <string name="classes_topTitle">Sınıf programınızı tarayın</string>
   <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
+  <string name="copy">Kopyala</string>
   <string name="create">QR kodu oluştur</string>
   <string name="createFail">QR kodu oluşturulamadı. Mesajınız çok uzun.</string>
   <string name="createQRCode_hint">Metin girin</string>
@@ -118,6 +119,7 @@
   <string name="document_grayscale">Gri tonlama</string>
   <string name="document_grayscale_tip_msg">Gri tonlamaya dönüştürülüyor…</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_fail">Metin tanınamadı. Görüntüyü cihazınızın yönüne uyacak şekilde döndürün ve tekrar deneyin.</string>
   <string name="document_ocr_result_copy">Metni kopyala</string>
   <string name="document_ocr_result_save">Notlara kaydet</string>
   <string name="document_ocr_result_title">Belge fotoğrafı</string>
@@ -127,6 +129,7 @@
   <string name="document_rectify">Ayarla</string>
   <string name="document_rectify_tip_msg">Ayarlanıyor…</string>
   <string name="document_save_succeed_tip">%1$s belge kaydedildi</string>
+  <string name="document_spin">Döndür</string>
   <string name="document_title">Belgenin bir fotoğrafını çekin</string>
   <string name="document_top_panel_title">Belge fotoğrafı</string>
   <string name="done">Bitti</string>
@@ -144,6 +147,7 @@
   <string name="error_null_cursor">Hoop! Birşeyler yanlış gitti!</string>
   <string name="error_permissions">Tarayıcı normal çalışması için gerekli izinlere sahip değil. Devam etmek için Ayarlar\'a gidin ve izinleri kontrol edin.</string>
   <string name="error_server_error">Bir sunucu hatası oluştu.</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="experience_new_feature_tips">Beta sürümünü kullanma izinlerini almak için Mi Hesabınıza giriş yapın. Başvurunuzu inceledikten sonra Beta sürümünü kullanabileceksiniz. Beta sürümü hatalar içerebilir.</string>
   <string name="experience_new_features">Beta sürüm</string>
   <string name="experiential_version_of_the_prompt_content">Tarayıcı Beta\'ya erişmek için Mi Hesabınıza giriş yapın. Şimdi giriş yapılsın mı?</string>
@@ -153,6 +157,7 @@
   <string name="feedback">Geri bildirim</string>
   <string name="feedback_description_camera_access">Tarayıcı Kameraya bağlanamıyor</string>
   <string name="feedback_description_save_photo">Fotoğraf veya video kaydedilemedi</string>
+  <string name="feedback_phone">Kişi bilgileri (isteğe bağlı)</string>
   <string name="feedback_title">Geri bildirim</string>
   <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken Wi-Fi\'yi manuel olarak açın</string>
   <string name="food_identification_fail_tips">Meyveleri, sebzeleri ve diğer yiyecekleri tarayın. Bu özellik aynı zamanda görüntülerle de çalışır.</string>
@@ -170,6 +175,8 @@
   <string name="got_it">Anladım</string>
   <string name="gps">Gezinin</string>
   <string name="history">Geçmiş</string>
+  <string name="history_empty">Henüz burada öğe yok</string>
+  <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanımla</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
   <string name="importFailed">İçe aktarılamadı</string>
@@ -206,6 +213,14 @@
   <string name="miracast_switch_off">Kablosuz ekran kapalı</string>
   <string name="miracast_switch_tip">Bu özelliği kullanmak için kablosuz ekranı aç</string>
   <string name="mishop">Mi Mağazası</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="module_title_business_card">Kartvizit</string>
   <string name="module_title_code">QR Kodu</string>
   <string name="module_title_document">Belge</string>
@@ -223,6 +238,7 @@
   <string name="no_support_to_translate_type">Bu dil desteklenmiyor</string>
   <string name="not_insert_contact">Kişi eklenemedi</string>
   <string name="not_recommend_access_web_url">Yine de git</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="note">Açıklama:</string>
   <string name="now_state">"Mevcut durum: "</string>
   <string name="once">Sadece bir kere</string>
@@ -244,6 +260,7 @@
   <string name="pref_camera_jpeg_quality_fine">iyi</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">çok iyi</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preparing_sd">SD kart hazırlanıyor…</string>
   <string name="previous">Geri</string>
   <string name="prompt">Dikkat</string>
@@ -339,6 +356,8 @@
   <string name="url_is_safety">Bu web sitesi güvenli</string>
   <string name="url_is_unknown">Bu web sitesinin güvenli olup olmadığını kontrol edilemiyor</string>
   <string name="url_is_unsafety">Bu web sitesi güvenli değil</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="vender_info_translation_kingsoft">Kingsoft tarafından desteklenmektedir</string>
   <string name="waybill_num">"Sipariş: "</string>
   <string name="web">Web sitesi:</string>

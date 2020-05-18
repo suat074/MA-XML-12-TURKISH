@@ -988,6 +988,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_manual_exposure_title_abbr">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="pref_module_settings">Modlar</string>
   <string name="pref_more_mode_style_title">Kamera modları</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">240fps ile sadece 720p video kaydedebilirsiniz</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">960fps ile yalnızca 720p video kaydedebilirsiniz</string>

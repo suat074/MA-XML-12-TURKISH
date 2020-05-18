@@ -107,6 +107,7 @@
   <string name="miui_feedback_main_submit_dialog_content">Sorununuza bir çözüm bulamadık gibi görünüyor. Bize geri bildiriminizi gönderebilirsiniz.</string>
   <string name="miui_feedback_main_submit_dialog_title">Geri bildirim gönder</string>
   <string name="miui_feedback_main_title">Geri bildirim</string>
+  <string name="miui_guide_accessibility_image_desc">Görüntü</string>
   <string name="miui_guide_clear_db_service">\"Hizmetler ve geri bildirim\" dil önbelleğini temizliyor…</string>
   <string name="miui_guide_footer_desc">Başlangıç ​​kılavuzu, cihazınız ve MIUI hakkında daha fazla bilgi edinmenize yardımcı olmak için tasarlanmıştır. Kılavuzdaki bazı resimler ve videolar yalnızca referans amaçlı oluşturulmuştur ve gerçek üründen farklı olabilir. Bu kılavuzda açıklanan özellikler cihaz modelinize, MIUI sürümüne ve kullanım ortamına bağlı olarak değişebilir.</string>
   <string name="miui_guide_item_complete">Tamamlandı</string>

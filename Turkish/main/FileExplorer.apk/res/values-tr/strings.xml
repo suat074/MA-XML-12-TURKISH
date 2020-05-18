@@ -470,6 +470,8 @@
   <string name="original_user_signal">Yetenek ekibi</string>
   <string name="original_user_title">Yetenek ekibinin bir üyesi oldunuz. Tebrikler!</string>
   <string name="original_user_verify">• Teşekkürler</string>
+  <string name="otg_data_transfer_success">Başarıyla aktarıldı</string>
+  <string name="otg_data_transferring">Dosyalar aktarılıyor… Harici depolama bağlantısını kesmeyin.</string>
   <string name="otg_file_security_confirm">telefona kopyala</string>
   <string name="otg_file_security_details">Lütfen telefona kopyalayın</string>
   <string name="otg_file_security_note">OTG Güvenliği</string>

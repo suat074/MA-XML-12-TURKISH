@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="agree_description">Bu uygulamanın tüm özelliklerini kullanabilmek için internete bağlanmasına izin verin.</string>
   <string name="alert_message_clear_records">Seçili kayıt silinsin mi?</string>
   <string name="alert_message_delete_local_record">Bu kaydı sil?</string>
   <string name="alert_message_delete_record">Kayıt cihazdan silindiği zaman Xiaomi Bulut üzerinden de silinecek. Şimdi silinsin mi?</string>
@@ -118,6 +119,14 @@
   <string name="mi_account_msg">Çevrimiçi tam tanıma özelliğini kullanmak için, yeni kullanıcı için 30 dakika ücretsiz çevrimiçi giriş hesabı açın.</string>
   <string name="mi_account_ok">Giriş yap</string>
   <string name="mi_account_title">Mi Hesabına Giriş</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="network_tip_dialog_cancel">Kabul etmiyorum</string>
   <string name="network_tip_dialog_content">Kaydedicinin normal çalışması için internete bağlanması gerekir. Kabul?</string>
   <string name="network_tip_dialog_ok">İzin ver</string>

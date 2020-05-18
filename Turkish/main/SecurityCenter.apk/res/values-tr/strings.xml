@@ -1152,11 +1152,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="free_time_traffic_title">Serbest veri sınırını girin</string>
   <string name="free_traffic_settings">Serbest veri kullanım ayarları</string>
   <string name="function_close">Kapalı</string>
-  <string name="function_gwsd_detail">"Bu özellik hakkında:
- 1. Veri SIM üzerinden gelen çağrılar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir çağrıyı cevapladığınızda kesilecektir.
- 2. Bu özellik açıldığında, arayan çağrı bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz, gelen çağrıya son verilir.
- 3. Bu özellik sadece veri SIM kartlarında çalışır. Birincil SIM ile yapılan çağrılar mobil veri bağlantısını keser.
- 4. Bu özellik yalnızca China Mobile ve China Unicom tarafından desteklenmektedir."</string>
+  <string name="function_gwsd_detail">"About this feature:
+ 1. Bir veri SIM\'inde veya VoLTE ağına bağlı normal bir SIM kartta mobil veri kullanırken, siz cevaplayana kadar gelen çağrılar ile bağlantı kesilmez.
+ 2. Bu özellik açıkken, normal bir SIM kart kullanmadığınız sürece diğer kişi geri arama tonlarınızı duyamaz. Gelen çağrılar 7-10 saniye boyunca herhangi bir işlem yapılmazsa otomatik olarak reddedilecektir.
+ 3. China Mobile ve China Unicom tarafından verilen veri SIM kartları desteklenmektedir. China Mobile, China Unicom ve China Telecom tarafından verilen normal SIM kartlar desteklenmektedir."</string>
   <string name="function_gwsd_title">Gelen çağrıların veri SIM bağlantısını kesmesine izin verme</string>
   <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
   <string name="function_shield_eye_shield">Okuma modunu kapat</string>
@@ -1964,6 +1963,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="pm_auto_start_by_system">Uygulamayı başlat</string>
   <string name="pm_auto_start_by_system_event">Uygulamanın otomatik başlatılmasına izin ver</string>
   <string name="pm_auto_start_proc_is_running">Çalışıyor</string>
+  <string name="pm_newfeature_sub_text">YENİ</string>
   <string name="pm_remember_choice">Seçimimi hatırla</string>
   <string name="pm_root_success_notification_infomation">Root erişimi ile ilgili riskleri anladığınızdan emin olun.</string>
   <string name="pm_root_success_notification_title">Root erişimine izin verildi</string>

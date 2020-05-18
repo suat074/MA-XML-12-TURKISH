@@ -415,7 +415,7 @@
   <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
   <string name="miuix_search_history_default_title">Arama geçmişi</string>
   <string name="miuix_search_recommendation_default_title">Bunlarda ilginizi çekebilir</string>
-  <string name="miuix_search_recommendation_item_del_des">sil</string>
+  <string name="miuix_search_recommendation_item_del_des">Sil</string>
   <string name="modify_all">Serideki tüm etkinlikleri değiştir</string>
   <string name="modify_all_following">Bunu ve gelecekteki tüm etkinlikleri değiştir</string>
   <string name="modify_event">Yalnızca bu etkinliği değiştir</string>

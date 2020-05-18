@@ -111,6 +111,7 @@
   <string name="finddevice_miservice_notification_content">Kaybolursa cihazınızı uzaktan kilitleyin</string>
   <string name="finddevice_miservice_notification_title">Cihazı bul özelliğini aç</string>
   <string name="forget_password"><u>Şifreyi unuttum</u></string>
+  <string name="help_and_feedback">Yardım ve Geri bildirim</string>
   <string name="i_know">Tamam</string>
   <string name="input_password_hint">Şifre Gir</string>
   <string name="internet_access_dspt">Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor.</string>
@@ -219,6 +220,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_guide_alert_positive">TAMAM</string>
   <string name="micloud_find_device_guide_alert_title">Şifrenizi hatırlayın</string>
   <string name="micloud_find_device_guide_button">Cihazı bul özelliğini aç</string>
+  <string name="micloud_find_device_guide_desc_pad">"Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu, kaybolması durumunda cihazınızı bulmanıza yardımcı olabilir. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Bkz. Yardım]&lt;/a>"</string>
+  <string name="micloud_find_device_guide_desc_phone">"Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu, kaybolması durumunda cihazınızı bulmanıza yardımcı olabilir. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Bkz. Yardım]&lt;/a>"</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Hesabı - Xiaomi Bulut içinde Cihazı bul\'u açabilirsiniz</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ağ bağlantınız kontrol edin ve tekrar deneyin.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Kişileri, fotoğrafları, notları ve daha fazlasını Xiaomi Bulut ile eşitle</string>
