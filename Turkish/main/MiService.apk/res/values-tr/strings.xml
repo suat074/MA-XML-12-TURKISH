@@ -148,7 +148,7 @@
   <string name="permission_first_start_network_title">Şartlar ve koşullar</string>
   <string name="permission_main_purpose">MIUI özellik demolarını görüntüleme, geri bildirim gönderme ve satış sonrası servislere başvurma.</string>
   <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
-  <string name="permission_region_version_msg"><Data>\"Hizmetler &amp;amp;amp; geri bildirim\" kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir.</Data></string>
+  <string name="permission_region_version_msg"><Data>\"Hizmetler &amp; geri bildirim\" kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir.</Data></string>
   <string name="permission_select_all">Tümünü seç</string>
   <string name="permission_storage">Depolama</string>
   <string name="permission_storage_introduce">Cihazınıza öğe kaydetmek için</string>

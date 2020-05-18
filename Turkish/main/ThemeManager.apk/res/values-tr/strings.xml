@@ -67,7 +67,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="audio_duration_minutes_format">%1$d dakika</string>
   <string name="audio_duration_seconds_format">%1$d saniye</string>
   <string name="audition_ringtone">Oynat</string>
-  <string name="author_attention">Takip et</string>
+  <string name="author_attention">" Takip"</string>
   <string name="author_attention_success">Başarıyla takip edildi</string>
   <string name="author_dialog_message">Bu hesabı şimdi takipten vazgeçilsin mi?</string>
   <string name="author_dynamic">Durum</string>
@@ -330,7 +330,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
   <string name="lockscreen_wallpaper">Kilit ekranı</string>
   <string name="lockstyle_personal_settings">Özelleştir</string>
-  <string name="long_click_can_hide_resource">Öğeleri gizlemek için basın ve basılı tutun</string>
+  <string name="long_click_can_hide_resource">Öğeleri gizlemek için basılı tutun</string>
   <string name="loop_wallpaper_is_here">Duvar kağıdı slayt gösterileri şu anda hazır</string>
   <string name="mi_wallpaper">MIUI duvar kağıdı</string>
   <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın.

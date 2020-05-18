@@ -187,7 +187,7 @@
   <string name="srgb_color_region_summary">Tüm ekran içeriğini sRGB renk gamında göster</string>
   <string name="start_easymode">Basit modu aç</string>
   <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
-  <string name="steady_on_screen_notify">Kesintisiz kullanım hakkında bildirim</string>
+  <string name="steady_on_screen_notify">Kesintisiz kullanımı bildir</string>
   <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
   <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
   <string name="stop_app_timer">Ekran süresini kapat</string>
@@ -297,7 +297,7 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_new_home_day_usage_title">Bireysel uygulamalar</string>
   <string name="usage_new_home_first_unlock">İlk kilit açma: %s</string>
   <string name="usage_new_home_name">Ad</string>
-  <string name="usage_new_home_show_more_data_summary">Uygulamalar için tek tek ekran süresini de sınırlayabilirsiniz</string>
+  <string name="usage_new_home_show_more_data_summary">Tek tek uygulamalar için ekran süresini sınırlayabilirsiniz</string>
   <string name="usage_new_home_show_more_data_title">Daha fazla istatistik görüntüle</string>
   <string name="usage_new_home_sys_no_limit_summary">Sistem uygulamaları için ekran süresi sınırlandırılamıyor</string>
   <string name="usage_new_home_unlock_equals_text">Önceki günle aynı</string>

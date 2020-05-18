@@ -7180,7 +7180,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="detail_question">Ayrıntılar</string>
     <string name="device_oaid_desc">MiUI, benzersiz tanımlayıcınız yerine, yüklü uygulamalar için sanal bir kimlik (OAID) sağlar. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
     <string name="device_oaid_title">Sanal Kimlik</string>
-    <string name="device_of_someone">%1$s, %2$s</string>
+    <string name="device_of_someone">%1$s %2$s</string>
     <string name="dialog_backup_title">Fabrika ayarlarına sıfırlama yapmadan önce yedeklemeler güncellensin mi?</string>
     <string name="dialog_speaker_auto_clean_title">Dikkat</string>
     <string name="face_data_apply_for_category_title">Yüz verilerini kullanarak kilidi aç</string>
