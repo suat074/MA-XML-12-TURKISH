@@ -90,7 +90,7 @@
   </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d saat</item>
-    <item quantity="one">%1$d saat</item>
+    <item quantity="one">%1$d sa</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">1 saat içinde</item>
@@ -137,7 +137,7 @@
     <item quantity="one">%1$d gün içinde bir sonraki dönem</item>
   </plurals>
   <plurals name="minutes">
-    <item quantity="other">%1$d dak</item>
+    <item quantity="other">%1$d dak.</item>
     <item quantity="one">%1$d dak</item>
   </plurals>
   <plurals name="minutes_ago">
@@ -163,10 +163,6 @@
   <plurals name="step_num_format">
     <item quantity="other">%1$d adım</item>
     <item quantity="one">%1$d adım</item>
-  </plurals>
-  <plurals name="steps_format">
-    <item quantity="other">%1$d</item>
-    <item quantity="one">%1$d</item>
   </plurals>
   <plurals name="subtitle_add_record">
     <item quantity="other">%1$d gündür kaydetmediniz. Daha doğru tahmin alabilmek için adet dönemlerinizi kaydedin.</item>

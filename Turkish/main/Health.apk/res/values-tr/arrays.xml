@@ -30,10 +30,6 @@
     <item>10 dakika sonra durdur</item>
     <item>Asla</item>
   </string-array>
-  <string-array name="speed_unit">
-    <item>" km/s"</item>
-    <item>" m/s"</item>
-  </string-array>
   <string-array name="stand_guide_page_content1">
     <item>Oturmak sağlığınıza fayda sağlamaz. Otururken harcadığınız zamanı azaltamasanız bile, arada bir ayakta durmak iyi bir fikirdir.</item>
     <item>Bu özellik, her saat için en az 1 dakika ayakta durmanızı hatırlatır. Her gün 12 saatlik ayakta durma hareketi ile hareketsiz yaşam tarzının risklerinden kaçınmanıza yardımcı olacaktır.</item>
