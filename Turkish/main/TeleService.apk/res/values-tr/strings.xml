@@ -862,6 +862,7 @@
   <string name="incall_error_missing_voicemail_number">Sesli mesaj numarası bilinmiyor.</string>
   <string name="incall_error_no_phone_number_supplied">Çağrı yapmak için geçerli bir numara girin.</string>
   <string name="incall_error_out_of_service">Mobil ağ kullanılamıyor.</string>
+  <string name="incall_error_out_of_service_kr">Sadece acil durum çağrısı yapılabilir.</string>
   <string name="incall_error_out_of_service_wfc">Mobil ağ kullanılamıyor. Çağrı yapmak için kablosuz ağa bağlanın.</string>
   <string name="incall_error_outgoing_call_failed">Çağrı yapılamadı</string>
   <string name="incall_error_power_off">Çağrı yapmak için uçak modunu kapatın.</string>
@@ -877,6 +878,7 @@
   <string name="incall_error_supp_service_transfer">Aktarılamıyor.</string>
   <string name="incall_error_supp_service_unknown">Servis desteklenmiyor</string>
   <string name="incall_error_wfc_only_no_wireless_network">Arama yapmak için bir kablosuz ağa bağlanın.</string>
+  <string name="incall_number_anonymous">Bilinmeyen numara</string>
   <string name="incall_status_dialed_mmi">MMI dizisi başlatılıyor…</string>
   <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
   <string name="international_disable">Uluslararası haberler devre dışı</string>
@@ -1073,7 +1075,9 @@
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kart hatası</string>
   <string name="msim_setting_categery_title">SIM Kart Ayarları</string>
   <string name="msim_setting_default_data">Veri kartı</string>
+  <string name="msim_setting_default_data_description">Veri SIM %d</string>
   <string name="msim_setting_default_voice">Çağrılar için varsayılan</string>
+  <string name="msim_setting_default_voice_description">SIM %d</string>
   <string name="msim_setting_install_virtual_sim_install">Yükle</string>
   <string name="msim_setting_install_virtual_sim_message">SIM kart satın almak ve operatör planınızı yönetmek için Mi Operatör Hizmetleri\'ni yükleyin.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Operatör Hizmetleri</string>
@@ -1402,6 +1406,7 @@
   <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
   <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısının ana bilgisayar adını girin</string>
   <string name="private_num">Özel numara</string>
+  <string name="private_num_kr">Arayan kimliği kısıtlandı</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
   <string name="prompt_to_suggest_no_call_service_notification_content">Çağrı yapılamıyor ve alınamıyor. SIM\'iniz (Çin Telekom) için VoLTE hizmeti şimdi kapalı.</string>
   <string name="prompt_to_suggest_no_call_service_notification_content2">Çağrı yapılamıyor ve alınamıyor. SIM %d (Çin Telekom) için VoLTE hizmeti şimdi kapalı.</string>

@@ -293,6 +293,8 @@
   <string name="audio_effect_custom">Yapılandırma</string>
   <string name="audio_effect_info">Ses optimizasyonu</string>
   <string name="audio_effect_settings">Kulaklık türünü seçin</string>
+  <string name="auto_brightness_off">Otomatik parlaklık devre dışı</string>
+  <string name="auto_brightness_on">Otomatik parlaklık etkin</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Gezinme düğmeleri devre dışı, tekrar açmak için herhangi bir düğmeye iki kez dokunun.</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Gezinme düğmeleri etkin</string>
   <string name="available_via_carrier">%1$s üzerinden kullanılabilir</string>

@@ -3656,7 +3656,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="normal_smartcover_title">Opak ön kapak</string>
   <string name="not_battery_optimizing">Pil optimizasyonu kullanmıyor</string>
   <string name="not_installed">Yüklenmedi</string>
-  <string name="notch_and_status_bar_settings">Çentik &amp; durum çubuğu</string>
+  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string>
   <string name="notch_settings">Çentik</string>
