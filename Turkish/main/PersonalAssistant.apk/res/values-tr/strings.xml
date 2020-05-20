@@ -805,6 +805,14 @@
   <string name="miuishare_title_more">Daha</string>
   <string name="miuishare_title_share">Paylaş</string>
   <string name="miuishare_wechat_timeline_title">WeChat Anları</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="month_day_format">dd/MM</string>
   <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
   <string name="month_format_en">dd/MM</string>
@@ -816,6 +824,9 @@
   <string name="monthly_report_entry_text">Aylık raporu görüntüle</string>
   <string name="monthly_report_lable">Aylık rapor</string>
   <string name="more_express_numbers">Daha fazla kurye numaraları</string>
+  <string name="mru_setting_brief">Uygulama kasasında aşağı kaydırdıktan sonra görünen hızlı uygulamalar ve kısayollar</string>
+  <string name="mru_setting_brief_detail">"Son kullanılan hızlı uygulamalar ve kısayollar. "</string>
+  <string name="mru_title">Son kullanılan öğeler</string>
   <string name="msp_security_monitor">Güvenlik</string>
   <string name="music">Müzik &amp; Radyo</string>
   <string name="music_card_error_str">Bir hata oluştu, oynatmak için Müzik uygulamasını açın</string>
