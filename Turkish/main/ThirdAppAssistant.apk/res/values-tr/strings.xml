@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="app_name">Üçüncü taraf uygulama sorunları</string>
+  <string name="dialog_content_message2_feedback">Bu sorun hakkında geliştiriciyi bilgilendireceğiz. Güncellemeler için bizi takip etmeye devam edin.</string>
+  <string name="dialog_content_message2_update">Bu uygulamanın eski bir sürümünü kullanıyorsunuz gibi görünüyor. Şimdi güncellensin mi?</string>
+  <string name="dialog_content_message_func_path">Yol: Ayarlar > Uygulamalar > Uygulamaları yönet > Ayarlar > %s</string>
+  <string name="dialog_content_message_shell">%s dahili bir hata nedeniyle zorla kapatıldı.</string>
+  <string name="dialog_content_message_unknown">"%s zorla kapatıldı. "</string>
+  <string name="go_update">Güncelle</string>
+  <string name="i_know">Anladım</string>
+  <string name="no_reminder">Mevcut sürümdeki sorunlar hakkında bildirim yapma</string>
+  <string name="notification_channel_name">Uygulama sorunları</string>
+  <string name="notification_content_message">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="notification_title_message_shell">%s dahili bir hata nedeniyle zorla kapatıldı</string>
+  <string name="notification_title_message_unknown">%s zorla kapatıldı</string>
+  <string name="search_menu_title">Ara</string>
+</resources>

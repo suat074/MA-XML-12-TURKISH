@@ -67,6 +67,10 @@
     <string name="aqi_alert_channel_name">HKE uyarıları</string>
     <string name="aqi_data_source">Colorful Clouds tarafından sağlanmaktadır</string>
     <string name="aqi_desc">Hava Kalite İndeksi</string>
+	<string name="aqi_15_days_desc">15 günlük HKİ tahmini</string>
+    <string name="aqi_24_hours_desc">24 saatlik HKİ tahmini</string>
+    <string name="aqi_48_hours_desc">48 saatlik HKİ tahmini</string>
+    <string name="aqi_5_days_desc">5 günlük HKİ tahmini</string>
     <string name="aqi_detail_24_hours">24-saatlik hava durumu</string>
     <string name="aqi_detail_5_days">5-günlük hava durumu</string>
     <string name="aqi_detail_co_unit">Birim: mg/m³</string>
@@ -146,6 +150,7 @@
     <string name="daily_forecast_no_data">"Hava durumu bilgileri alınamadı
 Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</string>
     <string name="data_provided_by">Verileri sağlayan</string>
+	<string name="dislike_alert_dialog_title">Neden bu içeriği görmek istemiyorsun?</string>
     <string name="edit_city">Şehirleri yönet</string>
     <string name="empty_view_net_loading">Güncelleniyor…</string>
     <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
@@ -167,11 +172,13 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="feedback_sunny">Açık</string>
     <string name="first_start_network_title">İnternet bağlantısı ve konum erişimi</string>
     <string name="global_aqi">HKE: %1$s %2$s</string>
+	<string name="global_not_enable_warning">Bu uygulama kullanılamıyor. Resmi kaynaklardan yüklenmedi.</string>
     <string name="hourly_forcast_now">Şimdi</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">24-saatlik hava durumu</string>
     <string name="hourly_forecast_title_hourly_desc">Saatlik hava durumu</string>
     <string name="index_item_experience_now">Şimdi yükle</string>
+	<string name="index_item_install_dialog">%1$s başarıyla indirildi ve kuruldu. Hemen denemek ister misiniz?</string>
     <string name="index_item_install_now">Şimdi yükle</string>
     <string name="index_item_installing">Yükleniyor</string>
     <string name="indices_desc_humidity">Nem %%%1$s</string>
@@ -207,6 +214,14 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="minute_rain_pull_down_refresh">Yenilemek için aşağı çekin</string>
     <string name="minute_rain_refreshing_now">Yenileniyor…</string>
     <string name="missing_required_permission">Gerekli izinleri devre dışı bıraktınız.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="more_details">Daha fazla ayrıntı</string>
     <string name="more_expanded">Daha fazla</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
@@ -216,6 +231,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="no_data">Veri yok</string>
     <string name="no_network_btn">Tekrar deneyin</string>
     <string name="no_vote_ratio">Hayır %%%1$s</string>
+	<string name="not_set">Ayarlanmadı</string>
     <string name="notif_aqi_title">"Bugün %2$s'da HKE %1$d"</string>
     <string name="notif_weather_title">"Bugün %2$s'da %1$s"</string>
     <string name="open_browser">Tarayıcıda aç</string>
@@ -239,6 +255,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="precipitation_degree_one">Yok</string>
     <string name="precipitation_degree_three">Orta</string>
     <string name="precipitation_degree_two">Hafif</string>
+	<string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="privacy_grant_failed">Yetki verilemedi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
     <string name="privacy_grant_or_revoke_settings">Yetki verme &amp; alma</string>
@@ -311,6 +328,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="suggestion_for_zhongxue">Sıcak kalın ve dikkatli sürün</string>
     <string name="sunrise">Gün doğuşu</string>
     <string name="sunset">Gün batımı</string>
+	<string name="thanku_for_feedback">Geri bildirim için teşekkürler, ayarlar sayfasından hava durumu videosunu yeniden açabilirsiniz</string>
     <string name="title_share_link">Bağlantı adresini paylaş</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Yarından sonraki gün: %1$s</string>
     <string name="traffic_control_today_numbers">Bugün: %1$s</string>
@@ -330,6 +348,8 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="updated_a_moment_ago">Bir dakika önce güncellendi</string>
     <string name="updating">Güncelleniyor…</string>
     <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+	<string name="v7_preference_off">KAPALI</string>
+    <string name="v7_preference_on">AÇIK</string>
     <string name="video_banner_regional_weather_update">Bölgesel hava durumu güncellemeleri</string>
     <string name="video_banner_weather_forecast">Hava durumu tahmini</string>
     <string name="video_banner_weather_update">En son hava durumu güncellemeleri</string>
@@ -341,6 +361,8 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="warning_weather_day_and_night_settings_title">Günlük özetler</string>
     <string name="weather_alert_channel_name">Uyarılar</string>
     <string name="weather_introduce">Yağmurda veya çamurda daima sizinle.</string>
+	<string name="weather_main_aqi_desc">HKİ</string>
+    <string name="weather_main_minute_hour">2 saatlik yağış</string>
     <string name="weather_permission_agree">Kabul et</string>
     <string name="weather_service_channel_name">Arka plan hizmetleri</string>
     <string name="widget_cta_not_agree">Hava durumu bilgilerini almak için dokunun</string>
@@ -349,18 +371,4 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
     <string name="yes_vote_ratio">Evet %%%1$s</string>
     <string name="your_location">Konumunuz</string>
-	<string name="dislike_alert_dialog_title">Neden bu içeriği görmek istemiyorsun?</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
-    <string name="not_set">Ayarlanmadı</string>
-    <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-    <string name="thanku_for_feedback">Geri bildirim için teşekkürler, ayarlar sayfasından hava durumu videosunu yeniden açabilirsiniz</string>
-    <string name="v7_preference_off">KAPALI</string>
-    <string name="v7_preference_on">AÇIK</string>
 </resources>

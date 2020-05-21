@@ -17,6 +17,8 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="accessibility_menu_item_smallwindow_disable">Bu uygulama yüzer pencereleri desteklemiyor</string>
+  <string name="accessibility_menu_item_smallwindow_enable">Bu uygulama yüzer pencereleri destekler</string>
   <string name="accessibility_menu_item_split_disable">Uygulama Bölünmüş ekranı desteklemiyor.</string>
   <string name="accessibility_menu_item_split_enable">Uygulama Bölünmüş ekranı destekliyor</string>
   <string name="accessibility_recents_item_open_app_info">%s uygulama bilgilerini aç.</string>
