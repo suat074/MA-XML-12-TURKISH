@@ -311,8 +311,8 @@
   <string name="new_local_detail_description">"Not:
 %1$d. Veri kaybını önlemek için yedeklemeleri bilgisayarınıza kopyalayın. %2$s.
 %3$d. Yedeklemeler MIUI-Backup-AllBackup klasörüne kaydedilir."</string>
-  <string name="new_local_tab_backup">Mobil cihaza yedekle</string>
-  <string name="new_local_tab_restore">Mobil cihazdan geri yükle</string>
+  <string name="new_local_tab_backup">Yedekle</string>
+  <string name="new_local_tab_restore">Geri yükle</string>
   <string name="new_low_storage_title">Yeterli depolama alanı yok</string>
   <string name="new_more_settings_label">Ek ayarlar</string>
   <string name="new_pc_backup_content1">%1$d. \"%2$s\" aç.</string>
@@ -335,8 +335,8 @@
   <string name="new_select_third">3.parti uygulamaları ve uygulama verileri</string>
   <string name="new_select_third_apk">3.parti uygulamaları</string>
   <string name="new_select_third_data">3.parti uygulama verileri</string>
-  <string name="new_tab_pc_backup">Bilgisayara yedekle</string>
-  <string name="new_tab_pc_restore">Bilgisayardan geri yükle</string>
+  <string name="new_tab_pc_backup">Yedekle</string>
+  <string name="new_tab_pc_restore">Geri yükle</string>
   <string name="new_task_finished">Çık</string>
   <string name="new_usb_detail_description">"Not:
 %1$d. Bu yöntem 3.parti uygulamalarının ve uygulama verilerinin yedeklenmesine izin verir.
@@ -344,8 +344,8 @@
   <string name="new_usb_disconnect_dialog_message">Önce bir USB sürücüsü takın.</string>
   <string name="new_usb_disconnect_dialog_title">USB sürücüsü bulunamadı</string>
   <string name="new_usb_select_data_no_space">USB sürücünüzde yalnızca %s depolama alanı var. Depolama alanını boşaltın.</string>
-  <string name="new_usb_tab_backup">USB sürücüsüne yedekle</string>
-  <string name="new_usb_tab_restore">USB sürücüsünden geri yükle</string>
+  <string name="new_usb_tab_backup">Yedekle</string>
+  <string name="new_usb_tab_restore">Geri yükle</string>
   <string name="no_encrypt_password">Şifre yok</string>
   <string name="no_network">Ağa bağlanılamıyor</string>
   <string name="note_title">Notlar</string>

@@ -3658,7 +3658,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="normal_smartcover_title">Opak ön kapak</string>
   <string name="not_battery_optimizing">Pil optimizasyonu kullanmıyor</string>
   <string name="not_installed">Yüklenmedi</string>
-  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; durum çubuğu</string>
+  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; Bildirim alanı</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string>
   <string name="notch_settings">Çentik</string>
@@ -7379,7 +7379,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
     <string name="three_gesture_long_press">%d parmakla basılı tutun</string>
     <string name="turn_off_keyguard_password_title">Ekran kilidini kapat</string>
     <string name="unlock_failed">İç hata</string>
-    <string name="use_control_panel">Kontrol merkezini kullan</string>
+    <string name="use_control_panel">Yeni Kontrol merkezini kullan</string>
     <string name="wifi_security_none_owe">Yok/Gelişmiş Açık</string>
     <string name="wifi_security_short_none_owe">Yok/OWE</string>
 </resources>

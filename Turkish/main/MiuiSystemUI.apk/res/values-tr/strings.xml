@@ -83,7 +83,10 @@
   <string name="accessibility_desc_recent_apps">Genel bakış.</string>
   <string name="accessibility_desc_settings">Ayarlar</string>
   <string name="accessibility_desc_work_lock">İş ekran kilitleme</string>
-  <string name="accessibility_detail_switch">Düğmeyi değiştir</string>
+  <string name="accessibility_detail_switch">Düğmeler arasında geçiş yap</string>
+  <string name="accessibility_detail_switch_disable">Mevcut değil</string>
+  <string name="accessibility_detail_switch_off">Kapat</string>
+  <string name="accessibility_detail_switch_on">Aç</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Renk düzeltme</string>
   <string name="accessibility_divider">Ekran ayırıcı</string>
@@ -91,7 +94,7 @@
   <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
   <string name="accessibility_ethernet_connected">Ethernet bağlı.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kesildi.</string>
-  <string name="accessibility_expand_button">Genişlet</string>
+  <string name="accessibility_expand_button">Daha göster</string>
   <string name="accessibility_face_dialog_face_icon">Yüz simgesi</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Uygulama simgesi</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Parmak izi simgesi</string>

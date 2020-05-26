@@ -877,7 +877,7 @@ Daha fazla seçenek için Temalar &gt; Hesabım &gt; Tema laboratuvarına gidin.
   <string name="update_title">YENİ GÜNCELLEME MEVCUT</string>
   <string name="using_theme_has_update_tips">Bu tema için bir güncelleştirme kullanılabilir.</string>
   <string name="using_theme_next_automatic_update">Otomatik güncellemeler</string>
-  <string name="using_theme_next_automatic_update_summary">Ekran kilitlendiğinde otomatik olarak Wi-Fi üzerinden indirilen temaları güncelle</string>
+  <string name="using_theme_next_automatic_update_summary">Cihaz kilitliyken indirilen temaları Wi-Fi kullanarak güncelle</string>
   <string name="using_theme_show_ad">Öneriler</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>

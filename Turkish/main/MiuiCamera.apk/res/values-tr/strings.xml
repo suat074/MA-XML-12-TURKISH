@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="access_sd_fail">SD karta erişilemedi.</string>
+  <string name="accessibility_8k_off">AI 8K kapalı</string>
+  <string name="accessibility_8k_on">AI 8K açık</string>
   <string name="accessibility_ai_scene_off">AI kamera kapalı</string>
   <string name="accessibility_ai_scene_on">AI kamera açık</string>
   <string name="accessibility_audio_shutter_bg">Arka plan Çekim sesi</string>

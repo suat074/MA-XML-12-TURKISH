@@ -44,6 +44,7 @@
   <string name="action_menu_text_fullscreen_enter">Tam ekran yap</string>
   <string name="action_menu_text_fullscreen_exit">Tam ekrandan çık</string>
   <string name="action_menu_text_history">Yer imleri &amp; Geçmiş</string>
+  <string name="action_menu_text_like">Beğen</string>
   <string name="action_menu_text_nightmode">Gece modu</string>
   <string name="action_menu_text_readmode">Okuma modu</string>
   <string name="action_menu_text_refresh">Yenile</string>
