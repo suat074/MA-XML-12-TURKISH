@@ -42,7 +42,8 @@
   <string name="copy">Kopyala</string>
   <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına ve tüm özellikleri kullanabilmesi için isteğe bağlı izinleri almasına izin verin.</string>
   <string name="cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut irtifayı gösterir</string>
-  <string name="dialog_body_no_network">Wi-Fi\'ye bağlanın veya mobil veriyi açın.</string>
+  <string name="dialog_body_no_network">Wi-Fi\'a bağlanın veya mobil veriyi açın.</string>
+  <string name="dialog_body_no_network_china">WLAN\'a bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_body_no_network_global">Wi-Fi\'a bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
   <string name="dialog_title_no_network">Ağa bağlanılamadı</string>

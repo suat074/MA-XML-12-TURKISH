@@ -54,6 +54,7 @@
   <string name="all_apps_no_search_results">Sonuç bulunamadı</string>
   <string name="all_apps_search_app">Uygulamaları ara</string>
   <string name="all_apps_search_market_message">Çevrimiçi ara</string>
+  <string name="all_apps_setting_classic_title">Klasik</string>
   <string name="all_apps_setting_desktop_desc">Yüklenen tüm uygulamaları Ana ekranda gösterin. Mevcut kısayolları görmek, uygulamayı yönetmek veya kaldırmak için bir uygulamanın simgesine basılı tutun.</string>
   <string name="all_apps_setting_desktop_title">Normal</string>
   <string name="all_apps_setting_drawer_desc">Yüklü tüm uygulamaları Ana ekrandan kaydırarak açılabilen Uygulama çekmecesine yerleştirin. Ana ekrana taşıdığınız uygulamaları hala Uygulama çekmecesinde bulabilirsiniz.</string>
@@ -383,8 +384,8 @@
   <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
   <string name="open_personal_assistant_title">Uygulama kasası</string>
   <string name="out_of_space">Bu Ana ekranda daha fazla yer yok</string>
-  <string name="perfect_icons_switch_summary">Üçüncü taraf simgelerini yeniden çiz</string>
-  <string name="perfect_icons_switch_title">Mükemmel simgeler</string>
+  <string name="perfect_icons_switch_summary">Üçüncü taraf uygulama simgelerinde animasyonlar oluştur</string>
+  <string name="perfect_icons_switch_title">Global simge animasyonları</string>
   <string name="permdesc_install_shortcut">Uygulamaya, kullanıcı müdahalesi olmadan kısayol ekleme izni verir.</string>
   <string name="permdesc_install_widget">Uygulamaya, kullanıcı müdahalesi olmadan widget ekleme izni verir.</string>
   <string name="permdesc_read_settings">Uygulamaya, Ana ekran ayarlarını ve kısayollarını okuma izni verir.</string>

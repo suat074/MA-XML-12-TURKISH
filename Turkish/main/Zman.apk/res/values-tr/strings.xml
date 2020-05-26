@@ -36,6 +36,7 @@
   <string name="first_settings_share_enable_subtitle">WeChat\'te paylaştığınız öğeler bir MIUI rozeti ile görünecek</string>
   <string name="first_settings_subtitle">Kullanabileceğiniz güvenli paylaşım seçenekleri şunlardır:</string>
   <string name="first_settings_title">Gizliliğini koru</string>
+  <string name="loading_text_format" formatted="false">Fotoğraflardaki özel bilgiler kaldırılıyor (%d/%d)…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>

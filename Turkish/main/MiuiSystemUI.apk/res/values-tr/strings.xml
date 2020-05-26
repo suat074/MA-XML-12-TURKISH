@@ -83,6 +83,7 @@
   <string name="accessibility_desc_recent_apps">Genel bakış.</string>
   <string name="accessibility_desc_settings">Ayarlar</string>
   <string name="accessibility_desc_work_lock">İş ekran kilitleme</string>
+  <string name="accessibility_detail_switch">Düğmeyi değiştir</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Renk düzeltme</string>
   <string name="accessibility_divider">Ekran ayırıcı</string>
@@ -90,6 +91,7 @@
   <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
   <string name="accessibility_ethernet_connected">Ethernet bağlı.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kesildi.</string>
+  <string name="accessibility_expand_button">Genişlet</string>
   <string name="accessibility_face_dialog_face_icon">Yüz simgesi</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Uygulama simgesi</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Parmak izi simgesi</string>
@@ -1262,6 +1264,11 @@
   <string name="other">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="overview">Genel bakış</string>
+  <string name="partial_screenshot_edit">Düzenle</string>
+  <string name="partial_screenshot_repaint">Baştan başla</string>
+  <string name="partial_screenshot_save">Kaydet</string>
+  <string name="partial_screenshot_save_successful">Başarıyla kaydedildi</string>
+  <string name="partial_screenshot_share">Paylaş</string>
   <string name="phone_hint">Telefon için simgeden kaydır</string>
   <string name="phone_label">Telefonu aç</string>
   <string name="phone_locked_foget_password">Şifreyi mi unuttun?</string>
@@ -1389,10 +1396,10 @@
   <string name="quick_settings_cellular_detail_data_usage">Veri kullanımı</string>
   <string name="quick_settings_cellular_detail_data_used">%s kullanıldı</string>
   <string name="quick_settings_cellular_detail_data_warning">%s uyarısı</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) kapatılacak. WLAN kullanmadığınız sürece, veri bağlantısı gerektiren uygulamaları artık kullanamayacaksınız. Multimedya mesajı gönderme veya almada kısıtlanacaktır.</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak, ödeme planınıza bağlı olarak ek ücretlere neden olabilir.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veriyi kapatırsanız, WLAN\'a bağlanmadıkça interneti kullanamazsınız. Yine de MMS gönderebileceksiniz. Mobil veri yine de kapatılsın mı?</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri kullanılması, ödeme planınıza bağlı olarak ek ücretler oluşturabilir. Yine de mobil veri kullanımına izin verilsin mi?</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal</string>
-  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">İzin ver</string>
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
   <string name="quick_settings_cellular_detail_over_limit">Sınır aşıldı</string>
   <string name="quick_settings_cellular_detail_remaining_data">Kalan veri</string>

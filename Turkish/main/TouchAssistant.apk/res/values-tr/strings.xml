@@ -25,6 +25,11 @@
   <string name="close_panel">Hızlı topu kapat</string>
   <string name="copy">Kopyala</string>
   <string name="customize_entries">Kısayolları seç</string>
+  <string name="edge_distance_pref_summary">Hızlı topun görünmesini sağlamak için ekran kenarlarının yakınındaki uyandırma alanlarına dokunun</string>
+  <string name="edge_distance_pref_title">Uyandırma alanları</string>
+  <string name="edge_mode_custom_summary">Ekran kenarlarının yakınındaki uyandırma alanlarının boyutunu ayarlayın</string>
+  <string name="edge_mode_custom_title">Özel</string>
+  <string name="edge_mode_default_title">Varsayılan</string>
   <string name="enable_touch_assistant">Hızlı topu aç</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="function_settings">Kısayol ayarları</string>

@@ -79,6 +79,7 @@ dd/MM"</string>
   <string name="deep_space_planet_des">Bu tema, gün boyunca etrafınızda olan ışık değişimlerini yansıtır. Gündoğumu ve günbatımı da konumunuz ile senkronize edilir.</string>
   <string name="delete">Sil</string>
   <string name="digital_clock">Dijital</string>
+  <string name="disable_aod_in_dark_room">Karanlıkta yatarken kapatın</string>
   <string name="disable_aod_in_power_save_mode">Pil tasarrufu açıkken kapat</string>
   <string name="disable_aod_in_power_save_mode_summary">Güç tasarrufunda öğeleri görüntülemeyin</string>
   <string name="error_icon_content_description">Hata</string>

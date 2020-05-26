@@ -1077,7 +1077,7 @@
   <string name="msim_setting_default_data">Veri kartı</string>
   <string name="msim_setting_default_data_description">Veri SIM %d</string>
   <string name="msim_setting_default_voice">Çağrılar için varsayılan</string>
-  <string name="msim_setting_default_voice_description">SIM %d</string>
+  <string name="msim_setting_default_voice_description">Çağrılar için SIM %d</string>
   <string name="msim_setting_install_virtual_sim_install">Yükle</string>
   <string name="msim_setting_install_virtual_sim_message">SIM kart satın almak ve operatör planınızı yönetmek için Mi Operatör Hizmetleri\'ni yükleyin.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Operatör Hizmetleri</string>

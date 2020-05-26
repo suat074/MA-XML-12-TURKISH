@@ -267,12 +267,14 @@
   <string name="app_behavior_sms_send">%1s SMS gönderdi</string>
   <string name="app_behavior_sms_send_single">Bu uygulama SMS gönderdi</string>
   <string name="app_behavior_start_from_app_single">Bu uygulama %1s tarafından başlatıldı</string>
-  <string name="app_behavior_start_from_launcher">%1s, Ana ekrandan başlatıldı</string>
+  <string name="app_behavior_start_from_launcher">%1s Ana ekrandan başlatıldı</string>
   <string name="app_behavior_start_from_launcher_single">Bu uygulama Ana ekrandan başlatıldı</string>
   <string name="app_behavior_start_from_notification">%1s bir bildirim tarafından başlatıldı</string>
   <string name="app_behavior_start_from_notification_single">Bu uygulama bir bildirim tarafından başlatıldı</string>
-  <string name="app_behavior_start_from_recent">%1s, Son kullanılanlar bölümünden başlatıldı</string>
+  <string name="app_behavior_start_from_recent">%1s Son kullanılanlar bölümünden başlatıldı</string>
   <string name="app_behavior_start_from_recent_single">Bu uygulama Son kullanılanlar bölümünden başlatıldı</string>
+  <string name="app_behavior_start_from_widget">%1s bir widget tarafından başlatıldı</string>
+  <string name="app_behavior_start_from_widget_single">Bu uygulama bir widget tarafından başlatıldı</string>
   <string name="app_behavior_storage">%1s dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_bg">%1s arka planda dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_bg_single">Bu uygulama arka planda dosyalara erişti veya kaydetti</string>
