@@ -438,7 +438,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_auto_generate_pwd">Güvenli bir şifre oluşturun</string>
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Kullanıcı adı veya şifre hatalı</string>
-  <string name="passport_barcode_add_account_prompt">Bir hesaba bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="passport_change_account"><u>Hesabı değiştir</u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
@@ -459,27 +458,22 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_error_empty_captcha_code">passport_captcha kodunu girin</string>
   <string name="passport_error_empty_email">E-Posta adresini girin</string>
   <string name="passport_error_empty_phone_num">Telefon numarasını girin</string>
-  <string name="passport_error_empty_pwd">Şifrenizi girin</string>
   <string name="passport_error_empty_username">Kullanıcı adınızı girin</string>
   <string name="passport_error_empty_vcode">Doğrulama kodunu girin</string>
   <string name="passport_error_illegal_pwd">Geçersiz şifre</string>
   <string name="passport_error_invalid_dev_id">Cihazınızın kimliği geçersiz.</string>
   <string name="passport_error_invalid_phone_num">Telefon numarası geçersiz</string>
   <string name="passport_error_login">Oturum açılamıyor</string>
-  <string name="passport_error_network">Ağa bağlanılamadı</string>
   <string name="passport_error_phone_error">Telefon numarası geçersiz</string>
   <string name="passport_error_server">Sunucu hatası</string>
   <string name="passport_error_sim_not_ready">SIM kart bulunamıyor</string>
   <string name="passport_error_ssl_hand_shake">Sunucuya bağlantı kurulamadı</string>
-  <string name="passport_error_unknown">Oturum açılamıyor</string>
-  <string name="passport_error_user_name">Girdiğiniz kullanıcı adı geçersiz.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
   <string name="passport_forget_password">Şifremi unuttum</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
-  <string name="passport_getting_verify_code">Alınıyor</string>
   <string name="passport_i_know">Anladım</string>
   <string name="passport_identitfication_expired">Doğrulama kodunun süresi doldu, baştan başlayın</string>
   <string name="passport_imei_permission_denied_message">Biz cihazınızın IMEI\'sini almak için sizden izin talep ediyoruz. Mi Hesabını güvende tutmak için oturum açıldığında IMEI kimliğini kullanırız.</string>
@@ -501,7 +495,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_message_dialog_title">SMS ile Kodları Doğrula</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">%1$s için oturum açma hatası</string>
-  <string name="passport_password_req_notice">Şifre 8-16 karakter haneli olmalı sayılar ve harfler içermelidir (küçük harfe duyarlı).</string>
   <string name="passport_phone_num_hint_text">Telefon numarası</string>
   <string name="passport_prev">Geri</string>
   <string name="passport_privacy_policy">Gizlilik Politikası</string>
@@ -529,7 +522,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
   <string name="passport_register_by_email">E-Posta adresini kullanarak bir hesap oluştur</string>
-  <string name="passport_register_restricted">Bu numara ile ilişkili çok fazla hesap var. Başka birini deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
   <string name="passport_registered_phone_user_name">Kullanıcı Adı: %s</string>
@@ -554,7 +546,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Xiaomi Bulut kullanma?</string>
   <string name="passport_title_reg">Hesap oluştur</string>
-  <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>
   <string name="passport_uplink_reg">Telefon numarasını kullan</string>
   <string name="passport_uplink_slot1_reg">SIM 1 Kullan</string>
@@ -696,7 +687,6 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="no_phone">Telefon numarası yok</string>
   <string name="open_settings">Ayarlara git</string>
   <string name="passport_activate_token_expired">Doğrulama kodu süresi doldu. Tekrar deneyin.</string>
-  <string name="passport_area_code_title">Ülke kodu</string>
   <string name="passport_barcode_add_account_prompt">Bir hesap eklemek için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="passport_can_not_receive_verification_code">Doğrulama kodu alınamıyor mu?</string>
   <string name="passport_captcha_title">Captcha</string>
