@@ -71,6 +71,7 @@
   <string name="cancel">İptal</string>
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_sleep">Uyku</string>
+  <string name="channel_name_stopwatch">Kronometre</string>
   <string name="channel_name_timer">Kronometre</string>
   <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>
   <string name="check_voice_assist_app_version">Mi AI\'yi en son sürümüne güncelleyin.</string>

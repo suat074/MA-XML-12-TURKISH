@@ -206,6 +206,7 @@
   <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın.</string>
   <string name="get_back_pwd">Şifreyi geri al</string>
   <string name="get_device_list_failed">Cihaz listesi alınamıyor</string>
+  <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
   <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabını ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="google">Google</string>

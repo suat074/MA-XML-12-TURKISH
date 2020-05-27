@@ -158,6 +158,10 @@
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Yeni duvar kağıdını seç</string>
   <string name="cloud_app_restore_title">Bekliyor</string>
+  <string name="common_home_search_delete">Ana ekrandan arama çubuğunu sil</string>
+  <string name="common_home_search_delete_cancle">İptal</string>
+  <string name="common_home_search_delete_confirm">Sil</string>
+  <string name="common_home_search_delete_content">Sildikten sonra Ana ekranda arama çubuğunu kullanarak öğe arayamazsınız. Yine de silinsin mi?</string>
   <string name="configure_wallpaper">Ayarlar</string>
   <string name="confirm_btn_label">Tamam</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonlu uygulamalar bunlarla birlikte kaldırılacak.</string>
