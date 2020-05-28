@@ -33,7 +33,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">Hayır</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Çevrimiçi yardım alın</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Müşteri hizmetlerini ara</string>
-  <string name="miui_feedback_answer_detail_relative_tip">Bu yardımcı olabilir:</string>
+  <string name="miui_feedback_answer_detail_relative_tip">İlgili bilgiler</string>
   <string name="miui_feedback_answer_detail_title">Ayrıntılar</string>
   <string name="miui_feedback_edit_action_submit">Gönder</string>
   <string name="miui_feedback_edit_add_original_images">Fotoğraf ekle</string>
@@ -101,6 +101,7 @@
   <string name="miui_feedback_main_menu_catch_full_log">Günlükleri oluştur</string>
   <string name="miui_feedback_main_menu_feedback_list">Geri bildirim geçmişini görüntüle</string>
   <string name="miui_feedback_main_search_footer">Sormak istediğin sorular bunlar değil mi?</string>
+  <string name="miui_feedback_main_search_footer_submit">Geri bildirim gönder</string>
   <string name="miui_feedback_main_search_issue">Aranacak anahtar kelimeleri girin</string>
   <string name="miui_feedback_main_start_submit">Geri bildirim gönder</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Gönder</string>
@@ -146,7 +147,11 @@
   <string name="permission_device_info">Cihaz bilgisine erişim</string>
   <string name="permission_device_introduce">Sınırlı garanti süresini belirlemek için</string>
   <string name="permission_exit">Çıkış</string>
+  <string name="permission_external_storage_introduce">Geri bildiriminizi kaydetmek ve yüklemek için</string>
   <string name="permission_first_start_network_title">Şartlar ve koşullar</string>
+  <string name="permission_imei_disable_desc">Bu uygulamanın internete bağlanmasına izin ver.</string>
+  <string name="permission_imei_enable_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri almasına izin verin.</string>
+  <string name="permission_location_introduce">Yakındaki servis noktalarını görüntülemek için</string>
   <string name="permission_main_purpose">MIUI özellik demolarını görüntüleme, geri bildirim gönderme ve satış sonrası servislere başvurma.</string>
   <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
   <string name="permission_region_version_msg"><Data>\"Hizmetler &amp; geri bildirim\" kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okumanız ve kabul etmeniz gerekir.</Data></string>
