@@ -36,11 +36,11 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-  <string name="purpose_v12">Dosya Paylaşımı\'na hoş geldiniz! Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="purpose_v12">Mi Paylaşım\'a hoş geldiniz! Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="user_instructions">Dikkat</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
-  <string name="app_name">Dosya Paylaşımı</string>
+  <string name="app_name">Mi Paylaşım</string>
   <string name="btn_cancel">İptal</string>
   <string name="btn_sure">Tamam</string>
   <string name="can_not_transfer_when_screening">Transferl sırasında yansıtma yapılamıyor</string>
@@ -79,7 +79,8 @@
   <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin.</string>
   <string name="error_send_file_service_disabled">Giden transfer iptal edildi</string>
   <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin.</string>
-  <string name="error_slave_wifi_in_use">Çift Wi-Fi açıkken Dosya Paylaşımı çalışmaz. Ayarlar\'dan çift Wi-Fi\'yi kapatın ve tekrar deneyin.</string>
+  <string name="error_slave_wifi_in_use">Çift Wi-Fi açıkken Mi Paylaşım çalışmaz. Ayarlar\'dan çift Wi-Fi\'ı kapatın ve tekrar deneyin.</string>
+  <string name="error_slave_wifi_in_use_china">Çift WLAN açıkken Mi Paylaşım çalışmaz. Ayarlar\'dan çift WLAN\'ı kapatın ve tekrar deneyin.</string>
   <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_user_refuse">Gönderilemiyor. Transfer reddedildi.</string>
   <string name="error_wifi_display_in_use">Yansıtma yapılırken diğer cihazlara dosya gönderilemiyor</string>
@@ -95,23 +96,24 @@
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>
   <string name="go_to_settings">Ayarlar</string>
   <string name="help">Cihazlar bulunamıyor mu?</string>
-  <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız, diğer kişiden Dosya Paylaşımı\'nı açmasını isteyin.</string>
+  <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız, diğer kişiden Mi Paylaşım\'ı açmasını isteyin.</string>
   <string name="hide">Gizle</string>
   <string name="i_know">Anladım</string>
   <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
-  <string name="mi_drop">Dosya Paylaşımı</string>
+  <string name="mi_drop">Mi Paylaşım</string>
   <string name="mishare_folder_in_file_explorer">Dosya Yöneticisi &amp; Paylaşım</string>
-  <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
-Dosya Paylaşımı, Mi ve Redmi telefonlarıyla uyumludur.
-OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
+  <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Mi Paylaşım\'ı kullanabilirsiniz.
+Mi Paylaşım, Mi ve Redmi telefonlarıyla uyumludur.
+OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
   <string name="mishare_state_protection">Mi Paylaşım\'ı otomatik olarak aç</string>
-  <string name="mishare_state_protection_summary">Bluetooth veya Wi-Fi tekrar açıldığında, Mi Paylaşım özelliğini otomatik olarak tekrar açın.</string>
+  <string name="mishare_state_protection_summary">Bluetooth veya Wi-Fi tekrar açıldığında, Mi Paylaşım özelliği otomatik olarak tekrar açılır</string>
+  <string name="mishare_state_protection_summary_china">Bluetooth veya WLAN tekrar açıldığında, Mi Paylaşım özelliği otomatik olarak tekrar açılır</string>
   <string name="no_longer_prompt">Engelle</string>
   <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız.</string>
   <string name="operate_too_fast">Çok hızlı! Devam eden işlemler tamamlanana kadar bekleyin.</string>
   <string name="pc_device_model_name">Bilgisayar</string>
-  <string name="permission_denied_hint">Dosya Paylaşımı\'nı kullanabilmek için gerekli izinleri verin</string>
-  <string name="purpose">Dosya Paylaşımı\'na Hoş Geldiniz! Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve politikalara uygun olarak koruyoruz.\nDosya Paylaşımı\'nı kullanmadan önce, aşağıdaki gerekli izinleri vermeniz ve gerekli kişisel bilgilerin toplanmasına izin vermeniz gerekir:</string>
+  <string name="permission_denied_hint">Mi Paylaşım\'ı kullanabilmek için gerekli izinleri verin</string>
+  <string name="purpose">Mi Paylaşım\'a Hoş Geldiniz! Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve politikalara uygun olarak koruyoruz.\nMi Paylaşım\'ı kullanmadan önce, aşağıdaki gerekli izinleri vermeniz ve gerekli kişisel bilgilerin toplanmasına izin vermeniz gerekir:</string>
   <string name="queue_full">Yenilerini eklemeden önce devam eden transferleri bitirin.</string>
   <string name="receive_complete">Başarıyla alındı</string>
   <string name="receive_error">Alınamadı</string>
@@ -145,9 +147,9 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
   <string name="to_feedback">Rapor</string>
   <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
-  <string name="transfer_to_pc_summary">Mi Dizüstü bilgisayarlarda yüklü olan AIoT yazılımının en son sürümü Dosya Paylaşımı ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI web sitesinde kontrol edebilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak AIoT yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve AIoT yazılımını indirin.</string>
+  <string name="transfer_to_pc_summary">Mi Dizüstü bilgisayarlarda yüklü olan AIoT yazılımının en son sürümü Mi Paylaşım ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI web sitesinde kontrol edebilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak AIoT yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve AIoT yazılımını indirin.</string>
   <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
-  <string name="transfer_to_phone_summary">Bildirim alanındaki anahtarı kullanarak Dosya Paylaşımı\'nı açın. Bundan sonra, bir fotoğrafı veya dosyayı paylaşmaya başladığınızda yakındaki cihazları görebileceksiniz. Paylaşmakta olduğunuz öğeyi göndermek için alıcı cihaza dokunun.</string>
+  <string name="transfer_to_phone_summary">Bildirim alanındaki anahtarı kullanarak Mi Paylaşım\'ı açın. Bundan sonra, bir fotoğrafı veya dosyayı paylaşmaya başladığınızda yakındaki cihazları görebileceksiniz. Paylaşmakta olduğunuz öğeyi göndermek için alıcı cihaza dokunun.</string>
   <string name="transfer_to_phone_title">Telefonlara dosya gönder</string>
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>
@@ -155,5 +157,6 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="view_file">Görüntüle</string>
   <string name="wait_receive_file">Almak için bekleniyor…</string>
   <string name="wait_remote_receive_tips">Bekleniyor…</string>
-  <string name="wifi_is_not_enabled">Önce Wi-Fi\'yi aç</string>
+  <string name="wifi_is_not_enabled">Önce Wi-Fi\'ı aç</string>
+  <string name="wifi_is_not_enabled_china">Önce WLAN\'ı aç</string>
 </resources>

@@ -800,7 +800,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_hdr_entry_off">Kapalı</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_heic_image_format_description">Yüksek verimli HEIF formatında fotoğraf çekin</string>
-  <string name="pref_camera_heic_image_format_description2">Yüksek verimli görüntü dosyası biçimi depolama alanından tasarruf sağlar, ancak bazı üçüncü taraf uygulamalar tarafından desteklenmez. HEIF ile canlı fotoğraf çekemez ve filigranları kaldıramazsınız</string>
+  <string name="pref_camera_heic_image_format_description2">Yüksek verimli görüntü dosyası biçimi depolama alanından tasarruf sağlar, ancak bazı üçüncü taraf uygulamalar tarafından desteklenmez. HEIF ile canlı fotoğraf çekemez ve filigranları kaldıramazsınız.</string>
   <string name="pref_camera_heic_image_format_title">HEIC Formatı</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>

@@ -33,7 +33,7 @@
   <string name="add">Ekle</string>
   <string name="add_body_weight_button">Ağırlık verisi ekle</string>
   <string name="add_body_weight_record_button">Ağırlık verisi ekle</string>
-  <string name="add_data_source">Veri kaynakları ekleniyor</string>
+  <string name="add_data_source">Veri kaynakları ekleme</string>
   <string name="add_data_source_description">İstatistiklerin doğruluğunu artırmak ve daha alakalı sağlık tavsiyeleri almak için Xiaomi Sağlık\'a diğer cihazlar tarafından oluşturulan sağlık verilerini ekleyin.</string>
   <string name="add_data_source_login_and_open_sync">Veri kaynakları ekleyebilmek için Mi Hesabınızda oturum açın ve bulutla eşitlemeyi açın.</string>
   <string name="add_data_source_open_sync">Veri kaynakları ekleyebilmek için bulutla eşitlemeyi açın.</string>

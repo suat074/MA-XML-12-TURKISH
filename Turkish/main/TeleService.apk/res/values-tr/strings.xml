@@ -794,6 +794,7 @@
   <string name="fiveg_icon_type1">Nr Simge Türü :</string>
   <string name="fiveg_infos">5G bilgileri</string>
   <string name="fiveg_network_config_type1">Ağ Yapılandırma Türü :</string>
+  <string name="fiveg_network_title">5G ağları</string>
   <string name="fiveg_plmn_info_list1">PLMN bilgi listesi :</string>
   <string name="fiveg_power_secret_code_tip">Bunu Güvenlik uygulaması üzerinden çalıştırın - Pil - 5G tasarrufu</string>
   <string name="fiveg_restrict_dcnr1">DCNR kısıtlama :</string>
@@ -804,7 +805,7 @@
   <string name="fiveg_sa_switch_warning_toast">Efektleri uygulamak için lütfen telefonu yeniden başlatın</string>
   <string name="fiveg_signal_strength1">5G Sinyal gücü :</string>
   <string name="fiveg_switch_status1">5G geçiş durumu :</string>
-  <string name="fiveg_switch_title">5G ağı</string>
+  <string name="fiveg_switch_title">5G ağları kullan</string>
   <string name="fiveg_upperlayer_indication1">Üst Katman Gösterge Durumu :</string>
   <string name="flash_when_ring_summary">Gelen çağrı bildirimi için flaş kullanın</string>
   <string name="flash_when_ring_title">Çalarken flaş</string>
@@ -1656,6 +1657,8 @@
   <string name="sum_show_caller_id">Giden çağrılarda numarayı görüntüle</string>
   <string name="sum_voicemail_choose_provider">Sesli mesaj numarasını seç</string>
   <string name="switch_dds_to_sub_alert">Bu kartı varsayılan veri kartınız olarak ayarlayın.</string>
+  <string name="switch_off">Kapalı</string>
+  <string name="switch_on">Açık</string>
   <string name="t9_indexing_method_pinyin">Alfabetik</string>
   <string name="t9_indexing_method_title">T9 arama girişi</string>
   <string name="t9_indexing_method_zhuyin">Fonetik</string>

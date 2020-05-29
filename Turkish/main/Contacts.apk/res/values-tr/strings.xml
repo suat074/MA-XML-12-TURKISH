@@ -1003,7 +1003,7 @@ Favori listenize kişi eklemek için:
   <string name="preference_auto_ip_title">Otomatik IP öneki</string>
   <string name="preference_contacts">Kişiler</string>
   <string name="preference_contacts_display">Görüntüleme tercihleri</string>
-  <string name="preference_contacts_filter">Kişi listelesini yapılandır</string>
+  <string name="preference_contacts_filter">Kişi listesini yapılandır</string>
   <string name="preference_contacts_more">Kişileri düzenle</string>
   <string name="preference_contacts_moresetting">Daha fazla</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
