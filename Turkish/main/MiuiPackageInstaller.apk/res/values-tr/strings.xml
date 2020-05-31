@@ -168,7 +168,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="message_quick_scanning">Hızlı tarama…</string>
   <string name="message_staging">Uygulama hazırlanıyor…</string>
   <string name="mimarket_install">Mi Uygulama Mağazası üzerinden yükleyin</string>
-  <string name="mimarket_install_more">Daha fazla uygulama yüklemek için uygulama mağazasına gidin</string>
+  <string name="mimarket_install_more">Daha fazla uygulama yükle</string>
   <string name="mimarket_install_tips">Daha fazla özellik için Mi Uygulama Mağazası\'nı indirin ve yükleyin</string>
   <string name="mimarket_intercept_warning_msg">Bu uygulama Xiaomi tarafından virüslere karşı kontrol edilmedi. Güvenlik risklerini önlemek için bu uygulamayı Mi Uygulama Mağazası üzerinden yükleyin.</string>
   <string name="miui_app_danger">Bu uygulama güvenli değil, yüklemeyin.</string>

@@ -47,6 +47,7 @@
   <string name="deselect_all">Hiçbiri</string>
   <string name="deselect_all_description">Tümünü seç</string>
   <string name="do_not_restore_temporarily">Şimdi değil</string>
+  <string name="download_right_now">İndir</string>
   <string name="early_morning">ÖÖ</string>
   <string name="email">E-posta</string>
   <string name="error_forbidden">Mi Hesabınızdaki sorunlar nedeniyle eşitleme kapatıldı.</string>
@@ -66,6 +67,8 @@
   <string name="immersion_button_close_description">Kapat</string>
   <string name="instruction">Önemli güvenlik bilgileri</string>
   <string name="midnight">ÖÖ</string>
+  <string name="mobile_data_remind">Veri kullanımı uyarısı</string>
+  <string name="mobile_data_consume">Öğelerin şimdi indirilmesi için %1$s MB mobil veri kullanılması gerekiyor. Yine de indirilsin mi?</string>
   <string name="monday">Pazartesi</string>
   <string name="monday_short">Pzt</string>
   <string name="monday_shortest">P</string>
