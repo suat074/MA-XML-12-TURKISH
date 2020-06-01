@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="quick_link_tabs">
-    <item>Yer imleri</item>
-    <item>Geçmiş</item>
-  </string-array>
   <string-array name="pref_fling_gesture_entries">
     <item>Sayfa geri ileri</item>
     <item>Sekmeleri değiştir</item>
@@ -12,11 +8,6 @@
   <string-array name="pref_homepage_choices">
     <item>Varsayılan</item>
     <item>Özel URL</item>
-  </string-array>
-  <string-array name="pref_homepage_choices_with_simplehome">
-    <item>Varsayılan başlangıç ​​sayfası</item>
-    <item>Başlangıç ​​sayfasını temizle</item>
-    <item>Özel</item>
   </string-array>
   <string-array name="pref_nav_mode_summary">
     <item>Telefon</item>
@@ -44,6 +35,18 @@
     <item>Masaüstü</item>
     <item>iPhone</item>
     <item>iPad</item>
+  </string-array>
+  <string-array name="quick_link_tabs">
+    <item>Yer imleri</item>
+    <item>Geçmiş</item>
+  </string-array>
+  <string-array name="readmode_theme_background_color">
+    <item>beyaz</item>
+    <item>bej</item>
+    <item>kahverengi</item>
+    <item>yeşil</item>
+    <item>gri</item>
+    <item>siyah</item>
   </string-array>
   <string-array name="shortcut_dialog_delete">
     <item>Sil</item>

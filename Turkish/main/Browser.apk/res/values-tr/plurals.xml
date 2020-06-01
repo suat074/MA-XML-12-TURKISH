@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="adblock_rules_number_text">
-    <item quantity="other">%d öğe engellendi</item>
-    <item quantity="one">%d öğe engellendi</item>
+  <plurals name="a_hour_ago">
+    <item quantity="other">1 saat önce</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">1 saat önce</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Yarım saat önce</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">1 saat içinde</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Yarım saat içinde</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Hemen</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">%d dak içinde</item>
+    <item quantity="one">1 dak içinde</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Şu anda</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d dak önce</item>
+    <item quantity="one">1 dak önce</item>
   </plurals>
   <plurals name="comment_detail_title">
     <item quantity="other">%d yanıt</item>
@@ -24,9 +49,32 @@
     <item quantity="other">%d sebep seçildi</item>
     <item quantity="one">%d sebep seçildi</item>
   </plurals>
-  <plurals name="find_on_page_matches">
-    <item quantity="other">%d eşleşme</item>
-    <item quantity="one">%d eşleşme</item>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Yarım saat önce</item>
+  </plurals>
+  <plurals name="hot_word_hot_count">
+    <item quantity="other">%d görüntüleme</item>
+    <item quantity="one">%d görüntüleme</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">1 saat içinde</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Yarım saat içinde</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Hemen</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">%d dakika içinde</item>
+    <item quantity="one">1 dakika içinde</item>
+  </plurals>
+  <plurals name="info_flow_tips">
+    <item quantity="other">Sizin için %d yeni öğe bulundu</item>
+    <item quantity="one">Sizin için %d yeni öğe bulundu</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Şu anda</item>
   </plurals>
   <plurals name="mw_last_num_days">
     <item quantity="other">Son %d gün</item>
@@ -38,6 +86,10 @@
   <plurals name="nav_screen_incognito_time">
     <item quantity="other">%d saniye sonra otomatik olarak yeni bir sayfa oluşturur</item>
     <item quantity="one">%d saniye sonra otomatik olarak yeni bir sayfa oluşturur</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d dakika önce</item>
+    <item quantity="one">1 dakika önce</item>
   </plurals>
   <plurals name="transfer_prompt">
     <item quantity="other">%1$d saniye içinde videoyu oynat</item>
@@ -72,5 +124,25 @@ Bir sonraki %d saniye içinde oynatılacak…"</item>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d dakika kaldı</item>
     <item quantity="one">%d dakika kaldı</item>
+  </plurals>
+  <plurals name="vo_comment">
+    <item quantity="other">%s yorum</item>
+    <item quantity="one">%s yorum</item>
+  </plurals>
+  <plurals name="vo_image_mark">
+    <item quantity="other">%d görüntü</item>
+    <item quantity="one">%d görüntü</item>
+  </plurals>
+  <plurals name="vo_short_video_play_count">
+    <item quantity="other">%s görüntüleme</item>
+    <item quantity="one">%s görüntüleme</item>
+  </plurals>
+  <plurals name="vo_source_comment">
+    <item quantity="other">%1$s | %2$s yorum</item>
+    <item quantity="one">%1$s | %2$s yorum</item>
+  </plurals>
+  <plurals name="vo_vote_num">
+    <item quantity="other">%d kişi zaten oy verdi</item>
+    <item quantity="one">%d kişi zaten oy verdi</item>
   </plurals>
 </resources>
