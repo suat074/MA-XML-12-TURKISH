@@ -74,6 +74,7 @@
   <string name="can_not_send_with_too_many">Birçok öğe bir seferde gönderilemiyor</string>
   <string name="cancel">İptal</string>
   <string name="cancel_error">Kaldırılmadı, tekrar deneyin</string>
+  <string name="cancel_msg">Tüm seçimleri kaldır?</string>
   <string name="cancel_operation">Operasyonu iptal et</string>
   <string name="cancel_success">Başarıyla kaldırıldı, tüm dosyalar %s taşındı</string>
   <string name="cancelled_by_user">Operasyon iptal edildi</string>
@@ -243,6 +244,7 @@
   <string name="file_info_modified">Son düzenleme:</string>
   <string name="file_info_size">Boyut: </string>
   <string name="file_loading">Biraz bekleyin...</string>
+  <string name="file_name_existed">Dosya adı alındı</string>
   <string name="file_name_invalid">Dosya adları şu karakterleri içeremez: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">Dosya mevcut değil</string>
   <string name="finish_str">Tamam</string>
@@ -557,9 +559,11 @@
   <string name="rename_alert2">Dosya gizli olacak.</string>
   <string name="rename_failed">" %1$s adlandırılamadı"</string>
   <string name="rename_input_null">Yeni dosya adı girin</string>
+  <string name="rename_msg">\"%s\" adında bir dosya zaten var.</string>
   <string name="repair_done">Geri yüklendi</string>
   <string name="repair_error">Geri yüklenemedi</string>
   <string name="repair_file">Şifrelenmiş dosyaları geri yükle</string>
+  <string name="replace">Değiştir</string>
   <string name="reply_success">Yorum eklendi</string>
   <string name="report_abuse">İstismar</string>
   <string name="report_advertisement">Reklam</string>
@@ -667,6 +671,7 @@
   <string name="shortcut_exists">Kısayol zaten var</string>
   <string name="shortcut_hotvideos">Popüler videolar</string>
   <string name="shortcut_msg">Popüler videoların kısayolunu Ana Ekrana ekle</string>
+  <string name="skip">Atla</string>
   <string name="skip_file">Atla</string>
   <string name="smb_loading">Biraz bekleyin...</string>
   <string name="sort_hint_name">Ada göre sıralandı</string>
@@ -767,6 +772,7 @@
   <string name="upload_video_success_progress">Başarıyla gönderildi</string>
   <string name="uploading_video">Video yükleniyor…</string>
   <string name="usb_label">USB</string>
+  <string name="use_to_all">Tümüne uygula</string>
   <string name="used">"Kullanılan: "</string>
   <string name="user">Kullanıcılar</string>
   <string name="user_cancel">İptal</string>

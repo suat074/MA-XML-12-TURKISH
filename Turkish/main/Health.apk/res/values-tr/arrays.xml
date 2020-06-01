@@ -19,6 +19,46 @@
     <item>1 saat</item>
     <item>2 saat</item>
   </string-array>
+  <string-array name="contact_relation_array">
+    <item>Ayarlanmadı</item>
+    <item>Ebeveynler</item>
+    <item>Kız kardeşler</item>
+    <item>Kardeşler</item>
+    <item>Eş</item>
+    <item>Sevgili</item>
+    <item>Arkadaşlar</item>
+    <item>İş arkadaşları</item>
+    <item>Sınıf arkadaşları</item>
+  </string-array>
+  <string-array name="gender_array">
+    <item>ayarlanmadı</item>
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="normal_blood_array">
+    <item>ayarlanmadı</item>
+    <item>A grubu</item>
+    <item>B grubu</item>
+    <item>AB grubu</item>
+    <item>O grubu</item>
+  </string-array>
+  <string-array name="normal_blood_types">
+    <item>Ayarlanmadı</item>
+    <item>A grubu</item>
+    <item>B grubu</item>
+    <item>AB grubu</item>
+    <item>O grubu</item>
+  </string-array>
+  <string-array name="rh_blood_array">
+    <item>Ayarlanmadı</item>
+    <item>Negatif</item>
+    <item>Pozitif</item>
+  </string-array>
+  <string-array name="yes_no_array">
+    <item>ayarlanmadı</item>
+    <item>evet</item>
+    <item>hayır</item>
+  </string-array>
   <string-array name="pager_titles">
     <item>Gün</item>
     <item>Hafta</item>

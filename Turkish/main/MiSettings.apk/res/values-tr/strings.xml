@@ -228,7 +228,9 @@
   <string name="usage_app_limit_alter_title">Ekran süresi sınırını kontrol et</string>
   <string name="usage_app_limit_prelong">Zamanı uzat</string>
   <string name="usage_app_limit_reach_summay">%s kaldı</string>
+  <string name="usage_app_limit_reach_summay_new">%d dakika eklemek için dokunun</string>
   <string name="usage_app_limit_reach_title">%s ekran süre sınırına ulaşıyor</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">%1s için kalan ekran süresi: %2s</string>
   <string name="usage_app_limit_summary">Sınıra ulaşıldığında seçilen uygulamalar kullanılamayacak</string>
   <string name="usage_app_limit_title">Ekran süresini sınırla</string>
   <string name="usage_app_other_settings">Ek ayarlar</string>
@@ -293,8 +295,10 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_new_home_dashboard">Pano</string>
   <string name="usage_new_home_date_day_title">%s | Kullanım süresi</string>
   <string name="usage_new_home_day_category_title">Uygulama kategorileri</string>
+  <string name="usage_new_home_day_category_title_new">%s üzerindeki uygulama kategorileri için ekran süresi</string>
   <string name="usage_new_home_day_title">Gün</string>
   <string name="usage_new_home_day_usage_title">Bireysel uygulamalar</string>
+  <string name="usage_new_home_day_usage_title_new">%s üzerindeki ekran süresi</string>
   <string name="usage_new_home_first_unlock">İlk kilit açma: %s</string>
   <string name="usage_new_home_name">Ad</string>
   <string name="usage_new_home_show_more_data_summary">Tek tek uygulamalar için ekran süresini sınırlayabilirsiniz</string>
@@ -437,6 +441,8 @@ Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağı
   <string name="usage_stats_week_day">Hafta sonu</string>
   <string name="usage_total_days">Toplam gün</string>
   <string name="usage_total_times">Toplam oturum</string>
+  <string name="usage_week_avg_usage_title">Bu hafta ort.</string>
+  <string name="usage_week_avg_usage_title2">Ort. Süre</string>
   <string name="usage_weekly_report_summary">Cihazınızla nasıl zaman geçirdiğinizi öğrenin</string>
   <string name="usage_weekly_report_title">Haftalık rapor</string>
   <string name="usagestats_app_category_miui_education">Eğitim</string>

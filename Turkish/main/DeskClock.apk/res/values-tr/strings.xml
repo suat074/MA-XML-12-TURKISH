@@ -129,7 +129,7 @@
   <string name="edit_label">Alarm etiketini düzenle</string>
   <string name="edit_systemtime">Sistem saatini düzenle</string>
   <string name="edit_systemtime_setting_summary">Tarih, saat ve Çift saat</string>
-  <string name="every_day">Her gün</string>
+  <string name="every_day">Günlük</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="expired_timers_dismissed">Zamanlayıcı başarıyla iptal edildi</string>
   <string name="force_touch_add_alarm">Alarm ekle</string>

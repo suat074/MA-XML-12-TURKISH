@@ -152,8 +152,8 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ambilight_scene_silky_water">İpeksi su</string>
   <string name="ambilight_scene_star_track">Yıldız gezileri</string>
   <string name="ambilight_scene_traffic_light">Neon izleri</string>
-  <string name="ambilight_tips_for_longtime_using_tripod">Uzun çekim için lütfen tripod kullanın</string>
-  <string name="ambilight_tips_for_suggest_using_tripod">Çekim için tripod tavsiye edilir</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Daha uzun pozlama yakalamak için tripod kullanın</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Tripod kullan</string>
   <string name="ambilight_tips_for_using_tripod">Bir tripod kullanın</string>
   <string name="app_name">Efekt Yöneticisi</string>
   <string name="audio_focus_exit_button_text">Ses odağını kapat</string>
@@ -1108,6 +1108,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="super_eis_disabled_hint">Sabit video kapalı</string>
   <string name="super_eis_pro">Sabit video Pro</string>
   <string name="super_eis_pro_disabled_hint">Sabit video Pro kapalı</string>
+  <string name="super_macro_mode">Süper makro</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>

@@ -134,8 +134,11 @@
   <string name="first_enter_custom_folder_hint">Buradan klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
   <string name="float_todo_guide_cancel">İptal</string>
   <string name="float_todo_guide_message">Ana ekran kısayolu, görevleri görüntülemek ve oluşturmak için ekranın kenarından kaydırmanıza olanak tanır. Kısayol şimdi oluşturulsun mu?</string>
+  <string name="float_todo_guide_message_v2">Hareket kısayolu, ekranın kenarından kaydırarak görevleri görüntülemenizi ve oluşturmanızı sağlar. Bu özelliği Ayarlar\'dan açıp kapatabilirsiniz.</string>
   <string name="float_todo_guide_ok">Oluştur</string>
+  <string name="float_todo_guide_ok_v2">Aç</string>
   <string name="float_todo_guide_title">Ana ekran kısayolu</string>
+  <string name="float_todo_guide_title_v2">Hareket kısayolu</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -284,7 +287,9 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
   <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından kaydır</string>
   <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı sesini çal</string>
+  <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
   <string name="pref_remind_type_title">Sessiz modu yoksay</string>
+  <string name="pref_remind_type_title_new">Yüksek öncelikli hatırlatıcılar</string>
   <string name="pref_title_cloud_trash_bin">Buluttan silinmiş notlar</string>
   <string name="pref_title_common">Ek ayarlar</string>
   <string name="pref_title_font_size">Yazı tipi boyutu</string>
@@ -466,6 +471,7 @@
   <string name="toast_reach_text_limit_truncate">Bu not çok uzun. Bazı metinler uçtan kesildi.</string>
   <string name="toast_refuse_to_record_when_in_call">Çağrı sırasında bu özelliği kullanamazsınız</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">Bu özelliği bölünmüş ekranda veya yüzer pencerelerde kullanamazsınız</string>
   <string name="toast_refuse_to_use_contact">"Rehber izinleri kısıtlanmış.
 Notlar\'ın kişilerinizi okumasına ve cihazdaki hesapları bulmasına izin verin."</string>
   <string name="toast_refuse_to_use_external_storage">"Depolama izinleri kısıtlanmış.

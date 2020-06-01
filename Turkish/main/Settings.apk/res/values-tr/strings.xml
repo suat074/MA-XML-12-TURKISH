@@ -2149,6 +2149,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="erase_sure">Zorunlu</string>
   <string name="error_adding_apn_type">Operatör, %s türündeki APN\'lerin eklenmesine izin vermiyor.</string>
   <string name="error_apn_empty">APN boş olamaz.</string>
+  <string name="error_apn_restrict_string">APN alanı %1$s içeremez</string>
   <string name="error_capturing_system_heap_dump_message">Sistem yığın dökümü yakalanamadı</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
   <string name="error_mnc_not23">MNC alanı 2 veya 3 rakam olmalıdır.</string>

@@ -44,4 +44,8 @@
         <item quantity="other">%d çağrı kaydı arasında ara</item>
         <item quantity="one">%d çağrı kaydı arasında ara</item>
     </plurals>
+	<plurals name="search_app_records_hint">
+        <item quantity="other">%d kayıt arasında ara</item>
+        <item quantity="one">%d kayıt arasında ara</item>
+    </plurals>
 </resources>
