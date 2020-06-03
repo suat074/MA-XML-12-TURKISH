@@ -1264,6 +1264,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_description_image_button_answer">Cevap</string>
   <string name="gb_description_image_button_reject">Reddet</string>
   <string name="gb_description_image_button_video_answer">Görüntülü arama</string>
+  <string name="gb_dialog_game_uninstall_deleting">Kaldırılıyor…</string>
+  <string name="gb_dialog_game_uninstall_loading">Oyunlar yükleniyor…</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Tüm oyun verileri de silinecek.</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">İlgili Klonlu uygulama da oyun verileriyle birlikte kaldırılacak.</string>
+  <string name="gb_dialog_game_uninstall_tips_title">\"%s\" kaldır</string>
   <string name="gb_dialog_record_way_ai">AI kayıtları oyun kutusuna kaydedilir ve 7 gün boyunca orada saklanır.</string>
   <string name="gb_dialog_record_way_finish">Bitti</string>
   <string name="gb_dialog_record_way_manual">Videoları 30 saniyeye kadar manuel olarak kaydedin</string>
@@ -1315,6 +1320,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_signed_gift_loading_summary">Sadece bir saniye…</string>
   <string name="gb_signed_title">Bu ay kontrol edildi</string>
   <string name="gb_sound_audition">Deneyin</string>
+  <string name="gb_storage_game_uninstall">Oyunları kaldır</string>
+  <string name="gb_storage_summary">Oyun simgelerini oyun kutusuna kaydedin. Oyun simgeleri artık ana ekranda görünmeyecek.</string>
+  <string name="gb_storage_title">Ana ekranda oyun simgelerini saklayın</string>
   <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
   <string name="gb_voice_changer_cartoon">Karikatür</string>
   <string name="gb_voice_changer_dlg_button_refuse">Kısıtla</string>
