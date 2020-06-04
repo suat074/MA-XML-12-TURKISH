@@ -1397,7 +1397,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
   <string name="gtb_dialog_btn_close">Kapat</string>
   <string name="gtb_dialog_btn_open">Aç</string>
-  <string name="gtb_dialog_hint_smart_5g">Bu özelliği Game Turbo &gt; Ayarlar'\dan açıp kapatabilirsiniz.</string>
+  <string name="gtb_dialog_hint_smart_5g">Bu özelliği Game Turbo &gt; Ayarlar\'dan açıp kapatabilirsiniz.</string>
   <string name="gtb_dialog_summary_smart_5g">Game Turbo bir 5G ağı algıladığında, ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir. Bu özellik şimdi açılsın mı?</string>
   <string name="gtb_dialog_title_smart_5g">5G ağ optimizasyonu</string>
   <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
