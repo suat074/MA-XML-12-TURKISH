@@ -18,12 +18,16 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="actionbar_button_up_description">Geri</string>
+  <string name="already_newest_version">Geçerli sürüm güncel</string>
   <string name="app_name">Duvar kağıdı</string>
+  <string name="cancel_download">İndirme iptal edildi</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="date_picker_lunar">Ay takvimi</string>
+  <string name="download_failed">İndirilemedi</string>
   <string name="earth_summary">Dünya insan uygarlığının beşiğidir</string>
   <string name="earth_title">Ev</string>
   <string name="game_view_content_description">Oyun görünümü</string>
+  <string name="install_failed">Yüklenemedi</string>
   <string name="mars_position_content_0">"Bu bölge, enkaz kaplı buzulların neden olduğuna inanılan uçurumlar, kesikler ve geniş düz vadiler içeriyor. Burada, eski Mars'ta yaşam kanıtı aramaya büyük ilgi duyan kil mineralleri de tespit edilmiştir.
 
 NASA/JPL/Arizona Üniversitesi"</string>
@@ -43,17 +47,30 @@ sınırlarındaki Krater"</string>
   <string name="mars_summary">Mars\'ın geniş çölleri insanlığı her zaman huşu içinde tuttu</string>
   <string name="mars_title">Kızıl gezegen</string>
   <string name="miui_clock_city_name_local">Yerel</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="miui_lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_large_date">"dd/M
+EEE"</string>
+  <string name="miui_lock_screen_large_date_12">"dd/M
+EEE"</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
+  <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="mi_wallpaper_loading">Mi Duvar Kağıdı yükleniyor...</string>
   <string name="mi_wallpaper_title">Mi Duvar Kağıdı</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+  <string name="no_cta_agreed">GetApps\'ın CTA izinleri yok</string>
+  <string name="no_install_permission">Bu öğeyi yükleme izniniz yok</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
@@ -66,9 +83,11 @@ sınırlarındaki Krater"</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Konum seç</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="task_already_exist">Bu görev zaten var</string>
   <string name="time_picker_dialog_title">Zamanı ayarla</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
+  <string name="update">Güncelle</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
@@ -81,12 +100,4 @@ sınırlarındaki Krater"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Süper duvar kağıtları</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
   <string name="wallpaper_setting_title">Duvar kağıdı</string>
-  <string name="miui_lock_screen_date_two_lines">"d MMMM
-EEEE"</string>
-  <string name="miui_lock_screen_date_two_lines_12">"d MMMM
-EEEE"</string>
-  <string name="miui_lock_screen_large_date">"dd/M
-EEE"</string>
-  <string name="miui_lock_screen_large_date_12">"dd/M
-EEE"</string>
 </resources>

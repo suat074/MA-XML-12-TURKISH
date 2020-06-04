@@ -73,7 +73,10 @@
   <string name="language_settings">Dil seçin</string>
   <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
   <string name="locale_picker_title">Bölgenizi seçin</string>
+  <string name="location_content">Yasaya uygun olarak, mobil operatörler, güvenlik ve acil kurtarma amaçlarını izleyen acil kurtarma kurumlarının (itfaiye departmanları ve polis) gereksinimlerine uymak için mobil cihazların konum bilgilerini alabilirler.</string>
   <string name="location_introduction">Konum tabanlı servisler size en yakın ürünleri ve hizmetleri bulur.</string>
+  <string name="location_location">Acil kurtarma ekipleri istek üzerine mevcut konumunuzu elde edebilir</string>
+  <string name="location_miui">MIUI kullanabilmek için yukarıdaki şartlar ve koşulları kabul etmelisiniz</string>
   <string name="lockscreen_introduction">Duvar Kağıdı Döngüsü, Kilit ekranınıza günlük olarak gönderilen taze görüntüleri almanızı sağlar.</string>
   <string name="mint_keyboard_oobe_checkbox">Mint Klavye Gizlilik Politikası\'nı okudum ve kabul ediyorum</string>
   <string name="mint_keyboard_oobe_terms">Mint Klavye Gizlilik Politikası</string>
@@ -159,6 +162,8 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Politikası ve Kullanıcı Sözleşmesi dahil)</string>
   <string name="poco_launcher_privacy_policy">POCO Başlatıcı Gizlilik Politikası</string>
   <string name="poco_launcher_user_agreement">POCO Başlatıcı Kullanıcı Sözleşmesi</string>
+  <string name="position_header">Konum bilgileri paylaşımı</string>
+  <string name="position_subheading">Konum bilgisi</string>
   <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
   <string name="pref_title_voice_slot">Tercih edilen Ses SIM kartı</string>
   <string name="privacy_policy">"Gizlilik Politikası "</string>
