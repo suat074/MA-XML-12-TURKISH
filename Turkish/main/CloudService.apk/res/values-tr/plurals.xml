@@ -52,6 +52,10 @@
     <item quantity="other">%d Wi-Fi ağı</item>
     <item quantity="one">%d Wi-Fi ağı</item>
   </plurals>
+  <plurals name="dirty_wlan_count_china">
+    <item quantity="other">%d WLAN ağı</item>
+    <item quantity="one">%d WLAN ağı</item>
+  </plurals>
   <plurals name="items_unsynced">
     <item quantity="other">Eşitlenmeyi bekleyen öğeler: %d</item>
     <item quantity="one">Eşitlenmeyi bekleyen öğe: %d</item>

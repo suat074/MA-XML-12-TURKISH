@@ -83,6 +83,8 @@
   <string name="day">gün</string>
   <string name="degDesc">Açı</string>
   <string name="del">SİL</string>
+  <string name="delete">Sil</string>
+  <string name="delete_tips">Öğeler siliniyor</string>
   <string name="deleteDesc">sil</string>
   <string name="description_content">Temel özelliklerinin yanı sıra, Hesap Makinesi aynı zamanda çok fonksiyonlu bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="description_title">Hesap Makinesi hakkında</string>
@@ -111,6 +113,7 @@
   <string name="dotDesc">nokta</string>
   <string name="early_morning">ÖÖ</string>
   <string name="eDesc">Euler Sayısı</string>
+  <string name="empty_history">Henüz burada öğe yok</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">Eşittir</string>
@@ -160,7 +163,9 @@
   <string name="hint_annual_rate">Yıllık oranı girin</string>
   <string name="hint_enter_amount">Miktarı girin</string>
   <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
+  <string name="histories">Geçmiş</string>
   <string name="history_delete_confirmation">Geçmiş şimdi temizlensin mi?</string>
+  <string name="history_time_date_format">dd/MM/yyyy</string>
   <string name="home_loan">İpotek faizi</string>
   <string name="home_title_calculator">Hesap Makinesi</string>
   <string name="house_rent">Kira</string>
@@ -380,9 +385,11 @@
   <string name="preference_use_voice_title">Konuşma çıktısı</string>
   <string name="preference_user_feedback_title">Geri bildirim</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="pull_to_refresh">Geçmişi görüntülemek için aşağı çekin</string>
   <string name="radDesc">Radyan</string>
   <string name="rate_data_provider">Faiz aralıkları hexun.com sitesinden alınmaktadır</string>
   <string name="reciprocalDesc">Karşılıklı</string>
+  <string name="release_to_refresh">Geçmişi görüntülemek için bırakın</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">sağ parantez</string>
   <string name="saturday">Cumartesi</string>

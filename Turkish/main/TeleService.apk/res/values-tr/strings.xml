@@ -623,6 +623,11 @@
   <string name="dialog_alert_title">Dikkat</string>
   <string name="dialog_cancel">İptal</string>
   <string name="dialog_network_priority_title">Öncelikli Ağ</string>
+  <string name="dialog_ota_change_number_fail">Telefon numarası değiştirilemedi. Yeniden denedikten sonra bu hata oluşursa, satıcınıza başvurun.</string>
+  <string name="dialog_ota_change_number_lgu">USIM şimdi indirilsin mi?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">Yurt dışındayken telefon numaraları değiştirilemez.</string>
+  <string name="dialog_ota_change_number_processing">USIM indiriliyor…</string>
+  <string name="dialog_ota_change_number_success">Telefon numarası başarıyla değiştirildi</string>
   <string name="dialog_report">Rapor</string>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_2_letters">ABC</string>

@@ -50,6 +50,7 @@
   </plurals>
   <plurals name="miui_guide_accessibility_page_current_count">
     <item quantity="other">Sayfa %1$d / %2$d</item>
+	<item quantity="one">Sayfa %1$d / %2$d</item>
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d dakika önce</item>
