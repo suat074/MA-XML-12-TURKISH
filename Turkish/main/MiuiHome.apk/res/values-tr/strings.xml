@@ -17,6 +17,11 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="accessibility_all_app_custom_category_finish">Bitti</string>
+  <string name="accessibility_all_app_custom_category_item_remove">\"%1$s\" öğesini kategorilerden kaldır</string>
+  <string name="accessibility_clear_search_bar_text">Arama çubuğunu temizle</string>
+  <string name="accessibility_enter_all_app_mode">Uygulama çekmecesini aç</string>
+  <string name="accessibility_enter_all_app_settings">Uygulama çekmecesi ayarlarını aç</string>
   <string name="accessibility_menu_item_smallwindow_disable">Bu uygulama yüzer pencereleri desteklemiyor</string>
   <string name="accessibility_menu_item_smallwindow_enable">Bu uygulama yüzer pencereleri destekler</string>
   <string name="accessibility_menu_item_split_disable">Uygulama Bölünmüş ekranı desteklemiyor.</string>
@@ -133,6 +138,7 @@
   <string name="aqi_quality_index_moderate">Orta</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
   <string name="auto_add_app_shortcut">Yeni uygulamaları Ana ekrana yerleştir</string>
+  <string name="back">Geri</string>
   <string name="backup_fail">Başlatıcı yedeklenemedi</string>
   <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
   <string name="buffering">Arabelleğe alınıyor…</string>
