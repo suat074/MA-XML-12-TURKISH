@@ -21,33 +21,26 @@
   </string-array>
   <string-array name="contact_relation_array">
     <item>Ayarlanmadı</item>
-    <item>Ebeveynler</item>
-    <item>Kız kardeşler</item>
-    <item>Kardeşler</item>
+    <item>Ebeveyn</item>
+    <item>Kız kardeş</item>
+    <item>Erkek kardeş</item>
     <item>Eş</item>
-    <item>Sevgili</item>
-    <item>Arkadaşlar</item>
-    <item>İş arkadaşları</item>
-    <item>Sınıf arkadaşları</item>
+    <item>Ortak</item>
+    <item>Arkadaş</item>
+    <item>İş arkadaşı</item>
+    <item>Sınıf arkadaşı</item>
   </string-array>
   <string-array name="gender_array">
-    <item>ayarlanmadı</item>
+    <item>Ayarlanmadı</item>
     <item>Erkek</item>
     <item>Kadın</item>
   </string-array>
-  <string-array name="normal_blood_array">
-    <item>ayarlanmadı</item>
-    <item>A grubu</item>
-    <item>B grubu</item>
-    <item>AB grubu</item>
-    <item>O grubu</item>
-  </string-array>
   <string-array name="normal_blood_types">
     <item>Ayarlanmadı</item>
-    <item>A grubu</item>
-    <item>B grubu</item>
-    <item>AB grubu</item>
-    <item>O grubu</item>
+    <item>A</item>
+    <item>B</item>
+    <item>AB</item>
+    <item>O</item>
   </string-array>
   <string-array name="rh_blood_array">
     <item>Ayarlanmadı</item>
@@ -55,9 +48,9 @@
     <item>Pozitif</item>
   </string-array>
   <string-array name="yes_no_array">
-    <item>ayarlanmadı</item>
-    <item>evet</item>
-    <item>hayır</item>
+    <item>Ayarlanmadı</item>
+    <item>Evet</item>
+    <item>Hayır</item>
   </string-array>
   <string-array name="pager_titles">
     <item>Gün</item>
