@@ -366,6 +366,12 @@
     <item>PIN</item>
     <item>Şifre</item>
   </string-array>
+  <string-array name="charge_animation_style_entries">
+    <item>Kapalı</item>
+    <item>Akış</item>
+    <item>Parıltı</item>
+    <item>Dalga</item>
+  </string-array>
   <string-array name="fold_entries">
     <item>Tavsiye edilen</item>
     <item>Önemli</item>

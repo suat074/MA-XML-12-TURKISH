@@ -1,9 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="Earlier">Daha önce</string>
-  <string name="This_week">Bu hafta</string>
-  <string name="Today">Bugün</string>
-  <string name="Yesterday">Dün</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -219,7 +215,7 @@
   <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
   <string name="common_open_on_phone">Telefonda aç</string>
   <string name="common_signin_button_text">Oturum aç</string>
-  <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+  <string name="common_signin_button_text_long">Google\'da oturum aç</string>
   <string name="confirm_activate_email">Doğrulandı</string>
   <string name="confirm_bundled_phone_dialog_title">Bağlı telefon numarasını doğrula</string>
   <string name="confirm_new_pwd">Yeni şifreyi onaylayın</string>
@@ -227,6 +223,7 @@
   <string name="content">İçerik</string>
   <string name="content_can_not_null">Açıklama olmadan geri bildirim gönderilemez.</string>
   <string name="data_empty">Burada öge yok</string>
+  <string name="day">gün</string>
   <string name="description">Tanım</string>
   <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin.</string>
   <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi.
@@ -238,26 +235,12 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="dialog_revoke_privacy_title">Yetki geri alınıyor</string>
   <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz.</string>
   <string name="do_not_show_again">Tekrar gösterme</string>
+  <string name="Earlier">Daha önce</string>
   <string name="empty_channels">Kanalları yönet</string>
   <string name="empty_subscribe">Henüz hiç aboneliğiniz yok.</string>
   <string name="error_details">Beklenmeyen hata</string>
-  <string name="enable_background_audio">Arka planda oynat</string>
-  <string name="error_drm_not_supported">Korumalı içerik 18 altındaki API seviyelerinde desteklenmez</string>
-  <string name="error_drm_unknown">Bilinmeyen bir DRM hatası oluştu</string>
-  <string name="error_drm_unsupported_scheme">Bu cihaz gerekli DRM düzenini desteklemiyor</string>
   <string name="error_dup_binded_email">E-posta adresi başka bir Mi Hesabı tarafından kullanılmaktadır. Lütfen başka bir e-posta adresi girin.</string>
   <string name="error_invalid_bind_address">Girmiş olduğunuz e-posta adresi geçersiz.</string>
-  <string name="error_mg_content_not_available">Bu İçerik ülkenizde mevcut değil.</string>
-  <string name="error_mg_no_content">Bu film için içerik yok. Lütfen daha sonra tekrar deneyiniz</string>
-  <string name="error_mg_no_content_for_tv">Bu TV Şovu için içerik mevcut değil. Lütfen daha sonra tekrar deneyiniz</string>
-  <string name="error_msg_invalid_url">Geçersiz URL. Lütfen daha sonra tekrar deneyiniz</string>
-  <string name="error_msg_no_network">Ağ bağlantısı tespit edilemedi. Lütfen bir ağ kaynağına bağlı olduğunuzdan emin olun ve tekrar deneyin.</string>
-  <string name="error_msg_server_error">Şu anda sunucu kullanılamıyor. Lütfen tekrar deneyin.</string>
-  <string name="error_msg_socket_timeout">Soket Zaman Aşımı. Lütfen daha sonra tekrar deneyiniz</string>
-  <string name="error_msg_video_play_time_out">Üzgünüz, şu anda bu videoyu oynatamıyoruz. Lütfen bir süre sonra tekrar deneyin.</string>
-  <string name="error_msg_video_play_time_out_title">Zaman aşımına uğradı</string>
-  <string name="error_no_content">İçerik yok.</string>
-  <string name="error_title">Bilgi</string>
   <string name="exceed_binded_phone_times_notice">Telefon numarası başka bir Mi Hesabı tarafından kullanılmaktadır. Lütfen başka bir telefon numarası girin.</string>
   <string name="exit">Çık</string>
   <string name="exo_controls_fastforward_description">İleri sar</string>
@@ -327,8 +310,6 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="fw_loading">Yalnızca bir sn…</string>
   <string name="fw_reload_sub_title">Tekrar denemek için ekrana dokunun</string>
   <string name="fw_reload_title">Ağa bağlanamadı.</string>
-  <string name="gallery_fold_tags">İşaretleri gizle</string>
-  <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Kamera</string>
   <string name="gallery_folder_alias_download">İndirilenler</string>
   <string name="gallery_folder_alias_mivideo">Mi Video</string>
@@ -340,34 +321,78 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="gallery_folder_alias_qtt">Qutoutiao</string>
   <string name="gallery_folder_alias_screen_recorder">Ekran kayıtları</string>
   <string name="gallery_folder_alias_sina">Sina</string>
+  <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_tencent_video">Tencent Video</string>
   <string name="gallery_folder_alias_toutiao">Toutiao</string>
   <string name="gallery_folder_alias_wechat">WeChat</string>
   <string name="gallery_folder_alias_youku_video">Youku</string>
   <string name="gallery_tab_all">Tümü</string>
   <string name="gallery_tab_videos">Videolar</string>
-  <string name="gallery_video_adjust_hint">Yalnızca 960fps videolar destekleniyor</string>
-  <string name="gallery_video_adjust_text">Ayarla</string>
-  <string name="gallery_video_default_music_text">Otomatik</string>
-  <string name="gallery_video_icon_is_record_log">GÜNLÜK</string>
-  <string name="gallery_video_item3_default_text">Duygular</string>
-  <string name="gallery_video_item4_default_text">Gündoğumu</string>
-  <string name="gallery_video_item5_default_text">Anılar</string>
-  <string name="gallery_video_item6_default_text">Mutluluk</string>
-  <string name="gallery_video_local_music_text">Dosya seçin</string>
-  <string name="gallery_video_music_format_error">Seçilen videoya film müziği eklenemiyor</string>
-  <string name="gallery_video_music_text">Film müziği</string>
-  <string name="gallery_video_no_music_text">Hiçbiri</string>
-  <string name="gallery_video_operate_text">Yavaş çekim ayarları</string>
-  <string name="gallery_video_save_video">Video oluşturuluyor…</string>
-  <string name="gallery_video_slow_edit">Yavaş çekim</string>
-  <string name="gallery_view_tags">İşaretleri göster</string>
+  <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için iki kez dokunun</string>
+  <string name="galleryplus_cta_tips">Kullanıcı Deneyimi Programına kaydolarak ve Mi Video\'nun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Kabul ediyor musunuz?</string>
+  <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar iki kez dokunun</string>
+  <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
+  <string name="galleryplus_gallery_video_adjust_hint">Yalnızca 960fps videolar desteklenir</string>
+  <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
+  <string name="galleryplus_gallery_video_default_music_text">Otomatik</string>
+  <string name="galleryplus_gallery_video_icon_is_record_log">GÜNLÜK</string>
+  <string name="galleryplus_gallery_video_item3_default_text">Duygular</string>
+  <string name="galleryplus_gallery_video_item4_default_text">Gündoğumu</string>
+  <string name="galleryplus_gallery_video_item5_default_text">Anılar</string>
+  <string name="galleryplus_gallery_video_item6_default_text">Neşe</string>
+  <string name="galleryplus_gallery_video_local_music_text">Dosya seç</string>
+  <string name="galleryplus_gallery_video_music_format_error">Seçilen videoya film müziği eklenemiyor</string>
+  <string name="galleryplus_gallery_video_music_text">Film müziği</string>
+  <string name="galleryplus_gallery_video_no_music_text">Yok</string>
+  <string name="galleryplus_gallery_video_operate_text">Ağır çekim ayarları</string>
+  <string name="galleryplus_gallery_video_save_video">Video oluşturuluyor…</string>
+  <string name="galleryplus_gallery_video_slow_edit">Ağır çekim</string>
+  <string name="galleryplus_gallery_view_tags">İşaretleri göster</string>
+  <string name="galleryplus_is_higher_definition">HD önizleme açıldı</string>
+  <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için Mi Video\'ya gerekli izinleri verin.</string>
+  <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar &gt; Uygulamalar &gt; Mi Video &gt; Uygulama izinleri bölümüne gidin ve Mi Video için aşağıdakileri izinleri verin:
+  
+1. Depolama alanına erişim
+2. Cihaz kimliğine erişim"</string>
+  <string name="galleryplus_permission_open_settings">Ayarlar</string>
+  <string name="galleryplus_permission_refuse">Hayır teşekkürler</string>
+  <string name="galleryplus_permission_retry">İzinler</string>
+  <string name="galleryplus_permission_title">Dikkat</string>
+  <string name="galleryplus_save_cancel_toast">Video kaydını iptal etmek için tekrar \"Geri\"ye dokunun</string>
+  <string name="galleryplus_save_fail">Kaydedilemedi</string>
+  <string name="galleryplus_save_success">Başarıyla kaydedildi</string>
+  <string name="galleryplus_screenshot_8k">8K ekran görüntüsü</string>
+  <string name="galleryplus_screenshot_8k_save_toast">8K ekran görüntüsü %s konumuna kaydedildi</string>
+  <string name="galleryplus_screenshot_8k_saving">8K ekran görüntüsü kaydediliyor…</string>
+  <string name="galleryplus_screenshot_8k_share">Dosyayı şuraya gönder</string>
+  <string name="galleryplus_subtitle_edit_display">Altyazıları göster</string>
+  <string name="galleryplus_subtitle_edit_edit">Altyazıları düzenle</string>
+  <string name="galleryplus_subtitle_edit_hide">Altyazıları gizle</string>
+  <string name="galleryplus_subtitle_edit_literal_edit">Metni düzenle</string>
+  <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt sırasında konuşmayı tanıyamadın</string>
+  <string name="galleryplus_v_agree">Kabul</string>
+  <string name="galleryplus_v_cancel">İptal</string>
+  <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikler iptal edilsin ve altyazıyı düzenlemeye son verilsin mi?</string>
+  <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">Şimdi çıkarsanız bu videoyu kaydedemezsiniz. Yine de çıkılsın mı?</string>
+  <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Editörden çıkılıyor</string>
+  <string name="galleryplus_v_dialog_hint_contain_invalid_char">Dosya adı geçersiz karakterler içeriyor</string>
+  <string name="galleryplus_v_dialog_hint_duplicate_name">Bu dosya zaten var</string>
+  <string name="galleryplus_v_dialog_hint_not_null">Dosya adı boş olamaz</string>
+  <string name="galleryplus_v_dialog_hint_start_with_dot">Dosya adı \".\" ile başlayamaz.</string>
+  <string name="galleryplus_v_dialog_hint_too_long">Dosya adı çok uzun</string>
+  <string name="galleryplus_v_network_failed">Ağa bağlanılamadı</string>
+  <string name="galleryplus_v_ok">Tamam</string>
+  <string name="galleryplus_video_edit_save_video">Altyazılı video oluşturuluyor…</string>
+  <string name="galleryplus_vp_hardware_unsported">Bu video cihazınızda oynatılamıyor.</string>
+  <string name="galleryplus_vp_videoview_error_button">Anladım</string>
+  <string name="galleryplus_vp_videoview_error_text_unknown">Bir oynatma hatası oluştu</string>
+  <string name="galleryplus_vp_videoview_error_title">Bu video oynatılamıyor</string>
   <string name="get_back_pwd">Şifre sıfırlanıyor</string>
   <string name="get_ph_ticket">Kodu al</string>
   <string name="get_phone_bind_exceed_limit">Bir telefon numarasını 3 Mi Hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
   <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="goto_sign_up">Hesap oluştur</string>
-  <string name="grant_write_settings_permission">Lütfen oynatıcının parlaklığını kontrol etmek için bu izni verin</string>
+  <string name="HA_SERVICE_ID">OYNAT</string>
   <string name="have_learned">Anladım</string>
   <string name="hidden_channels">Aşağıdaki kanallar Ana ekranda görüntülenmeyecek.</string>
   <string name="hide">Gizle</string>
@@ -390,16 +415,15 @@ seçin"</string>
   <string name="language_setting_tips">Daha fazla ilgili içerik önerisi almak için dilinizi seçin. Dil tercihlerinizi Profil &gt; Dil menüsünde değiştirebilirsiniz.</string>
   <string name="language_setting_tips_dialog">İçerik için dil tercihlerini Hesap &gt; Dil menüsünde yapabilirsiniz.</string>
   <string name="later">Daha sonra</string>
-  <string name="lbl_connection_failed_alert_title">Bağlantı Başarısız</string>
-  <string name="lbl_player_local_video_deleted_alert_dialog_text">Bu video oynatılamadı.</string>
-  <string name="lbl_player_no_network">Ağ bağlantısı tespit edilemedi. Lütfen bir ağ kaynağına bağlı olduğunuzdan emin olun ve tekrar deneyin.</string>
-  <string name="lbl_player_response_failed_alert_dialog_text">Üzgünüz, isteğiniz şu anda tamamlanamıyor. Lütfen bir süre sonra tekrar deneyin.</string>
-  <string name="lbl_setting_playback_streaming_auto">Otomatik</string>
-  <string name="lbl_url_alert">Bilgi</string>
+  <string name="live_now">Şimdi canlı</string>
+  <string name="live_title">Canlı</string>
   <string name="live_tv_title">Canlı TV</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="local_push_title">Bugün popüler</string>
-  <string name="login">Oturum açın</string>
+  <string name="local_video_notification_btn">Mi Video ile izleyin</string>
+  <string name="local_video_notification_title">Yeni bir yerel video bulundu</string>
+  <string name="lock_screen">Kilit ekranı</string>
+  <string name="login">Oturum aç</string>
   <string name="login_tip">Geri bildiriminize olan yanıtlarımızı alabilmek için oturum açın.</string>
   <string name="logout">Oturumu kapat</string>
   <string name="logout_account">Oturumu kapat</string>
@@ -437,7 +461,7 @@ seçin"</string>
   <string name="lv_confirm_unhide_videos">Videoların gizliliği kaldırılsın mı?</string>
   <string name="lv_deleting">Siliniyor…</string>
   <string name="lv_device_list">Cihazlar</string>
-  <string name="lv_device_list_seaching">&lt;Yansıtılacak cihaz yok&gt;</string>
+  <string name="lv_device_list_seaching">&lt;Yansıtılacak cihaz yok></string>
   <string name="lv_do_not_show_this_again">Tekrar gösterme</string>
   <string name="lv_favor">Favoriler</string>
   <string name="lv_find_new_version">Bir güncelleme mevcut</string>
@@ -488,6 +512,7 @@ seçin"</string>
   <string name="lv_subtitle_folder_up">Önceki klasör</string>
   <string name="lv_subtitle_font_color_title">Metin rengi</string>
   <string name="lv_subtitle_font_size_title">Metin boyutu</string>
+  <string name="lv_subtitle_local_title">Yerel altyazılar</string>
   <string name="lv_subtitle_manual_add_sub">Altyazı başarıyla eklendi</string>
   <string name="lv_subtitle_no_subtitle">Altyazı kullanılamıyor</string>
   <string name="lv_subtitle_non_subtitle_file">Altyazı dosyası yok</string>
@@ -508,7 +533,7 @@ seçin"</string>
   <string name="lv_subtitle_onlinesub_size_string_b">Boyut: %sB</string>
   <string name="lv_subtitle_onlinesub_title">Çevrimiçi altyazı</string>
   <string name="lv_subtitle_open_subtitle_file_title">Altyazı dosyası bul</string>
-  <string name="lv_subtitle_preoffset_max">"5 sn.'den ileri gidilemiyor"</string>
+  <string name="lv_subtitle_preoffset_max">5 sn.\'den ileri gidilemiyor</string>
   <string name="lv_subtitle_subonline_non_network">Ağa bağlanılamadı. Ağa bağlanın ve tekrar deneyin.</string>
   <string name="lv_subtitle_synchronization_title">Senkronize et</string>
   <string name="lv_subtitle_title">Altyazı</string>
@@ -516,10 +541,10 @@ seçin"</string>
   <string name="lv_unhide_prompt">Başarıyla ayarlandı. Artık gizliliği kaldırılan ögeleri görüntüleyebilirsiniz.</string>
   <string name="lv_updating">Güncelleniyor…</string>
   <string name="lv_use_notch">Çentiği göster</string>
+  <string name="lv_video_null">Video yok</string>
   <string name="lv_videoView_error_text_invalid_progressive_playback">Bu video cihazınızda oynatılamıyor.</string>
   <string name="lv_videoView_error_text_unknown">Video oynatılamıyor.</string>
   <string name="lv_videoView_error_title">Video oynatılamıyor</string>
-  <string name="lv_video_null">Video yok</string>
   <string name="lv_volume">Ses</string>
   <string name="manage">Yönet</string>
   <string name="mi_video">Mi Video</string>
@@ -535,11 +560,13 @@ seçin"</string>
   <string name="moment_tab_whatsapp">WhatsApp</string>
   <string name="moment_title_my_videos">Videolarım</string>
   <string name="monday">Pazartesi</string>
+  <string name="month">ay</string>
   <string name="more">Daha fazla</string>
   <string name="mr_button_content_description">Yayın düğmesi</string>
   <string name="mr_cast_button_connected">Yayınla düğmesi. Bağlandı</string>
   <string name="mr_cast_button_connecting">Yayınla düğmesi. Bağlanıyor</string>
   <string name="mr_cast_button_disconnected">Yayınla düğmesi. Bağlantı kesildi</string>
+  <string name="mr_cast_dialog_title_view_placeholder">Bilgi yok</string>
   <string name="mr_chooser_searching">Cihazlar bulunuyor</string>
   <string name="mr_chooser_title">Şuraya yayınla:</string>
   <string name="mr_controller_album_art">Albüm kapağı</string>
@@ -555,6 +582,8 @@ seçin"</string>
   <string name="mr_controller_stop">Durdur</string>
   <string name="mr_controller_stop_casting">Yayını durdur</string>
   <string name="mr_controller_volume_slider">Ses düzeyi kaydırma çubuğu</string>
+  <string name="mr_dialog_device_header">Bir cihaza yansıt</string>
+  <string name="mr_dialog_route_header">Bir grupta oynat</string>
   <string name="mr_system_route_name">Sistem</string>
   <string name="mr_user_route_category_name">Cihazlar</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
@@ -580,6 +609,8 @@ seçin"</string>
   <string name="notice_like_action">%s yorumunuzu beğendi</string>
   <string name="notice_message_title">Bildirimler</string>
   <string name="notice_title">Mesajlar</string>
+  <string name="notification_bar">Bildirim alanı</string>
+  <string name="notification_open_tip">Bildirim almak için açın</string>
   <string name="notify_apk_installed">Başarıyla indirildi</string>
   <string name="ok">Tamam</string>
   <string name="order_recently_subscribe">Son abonelikler</string>
@@ -661,7 +692,7 @@ seçin"</string>
   <string name="ovp_setting_clear_cache_title">Önbelleği temizle</string>
   <string name="ovp_setting_privacy_policy_title">Gizlilik Politikası</string>
   <string name="ovp_setting_privacy_switch_tips">Bazı şarkılar, yetkilendirmeyi kaldırdığınız durumda kullanılamaz hale gelecektir</string>
-  <string name="ovp_setting_privacy_switch_title">Yetkilendirme &amp; geri alma</string>
+  <string name="ovp_setting_privacy_switch_title">Yetkilendirme &amp; iptal etme</string>
   <string name="ovp_setting_version_info_title">Sürüm</string>
   <string name="ovp_start_error_msg">Video oynatılamıyor</string>
   <string name="ovp_video_bad_network_condition">Ağa bağlanamadı.</string>
@@ -679,6 +710,7 @@ seçin"</string>
   <string name="passport_area_code_title">Alan kodu</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesap eklemek için, oturum açtıktan sonra QR kodunu tekrar taratın.</string>
+  <string name="passport_can_not_receive_verification_code">Doğrulama kodu alınamıyor mu?</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_close">Kapat</string>
@@ -756,16 +788,17 @@ seçin"</string>
   <string name="passport_vcode_sms_send_prompt">Kod %s hedefine gönderildi</string>
   <string name="passport_verification_failed">Doğrulanamadı</string>
   <string name="passport_verify">Doğrula</string>
-  <string name="passport_wechat_not_install">"Öncelikle WeChat'i yükleyin"</string>
+  <string name="passport_wechat_not_install">Öncelikle WeChat\'i yükleyin</string>
   <string name="passport_wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="passport_wrong_phone_number_format">Girmiş olduğunuz telefon numarası biçimi geçersiz</string>
   <string name="passport_wrong_vcode">Girdiğiniz kod hatalı</string>
   <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="permission_continue">Devam et</string>
   <string name="permission_info">"Mi Video'nun aşağıdaki işlemleri yapmak için cihazınızın IMEI numarasına erişmesi gerekmektedir:
  
 Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
- Hesap güvenliğinizin artırılması."</string>
+Hesap güvenliğinizin artırılması."</string>
   <string name="permission_info1">"Mi Video'nun aşağıdaki işlemleri yapmak için cihazınızın IMEI numarasına erişmesi gerekmektedir:"</string>
   <string name="permission_info2">Uygulamanın cihazınız için daha iyi özelleştirilmesi;</string>
   <string name="permission_info3">Hesap güvenliğinin arttırılması.</string>
@@ -780,9 +813,12 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="phone_number">Telefon numarası</string>
   <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok.</string>
   <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
+  <string name="playlist_hot">Popüler</string>
+  <string name="playlist_new">Yeni</string>
   <string name="playlist_no_more">Burada daha fazla video yok</string>
   <string name="playlist_offline">Bu çalma listesi artık kullanılamıyor.</string>
   <string name="playlist_title">Çalma listesi</string>
+  <string name="playlist_view_more">Diğer oynatma listeleri</string>
   <string name="plus_add_shortcut">Ana ekran kısayolu oluştur</string>
   <string name="plus_change_poster">Albüm kapağını değiştir</string>
   <string name="plus_continue_watching">İzlemeye devam et</string>
@@ -920,7 +956,8 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="recommend_online_switch_open_time">Bu özellik %s tarihinde otomatik olarak etkinleştirilecek</string>
   <string name="recommend_online_tips">Çevrimiçi video tavsiyelerini almak için etkinleştirin</string>
   <string name="recommend_page_replay">YENİDEN OYNAT</string>
-  <string name="recommend_switch_alert">"Bu bölümü silmek için, Mi Video'da ayarlara gidin"</string>
+  <string name="recommend_switch_alert">Bu bölümü silmek için, Mi Video\'da ayarlara gidin</string>
+  <string name="recommend_to_you">Size önerilir</string>
   <string name="reload_sub_title">Tekrar denemek için dokunun.</string>
   <string name="reload_title">Ağa bağlanamadı.</string>
   <string name="report">Bildir</string>
@@ -956,10 +993,6 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="save_cancel_toast">Videoyu kaydetmeyi iptal etmek için \"Geri\" seçeneğine dokunun</string>
   <string name="screenrecord_cancel">Uyumluluk sorunları</string>
   <string name="screenrecord_nosupport_record">Ekran kaydedici şu anda bu cihazda desteklenmiyor.</string>
-  <string name="screenshot_8k">8K ekran görüntüsü</string>
-  <string name="screenshot_8k_save_toast">8K ekran görüntüsü %s konumuna kaydedildi</string>
-  <string name="screenshot_8k_saving">8K ekran görüntüsü kaydediliyor…</string>
-  <string name="screenshot_8k_share">Dosyayı şuraya gönder</string>
   <string name="search">Ara</string>
   <string name="search_choose_language">Dil seçin</string>
   <string name="search_choose_voice_language">Sesli arama için kullanılacak dili seçin</string>
@@ -979,6 +1012,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="share_ugc_content">%1$s bir göz atın! #%2$s (%3$s)</string>
   <string name="share_ugc_join">Katıl</string>
   <string name="share_ugc_waitting">Bağlantı adresi oluşturuluyor…</string>
+  <string name="show_the_location">Bildirim türleri</string>
   <string name="sign_in">Oturum açılıyor</string>
   <string name="sign_in_progress">Oturum açılıyor…</string>
   <string name="sign_in_title">Mi hesabınızda oturum açın</string>
@@ -989,7 +1023,9 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin.</string>
   <string name="sns_sign_in">Diğer oturum açma yolları</string>
   <string name="source">"Kaynak: "</string>
-  <string name="srl_component_falsify" formatted="false">%s alanı tahrif ediyor,\n Çalışma zamanında sürüklemenin yüksekliğini [%. 1fdp] gösterir,\n Hiçbir şey göstermiyor.</string>
+  <string name="srl_component_falsify" formatted="false">"%s alanı tahrif ediyor,
+ Çalışma zamanında sürüklemenin yüksekliğini [%. 1fdp] gösterir,
+ Hiçbir şey göstermez."</string>
   <string name="srl_content_empty">Akıllı Yenileme Düzeni\'ndeki içerik görünümü boş. XML düzen dosyasına eklemeyi unuttunuz mu?</string>
   <string name="srl_footer_failed">Yükleme başarısız</string>
   <string name="srl_footer_finish">Başarıyla yüklendi</string>
@@ -1020,8 +1056,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="sunday">Pazar</string>
   <string name="sure_to_logout">Oturum şimdi kapatılsın mı?</string>
   <string name="switch_ratio_pause">Oynatma hızı dengeli değil. Varsayılan hıza geri dönün.</string>
-  <string name="symbol_rmb">¥</string>
-  <string name="sync_favorites_limit">"Favorilerinizde 500'den fazla video var. Senkronizasyona devam etmek için eski videolardan bazılarını sileceğiz."</string>
+  <string name="sync_favorites_limit">Favorilerinizde 500\'den fazla video var. Senkronizasyona devam etmek için eski videolardan bazılarını sileceğiz.</string>
   <string name="sync_favorites_message">Bu cihazdaki favoriler hesabınız ile senkronize edilsin mi? Kullanılamayan ögeler silinecektir.</string>
   <string name="sync_favorites_title">Favorileri senkronize et</string>
   <string name="t_check_hide_file">Gizlenecek ögeleri seçin</string>
@@ -1050,6 +1085,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="tab_name_trending">Yükselenler</string>
   <string name="tab_name_video">Videolar</string>
   <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
+  <string name="This_week">Bu hafta</string>
   <string name="thursday">Perşembe</string>
   <string name="ticket_hint">Doğrulama kodu</string>
   <string name="ticket_invalid">Girmiş olduğunuz kod hatalı</string>
@@ -1057,12 +1093,13 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="title_publisher">Yayıncılar</string>
   <string name="title_subscribe">Abonelikler</string>
   <string name="toast_no_data">Bu öğe şu anda kullanılamıyor. Daha sonra gel.</string>
+  <string name="toast_request_too_frequently">Çok hızlı değil!</string>
   <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="Today">Bugün</string>
   <string name="today">Bugün</string>
+  <string name="top_bar_game_desc">Burada birçok yeni oyunu keşfedin</string>
+  <string name="top_bar_game_title">Oyun kanalı</string>
   <string name="tuesday">Salı</string>
-  <string name="txt_cancel_download">TRANSFER İPTAL</string>
-  <string name="txt_download_complete">İndirme tamamlandı</string>
-  <string name="txt_watch_now">ŞİMDİ İZLE</string>
   <string name="ugc_no_net">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="ui_log_tip">Gizlemek için bu alana dokunun, eski kayıtları silmek için basın ve basılı tutun. Kayıtları manuel olarak sürükleyin.</string>
   <string name="unknow">Bilinmiyor</string>
@@ -1099,24 +1136,28 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="v_selectall">Tümünü seç</string>
   <string name="v_selectnull">Tüm seçimleri kaldır</string>
   <string name="v_set_password">Şifre oluştur</string>
-  <string name="v_symbol_rmb">¥</string>
   <string name="v_txt_login">Favorilerinizi senkronize etmek için oturum açın</string>
   <string name="v_update">Güncelle</string>
+  <string name="video_live_over">Bu oturum sona erdi</string>
   <string name="video_offline">Bu öge artık kullanılabilir değil</string>
-  <string name="vp_VideoView_error_button">Tamam</string>
-  <string name="vp_VideoView_error_text_unknown">Bir hata oluştu</string>
-  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
   <string name="vp_app_name">Video Oynatıcı</string>
   <string name="vp_hardware_unsported">Bu video cihazınızda oynatılamıyor.</string>
   <string name="vp_notify_apk_installed">Başarıyla indirildi</string>
   <string name="vp_replay">Yeniden oynat</string>
   <string name="vp_upcoming_auto_play">Otomatik oynatma</string>
   <string name="vp_upcoming_title">Sıradaki</string>
+  <string name="vp_VideoView_error_button">Tamam</string>
+  <string name="vp_VideoView_error_text_unknown">Bir hata oluştu</string>
+  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
   <string name="wednesday">Çarşamba</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme Yöneticisi bağlantısı başarısız oldu, lütfen Uygulama Yönetimi bölümünden İndirme Yöneticisi durumunu kontrol edin.</string>
-  <string name="xiaomi_update_sdk_dialog_message">Tanıtım sürümü %1$s\nBoyut: %2$s</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">Tanıtım sürümü %1$s\nDelta güncelleme boyutu: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Tanıtım sürümü %1$s
+Boyut: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım sürümü %1$s
+Delta güncelleme boyutu: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
+  <string name="year">yıl</string>
+  <string name="Yesterday">Dün</string>
   <string name="yesterday">Dün</string>
 </resources>
