@@ -483,7 +483,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="today">Bugün</string>
   <string name="todo_alert_title_delete">Tamamlanan görevleri sil</string>
   <string name="todo_audio_default_content">[Sesli görev]</string>
-  <string name="todo_custom_remind_tag_pattern_with_md">dd/MM/ HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
   <string name="todo_custom_remind_tag_pattern_with_ymd">dd/MM/yyyy HH:mm</string>
   <string name="todo_edit_audio_hint">Görevinizi söyleyin</string>
   <string name="todo_edit_btn_cancel_remind">Hatırlatıcıyı iptal et</string>
@@ -508,7 +508,11 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="todo_item_group_unschedule">Zamanlanmamış</string>
   <string name="todo_item_status_delete">Sil</string>
   <string name="todo_item_status_finished">Tamamlandı</string>
-  <string name="todo_item_status_unfinished">Tamamlanmamıs</string>
+  <string name="todo_item_status_unfinished">Tamamlanmadı</string>
+  <string name="todo_list">Alt görevlerde kontrol listesi</string>
+  <string name="todo_list_edit_text_hint">Alt görevler oluşturmak için \"Enter\" düğmesine dokunun</string>
+  <string name="todo_list_new_finish_all_tip">Yeni öğeler en az bir tamamlanmamış görev içermelidir</string>
+  <string name="todo_list_overflow_tip">Daha fazla alt görev oluşturulamıyor</string>
   <string name="todo_menu_add_audio_description">Sesli görev ekle</string>
   <string name="todo_menu_add_description">Görev ekle</string>
   <string name="todo_menu_cancel">İptal</string>
@@ -535,6 +539,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="todo_user_guide_tip3">Bir metin görevini düzenlemek için, sadece dokunun.</string>
   <string name="todo_user_guide_tip4">Görevler için bir Ana ekran kısayolu oluşturmayı unutmayın.</string>
   <string name="todo_user_guide_tip5">Oyunun içinde kalın ve önemli bir şeyi asla kaçırmayın!</string>
+  <string name="todo_user_guide_tip6">Alt görevlere kontrol listesi eklemek için \"Enter\" düğmesine dokunun</string>
   <string name="todoalert_done">Tamam</string>
   <string name="tomorrow">Yarın</string>
   <string name="toolbar_check_description">Onay kutusu ekle</string>
