@@ -117,6 +117,14 @@
     <item quantity="other">%1$d kişi oynuyor</item>
     <item quantity="one">%1$d kişi oynuyor</item>
   </plurals>
+  <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+    <item quantity="other">%2$d oyunu kaldır (%1$s dahil)</item>
+    <item quantity="one">%2$d oyunu kaldır (%1$s dahil)</item>
+  </plurals>
+  <plurals name="gb_game_video_ai_record_finish_tips">
+    <item quantity="other">%d AI kaydı Game Turbo\'ya kaydedildi</item>
+    <item quantity="one">%d AI kaydı Game Turbo\'ya kaydedildi</item>
+  </plurals>
   <plurals name="gb_record_time_title">
     <item quantity="other">%d san.</item>
     <item quantity="one">%d san.</item>
@@ -180,6 +188,10 @@
   <plurals name="install_game_count_title">
     <item quantity="other">%d oyun eklendi</item>
     <item quantity="one">%d oyun eklendi</item>
+  </plurals>
+  <plurals name="intl_perm_privacy_control_message_count">
+    <item quantity="other">%d öğeyi koruyabilirsiniz</item>
+    <item quantity="one">%d öğeyi koruyabilirsiniz</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_hour_time_format">
     <item quantity="other">%s saat</item>

@@ -177,7 +177,7 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">24-saatlik hava durumu</string>
     <string name="hourly_forecast_title_hourly_desc">Saatlik hava durumu</string>
-    <string name="index_item_experience_now">Şimdi yükle</string>
+    <string name="index_item_experience_now">Şimdi yükle &gt;</string>
 	<string name="index_item_install_dialog">%1$s başarıyla indirildi ve kuruldu. Hemen denemek ister misiniz?</string>
     <string name="index_item_install_now">Şimdi yükle</string>
     <string name="index_item_installing">Yükleniyor</string>

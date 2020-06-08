@@ -1332,8 +1332,8 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="color_led_battery_title">Şarj olurken devam edin</string>
   <string name="color_led_charging_summary">Pil şarj edildiğinde kapatılacak</string>
   <string name="color_led_end_time">Bitiş zamanı</string>
-  <string name="color_led_game_mode_summary">Oyun Turbo açık olduğunda oyunlar için efektleri göster</string>
-  <string name="color_led_game_mode_title">Oyun Turbo için kullan</string>
+  <string name="color_led_game_mode_summary">Game Turbo açık olduğunda oyunlar için efektleri göster</string>
+  <string name="color_led_game_mode_title">Game Turbo için kullan</string>
   <string name="color_led_hint">LED ışığın kullanılması gereken durumları seçin. Ekran aşağı bakarken ve Rahatsız etme kapalı olduğunda LED ışığı yanacaktır.</string>
   <string name="color_led_incall_pulse_title">Gelen çağrılar için kullan</string>
   <string name="color_led_lucky_dialog_message">Bu özellik Kırmızı zarf asistanı kullanılmasını gerektirir. Şimdi aç?</string>
@@ -2153,6 +2153,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="erase_sure">Zorunlu</string>
   <string name="error_adding_apn_type">Operatör, %s türündeki APN\'lerin eklenmesine izin vermiyor.</string>
   <string name="error_apn_empty">APN boş olamaz.</string>
+  <string name="error_apn_not_allowed">Bu APN\'ye bu cihazda izin verilmiyor. Başka bir tane deneyin.</string>
   <string name="error_apn_restrict_string">APN alanı %1$s içeremez</string>
   <string name="error_capturing_system_heap_dump_message">Sistem yığın dökümü yakalanamadı</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
@@ -2405,7 +2406,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="gadget_wifi">WLAN</string>
   <string name="gallery_privacy_password_role_instruction">Özel fotoğraflarınız burada saklanır</string>
   <string name="game_booster">Oyun;Oyunlar;Turbo;Oyun;Oyun modu</string>
-  <string name="game_booster_title">Oyun Turbo</string>
+  <string name="game_booster_title">Game Turbo</string>
   <string name="game_controller_settings_category">Oyun Denetleyici</string>
   <string name="game_mode_cta_dialog_agree">Kabul</string>
   <string name="game_mode_cta_dialog_cancel">İptal</string>
@@ -3340,9 +3341,9 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="miui_sos_emergency_contacts">Acil durum kişileri</string>
   <string name="miui_sos_emergency_contacts_quantity">%deklendi</string>
   <string name="miui_sos_emergency_delete">Sil</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) zaten kabul edildi</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s zaten kabul edildi</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) sos mesaj gönderilemedi.</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) mesajı aldı</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s mesajı aldı</string>
+  <string name="miui_sos_emergency_failed_sms">%1$s (%2$s) adresine mesaj gönderilemedi</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1ssos mesaj gönderilemedi.</string>
   <string name="miui_sos_enable_switch_summary">Acil durum kişilerinize bulunduğunuz konumla ilgili SOS metin mesajı göndermek için Güç düğmesine 5 kez hızlıca basın</string>
   <string name="miui_sos_enable_switch_title">Acil durum SOS</string>
@@ -3816,7 +3817,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="open_dark_mode_dialog_title">Karanlık mod uyumluluğu</string>
   <string name="open_demo_mode">Aç</string>
   <string name="open_demo_mode_warning_message">Demo modu açıkken durum çubuğundaki saat durur, pil ve sinyal simgeleri dolu olarak görüntülenir. Bunu değiştirmek için Demo modunu kapatabilir veya cihazı yeniden başlatabilirsiniz.</string>
-  <string name="open_game_accelerate">Oyun Turbo\'yu aç</string>
+  <string name="open_game_accelerate">Game Turbo\'yu aç</string>
   <string name="open_haptic_feedback">Dokunsal geri bildirim</string>
   <string name="open_miui_optimization_title">MIUI optimizasyonunu aç</string>
   <string name="open_optimization_message">Daha yumuşak, daha hızlı bir kullanıcı arayüzünün keyfini çıkarmak için optimizasyonu açın.</string>
@@ -4593,7 +4594,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="screen_projection_example_document_title">Belgeler</string>
   <string name="screen_projection_example_gallery_summary">Harici monitörde görüntülemek için Galeri uygulamasında bir öğenin altındaki Paylaş düğmesine dokunun.</string>
   <string name="screen_projection_example_gallery_title">Fotoğraflar &amp; videolar</string>
-  <string name="screen_projection_example_game_summary">Oyun Turbo, oyunları harici bir ekrana aktarmanıza olanak tanır. Bu özelliği açmak için Oyun Turbo araç kutusundaki kısayolu kullanın.</string>
+  <string name="screen_projection_example_game_summary">Game Turbo, oyunları harici bir ekrana aktarmanıza olanak tanır. Bu özelliği açmak için Game Turbo araç kutusundaki kısayolu kullanın.</string>
   <string name="screen_projection_example_game_title">Oyunlar</string>
   <string name="screen_projection_help">Yardım</string>
   <string name="screen_projection_sample_summary">Belgeleri, oyunları, fotoğrafları ve videoları yansıt</string>

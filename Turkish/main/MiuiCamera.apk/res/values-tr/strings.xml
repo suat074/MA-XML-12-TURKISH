@@ -1124,6 +1124,11 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="timbre_normal">Orijinal</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
+  <string name="timer_burst">Timer burst</string>
+  <string name="timer_burst_manu_param_interval">Zaman aralığı (pozlama süresi içermez)</string>
+  <string name="timer_burst_param_interval">Zaman aralığı</string>
+  <string name="timer_burst_param_total_count">Toplam yakalama sayısı</string>
+  <string name="timer_burst_setting_total_count">Adet: %1$s</string>
   <string name="title_snap_double_confirm">Yeniden onaylayın</string>
   <string name="toast_burst_snap_finished_summary">Çekim yapıldı, %1$s fotoğraf çekildi</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Ses yakalama açıkken seri çekim yapılamıyor</string>

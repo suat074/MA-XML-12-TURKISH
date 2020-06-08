@@ -1388,11 +1388,14 @@
   <string name="preferred_network_type_pref_entries_3g_preferred">3G tercih et</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G tercih et (CDMA)</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM otomatik</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G Tercihli)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">LTE tercihli</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G tercihli (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G tercihli</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM otomatik</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G Tercihli)</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">5G tercihli</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G Tercihli)</string>
   <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
   <string name="preferred_network_type_pref_entries_global">Genel</string>
   <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G</string>
@@ -1613,6 +1616,9 @@
   <string name="sip_system_decide">Otomatik</string>
   <string name="smart_divert_summary">CFNRc ayarları</string>
   <string name="smart_divert_title">Akıllı-Yönlendirme</string>
+  <string name="smart_dual_sim_prompt">Mevcut bağlantınız zayıf olduğunda cihazınız ikincil SIM kullanarak mobil veri ağına bağlanır. Bu, ek veri ücretleri oluşturabilir. Veri planınızla ilgili ayrıntılar için yerel operatörünüze başvurun.</string>
+  <string name="smart_dual_sim_summary">Mevcut bağlantı zayıf olduğunda otomatik olarak ikincil SIM karta geçin ve mobil veriyi kullanın. Bağlantı düzeldiğinde, orijinal SIM karta geri dönün.</string>
+  <string name="smart_dual_sim_title">Akıllı çift SIM</string>
   <string name="smsc_dialog_message">Girdiğiniz numaranın doğru olduğundan emin olun. Aksi takdirde, SMS gönderemez veya alamazsınız. SMSC numaranızı onaylamak için operatörünüze başvurun.</string>
   <string name="speed_label_fast">Hızlı</string>
   <string name="speed_label_medium">Orta</string>

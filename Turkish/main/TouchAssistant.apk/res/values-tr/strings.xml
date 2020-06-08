@@ -40,6 +40,14 @@
   <string name="hide_when_fullscreen_intro">Tam ekran moduna girerken kenara taşı.</string>
   <string name="mi_ai">Mi AI kısayolları</string>
   <string name="mi_wallet_summary">Taşıma kartı/Mi Pay/Anahtar kart</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="motion_behavior">Tercih edilen jest</string>
   <string name="name_alipay_payment_code">Alipay ödeme</string>
   <string name="name_alipay_scan">Alipay tarayıcı</string>
