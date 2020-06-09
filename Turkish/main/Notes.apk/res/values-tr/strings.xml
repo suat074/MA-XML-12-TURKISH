@@ -553,6 +553,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="toolbar_voice_description">Ses</string>
   <string name="trash_folder_name">Çöp</string>
   <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
+  <string name="trash_folder_reminder_new">Notlar kalıcı olarak silinmeden önce 30 gün boyunca çöpte tutulur</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">Sal</string>
