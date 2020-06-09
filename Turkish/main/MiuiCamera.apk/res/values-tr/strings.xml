@@ -155,7 +155,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ambilight_tips_for_longtime_using_tripod">Daha uzun pozlama yakalamak için tripod kullanın</string>
   <string name="ambilight_tips_for_suggest_using_tripod">Tripod kullan</string>
   <string name="ambilight_tips_for_using_tripod">Bir tripod kullanın</string>
-  <string name="app_name">Efekt Yöneticisi</string>
+  <string name="app_name">Tercih</string>
   <string name="audio_focus_exit_button_text">Ses odağını kapat</string>
   <string name="autozoom_click_hint">Hareket halindeyken odağı korumak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi izleme durduruldu</string>
@@ -421,6 +421,11 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="hint_subtitle_prompt">Şimdi altyazıları dikte edebilirsiniz</string>
   <string name="hot_music">Sıcak şarkılar</string>
   <string name="hunt_dual_water_mark">Çift kamera filigranı otomatik olarak eklenecektir.</string>
+  <string name="id_card_mode_hint_back">Kimliğinizin arka tarafını tarayın</string>
+  <string name="id_card_mode_hint_front">Kimliğinizin ön tarafını tarayın</string>
+  <string name="id_card_mode_use_hint_text_body">"Kimliğinizin her iki tarafını tek bir görüntüde birleştirin.
+Kopyayı kablosuz olarak A4 kağıdına yazdırın."</string>
+  <string name="id_card_mode_use_hint_text_title">Kimlik tarama</string>
   <string name="install_confirmed">Yükle</string>
   <string name="kaleidoscope_fragment_tab_name">Kaleydoskop</string>
   <string name="lens_dirty_detected_content">"Fotoğraf makinenizin lensi kirli görünüyor.
@@ -460,6 +465,7 @@ kullanabilirsiniz"</string>
   <string name="live_music_network_exception_tips">Bir ağ hatası oluştu, tekrar denemek için dokunun.</string>
   <string name="live_reverse_confirm">Sil</string>
   <string name="live_reverse_message">Daha önce yakalanan öğeyi sil?</string>
+  <string name="live_share_moments">Anlar</string>
   <string name="live_speed_extreme_fast">Süper hızlı</string>
   <string name="live_speed_extreme_slow">Süper yavaş</string>
   <string name="live_speed_fast">Hızlı</string>
@@ -592,7 +598,6 @@ Makro modunu kullanın"</string>
   <string name="module_name_multi_camera">Ön &amp; arka</string>
   <string name="module_name_new_slow_motion">Ağır çekim</string>
   <string name="module_name_panorama">Panorama</string>
-  <string name="module_name_pixel_48M">48MP</string>
   <string name="module_name_portrait">Portre</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Kare</string>
@@ -660,6 +665,9 @@ Makro modunu kullanın"</string>
   <string name="parameter_zoom_slider_title">Yakınlaştırma</string>
   <string name="path_settings">Sistem Uygulamaları/Kamera/Ayarlar</string>
   <string name="photo_assistance_tips_title">Canlı ipuçları</string>
+  <string name="pic_flaw_blink_more">Çerçevedeki biri gözlerini kapatmış gibi görünüyor</string>
+  <string name="pic_flaw_blink_one">Çerçevedeki kişi gözlerini kapatmış gibi görünüyor</string>
+  <string name="pic_flaw_cover">Lens kısmen kapatılmış gibi görünüyor</string>
   <string name="popup_tip_3d_beauty_intro_text">3D Güzellik</string>
   <string name="portait_effect_entry_blackwhite">S&amp;B</string>
   <string name="portait_effect_entry_cool">Nane</string>
@@ -713,8 +721,6 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camcorder_settings_category">Kamera ayarları</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
-  <string name="pref_camera_antibanding_entry_1">50 Hz</string>
-  <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Otomatik</string>
   <string name="pref_camera_antibanding_title">Görüntü titreşimini önle</string>
   <string name="pref_camera_asd_night_title">Düşük ışıklı fotoğrafları otomatik olarak iyileştir</string>
@@ -801,23 +807,12 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_heic_image_format_description">Yüksek verimli HEIF formatında fotoğraf çekin</string>
   <string name="pref_camera_heic_image_format_description2">Yüksek verimli görüntü dosyası biçimi depolama alanından tasarruf sağlar, ancak bazı üçüncü taraf uygulamalar tarafından desteklenmez. HEIF ile canlı fotoğraf çekemez ve filigranları kaldıramazsınız.</string>
-  <string name="pref_camera_heic_image_format_title">HEIC Formatı</string>
-  <string name="pref_camera_hfr_entry_2x">60</string>
-  <string name="pref_camera_hfr_entry_3x">90</string>
-  <string name="pref_camera_hfr_entry_4x">120</string>
+  <string name="pref_camera_heic_image_format_title">HEIF Formatı</string>
   <string name="pref_camera_hfr_entry_off">Kapalı</string>
   <string name="pref_camera_histogram_entry_disable">Kapat</string>
   <string name="pref_camera_histogram_entry_enable">Aç</string>
   <string name="pref_camera_iso_entry_auto">OTO.</string>
   <string name="pref_camera_iso_entry_auto_abbr">OTO.</string>
-  <string name="pref_camera_iso_entry_iso100">100</string>
-  <string name="pref_camera_iso_entry_iso1600">1600</string>
-  <string name="pref_camera_iso_entry_iso200">200</string>
-  <string name="pref_camera_iso_entry_iso3200">3200</string>
-  <string name="pref_camera_iso_entry_iso400">400</string>
-  <string name="pref_camera_iso_entry_iso800">800</string>
-  <string name="pref_camera_iso_title">ISO</string>
-  <string name="pref_camera_iso_title_abbr">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Yüksek</string>
   <string name="pref_camera_jpegquality_entry_low">Düşük</string>
   <string name="pref_camera_jpegquality_entry_normal">Standart</string>
@@ -1019,12 +1014,10 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_skin_beautify_smooth_title">Kaplama</string>
   <string name="pref_userdefine_watermark_title">Özel filigran</string>
   <string name="pref_video_captrue_ability_title">Kayıt sırasında görüntü yakalama</string>
-  <string name="pref_video_encoder_default">h264</string>
   <string name="pref_video_encoder_entry_h264">H.264 Yüksek uyumluluk</string>
   <string name="pref_video_encoder_entry_h265">H.265 Yüksek performans</string>
   <string name="pref_video_encoder_title">Video kodlayıcı</string>
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Odak modu</string>
   <string name="pref_video_hfr_title">Video HFR</string>
   <string name="pref_video_quality_summary">4k video 120fps modunda desteklenmez</string>
