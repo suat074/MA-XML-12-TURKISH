@@ -324,6 +324,7 @@
   <string name="launcher_search_bar_title">Ana ekranda arama çubuğu</string>
   <string name="launcher_search_bar_value_disable">Kapalı</string>
   <string name="launcher_search_bar_value_enable">Açık</string>
+  <string name="launcher_slide_up_search_provider_title">Arama sağlayıcısını yukarı kaydırın</string>
   <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
   <string name="launcher_sliding_up_gesture">Aramayı açmak için Ana ekranda yukarı kaydırın</string>
   <string name="launcher_title">Ana ekran &amp; Son kullanılanlar</string>

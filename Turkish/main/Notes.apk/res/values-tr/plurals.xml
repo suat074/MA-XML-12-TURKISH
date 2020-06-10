@@ -117,8 +117,8 @@
     <item quantity="one">%1$d gün önce</item>
   </plurals>
   <plurals name="todo_terms">
-    <item quantity="other">%1$s not</item>
-    <item quantity="one">%1$s not</item>
+    <item quantity="other">%1$s görev</item>
+    <item quantity="one">%1$s görev</item>
   </plurals>
   <plurals name="word_count">
     <item quantity="other">%d karakter</item>

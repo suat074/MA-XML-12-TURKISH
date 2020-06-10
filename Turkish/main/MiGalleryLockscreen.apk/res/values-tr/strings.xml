@@ -269,6 +269,7 @@
   <string name="lks_left_top_notice">Başa dönmek için buraya dokunun</string>
   <string name="lks_left_top_notice_refresh">Yeni öğeleri görüntülemek için dokunun</string>
   <string name="lks_logo_desc2">Günlük taze duvar kağıtları</string>
+  <string name="lks_logo_desc_search">Günlük taze duvar kağıtları</string>
   <string name="lks_subscription_toast">Duvar kağıdı başarıyla değiştirildi</string>
   <string name="llks_add_cate">%s için abone olun</string>
   <string name="llks_auto_switch_wp">Beğendiğiniz kategorilere abone olun</string>

@@ -240,6 +240,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="close_front_flash_toast">Cihazınız aşırı ısınmış. Şimdi flaş kullanamazsınız.</string>
   <string name="color_effect_entry_berry">Meyveler</string>
   <string name="color_effect_entry_blackgold">Rodyum</string>
+  <string name="color_effect_entry_blackice">Kara buz</string>
   <string name="color_effect_entry_blackwhite">S&amp;B</string>
   <string name="color_effect_entry_classic">Klasik</string>
   <string name="color_effect_entry_cookie">Çerez</string>
@@ -250,6 +251,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="color_effect_entry_glimmer">Parıltı</string>
   <string name="color_effect_entry_koizora">Aşk</string>
   <string name="color_effect_entry_latte">Latte</string>
+  <string name="color_effect_entry_orange">Limon</string>
   <string name="color_effect_entry_quiet">Sakin</string>
   <string name="color_effect_entry_sibopenk">Cyberpunk</string>
   <string name="color_effect_entry_soda">Soda</string>

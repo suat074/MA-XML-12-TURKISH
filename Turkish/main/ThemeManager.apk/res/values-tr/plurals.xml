@@ -104,6 +104,10 @@
     <item quantity="other">%d yorum</item>
     <item quantity="one">%d yorum</item>
   </plurals>
+  <plurals name="resource_download_notification_title_many">
+    <item quantity="one">%1$d öğe başarıyla indirildi</item>
+    <item quantity="other">%1$d öğe başarıyla indirildi</item>
+  </plurals>
   <plurals name="resource_rating">
     <item quantity="other">%1$.1f puan</item>
     <item quantity="one">%1$.1f puan</item>

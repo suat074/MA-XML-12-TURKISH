@@ -273,6 +273,7 @@
   <string name="switch_desc_tv">İki alan. Bir cihaz.</string>
   <string name="switching_tv">Geçiliyor…</string>
   <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>
+  <string name="talk_back_conflict_with_handy_mode">TalkBack açık olduğunda Tek el modu kullanılamaz</string>
   <string name="talk_back_water_mark_string1">TalkBack açık</string>
   <string name="talk_back_water_mark_string2">Kapatmak için \"Ses+\" ve \"Ses-\" tuşlarına 3 saniye boyunca basılı tutun</string>
   <string name="throwing_print">Yazdır</string>

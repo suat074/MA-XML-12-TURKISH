@@ -38,14 +38,17 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="ad_begin_to_download_tip">İndirme başlatılıyor…</string>
   <string name="ad_begin_to_install_tip">Yükleniyor...</string>
   <string name="ad_closed_tip">Bu türden daha az reklam göreceksiniz</string>
+  <string name="ad_details">Ayrıntılar</string>
   <string name="ad_download_download">İndir</string>
   <string name="ad_download_download_now">İndir</string>
   <string name="ad_download_install">Yükle</string>
+  <string name="ad_download_now">İndir</string>
   <string name="ad_download_open">Aç</string>
   <string name="ad_download_pause">Duraklat</string>
   <string name="ad_download_pending">Bekliyor</string>
   <string name="ad_download_resume">Devam</string>
   <string name="ad_downloading_tip">Bu öğe indiriliyor. Bildirim alanında ilerlemeyi görebilirsiniz..</string>
+  <string name="ad_experience_now">Aç</string>
   <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
   <string name="all_resources">Tümü</string>
   <string name="already_latest_version">Güncel</string>
@@ -97,10 +100,17 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="common_downloading">İndiriliyor…</string>
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Atla</string>
-  <string name="community_cta_dialog_cancel">İptal</string>
-  <string name="community_cta_dialog_des">Bu tema, Mi Hesap Kimliğinizi ve Mi Community durumunuzu görüntüleyen bir saat kısayolu içerir. Farklı bir temaya geçerek veya Saat widget\'ini kaldırarak bu özelliği kapatabilirsiniz.</string>
-  <string name="community_cta_dialog_ok">Anladım</string>
-  <string name="community_cta_dialog_title">Saat kısayolu</string>
+  <string name="community_cta_dialog_cancel">Hayır teşekkürler</string>
+  <string name="community_cta_dialog_des">"Üçüncü taraf temaları artık Mi Community widget\'ını destekliyor. Sizi Mi Community\'nin Temalar alt forumuna götüren bir kısayol olarak çalışır. Bu özelliği Ayarlar\'dan kapatabilirsiniz.
+Burada görüntüleyebilmek için Temalar\'ın Mi Hesap Kimliğinize ve hesapla ilişkili Mi Community durumlarınıza erişmesine izin verin. Mi Community etkinliği ile ilgili bildirimleri Ayarlar\'dan açabilir ve kapatabilirsiniz."</string>
+  <string name="community_cta_dialog_ok">İzin ver</string>
+  <string name="community_cta_dialog_title">Gerekli izinler</string>
+  <string name="community_community_message_trigger_summary">Mi Hesap Kimliğinizi kullanarak yanıtlar, beğeniler ve Mi Community durum güncellemeleri hakkında bildirim alın</string>
+  <string name="community_community_message_trigger_title">Etkinlikler hakkında bilgilendirme</string>
+  <string name="community_entrance_summary">Mi Community\'de temayla ilgili içeriği bulun. Bu özellik seçili temalar tarafından desteklenir.</string>
+  <string name="community_entrance_title">Mi Community saati widget\'ı</string>
+  <string name="community_message_trigger_disabled">Kapalı</string>
+  <string name="community_message_trigger_triggered">Açık</string>
   <string name="component_backup_preference_title">Temayı yedekle</string>
   <string name="component_category_finest_title">GENEL</string>
   <string name="component_category_more_title">GELİŞMİŞ</string>
@@ -225,6 +235,8 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="find_more_theme">Daha fazla</string>
   <string name="find_more_wallpapers">Daha fazla</string>
   <string name="first_page_recommend">Önerilen</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Önce İlk alana şeffaf duvar kağıdı uygulayın.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Önce İlk alana hareketli duvar kağıdı uygulayın.</string>
   <string name="gallery_wallpaper">Duvar Kağıdı Döngüsü</string>
   <string name="gallery_wallpaper_theme">Olmazsa olmaz duvar kağıtları</string>
   <string name="gift_anonymous">Anonim</string>
@@ -286,6 +298,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="hide_pull_down_positive">Gizle</string>
   <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
   <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
+  <string name="i_know">Anladım</string>
   <string name="in_the_end">Daha fazla yok</string>
   <string name="incall_show_apply">Profil videosu olarak ayarla</string>
   <string name="incall_show_apply_fail">Ayarlanamadı</string>
@@ -339,6 +352,18 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="mine_tab_title_like">Beğenilenler</string>
   <string name="mine_tab_title_local">Yerel</string>
   <string name="mine_tab_title_purchase">Satın alınanlar</string>
+  <string name="miui_clock_city_name_local">Yerel</string>
+  <string name="miui_clock_city_name_second">İkinci saat</string>
+  <string name="miui_lock_screen_date">MMMM d, EEEE</string>
+  <string name="miui_lock_screen_date_12">MMMM d, EEEE</string>
+  <string name="miui_lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
+  <string name="miui_lock_screen_large_date">"dd/M
+EEE"</string>
+  <string name="miui_lock_screen_large_date_12">"dd/M
+EEE"</string>
   <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
   <string name="miuishare_account_login_cancel">İptal</string>
@@ -523,7 +548,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="resource_detail_window_title">%1$s Detayları</string>
   <string name="resource_download">İndir</string>
   <string name="resource_download_notification_title_many">%1$s tema indirildi</string>
-  <string name="resource_download_notification_title_one">Tema indirildi</string>
+  <string name="resource_download_notification_title_one">%1$s başarıyla indirildi</string>
   <string name="resource_download_trial">Deneyin</string>
   <string name="resource_downloaded_title">İndirilen kaynaklar</string>
   <string name="resource_downloading">İndiriliyor...</string>
@@ -539,7 +564,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="resource_exchange_share_code_content">"MIUI'nin Tema Mağazasından %1$s teması için (%2$s) hediye kodu aldınız. Şimdi dokunup %3$s kullanın."</string>
   <string name="resource_exchange_share_code_dlg_content">Hediye Kodu: %1$s: %2$s. Başka bir MIUI kullanıcısına göndermeden önce onların temayı indirmesi lazım.</string>
   <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>
-  <string name="resource_exchange_success">Başarıyla satın alındı</string>
+  <string name="resource_exchange_success">Başarıyla kullanıldı</string>
   <string name="resource_exchange_unavailable">Girdiğiniz kod ile ilişkili tema mevcut değil.</string>
   <string name="resource_exchange_universal_finish">MIUI Tema Marketten bir temayı indirmek için bu kodu kullanabilirsiniz.</string>
   <string name="resource_exchange_universal_goon">Bu kod marketten herhangi bir temayı indirmek için kullanılabilir.</string>
@@ -703,7 +728,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="show_mamual_hide_theme">Gizli temaları göster</string>
   <string name="show_mamual_hide_wallpaper">Gizli duvar kağıtlarını göster</string>
   <string name="stagger_list_end">Şimdilik bu kadar</string>
-  <string name="super_wallpaper">Süper Duvar kağıdı</string>
+  <string name="super_wallpaper">Süper Duvar Kağıtları</string>
   <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından oluşturulur. Uygulamamız, çalışmaları desteklememize olanak tanıyan az miktarda reklam içerir.</string>
   <string name="support_theme_store_supported">Desteğin için teşekkürler!</string>
   <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>
@@ -774,6 +799,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_current_using_has_update">Tema güncellemesi mevcut</string>
   <string name="theme_description_title_customized">Özel</string>
   <string name="theme_description_title_default">Varsayılan</string>
+  <string name="theme_designer_products">Tasarımcı temaları</string>
   <string name="theme_detail_tab_comment">Yorumlar</string>
   <string name="theme_detail_tab_recommend">Önerilen</string>
   <string name="theme_detail_tab_theme">Temalar</string>
@@ -814,7 +840,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_user_agreement_remind_never">Tekrar gösterme</string>
   <string name="theme_user_agreement_remind_summary">Temalar uygulamasını her açışınızda Kullanım Şartları penceresini göster. Bu ayar, cihazı yeniden başlattıktan sonra geçerli olacaktır.</string>
   <string name="theme_user_agreement_title">Kullanım Şartları</string>
-  <string name="theme_wallpaper">Duvar kağıdı kategorisi</string>
+  <string name="theme_wallpaper">Duvar Kağıdı Kategorileri</string>
   <string name="theme_yes">Evet</string>
   <string name="third_party_pickers_activity_title">%1$s ekle</string>
   <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
@@ -875,6 +901,7 @@ Daha fazla seçenek için Temalar &gt; Hesabım &gt; Tema laboratuvarına gidin.
   <string name="update_latest">Uygulamanız güncel</string>
   <string name="update_no_net">Bir ağ hatası oluştu. Tekrar deneyin.</string>
   <string name="update_title">YENİ GÜNCELLEME MEVCUT</string>
+  <string name="use_hint">Dikkat</string>
   <string name="using_theme_has_update_tips">Bu tema için bir güncelleştirme kullanılabilir.</string>
   <string name="using_theme_next_automatic_update">Otomatik güncellemeler</string>
   <string name="using_theme_next_automatic_update_summary">Cihaz kilitliyken indirilen temaları Wi-Fi kullanarak güncelle</string>

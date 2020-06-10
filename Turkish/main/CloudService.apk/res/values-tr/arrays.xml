@@ -111,10 +111,15 @@
     <item>Yedeklenen öğeleri cihazınıza indirin</item>
     <item>Bulut;Yedekle;Yedek;Geri;Bulut hizmetleri;Xiaomi Bulut</item>
   </string-array>
-  <string-array name="settings_search_security">
-    <item>Xiaomi Bulut ile Güvenliği eşitle</item>
+  <string-array name="settings_search_phrase">
+    <item>Hızlı yanıtları eşitle</item>
     <item>Eşitlemeyi aç</item>
-    <item>Güvenlik;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
+    <item>Hızlı yanıtlar;Pano;Düzenleyici;Bulut;Eşitleme;Bulut hizmetleri</item>
+  </string-array>
+  <string-array name="settings_search_security">
+    <item>Güvenlik bulut eşitlemesi</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Güvenlik;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut</item>
   </string-array>
   <string-array name="settings_search_sms">
     <item>Xiaomi Bulut ile mesajları eşitle</item>
