@@ -59,7 +59,7 @@
   <string name="device_status_waiting">Bekleniyor…</string>
   <string name="device_type_pc">Bilgisayar</string>
   <string name="eighthours">8 saat</string>
-  <string name="enable_livetalk_summary">Arama ücretlerinden 70% tasarruf edin</string>
+  <string name="enable_livetalk_summary">Arama ücretlerinden %70 tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>
   <string name="enable_midrop">Aç</string>
   <string name="fc_dialog_body">Hata raporu analiz için Mi\'ye gönderilsin mi? Bu rapor Kişisel Olarak Tanımlanabilir Bilgiler içerebilir. Raporunuz bu hatayı gidermeye yardımcı olacak ve hiçbir zaman ticari bağlamda paylaşılmayacaktır.</string>
@@ -301,7 +301,7 @@
   <string name="wifi_assistant_wifi_no_internet">Bu WLAN ağının internet erişimi yok</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Detayları görmek için dokunun</string>
   <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
-  <string name="wireless_charging_notification_message2">Pil şarjı 30%\'dan az. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
+  <string name="wireless_charging_notification_message2">Pil şarjı %30\'dan az. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
   <string name="wireless_charging_notification_message3">Şarj sırasında bir hata oluştu. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
   <string name="wireless_charging_notification_titile">Ters kablosuz şarj kapatıldı.</string>
   <string name="xspace_head">Klonlu uygulama</string>
