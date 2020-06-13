@@ -33,7 +33,7 @@
   <string name="calibration_data">Henüz kalibre edilmedi. Kalibrasyon verilerini indirin. Aksi takdirde cihaz ağda yer alamaz. [MTK Internal User]</string>
   <string name="callBarringFailMmi">Çağrı Engelleme başarısız.</string>
   <string name="cfServiceNotForwarded">Yönlendirilmedi.</string>
-  <string name="change_setting_for_onenewsim">"Yeni SIM kart algılandı. Bunun etiketi: "</string>
+  <string name="change_setting_for_onenewsim">Yeni SIM kart algılandı. Bunun etiketi: </string>
   <string name="change_setting_for_twonewsim">Yeni SIM kart algılandı. Bunlar ibareli: </string>
   <string name="change_settings">Değiştir</string>
   <string name="checkPwdLen">Şifrenizin 4 - 8 basamaklı olup olmadığını kontrol edin.</string>
@@ -69,7 +69,7 @@
   <string name="contact_widget_loading">Yükleniyor…</string>
   <string name="criticallowmessage">Lütfen biraz alan boşaltın. Bazı uygulamalar ve sistem işlevleri iyi çalışmayabilir.</string>
   <string name="criticallowtitle">Alan yok</string>
-  <string name="ct_name">中国电信</string>
+  <string name="ct_name">中国电信 (Çin Telekom)</string>
   <string name="ct_net_name">CTNET</string>
   <string name="ct_wap_name">CTWAP</string>
   <string name="cu_3gnet_name">3G İnternet Bağlantısı</string>
@@ -84,14 +84,14 @@
   <string name="deleteApp">Uygulamayı Kaldır</string>
   <string name="deleteMail">Postaları yedekle ve depolamayı boşalt</string>
   <string name="deleteMails">Postaları sil</string>
-  <string name="denied_required_permission">"İzinler reddedildi. Bunları Ayarlar&gt; Uygulamalar'dan değiştirebilirsiniz."</string>
+  <string name="denied_required_permission">"İzinler reddedildi. Bunları Ayarlar&gt; Uygulamalar\'dan değiştirebilirsiniz."</string>
   <string name="description_direction_down">Ertelemek için aşağı kaydırın </string>
   <string name="description_direction_left">Ertelemek için sola kaydırın </string>
   <string name="description_direction_right">Reddetmek için sağa kaydırın </string>
   <string name="description_direction_up">Reddetmek için yukarı kaydırın </string>
   <string name="dialog_color_picker">Renk Seçici</string>
   <string name="dismiss">Reddet</string>
-  <string name="dismiss_power_off">Reddet ve  Gücü Kapat</string>
+  <string name="dismiss_power_off">Reddet ve Gücü Kapat</string>
   <string name="dismiss_power_on">Reddet ve Gücü Aç</string>
   <string name="dm_prompt">Terminal zaten kilitli</string>
   <string name="drag">Uygulama pencere boyutuna getir</string>
@@ -101,7 +101,7 @@
   <string name="drm_consume_message">Eyleminiz DRM haklarını tüketecektir.</string>
   <string name="drm_consume_title">DRM haklarını tüketin</string>
   <string name="drm_end">Sonu:</string>
-  <string name="drm_forward_forbidden">Bir veya daha fazla korumalı dosyalar başkalarına iletilemez.</string>
+  <string name="drm_forward_forbidden">Bir veya daha fazla korumalı dosya başkalarına iletilemez.</string>
   <string name="drm_forwardforbidden_message">Bazı korumalı dosyalar başkalarına iletilemez.</string>
   <string name="drm_forwardforbidden_title">Yasaklı</string>
   <string name="drm_license_install_fail">DRM Lisans yüklemesi başarısız oldu.</string>
@@ -112,7 +112,7 @@
   <string name="drm_no_limitation">Limitsiz.</string>
   <string name="drm_protection_status">Koruma durumu:</string>
   <string name="drm_protectioninfo_renew">Yenile</string>
-  <string name="drm_protectioninfo_title">Korunma Bilgisi</string>
+  <string name="drm_protectioninfo_title">Koruma Bilgisi</string>
   <string name="drm_secure_timer_message">DRM korumalı dosyalar kullanılamadı. Veri bağlantısından emin olun.</string>
   <string name="drm_secure_timer_title">Geçersiz DRM güvenlik saati</string>
   <string name="drm_toast_license_expired">DRM Lisans süresi doldu.</string>
@@ -203,7 +203,7 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_sim2_puk_locked_message">SIM kartın 2. PUK kilidi devrede.</string>
   <string name="lockscreen_sim_locked_message_short">SIM kart kilitli</string>
   <string name="lockscreen_sim_puk_locked_message_short">PUK-kilitli</string>
-  <string name="logo">Uygulama logo iconu</string>
+  <string name="logo">Uygulama logo ikonu</string>
   <string name="low_internal_storage_view_title">Dahili depolama doluyor</string>
   <string name="low_storage_warning_message">Lütfen biraz alan boşaltın. Bazı uygulamalar ve sistem işlevleri iyi çalışmayabilir.</string>
   <string name="maximum">azami uygulama</string>
@@ -226,7 +226,7 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="music_no_songs">Şarkı yok</string>
   <string name="music_pause">Durdur</string>
   <string name="music_play">Oynat</string>
-  <string name="mw_max_size_string">Azamı %d kayan pencere</string>
+  <string name="mw_max_size_string">Azami %d kayan pencere</string>
   <string name="network_error_notification_title">WLAN arama hatası</string>
   <string name="network_forbidden">Yasaklı</string>
   <string name="network_searching">Yeni ağ aranıyor</string>
@@ -308,7 +308,7 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="sim_missing_slot2_card">Yuva 2: Kart algılanmadı</string>
   <string name="sim_missing_slot3">Yuva 3: SIM kart algılanmadı</string>
   <string name="sim_missing_slot4">Yuva 4: SIM kart algılanmadı</string>
-  <string name="sim_permanently_locked">Yanlış PUK kodu 10\'dan fazla kez girmenizden dolayı SIM kartınız kalıcı olarak bloke edilmiştir.</string>
+  <string name="sim_permanently_locked">PUK kodu 10 kereden fazla yanlış girmenizden dolayı SIM kartınız kalıcı olarak bloke edilmiştir.</string>
   <string name="simlock_entersimmelock">SIM ME kilidini girin</string>
   <string name="simlock_slot_locked_message">Yuva kalıcı olarak kilitlendi</string>
   <string name="slot_id">Yuva %d:</string>
