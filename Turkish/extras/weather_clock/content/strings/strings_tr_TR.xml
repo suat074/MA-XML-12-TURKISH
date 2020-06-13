@@ -4,7 +4,7 @@
     <string name="date_time_12">d/MMMM/EEEE</string>
     <string name="language">tr</string>
     <string name="desc_date_format">d/MMMM/EEEE</string>
-    <string name="desc_time">'Geçerli Zaman' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', saat uygulamasını girmek için iki kez dokunun'</string>
+    <string name="desc_time">'Geçerli Zaman' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', saat uygulamasına girmek için iki kez dokunun'</string>
     <string name="desc_time_1">'Şimdiki Zaman' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', saati açmak için iki kez dokunun'</string>
 	<string name="weather_type_0">Açık</string>
     <string name="weather_type_1">Bulutlu</string>
