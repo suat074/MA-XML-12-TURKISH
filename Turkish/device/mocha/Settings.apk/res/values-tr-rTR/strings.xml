@@ -7,7 +7,7 @@
   <string name="miracast_cancelconnect_dialog">Bağlantıyı kes</string>
   <string name="miracast_connection_failed_generic">Ekrana bağlanılamadı.</string>
   <string name="miracast_dialog_title">%1$s</string>
-  <string name="miracast_disconnect_dialog">%1$s bağlantısını kesilsin mi?</string>
+  <string name="miracast_disconnect_dialog">%1$s bağlantısı kesilsin mi?</string>
   <string name="miracast_display_category">Ekranlar</string>
   <string name="miracast_empty_list">Kablosuz Ekran aranıyor...</string>
   <string name="miracast_error_already_streaming">Zaten başka bir ekrana yayın yapılıyor</string>
@@ -19,7 +19,7 @@
   <string name="miracast_game_mode_text_on">Açık</string>
   <string name="miracast_game_mode_title">Oyun Modu</string>
   <string name="miracast_instructions">Video ve ses dosyalarını harici ekrana kablosuz olarak aktarın.</string>
-  <string name="miracast_is_discoverable">Yakındaki tüm kablosuz gösterim cihazları tarafından görünür  (%1$s)</string>
+  <string name="miracast_is_discoverable">Yakındaki tüm kablosuz gösterim cihazları tarafından görünür (%1$s)</string>
   <string name="miracast_menu_add_sink">Elle bir ekran ekleyin</string>
   <string name="miracast_menu_connect">Yansıtmayı başlat</string>
   <string name="miracast_menu_disconnect">Yansıtmayı durdur</string>
