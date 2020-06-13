@@ -771,6 +771,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_device_watermark_title">Cihaz filigranı</string>
   <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Düşük ışıklı ortamlarda resim kalitesini artırmak için kare hızı otomatik olarak 60FPS\'den 33FPS\'ye düşürülür</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Düşük ışık otomatik kare hızı</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Kapalı</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -868,6 +870,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_quick_settings">Hızlı ayarlar</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Hızlı çekim animasyonunu aç</string>
   <string name="pref_camera_quick_shot_enable_title">Hızlı çekimi aç</string>
+  <string name="pref_camera_rec_type_3d_record">3D ses</string>
+  <string name="pref_camera_rec_type_audio_zoom">Ses yakınlaştırma</string>
+  <string name="pref_camera_rec_type_normal">Normal</string>
   <string name="pref_camera_recordlocation_entry_off">Kapalı</string>
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
   <string name="pref_camera_recordlocation_title">Konum bilgisini sakla</string>
@@ -976,6 +981,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_dual_camera_video">ön &amp; arka</string>
   <string name="pref_face_beauty_title">Güzelleştirme</string>
   <string name="pref_fingerprint_capture_title">Parmak izi ile çekim</string>
+  <string name="pref_front_denoise_default">Kapalı</string>
+  <string name="pref_front_denoise_summary">Ön kameranın arkasında oluşan gürültüleri azaltın</string>
+  <string name="pref_front_denoise_title">Selfie gürültü filtresi</string>
   <string name="pref_front_mirror_entry_auto">Yüz algılandığında</string>
   <string name="pref_front_mirror_entry_off">Kapalı</string>
   <string name="pref_front_mirror_entry_on">Açık</string>
@@ -985,6 +993,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_google_lens_summary">QR kodlarını, E-postaları, sayıları ve daha fazlasını otomatik olarak tanımlama</string>
   <string name="pref_google_lens_title">Lens Önerileri</string>
   <string name="pref_groupshot_with_primitive_title">Orijinal fotoğrafları da kaydet</string>
+  <string name="pref_hdr10_video_mode_description">H.265 kodlu 4K, 8K çözünürlüklü video desteği</string>
+  <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_lens_dirty_detect_summary">Lens kirli olduğunda bir bildirim alın</string>
   <string name="pref_lens_dirty_detect_title">Kirli lens hakkında bilgi edinin</string>
   <string name="pref_manual_exposure_title">S</string>
@@ -1016,6 +1026,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_skin_beautify_smooth_title">Kaplama</string>
   <string name="pref_userdefine_watermark_title">Özel filigran</string>
   <string name="pref_video_captrue_ability_title">Kayıt sırasında görüntü yakalama</string>
+  <string name="pref_video_denoise_off">Kapalı</string>
+  <string name="pref_video_denoise_on">Açık</string>
+  <string name="pref_video_denoise_title">Gürültü filtresi</string>
   <string name="pref_video_encoder_entry_h264">H.264 Yüksek uyumluluk</string>
   <string name="pref_video_encoder_entry_h265">H.265 Yüksek performans</string>
   <string name="pref_video_encoder_title">Video kodlayıcı</string>
@@ -1048,6 +1061,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_watermark_off">Kapalı</string>
   <string name="pref_watermark_on">Açık</string>
   <string name="pref_watermark_title">Filigran</string>
+  <string name="pref_wind_denoise_default">Açık</string>
+  <string name="pref_wind_denoise_title">Rüzgar filtresi</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preparing_sd">SD kart kontrol ediliyor…</string>
   <string name="preview_back_pressed_hint">Önizlemeye geri dönmek için yeniden dokunun</string>

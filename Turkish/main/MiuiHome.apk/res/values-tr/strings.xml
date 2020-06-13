@@ -324,7 +324,7 @@
   <string name="launcher_search_bar_title">Ana ekranda arama çubuğu</string>
   <string name="launcher_search_bar_value_disable">Kapalı</string>
   <string name="launcher_search_bar_value_enable">Açık</string>
-  <string name="launcher_slide_up_search_provider_title">Arama sağlayıcısını yukarı kaydırın</string>
+  <string name="launcher_slide_up_search_provider_title">Yukarı kaydırma arama sağlayıcısı</string>
   <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
   <string name="launcher_sliding_up_gesture">Aramayı açmak için Ana ekranda yukarı kaydırın</string>
   <string name="launcher_title">Ana ekran &amp; Son kullanılanlar</string>
@@ -566,7 +566,7 @@
   <string name="widget_global_search">Ara</string>
   <string name="widget_quick_function">Hızlı fonksiyonlar</string>
   <string name="widgets_preview_title">Widget ekle</string>
-  <string name="work_mode_off_label">Bildirimler ve uygulamalar kapalı</string>
+  <string name="work_mode_off_label">Bildirimler kapalı ve uygulamalar şu anda kullanılamıyor</string>
   <string name="work_mode_on_label">Kuruluşunuz tarafından yönetilir</string>
   <string name="work_profile_toggle_label">İş profili</string>
 </resources>
