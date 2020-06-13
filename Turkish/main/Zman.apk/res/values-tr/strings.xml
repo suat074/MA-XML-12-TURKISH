@@ -46,7 +46,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="not_set">Ayarlanmadı</string>
-  <string name="once_settings_camera_ttile">Meta verisi olmadan paylaş</string>
+  <string name="once_settings_camera_title">Meta verisi olmadan paylaş</string>
   <string name="once_settings_location_title">Konum bilgisi olmadan paylaş</string>
   <string name="once_settings_subtitle">Seçilen öğeleri nasıl paylaşmak istersiniz?</string>
   <string name="once_settings_title">Gizlilik koruması</string>
