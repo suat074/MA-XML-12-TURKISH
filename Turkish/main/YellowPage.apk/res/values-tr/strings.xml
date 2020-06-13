@@ -63,7 +63,7 @@
   <string name="contact_detail_calllog_call_record_tips">Kaydedilen çağrılar</string>
   <string name="content_desc_send_sms">SMS gönder</string>
   <string name="convenient_service">Hizmetler</string>
-  <string name="coupon_bought_count">%d satınal</string>
+  <string name="coupon_bought_count">%d satın al</string>
   <string name="custom_mark_category">Özel</string>
   <string name="data_already_used">Kullanılan veriler</string>
   <string name="data_charge">Veri kontörü</string>
@@ -120,7 +120,7 @@
   <string name="heduohao_can_not_open_file_chooser">Sistem kamera işlevini kullanamıyor</string>
   <string name="heduohao_get_authcode">Kod al</string>
   <string name="heduohao_get_authcode_residue_show">Alma(%ds)</string>
-  <string name="heduohao_input_authcode">Dogrulama kodunu giriniz</string>
+  <string name="heduohao_input_authcode">Doğrulama kodunu giriniz</string>
   <string name="heduohao_input_phone_number">Telefon numarasını giriniz</string>
   <string name="heduohao_loading">Yükleniyor...</string>
   <string name="heduohao_logging">Giriş yapılıyor...</string>
@@ -150,13 +150,13 @@
   <string name="login_ok">Oturum aç</string>
   <string name="mark_number_check_choose_others">Diğerleri seçin</string>
   <string name="mark_number_check_dialog_title">İşaret numarası</string>
-  <string name="mark_number_check_most_choice">(Çoğu Kullanıcı Seçimi)</string>
+  <string name="mark_number_check_most_choice">(Çoğu Kullanıcının Seçimi)</string>
   <string name="mark_number_custom_mark_deleted">Etiket bilgisi kaldırıldı</string>
   <string name="mark_number_delete_confirm_message">%s etiket bilgisi kaldırılsın mı?</string>
   <string name="mark_number_delete_confirm_title">Etiket bilgisini kaldır</string>
   <string name="mark_number_dialog_default_sub_title">Bu bilgi sunucularımıza yüklenecek</string>
   <string name="mark_number_dialog_maintitle">Bu telefon numarasını etiketle</string>
-  <string name="mark_number_dialog_subtitle">%2$d tarafında %1$s raporlandı</string>
+  <string name="mark_number_dialog_subtitle">%2$d tarafından %1$s raporlandı</string>
   <string name="mark_number_feedback">Etiket</string>
   <string name="mark_number_feedback_hint">Girdiğiniz bilgilerin doğru olduğundan emin olun.</string>
   <string name="mark_number_feedback_invalid_hint">Geri bildiriminizi girin</string>
@@ -236,7 +236,7 @@
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="rcs_app_name">Mini uygulama</string>
   <string name="recharge_actual_price">Ücret:</string>
-  <string name="recharge_charge_range">Ücret: %1$s-%2$s Yuan</string>
+  <string name="recharge_charge_range">Ücret: %1$s-%2$s yuan</string>
   <string name="recharge_charge_value">Fiyat: %s yuan</string>
   <string name="recharge_follow_name">Kontör</string>
   <string name="recharge_history">Kontör geçmişi</string>
@@ -245,7 +245,7 @@
   <string name="recharge_my_phone_number">Numaram</string>
   <string name="recharge_order_actual_price">%s ¥</string>
   <string name="recharge_order_id">Sipariş #:</string>
-  <string name="recharge_order_original_price">%s Yuan</string>
+  <string name="recharge_order_original_price">%s yuan</string>
   <string name="recharge_order_pay">Öde</string>
   <string name="recharge_pay">Şimdi Kontör al</string>
   <string name="recharge_pay_hint_license">Kontör uyarısı</string>
@@ -262,7 +262,7 @@
   <string name="recharge_status_description">Durum:</string>
   <string name="recharge_title">Kontör</string>
   <string name="recharge_unknown_number">Bilinmiyor</string>
-  <string name="recharge_user_confirm_summary">Yuan %2$s ile %1$s arasında ödeme yapılabilir.\n\nToplam: %3$s Yuan</string>
+  <string name="recharge_user_confirm_summary">%2$s ile %1$s yuan arasında ödeme yapılabilir.\n\nToplam: %3$s yuan</string>
   <string name="recharge_user_confirm_title">Kontör Bilgisi</string>
   <string name="refresh">Yenile</string>
   <string name="remember_preference">Seçenekleri hatırla</string>
@@ -330,7 +330,7 @@
   <string name="user_notice_permission_desc_write_contacts">Sarı sayfalardan kişi eklemek için</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="user_notice_yp_detail_summary_format">Arayan Kimliği bilgilerinizden bazıları eski. Güncellemek ister misiniz? Bu hizmeti kullanarak, %1$s ve %2$s kabul edersiniz.</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Sarı sayfalar bilgilerinin bazıları eski.  Bunu güncellemek istiyor musunuz? BBu servisi kullanırsanız, bizim %1$s ve %2$s şartlarımızı kabul etmiş sayılırsınız.</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Sarı sayfalar bilgilerinin bazıları eski. Bunu güncellemek istiyor musunuz? Bu servisi kullanırsanız, bizim %1$s ve %2$s şartlarımızı kabul etmiş sayılırsınız.</string>
   <string name="view_orders">Siparişleri görüntüle</string>
   <string name="voicemail">Sesli mesaj</string>
   <string name="web_permission_message">%1$s düzgün çalışması için %2$s görüntülemek gerekiyor.</string>
