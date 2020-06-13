@@ -159,7 +159,7 @@
   <string name="solar_term_clear_and_bright">Açık ve Parlak</string>
   <string name="solar_term_cold_dews">Soğuk Çiğ</string>
   <string name="solar_term_grain_buds">Hububat Tomurcukları</string>
-  <string name="solar_term_grain_in_ear">Tahıl Kulağı</string>
+  <string name="solar_term_grain_in_ear">Kulakta Tahıl</string>
   <string name="solar_term_grain_rain">Tahıl Yağmurları</string>
   <string name="solar_term_great_cold">Çok Soğuk</string>
   <string name="solar_term_great_heat">Aşırı Sıcak</string>
@@ -181,15 +181,15 @@
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">P</string>
-  <string name="sync_one_time_sync">Eşitleme için dokunun （ %1$s )</string>
+  <string name="sync_one_time_sync">Eşitleme için dokunun（ %1$s )</string>
   <string name="system_app_is_restore">Sistem öğeleri geri yükleniyor…</string>
   <string name="system_app_restore_completed">Başarıyla geri yüklendi</string>
   <string name="system_app_restore_completed_detail">Tüm sistem öğeleri başarıyla geri yüklendi</string>
   <string name="system_app_restore_failed">Bir hata oluştu</string>
   <string name="system_app_restore_failed_detail">Sistem öğeleri geri yüklenemedi. Ağ ayarlarınızı kontrol edin ve öğeler tamamen geri yüklenene kadar cihazınızı yeniden başlatmayın veya kapatmayın. Tekrar denemek için aşağıdaki düğmeye dokunun.</string>
   <string name="system_restore">Öğeleri geri yükle</string>
-  <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kaldırma Yıldönümü</string>
-  <string name="the_anti_aggression_day">Anti-Saldırganlık Günü</string>
+  <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kaldırma Yıl Dönümü</string>
+  <string name="the_anti_aggression_day">Saldırganlık Karşıtı Günü</string>
   <string name="the_arbor_day">Ağaç Dikim Günü</string>
   <string name="the_armed_forces_day">Silahlı Kuvvetler Günü</string>
   <string name="the_armys_day">Ordunun Günü</string>
