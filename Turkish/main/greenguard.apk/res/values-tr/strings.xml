@@ -44,7 +44,7 @@
   <string name="current_avaliable">Geçerli mevcut Uygulamalar</string>
   <string name="current_restrict_time">Geçerli zaman kısıtlaması</string>
   <string name="date_type_custom">Özel</string>
-  <string name="date_type_everyday">Hergün</string>
+  <string name="date_type_everyday">Her gün</string>
   <string name="date_type_holiday">Resmi tatiller</string>
   <string name="date_type_mon_fri">Pazartesiden Cumaya</string>
   <string name="date_type_workday">Hafta içi</string>
@@ -121,7 +121,7 @@
   <string name="other_space_can_not_use">Bu işlev ikinci alanda kullanılamaz</string>
   <string name="pression_denied">İzin reddedildi</string>
   <string name="private_policy">Gizlilik Politikası</string>
-  <string name="qr_downlaod">Orada Qr Kodunu tarayarak KiteGuard apk indirebilirsiniz</string>
+  <string name="qr_downlaod">Orada QR Kodunu tarayarak KiteGuard APK\'sını indirebilirsiniz</string>
   <string name="qr_text_1">1. Ebeveyn denetimlerini indirmek için bu QR kodunu tarayın.</string>
   <string name="qr_text_2">2. Ebeveyn denetimlerini açın ve \"Aygıt ekle\" ye dokunun. Cihaz eklemek için QR kodunu tarayın.</string>
   <string name="read_policy">Ebeveyn denetimleri Kullanıcı Sözleşmesi, Gizlilik Politikası ve Amap Gizlilik Politikasını okudum ve kabul ediyorum.</string>
@@ -141,7 +141,7 @@
   <string name="time_fence_restrict">Bu uygulama %s ile sınırlı olacaktır. Kullanmaya devam etmeniz gerekiyorsa, yöneten aygıtın sahibine başvurun.</string>
   <string name="title_notice_message">Bildirim Mesajı</string>
   <string name="today">bugün</string>
-  <string name="today_steps">Toplam günlük adımlar</string>
+  <string name="today_steps">Toplam günlük adım</string>
   <string name="tus">Sal</string>
   <string name="uninstall_app">kaldırıldı</string>
   <string name="uninstall_app_delayed">yakında kaldırılacak</string>
