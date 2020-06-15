@@ -222,9 +222,6 @@ kişi oluştur"</string>
   <string name="date_time_set">Ayarla</string>
   <string name="day">gün</string>
   <string name="days">gün</string>
-  <string name="db_default_journal_mode">KESİK</string>
-  <string name="db_default_sync_mode">TAM</string>
-  <string name="db_wal_sync_mode">NORMAL</string>
   <string name="decline">Reddet</string>
   <string name="decline_remote_bugreport_action">REDDET</string>
   <string name="default_audio_route_category_name">Sistem</string>
