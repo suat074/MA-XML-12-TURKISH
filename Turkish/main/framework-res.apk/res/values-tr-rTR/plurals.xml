@@ -17,12 +17,12 @@
     <item quantity="one">%d gün içinde</item>
   </plurals>
   <plurals name="duration_days_shortest">
-    <item quantity="other">%dgün</item>
-    <item quantity="one">%dgün</item>
+    <item quantity="other">%dg</item>
+    <item quantity="one">%dg</item>
   </plurals>
   <plurals name="duration_days_shortest_future">
-    <item quantity="other">%dgün içinde</item>
-    <item quantity="one">%dgün içinde</item>
+    <item quantity="other">%dg içinde</item>
+    <item quantity="one">%dg içinde</item>
   </plurals>
   <plurals name="duration_hours_relative">
     <item quantity="other">%d saat önce</item>
@@ -33,8 +33,8 @@
     <item quantity="one">%d saat içinde</item>
   </plurals>
   <plurals name="duration_hours_shortest">
-    <item quantity="other">%dsaat</item>
-    <item quantity="one">%dsaat</item>
+    <item quantity="other">%ds</item>
+    <item quantity="one">%ds</item>
   </plurals>
   <plurals name="duration_hours_shortest_future">
     <item quantity="other">%ds içinde</item>
@@ -49,12 +49,12 @@
     <item quantity="one">%d dakika içinde</item>
   </plurals>
   <plurals name="duration_minutes_shortest">
-    <item quantity="other">%ddak.</item>
-    <item quantity="one">%ddak.</item>
+    <item quantity="other">%dd</item>
+    <item quantity="one">%dd</item>
   </plurals>
   <plurals name="duration_minutes_shortest_future">
-    <item quantity="other">%ddak içinde</item>
-    <item quantity="one">%ddak içinde</item>
+    <item quantity="other">%dd içinde</item>
+    <item quantity="one">%dd içinde</item>
   </plurals>
   <plurals name="duration_years_relative">
     <item quantity="other">%d yıl önce</item>
@@ -65,12 +65,12 @@
     <item quantity="one">%d yıl içinde</item>
   </plurals>
   <plurals name="duration_years_shortest">
-    <item quantity="other">%dyıl</item>
-    <item quantity="one">%dyıl</item>
+    <item quantity="other">%dy</item>
+    <item quantity="one">%dy</item>
   </plurals>
   <plurals name="duration_years_shortest_future">
-    <item quantity="other">%dyıl içinde</item>
-    <item quantity="one">%dyıl içinde</item>
+    <item quantity="other">%dy içinde</item>
+    <item quantity="one">%dy içinde</item>
   </plurals>
   <plurals name="kg_too_many_failed_attempts_countdown">
     <item quantity="other">%d saniye içinde tekrar deneyin.</item>
@@ -81,7 +81,7 @@
     <item quantity="one">Son %d gün</item>
   </plurals>
   <plurals name="matches_found">
-    <item quantity="other">%2$d/ %1$d</item>
+    <item quantity="other">%1$d / %2$d</item>
     <item quantity="one">1 eşleşme</item>
   </plurals>
   <plurals name="pinpuk_attempts">
@@ -109,35 +109,35 @@
     <item quantity="one">Mevcut WLAN ağını aç</item>
   </plurals>
   <plurals name="zen_mode_duration_hours">
-    <item quantity="other">%d saat</item>
-    <item quantity="one">Bir saat</item>
+    <item quantity="other">%d saat için</item>
+    <item quantity="one">Bir sast için</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_short">
-    <item quantity="other">%d saat</item>
-    <item quantity="one">1 saat</item>
+    <item quantity="other">%d sa için</item>
+    <item quantity="one">1 sa için</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_summary">
-    <item quantity="other">%1$d saat (%2$s kadar)</item>
-    <item quantity="one">1 saat (%2$s kadar)</item>
+    <item quantity="other">%1$d saat için (%2$s kadar)</item>
+    <item quantity="one">1 saat için (%2$s kadar)</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_summary_short">
-    <item quantity="other">%1$d saat (%2$s kadar)</item>
-    <item quantity="one">1 saat (%2$s kadar)</item>
+    <item quantity="other">%1$d sa için (%2$s kadar)</item>
+    <item quantity="one">1 sa için (%2$s kadar)</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes">
-    <item quantity="other">%d dakika</item>
-    <item quantity="one">Bir dakika</item>
+    <item quantity="other">%d dakika için</item>
+    <item quantity="one">Bir dakika için</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_short">
-    <item quantity="other">%d dakika</item>
-    <item quantity="one">1 dakika</item>
+    <item quantity="other">%d dak için</item>
+    <item quantity="one">1 dak için</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_summary">
-    <item quantity="other">%1$d dakika (%2$s kadar)</item>
-    <item quantity="one">Bir dakika (%2$s kadar)</item>
+    <item quantity="other">%1$d dakika için (%2$s kadar)</item>
+    <item quantity="one">Bir dakika için (%2$s kadar)</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_summary_short">
-    <item quantity="other">%1$d dakika (%2$s kadar)</item>
-    <item quantity="one">1 dakika (%2$s kadar)</item>
+    <item quantity="other">%1$d dak için (%2$s kadar)</item>
+    <item quantity="one">1 dak için (%2$s kadar)</item>
   </plurals>
 </resources>
