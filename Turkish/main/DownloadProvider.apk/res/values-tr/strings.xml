@@ -85,13 +85,13 @@
   <string name="warning_tip_content">"Artık Wi-Fi ağına bağlı değilsiniz. İndirme işlemini tamamlamak için mobil veri bağlantısını kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım sınırını aşarsanız operatörünüz tarafından ek ücrete tabi kalabilirsiniz."</string>
   <string name="warning_tip_ok">Duraklat</string>
   <string name="warning_tip_title">Veri Kullanım Uyarısı</string>
-  <string name="wifi_recommended_body" formatted="false">"%s boyutundaki indirme işlemine şimdi başlanırsa pil ömrü kısalabilir veya mobil veri bağlantınız fazla miktarda kullanılabilir. Bunun sonucunda veri planınıza bağlı olarak mobil operatörünüz sizden ücret talep edebilir.
+  <string name="wifi_recommended_body">"%1$s indirmeyi şimdi başlatmak mobil veri bağlantınızın aşırı kullanımına ve bu da veri planınıza bağlı olarak mobil operatörünüz tarafından ücretlere yol açabilir.
 
-Bu indirme işlemini Wi-Fi ağa bir sonraki bağlanmanızda başlatmak için %s düğmesine dokunun"</string>
+WLAN ağına bir sonraki bağlandığınızda bu indirme işlemini başlatmak için %2$s öğesine dokunun"</string>
   <string name="wifi_recommended_title">Daha sonra indirilmek üzere sıraya alınsın mı?</string>
-  <string name="wifi_required_body" formatted="false">"%s indirmeyi tamamlamak için Wi-Fi bağlantısı kullanmalısınız. 
+  <string name="wifi_required_body">"Bu %1$s indirmeyi tamamlamak için WLAN'a bağlanın.
 
-%s bu indirme işlemini Wi-Fi ağına bağlı olduğunuzda başlatmak için dokunun."</string>
+WLAN ağına bir sonraki bağlandığınızda bu indirme işlemini başlatmak için %2$s öğesine dokunun"</string>
   <string name="wifi_required_title">Bu dosya şebeke operatörünüz için çok büyük</string>
   <string name="xl_speedup_experience_notify_context">Xunlei üyesi olduğunuzda indirme hızınız her indirme işleminde hızlandırılır</string>
   <string name="xl_speedup_experience_notify_title">Xunlei Üyeliği</string>

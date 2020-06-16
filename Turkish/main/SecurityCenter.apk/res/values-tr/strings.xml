@@ -1637,6 +1637,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="memory_check_content">%s serbest</string>
   <string name="memory_clean_memory_size_tip">Önbellek</string>
   <string name="memory_clean_no_need_clean">Her şey iyi gözüküyor</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">%s serbest bırakıldı. Cihazınız şimdi %d%% daha hızlı.</string>
   <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_bl_call_log">Engellenen çağrıları görüntüle</string>
@@ -1687,6 +1688,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="menu_summary_networkassistants_2">Sınır aşıldı</string>
   <string name="menu_summary_networkassistants_3">Yeterince veri kaldı</string>
   <string name="menu_summary_networkassistants_4">Veri tükeniyor</string>
+  <string name="menu_summary_optimize_manage">Hafızayı temizle</string>
+  <string name="menu_summary_optimize_manage_1">Cihazınızı %d%% daha hızlı hale getirin</string>
   <string name="menu_summary_power_manager">Pil tasarrufu size tarifeler arasında daha fazla zaman kazandırır</string>
   <string name="menu_summary_power_manager_1">Pil tamamen şarj oldu</string>
   <string name="menu_summary_power_manager_2">%s kaldı</string>
@@ -1704,6 +1707,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Hızlandır</string>
+  <string name="menu_text_optimize_manage_1">Hız artırın</string>
   <string name="menu_text_power_manager">Pil</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
   <string name="menu_white">Hariç tutulan</string>
@@ -1829,6 +1833,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="om_lock_app_unlocked_app">Kilitsiz</string>
   <string name="om_locked_apps_summary">Kilitli uygulamalar hız artışında göz ardı edilecek.</string>
   <string name="om_not_finish_speedboost">Hız artışı gerekli</string>
+  <string name="om_optimzing_big_button_text">Hız artırın</string>
+  <string name="om_running_app_info_summary">%s boş</string>
   <string name="om_running_locked_apps">Çalışan kilitli uygulamalar</string>
   <string name="om_running_system_apps">Çalışan sistem uygulamaları</string>
   <string name="om_running_third_apps">Çalışan üçüncü parti uygulamalar</string>
@@ -1843,6 +1849,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="om_settings_notify_manage">Bildirimler</string>
   <string name="om_settings_speed_up_auto">Otomatik Hızlandır</string>
   <string name="om_settings_title">Ayarlar</string>
+  <string name="om_shortcut_added_toast_text">Başarıyla eklendi</string>
+  <string name="om_shortcut_dialog_summary">RAM Jet, belleği temizlemenize ve cihazınızın hızını tek bir dokunuşla artırmanıza olanak tanır. Ana ekranınıza RAM Jet eklensin mi?</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Uygulama bulunamadı</string>
   <string name="open_app">Aç</string>
@@ -2371,8 +2380,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="section_title_clear_acc">Önbelleği temizle</string>
   <string name="section_title_security_defend">Güvenlik</string>
   <string name="section_title_system">Sistem güvenliği</string>
+  <string name="security_bottom_guide_to_pm_text">Yardımcı Program Kiti açılıyor…</string>
   <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
   <string name="security_scan_optimizing">Optimize ediliyor…</string>
+  <string name="security_guide_bubble_text">Aç</string>
+  <string name="security_guide_summary">Araçlar ve servisler için tek nokta</string>
+  <string name="security_guide_title">MIUI Yardımcı Program Kiti</string>
   <string name="securityadd_install_fail">Eklenti güncellenemedi. Tekrar deneyin.</string>
   <string name="securityadd_update_tips_cancle">Şimdi değil</string>
   <string name="securityadd_update_tips_message">En yeni oyun özelliklerine erişmek için Güvenlik hizmeti eklentisini güncelleyin. %1$dMB indirilecek.</string>

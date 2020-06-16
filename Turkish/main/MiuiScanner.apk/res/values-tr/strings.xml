@@ -133,6 +133,7 @@
   <string name="document_title">Belgenin bir fotoğrafını çekin</string>
   <string name="document_top_panel_title">Belge fotoğrafı</string>
   <string name="done">Bitti</string>
+  <string name="downloadAiVisonReason">Eklentilere bağlı olarak yükseltilmesi gerekiyor</string>
   <string name="download_mipay">Mi Pay kullanın</string>
   <string name="download_stable_version">Kararlı sürüm kullan</string>
   <string name="download_use_stable_version">Kararlı sürümü indir</string>
@@ -171,11 +172,13 @@
   <string name="food_module_thumbs_up">Beğen</string>
   <string name="food_module_tip">Yiyecekleri çerçevenin içine yerleştirin</string>
   <string name="food_module_title_food">Kalori</string>
+  <string name="function">Özellikler</string>
   <string name="grant_permission">İzin ver</string>
   <string name="got_it">Anladım</string>
   <string name="gps">Gezinin</string>
   <string name="history">Geçmiş</string>
   <string name="history_empty">Henüz burada öğe yok</string>
+  <string name="if_open_result">Uygulamaya döndüğünüzde tarama sonucunu göster</string>
   <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanımla</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
@@ -228,6 +231,9 @@
   <string name="module_title_shopping">Alışveriş</string>
   <string name="module_title_study">Ödev</string>
   <string name="module_title_translation">Çeviri</string>
+  <string name="monitor_low_android">ANDROID sürümü çok düşük</string>
+  <string name="monitor_low_miui">MIUI sürümü çok düşük</string>
+  <string name="monitor_unsupport_device">Cihaz şu anda desteklenmiyor</string>
   <string name="name">Adı:</string>
   <string name="new_schedule">Etkinlik oluştur</string>
   <string name="nickname">Takma ad:</string>
@@ -362,6 +368,7 @@
   <string name="waybill_num">"Sipariş: "</string>
   <string name="web">Web sitesi:</string>
   <string name="website_details">Web sitesi:</string>
+  <string name="wechatcode_auto_processing_function_requires_permissions">WeChat kodu otomatik işleme fonksiyonu, WeChat\'in kamera ve depolama izinlerine sahip olmasını gerektirir.</string>
   <string name="weixin_code_tip">WeChat kullanarak bu QR kodunu tarayın.</string>
   <string name="welcome_to_thesweepversion">Tarayıcı Beta\'ya Hoş Geldiniz!</string>
   <string name="wifi_details">Wi-Fi:</string>

@@ -110,6 +110,9 @@
   <string name="find_device_operation_failure_rpc">RPC hatası nedeniyle işlem gerçekleştirilemedi.</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS daha gönderilebilir.</string>
   <string name="find_device_service_title">Cihazı bul</string>
+  <string name="find_device_status_summary">Cihazınızı bulun ve kilitleyin, ayrıca verileri uzaktan silin</string>
+  <string name="find_device_status_title_pad">Cihazı bul</string>
+  <string name="find_device_status_title_phone">Cihazı bul</string>
   <string name="finddevice_miservice_notification_content">Kaybolursa cihazınızı uzaktan kilitleyin</string>
   <string name="finddevice_miservice_notification_title">Cihazı bul özelliğini aç</string>
   <string name="forget_password"><u>Şifreyi unuttum</u></string>
@@ -238,7 +241,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_progress">Cihazı bul açılıyor…</string>
-  <string name="micloud_find_device_guide_title">Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu, kaybolmuş olan cihazınızı bulmanıza yardımcı olabilir.</string>
+  <string name="micloud_find_device_guide_title">Cihazınızı bulmak ve kilitlemek, kayıp olarak işaretlemek veya verileri uzaktan silmek için Mi Hesabınızla &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Ayrıntıları &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>burada&lt;/a> görüntüleyin.</string>
   <string name="micloud_find_device_open_fail">Cihazı bul açılamadı</string>
   <string name="micloud_find_device_opened">Cihazı bul açık</string>
   <string name="micloud_find_device_opened_content">%s cihazınızı bulun</string>
@@ -444,6 +447,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="search_finddevice_pref_desc">Cihazı bul aç/kapat</string>
   <string name="search_finddevice_pref_key_words">telefonu bul, cihazı bul</string>
   <string name="search_finddevice_pref_path">Mi Hesabı/Xiaomi Bulut/Cihazı Bul</string>
+  <string name="send_last_location_summary">Cihaz kapalıyken konum bilgilerini eşitle</string>
+  <string name="send_last_location_title">Kapatmadan önce bulun</string>
   <string name="share_cancel">Paylaşım iptal edildi</string>
   <string name="share_failed">Paylaşılamıyor</string>
   <string name="share_miliao_not_installed">Mi Talk yüklenmedi.</string>

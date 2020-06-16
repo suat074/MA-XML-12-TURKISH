@@ -1426,6 +1426,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="content_description_menu_button">Menü</string>
   <string name="content_miui_music_mute_by_user">Sessiz mod açıkken medya sesi çalınsın mı?</string>
   <string name="contributors_title">Katkıda bulunanlar</string>
+  <string name="control_center">Kontrol merkezi</string>
   <string name="control_panel_switch_side">Kontrol merkezi tarafını değiştir</string>
   <string name="controls_label">Kontroller</string>
   <string name="controls_subtitle">Güç kullanımını ayarla</string>
@@ -1952,6 +1953,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="done">Tamam</string>
   <string name="done_button">Tamam</string>
   <string name="double_click_power_key">Güç düğmesine iki kez basın</string>
+  <string name="double_knock">Eklemli çift dokunma</string>
   <string name="double_tap_power_for_camera_summary">Kamerayı çabuk açmak için güç düğmesine iki kez dokunun. Tüm ekranlarda çalışır.</string>
   <string name="double_tap_power_for_camera_title">Kamerayı hızlı açma</string>
   <string name="double_twist_for_camera_mode_title">Kamerayı çevir</string>
@@ -2623,11 +2625,11 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="input_method_bottom_open">Açık</string>
   <string name="input_method_clipboard_settings">Pano ayarları</string>
   <string name="input_method_cloud_data_title">Bulut panosu</string>
-  <string name="input_method_cloud_paste_mode_bubble_des">Bulut panosunda her yeni içerik göründüğünde bir baloncuk açılır. Kopyalanan metni girmek için baloncuğa dokunun.</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">Açılır bir baloncuk göreceksiniz. Kopyalanmış metni girmek için baloncuğa dokunun.</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Baloncuk</string>
-  <string name="input_method_cloud_paste_mode_no_des">Bulut panosunda yeni içerik görüntülendiğinde bildirim görmezsiniz. Ancak, simgeye dokunarak panonuzu kullanmaya devam edebilirsiniz.</string>
+  <string name="input_method_cloud_paste_mode_no_des">Bildirimleri göremezsiniz. Ancak, simgeye dokunarak panonuzu kullanmaya devam edebilirsiniz.</string>
   <string name="input_method_cloud_paste_mode_no_title">Yok</string>
-  <string name="input_method_cloud_paste_mode_red_point_des">Bulut panosunda her yeni içerik görüntülendiğinde klavyenin altında kırmızı bir nokta görürsünüz. Panoyu açmak ve kopyalanan içeriği kullanmak için simgeye dokunun.</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">Klavyenin altında kırmızı bir nokta göreceksiniz. Panoyu açmak ve kopyalanan içeriği kullanmak için simgeye dokunun.</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Kırmızı nokta</string>
   <string name="input_method_function_clipboard">Pano ve sık kullanılan ifadeler</string>
   <string name="input_method_function_clipboard_des">Pano içeriğini ve sık kullanılan cümleleri görüntülemek için dokunun</string>
@@ -2643,6 +2645,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="input_method_quick_access">Hızlı erişim</string>
   <string name="input_method_quick_cloud_mode_title">Yeni pano içeriği hakkında bildirimler</string>
   <string name="input_method_quick_cloud_summary">Uyumlu bilgisayarlarda öğeleri kopyalayın ve cihazınıza yapıştırın</string>
+  <string name="input_method_quick_cloud_tips">Bildirim türü</string>
   <string name="input_method_quick_cloud_title">Bulut panosu</string>
   <string name="input_method_quick_paste_summary">Pano simgesine dokunarak kopyalanan öğeleri görüntüle</string>
   <string name="input_method_quick_paste_title">Hızlı yapıştır</string>
@@ -2813,6 +2816,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="last_time_used_label">En son kullanılan</string>
   <string name="later">SONRA</string>
   <string name="lattice_smartcover_title">Ön koruma kapağı</string>
+  <string name="launch_ai_shortcut">Mi AI kısayolu</string>
   <string name="launch_by_default">Varsayılanla aç</string>
   <string name="launch_camera">Kamerayı başlat</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
@@ -6472,9 +6476,10 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_ask_enable">%s Wifi\'yi açmak istiyor</string>
   <string name="wifi_assist">WLAN yardımcısı</string>
   <string name="wifi_assistant">En iyi ağları otomatik olarak seç</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Mevcut WLAN internete erişemiyor, bunun yerine mobil veri kullanacak, WLAN yardımcısını ayarlardan kapatabilirsiniz</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Bu özelliği Ayarlar &gt; WLAN &gt; WLAN yardımcısından kapatabilirsiniz.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Cihazınız WLAN üzerinden internete bağlanamadığında mobil veri ağını kullanın.</string>
   <string name="wifi_assistant_confirm_always">Tekrar gösterme</string>
-  <string name="wifi_assistant_confirm_connection_title">Onayla</string>
+  <string name="wifi_assistant_confirm_connection_title">En iyi ağları otomatik olarak seç</string>
   <string name="wifi_assistant_data_prompt">İstemi etkinleştir</string>
   <string name="wifi_assistant_data_prompt_summary">Mobil veriye geçerken veri kullanım uyarısını göster</string>
   <string name="wifi_assistant_description">"Bu işlevi açtıktan sonra:

@@ -174,6 +174,7 @@
   <string name="copy_to_sdcard">Eki kaydet</string>
   <string name="copy_to_sdcard_fail">Ek kaydedilemedi</string>
   <string name="copy_to_sdcard_success">%s ek olarak kaydedildi</string>
+  <string name="copy_verification_code_tip">Başarıyla kopyalandı</string>
   <string name="current_data_version">Mi Mesaj sürümü</string>
   <string name="date_picker_lunar">Çince Geleneksel Takvimi</string>
   <string name="delete">Sil</string>
@@ -360,6 +361,7 @@
   <string name="menu_make_call">Çağrı</string>
   <string name="menu_mark">İşaretle</string>
   <string name="menu_more">Daha</string>
+  <string name="menu_multi_select">Seçin</string>
   <string name="menu_new_contact">Yeni kişi</string>
   <string name="menu_new_manual">Telefon numarasını girin</string>
   <string name="menu_pick_from_contact">Kişilerden seç</string>
@@ -556,6 +558,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="nosend_message">Gönderme</string>
   <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
   <string name="not_set">Ayarlanmadı</string>
+  <string name="not_support_audio_forward">Sesli mesajlar iletilemiyor</string>
   <string name="notification_ad_content">%s tarafından bir tanıtım mesajı aldınız</string>
   <string name="notification_add_todo">Bana hatırlat</string>
   <string name="notification_add_todo_content">Alıcı kodu: %s</string>
@@ -633,6 +636,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_summary_on_system_mms_priority">MMS göndermek ve almak için varsayılan olarak MIUI mesajlaşma uygulamasını ayarlayın</string>
   <string name="pref_summary_privacy_authority">Yetkilendirmenizi vermek veya iptal etmek için bu anahtarı değiştirin</string>
   <string name="pref_summary_send_delivery_reports">Multimedya mesajı aldığınızda gönderene teslimat onay mesajı gönder</string>
+  <string name="pref_summary_voice_report">Mesajların alındıkça sesli okunması için açın. Oynatmayı durdurmak için Ses kısma veya Güç düğmesine basın.</string>
   <string name="pref_summary_wake_up_screen">Her yeni mesaj geldiğinde ekranı uyandır</string>
   <string name="pref_switch_sdk_setting">Akıllı SMS servis sağlayıcısını değiştir</string>
   <string name="pref_system_title">Sistem</string>
@@ -664,6 +668,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_title_storage_status">Mesaj depolama durumu</string>
   <string name="pref_title_system_mms_priority">Varsayılan olarak ayarla</string>
   <string name="pref_title_vcard">vCard ile gönder</string>
+  <string name="pref_title_voice_report">Mesajları sesli oku</string>
   <string name="pref_title_wake_up_screen">Ekranı uyandır</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preferences_title">Ayarlar</string>
@@ -1090,6 +1095,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="too_many_attachments">%1$s eki geçemez. Sadece ilk %2$s ek eklenecek.</string>
   <string name="too_many_recipients">Mesajda çok fazla alıcı var (%1$s). %2$s alıcıdan daha fazlasına sahip olamazsın.</string>
   <string name="too_many_unsent_mms">Şu anda mesaj gönderilemiyor. Çok fazla gönderilmemiş multimedya mesajı var.</string>
+  <string name="top_conversation">Sabitlenmiş konuşma</string>
   <string name="train_edit_destination">Ekle</string>
   <string name="try_to_send">Tekrar gönder</string>
   <string name="tuesday">Salı</string>
@@ -1129,9 +1135,13 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="v7_preference_on">AÇIK</string>
   <string name="verification_code_icon_name">D</string>
   <string name="verification_code_list_title">Doğrulama kodları</string>
+  <string name="verification_code_safety_warning">Bu kodları başkalarına açıklamayın</string>
   <string name="view">Görüntüle</string>
   <string name="view_bookmark">Orijinal mesajı göster</string>
   <string name="view_message_details">Detayları göster</string>
+  <string name="voice_report_anytime">Her zaman</string>
+  <string name="voice_report_off">Kapalı</string>
+  <string name="voice_report_wiredon">Kulaklık ile</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">%ds içinde gönder</string>
   <string name="wednesday">Çarşamba</string>

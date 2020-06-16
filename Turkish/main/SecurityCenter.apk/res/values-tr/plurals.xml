@@ -249,6 +249,10 @@
     <item quantity="other">%d uygulama düzgün çalışmıyor ve pili boşaltıyor</item>
     <item quantity="one">%d uygulama düzgün çalışmıyor ve pili boşaltıyor</item>
   </plurals>
+  <plurals name="om_running_apps_num">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
+  </plurals>
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
     <item quantity="one">+%d</item>
