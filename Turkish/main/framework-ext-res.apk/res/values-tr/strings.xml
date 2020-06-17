@@ -26,6 +26,10 @@
   <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar &gt; Şifreler &amp; güvenlik &gt; %s bölümünden yönetebilirsiniz.</string>
   <string name="autofill_save_title">Şifreleri otomatik olarak kaydet</string>
   <string name="autofill_service_name">Şifreleri yönet</string>
+  <string name="bluetooth_disable_notification_content">%s Bluetooth\'u kapattı</string>
+  <string name="bluetooth_disable_notification_title">Bluetooth kapalı</string>
+  <string name="bluetooth_enable_notification_content">%s Bluetooth\'u açtı</string>
+  <string name="bluetooth_enable_notification_title">Bluetooth açık</string>
   <string name="btn_cancel">İptal</string>
   <string name="btn_sure">Tamam</string>
   <string name="button_text_cancel">İptal</string>

@@ -1080,7 +1080,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
   <string name="search_menu_title">Ara</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
-  <string name="see_qrcode_detals">QR Kodu Detayları</string>
+  <string name="see_qrcode_detals">QR kodu ayrıntıları</string>
+  <string name="settings_camera_near_range_description">Yakın plandaki nesneleri çekerken bulanıklaştırma efektini kaldırın</string>
+  <string name="settings_camera_near_range_title">Yakın çekim modu</string>
   <string name="share">Paylaş</string>
   <string name="simple_mode_button_asd_flash">Flaş yakalamasını kapat</string>
   <string name="simple_mode_button_asd_hdr">HDR yakalamasını kapat</string>
