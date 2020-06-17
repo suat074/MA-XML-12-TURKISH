@@ -216,6 +216,8 @@ olacağına inan"</string>
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">P</string>
+  <string name="super_wallpaper_date_inter">"dd/M
+EEEE"</string>
   <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
   <string name="text_color">Metin rengi</string>
   <string name="text_length_exceed_limit_alert">*Girdiğiniz metin çok uzun</string>
