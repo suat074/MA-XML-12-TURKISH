@@ -550,6 +550,8 @@
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Klasör</string>
   <string name="unstable_dialog_content">"Bu, Android sistem görüntüsünün önizleme sürümüdür ve değişebilir. Bu sistem görüntüsünün kullanımı Android SDK Önizleme Lisans Anlaşması\'na tabidir. Android önizleme sistemi görüntüsü kararlı bir sürüm değildir ve bilgisayar sisteminize, aygıtlarınıza veya verilerinize zarar verebilecek hatalar ve kusurlar içerebilir. Android sistem görüntüsünün önizlemesi, fabrika işletim sistemi ile aynı teste tabi değildir ve bu, cihazın, kurulu servislerin veya uygulamaların çalışmamasına neden olabilir.</string>
+  <string name="unstable_dialog_message">Bu cihaz Android 11 Geliştirici Önizleme Programına kaydedilir. Program, Android geliştiricileri ve meraklılarının Android 11\'in yayın öncesi sürümlerini denemelerine olanak tanır. Bu yayın öncesi sürüm, cihazınızın normal çalışmasını etkileyebilecek hatalar içerebilir.</string>
+  <string name="unstable_dialog_title">Android Geliştirici Önizleme Programı</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="wallpaper">Duvar Kağıdı</string>
