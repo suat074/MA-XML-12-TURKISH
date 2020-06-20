@@ -82,6 +82,7 @@
   <string name="album_camera_name">Kamera</string>
   <string name="album_cloud_list_page_title">Eşitlenen albümleri yönet</string>
   <string name="album_creative">Düzenlenmiş fotoğraflarım</string>
+  <string name="album_detail_default_sort_tip">Kronolojik sıraya geçildi</string>
   <string name="album_detail_page_empty">Fotoğraf veya video yok</string>
   <string name="album_download">İndirilenler</string>
   <string name="album_faces_name">Kişi</string>
@@ -260,6 +261,8 @@
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
   <string name="browse_category_title">Göz at</string>
   <string name="btn_cancel">İptal</string>
+  <string name="btn_cancel_send">Bu aktarımı iptal et</string>
+  <string name="btn_exit_send">Çık</string>
   <string name="burst_image_download_item_title" formatted="false">Orijinali indir (%s|%s)</string>
   <string name="burst_preview_title">Seri çekim</string>
   <string name="burst_save_all">Tümünü kaydet</string>
@@ -962,6 +965,10 @@ mevcut"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Yeni albüm</string>
+  <string name="menu_detail_sort_create_date">Oluşturuldu</string>
+  <string name="menu_detail_sort_name">Dosya adı</string>
+  <string name="menu_detail_sort_size">Dosya boyutu</string>
+  <string name="menu_detail_sort_update_date">Son güncelleme</string>
   <string name="menu_item_sort_date">Tarih</string>
   <string name="menu_item_sort_name">Ad</string>
   <string name="menu_item_sort_size">Boyut</string>
@@ -1161,6 +1168,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="operation_favorites">Favoriler</string>
   <string name="operation_force_top">Yapıştır</string>
   <string name="operation_hide">Gizle</string>
+  <string name="operation_hide_time">Tarihleri gizle</string>
   <string name="operation_in_process">İşleniyor…</string>
   <string name="operation_move">Taşı</string>
   <string name="operation_move_to_other_albums">Diğer albümlere taşı</string>
@@ -1185,7 +1193,9 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="operation_share_manage">Paylaşılan öğeleri yönet</string>
   <string name="operation_show_in_photos_tab">Fotoğraflarda göster</string>
   <string name="operation_show_on_map">Haritada göster</string>
+  <string name="operation_show_time">Tarihleri göster</string>
   <string name="operation_slide_show">Slayt gösterisini başlat</string>
+  <string name="operation_sort">Sırala</string>
   <string name="operation_successful">Tamam</string>
   <string name="operation_too_often">Çok fazla sayıda IP isteği adresinizden yapılıyor. Bir veya iki dakika bekleyin ve yeniden deneyin.</string>
   <string name="operation_unforce_top">Sabitten kaldır</string>
@@ -1605,6 +1615,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="share_album">Albümü Paylaş</string>
   <string name="share_album_needs_auto_upload_tip">Paylaşılan albümler için bulutla eşitleme kapatılamıyor</string>
   <string name="share_album_qr_code">Albümün QR kodu</string>
+  <string name="share_and_delete_screenshot">Paylaştıktan sonra sil</string>
   <string name="share_by_email_start">Arka planda %1$s paylaş</string>
   <string name="share_by_email_successfully">%1$s paylaşıldı</string>
   <string name="share_public_url_text">%1$s albümü seninle paylaştım. %2$s adresinden bakabilirsin</string>
@@ -1663,6 +1674,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="solar_term_winter_begins">Kış başlıyor</string>
   <string name="solar_term_winter_solstice">Kış gündönümü</string>
   <string name="sort">Sırala</string>
+  <string name="special_type_ai_audio">AI Ses</string>
   <string name="special_type_eye_repair">AI kullanarak kapalı gözler düzeltildi</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_night_beauty">AI düşük ışık portre</string>
