@@ -101,8 +101,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Atla</string>
   <string name="community_cta_dialog_cancel">Hayır teşekkürler</string>
-  <string name="community_cta_dialog_des">"Üçüncü taraf temaları artık Mi Community widget\'ını destekliyor. Sizi Mi Community\'nin Temalar alt forumuna götüren bir kısayol olarak çalışır. Bu özelliği Ayarlar\'dan kapatabilirsiniz.
-Burada görüntüleyebilmek için Temalar\'ın Mi Hesap Kimliğinize ve hesapla ilişkili Mi Community durumlarınıza erişmesine izin verin. Mi Community etkinliği ile ilgili bildirimleri Ayarlar\'dan açabilir ve kapatabilirsiniz."</string>
+  <string name="community_cta_dialog_des">Üçüncü taraf temaları artık Mi Community widget\'ını destekliyor. Bunları burada görüntüleyebilmesi için Temalar\'ın, Mi Hesap Kimliğinize ve Mi Communty durumlarınıza erişmesine izin verin.</string>
   <string name="community_cta_dialog_ok">İzin ver</string>
   <string name="community_cta_dialog_title">Gerekli izinler</string>
   <string name="community_community_message_trigger_summary">Mi Hesap Kimliğinizi kullanarak yanıtlar, beğeniler ve Mi Community durum güncellemeleri hakkında bildirim alın</string>
