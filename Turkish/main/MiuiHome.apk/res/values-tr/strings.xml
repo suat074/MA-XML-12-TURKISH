@@ -321,6 +321,7 @@
   <string name="launcher_minus_screen_title">Varsayılan yardımcı</string>
   <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönün ve tekrar deneyin.</string>
   <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
+  <string name="launcher_search_bar_provider_title">Arama çubuğu sağlayıcısı</string>
   <string name="launcher_search_bar_title">Ana ekranda arama çubuğu</string>
   <string name="launcher_search_bar_value_disable">Kapalı</string>
   <string name="launcher_search_bar_value_enable">Açık</string>

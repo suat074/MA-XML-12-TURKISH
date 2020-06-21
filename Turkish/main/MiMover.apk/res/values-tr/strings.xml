@@ -665,7 +665,9 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="morning">ÖÖ</string>
   <string name="name">Adı</string>
   <string name="name_password_not_consistent">Girdiğiniz Apple kimliği ve şifre eşleşmiyor</string>
+  <string name="need_location_permission_confirm">Ayarlar</string>
   <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
+  <string name="need_location_permission_title">Gerekli izinler</string>
   <string name="need_more_memory_cacel">İptal</string>
   <string name="need_more_memory_confirm">Temizleyici</string>
   <string name="need_more_memory_summary">"Yeterli depolama alanı yok. Mi Transfer\'in aktarmadan önce sıkıştırılmış paketler oluşturmak için %1$s ek depolama alanına ihtiyaç duyuyor.
@@ -731,6 +733,7 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="notification_trans_running_title">Mi Transfer şu anda çalışıyor…</string>
   <string name="notification_trans_send_message">Şimdi veri gönderiliyor. Wi-Fi\'yi kapatmayın veya ağlar arasında geçiş yapmayın.</string>
   <string name="notification_trans_send_title">Veri gönderiliyor…</string>
+  <string name="ok">Tamam</string>
   <string name="old_app_name">Eski sürüm</string>
   <string name="old_task_cleared">Eski görevler başarıyla kaldırıldı</string>
   <string name="old_wait_link">Eski cihazda aktarılacak öğeleri seçin</string>
