@@ -3,7 +3,7 @@
   <string name="accept">Tamam</string>
   <string name="activate">Etkinleştir</string>
   <string name="activate_auto_sms_notification_desc_1_card">\"Cihazı bul\" özelliğini etkinleştirmek için SMS gönderildi</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">\"Cihazı Bul\" özelliğini etkinleştirmek için SIM kart %s\'den SMS gönderildi</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">\"Cihazı bul\" özelliğini etkinleştirmek için SIM kart %s\'den SMS gönderildi</string>
   <string name="activate_auto_sms_notification_title">SIM kart aktivasyonu</string>
   <string name="activate_feature_call_log_sync">Çağrı geçmişini eşitle</string>
   <string name="activate_feature_default_name">Mi hizmetleri</string>
@@ -70,7 +70,7 @@
   <string name="activate_popup_title_failed_query_info">Numara bulunamıyor</string>
   <string name="activate_popup_title_failed_receive_sms">Sunucudan cevap alınamadı</string>
   <string name="activate_popup_title_failed_send_sms">SMS gönderilemedi</string>
-  <string name="activate_popup_title_failed_server">Server hatası</string>
+  <string name="activate_popup_title_failed_server">Sunucu hatası</string>
   <string name="activate_popup_title_manual">%s etkinleştir</string>
   <string name="activate_popup_title_new_sim_card">%s yeniden etkinleştir</string>
   <string name="activate_popup_title_register_account">Mi Hesabı Oluştur</string>
@@ -105,7 +105,7 @@
   <string name="activate_status_title_activating_msim">SIM kart %s etkinleştiriliyor…</string>
   <string name="agree">İzin ver</string>
   <string name="app_name">Xiaomi SIM Etkinleştirme Hizmeti</string>
-  <string name="checking_client">Etkinleştirme ortamını denetleniyor</string>
+  <string name="checking_client">Etkinleştirme ortamı denetleniyor</string>
   <string name="error_checking_client">Etkinleştirme sırasında bir hata oluştu</string>
   <string name="error_network_io">Bir ağ hatası oluştu</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM Etkinleştirme Hizmeti\'nin SMS göndermek için izne ihtiyacı var</string>
