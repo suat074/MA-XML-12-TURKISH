@@ -243,6 +243,7 @@
   <string name="contextmenu_openlink_in_browser">Tarayıcıda Aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
   <string name="contextmenu_openlink_newwindow_background">Arka plan sekmesinde aç</string>
+  <string name="contextmenu_orignal_webpage">Orijinal Web</string>
   <string name="contextmenu_recognise_qr_code">QR kodunu tara</string>
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_set_wallpaper">Duvar Kağıdı olarak ayarla</string>
@@ -251,6 +252,8 @@
   <string name="contextmenu_webpage_capture">Ekran görüntüsü</string>
   <string name="contextmenu_webpage_html">HTML dosyası olarak kaydet</string>
   <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
+  <string name="contextmenu_webpage_translate">Web çevirisi</string>
+  <string name="contextmenu_webpage_translation_tips">Araç Kutusunda yeni çeviri işlevi</string>
   <string name="copy">Kopyala</string>
   <string name="custom_head_card_text">Daima harika bir şeyin gerçekleşmek üzere olduğuna inanıyoruz</string>
   <string name="custom_head_weather">Hava durumu</string>
