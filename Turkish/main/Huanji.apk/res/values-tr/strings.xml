@@ -26,7 +26,7 @@
   <string name="ble_connect_button">Bağlan</string>
   <string name="ble_connect_failed">Bağlantı kurulamadı. Manuel olarak bağlanmayı deneyin.</string>
   <string name="ble_connect_failed_title">Bağlantı kurulamadı</string>
-  <string name="ble_connect_request_hint">Görünüşe göre yakınlarda bir başka cihaz da Mi Mover kullanıyor. Şimdi bağlanılsın mı?</string>
+  <string name="ble_connect_request_hint">Görünüşe göre yakınlarda bir başka cihaz da Mi Transfer kullanıyor. Şimdi bağlanılsın mı?</string>
   <string name="ble_discovery_connect_request_title">Yakındaki bir cihaz algılandı</string>
   <string name="ble_enter_connect_timeout_summary">Yeni cihaza uzun süre bağlanılamadı. Manuel olarak bağlanın.</string>
   <string name="ble_enter_connect_timeout_title">Bağlantı zaman aşımına uğradı</string>
@@ -617,7 +617,7 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="miui_need_location_permission_title">Konuma erişime izin ver</string>
   <string name="miui_need_open_high_accuracy_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza Yüksek doğruluk modunda erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
   <string name="miui_need_open_high_accuracy_title">Doğru konum bilgisine erişime izin ver</string>
-  <string name="miui_wait_link_message_1">"\"Ben bir göndericiyim\" düğmesi Mi Mover'ın başlangıç sayfasındadır."</string>
+  <string name="miui_wait_link_message_1">"\"Ben bir göndericiyim\" düğmesi Mi Transfer'in başlangıç sayfasındadır."</string>
   <string name="miui_wait_link_title_1">%d. \"Ben bir göndericiyim" düğmesine dokunun ve biraz bekleyin.</string>
   <string name="miui_wait_link_title_2">%d. Bağlanmak için eski cihazınızda bu etkin noktayı seçin.</string>
   <string name="mms">MMS</string>
@@ -697,11 +697,11 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="new_wait_link_first">"1. Eski cihazınızda Mi Transfer uygulamasını açın.
 2. \"Ben bir göndericiyim\" seçeneğine dokunun ve bir süre bekleyin.
 3.  Eski aygıtta aşağıdaki erişim noktasını seçin."</string>
-  <string name="new_wait_link_message_1">Ayarlar\'a gidin, arama çubuğuna \"Mi Mover\" yazın ve arama sonuçlarında \"Mi Mover\" öğesine dokunun.</string>
-  <string name="new_wait_link_message_2">"\"Ben bir göndericiyim\" düğmesi Mi Mover'ın başlangıç sayfasındadır."</string>
+  <string name="new_wait_link_message_1">Ayarlar\'a gidin, arama çubuğuna \"Mi Transfer\" yazın ve arama sonuçlarında \"Mi Transfer\" öğesine dokunun.</string>
+  <string name="new_wait_link_message_2">"\"Ben bir göndericiyim\" düğmesi Mi Transfer'in başlangıç sayfasındadır."</string>
   <string name="new_wait_link_title_1">1. Eski cihazınızda Ayarlar\'a gidin.</string>
-  <string name="new_wait_link_title_2">2. Arama çubuğuna \"Mi Mover\" yazın.</string>
-  <string name="new_wait_link_title_3">3. Arama sonuçlarında \"Mi Mover\" öğesine dokunun.</string>
+  <string name="new_wait_link_title_2">2. Arama çubuğuna \"Mi Transfer\" yazın.</string>
+  <string name="new_wait_link_title_3">3. Arama sonuçlarında \"Mi Transfer\" öğesine dokunun.</string>
   <string name="nickname">Takma ad</string>
   <string name="night">ÖS</string>
   <string name="no_more_memory_title">Aktarmayı başlatmak için bu cihazda yeterli depolama alanı yok. Depolama alanını boşaltın ve tekrar deneyin.</string>

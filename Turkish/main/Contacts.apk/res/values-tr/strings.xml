@@ -352,7 +352,7 @@
   <string name="contact_editor_prompt_one_account">Yeni kişi %1$s ile eşitlenecek</string>
   <string name="contact_editor_prompt_zero_accounts">Mobil veya yeni bir çevrimiçi hesabınızda saklayın</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-  <string name="contact_import_methods_dialog_mi_mover">Mi Mover kullanarak içe aktar</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Transfer kullanarak içe aktar</string>
   <string name="contact_import_methods_dialog_title">İçe aktarma yöntemini seçin</string>
   <string name="contact_is_deleted">Kişi silindi</string>
   <string name="contact_is_readOnly">Sadece okunur kişiler düzenlenemez</string>
