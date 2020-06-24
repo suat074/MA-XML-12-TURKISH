@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="casting_tips">Yansıtılıyor…</string>
@@ -16,6 +33,8 @@
   <string name="dialog_connected">Bağlandı</string>
   <string name="dialog_connecting">Bağlanıyor…</string>
   <string name="dialog_nfc_cast_wifi_off">"NFC'yi kullanabilmek için Wi-Fi'yı açın. Şimdi açılsın mı?"</string>
+  <string name="dialog_no_device_message"><Data>1. Telefonunuzu ve TV\'nizi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> sayfasını görüntüleyin.</Data></string>
+  <string name="dialog_no_device_message_china"><Data>1. Telefonunuzu ve TV'nizi aynı WLAN ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> sayfasını görüntüleyin.</Data></string>
   <string name="dialog_ok">Tamam</string>
   <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
   <string name="dialog_open_wifi_bt">Aç</string>
@@ -24,11 +43,26 @@
 Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
   <string name="dialog_recent_connected">Son kullanılan</string>
   <string name="dialog_retry">Tekrar deneyin</string>
+  <string name="dialog_scan_message">"1. Telefonunuzu ve TV\'nizi aynı Wi-Fi ağına bağlayın.
+
+2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için \"Yardım\" sayfasını görüntüleyin."</string>
+  <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV\'nizi aynı WLAN ağına bağlayın.
+
+2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için \"Yardım\" sayfasını görüntüleyin."</string>
   <string name="dialog_scanning_device">Yakındaki cihazlar aranıyor…</string>
   <string name="dialog_scanning_precondition">Kablosuz Ekranı kullanmak için telefonunuzda WLAN ve Bluetooth\'u açın.</string>
   <string name="dialog_select_tv">Cihaz seç (%d)</string>
   <string name="dialog_show_help">Yardım</string>
   <string name="disconnect">Yansıtmayı durdur</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="friday">Cuma</string>
+  <string name="friday_short">Cum</string>
+  <string name="friday_shortest">C</string>
   <string name="hang_up">Ekran kapalıyken yansıt</string>
   <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik güç tüketimini azaltır. Ekranı tekrar açmak için Güç düğmesine basın.</string>
   <string name="hang_up_alert_dialog_neg">İptal</string>
@@ -108,6 +142,57 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir.
 4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
   <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
+  <string name="miuix_appcompat_cloud_state_finished">Bulut ile eşitlendi</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+  <string name="monday">Pazartesi</string>
+  <string name="monday_short">Pzt</string>
+  <string name="monday_shortest">P</string>
+  <string name="month_april">Nisan</string>
+  <string name="month_april_short">Nis</string>
+  <string name="month_april_shortest">N</string>
+  <string name="month_august">Ağustos</string>
+  <string name="month_august_short">Ağu</string>
+  <string name="month_august_shortest">A</string>
+  <string name="month_december">Aralık</string>
+  <string name="month_december_short">Ara</string>
+  <string name="month_december_shortest">A</string>
+  <string name="month_february">Şubat</string>
+  <string name="month_february_short">Şub</string>
+  <string name="month_february_shortest">Ş</string>
+  <string name="month_january">Ocak</string>
+  <string name="month_january_short">Oca</string>
+  <string name="month_january_shortest">O</string>
+  <string name="month_july">Temmuz</string>
+  <string name="month_july_short">Tem</string>
+  <string name="month_july_shortest">T</string>
+  <string name="month_june">Haziran</string>
+  <string name="month_june_short">Haz</string>
+  <string name="month_june_shortest">H</string>
+  <string name="month_march">Mart</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">M</string>
+  <string name="month_may">Mayıs</string>
+  <string name="month_may_short">May</string>
+  <string name="month_may_shortest">M</string>
+  <string name="month_november">Kasım</string>
+  <string name="month_november_short">Kas</string>
+  <string name="month_november_shortest">K</string>
+  <string name="month_october">Ekim</string>
+  <string name="month_october_short">Eki</string>
+  <string name="month_october_shortest">E</string>
+  <string name="month_september">Eylül</string>
+  <string name="month_september_short">Eyl</string>
+  <string name="month_september_shortest">E</string>
+  <string name="more">Daha fazla</string>
   <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin.</string>
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
@@ -127,12 +212,25 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
   <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı ağa bağlı olduklarında bulunması daha kolaydır.</string>
   <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>
+  <string name="saturday">Cumartesi</string>
+  <string name="saturday_short">Cts</string>
+  <string name="saturday_shortest">C</string>
+  <string name="search_menu_title">Ara</string>
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>
   <string name="small_window_not_supported">Yansıtılırken bu uygulama simge durumuna küçültülemiyor</string>
   <string name="status_bar_in_casting">Yansıtılıyor…</string>
   <string name="status_bar_in_casting_long">Daha fazla yansıtma özelliği görüntülemek için dokunun</string>
+  <string name="sunday">Pazar</string>
+  <string name="sunday_short">Paz</string>
+  <string name="sunday_shortest">P</string>
+  <string name="thursday">Perşembe</string>
+  <string name="thursday_short">Prş</string>
+  <string name="thursday_shortest">P</string>
   <string name="tile_label">Yansıt</string>
+  <string name="time_picker_dialog_title">Zamanı ayarla</string>
+  <string name="time_picker_label_hour">S</string>
+  <string name="time_picker_label_minute">D</string>
   <string name="toast_guide_show_more">Daha fazla bilgi edin</string>
   <string name="toast_guide_title">Explore our new features here</string>
   <string name="toast_msg_for_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
@@ -140,4 +238,13 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>
   <string name="toast_title_for_small_window">Uygulamada \"Pencereyi küçült \" seçeneğini seçin</string>
   <string name="toast_turn_off_hotspot_before_cast">Yansıtmadan önce internet paylaşımını kapatın</string>
+  <string name="today">Bugün</string>
+  <string name="tomorrow">Yarın</string>
+  <string name="tuesday">Salı</string>
+  <string name="tuesday_short">Sal</string>
+  <string name="tuesday_shortest">S</string>
+  <string name="wednesday">Çarşamba</string>
+  <string name="wednesday_short">Çrş</string>
+  <string name="wednesday_shortest">Ç</string>
+  <string name="yesterday">Dün</string>
 </resources>

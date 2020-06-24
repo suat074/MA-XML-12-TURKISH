@@ -154,6 +154,9 @@
   <string name="antivirus_privacy_dialog_ok">Tamam</string>
   <string name="antivirus_privacy_dialog_summary">Bu özellik, cihaz kimliğinizi Avast, AVL ve Tencent sunucularına şifreler ve yükler (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikası</string>
+  <string name="antivirus_privacy_dialog_summary_new"><Data>Bu özellik Avast, AVL ve Tencent tarafından sağlanan virüsten koruma tanımlarını kullanır. Daha fazla bilgi için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun.</Data></string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Bu özellik AVL ve Tencent tarafından sağlanan virüsten koruma tanımlarını kullanır. Daha fazla bilgi için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun.</Data></string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Bu özellik, Avast ve AVL tarafından sağlanan virüsten koruma tanımlarını kullanır. Daha fazla bilgi için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun.</Data></string>
   <string name="antivirus_privacy_dialog_title">Gizlilik Politikası</string>
   <string name="antivirus_sec_network_unavailable">İnternet bağlantısını kısıtladığınız için Güvenlik uygulaması güncellenemiyor. Güvenliğin internete bağlanmasına izin verilsin mi?</string>
   <string name="antivirus_toast_already_update">Güncel</string>
@@ -3156,11 +3159,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
     <string name="pc_battery_history_item_histogram">Güç tüketimi ayrıntıları</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
-    <string name="perm_intercept_content">Bu uygulamaya aşağıdaki izni verin: %1s?</string>
+    <string name="perm_intercept_content">Bu uygulamaya şu izni verin: %1s?</string>
     <string name="perm_intercept_notification_title">%1s öğesinin bildirimleri kullanmasına izin vermek, bu uygulamanın aşağıdaki eylemleri gerçekleştirmesine izin verir:</string>
     <string name="perm_intercept_privacy_content">Bu eylemler kişisel verilerinizi ortaya çıkarabilir. İzin (%1s) yine de verilsin mi?</string>
     <string name="perm_intercept_title">%1s ye kullanım verilerine erişim izni vermek, bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:</string>
-    <string name="perm_intercept_unknown_title">%1s nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki riskleri oluşturabilir:</string>
+    <string name="perm_intercept_unknown_title">%1s için bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki riskleri oluşturabilir:</string>
     <string name="permission_action_desc_always">Bu izin her zaman kullanılabilir</string>
     <string name="permission_action_desc_foreground">Bu izin yalnızca uygulamayı kullanırken kullanılabilir</string>
     <string name="permission_action_desc_prompt">Bu izin yalnızca izin verdiğinizde kullanılabilir</string>

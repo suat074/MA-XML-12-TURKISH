@@ -45,8 +45,8 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="passport_trust_device">Bu cihaza güven</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
   <string name="passport_verify">Doğrula</string>
-  <string name="password">Şifre</string>
-  <string name="phone_locked">Bu cihaz mevcut bir Mi Hesap kimliği (%s) ile ilişkilendirilmiş durumda. Bu cihazı etkinleştirmek için oturum açın.</string>
+  <string name="password">Şifreyi girin</string>
+  <string name="phone_locked">Bu cihaz bir Mi Hesabı (%s) ile ilişkilendirildi. Cihazı etkinleştirmek için şifreyi girin.</string>
   <string name="phone_locked_account_email">, bağlı e-posta adresi: %s</string>
   <string name="phone_locked_account_phone">, bağlı telefon numarası: %s</string>
   <string name="return_to_call">Aramaya dön</string>
@@ -72,14 +72,14 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="unlock_error_unknown">Oturum açılamıyor</string>
   <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
   <string name="unlock_error_wrong_vcode">Girdiğiniz kod yanlış</string>
-  <string name="unlock_help">"Ağa bağlı kalın.
-Çalışan bir SIM kart yüklediğinizden (cihazınız destekliyorsa) ve cihazınızın geçerli bir WLAN ağına bağlı olduğundan emin olun.
+  <string name="unlock_help">"Ağa bağlanın.
+Çalışan bir SIM kart takın ve geçersiz WLAN ağlarına bağlanmayın.
 
-Şifrenizi mi unuttunuz?
-Şifrenizi sıfırlamak için id.mi.com adresine gidin.
+Şifreyi mi unuttun?
+id.mi.com adresine gidin, \"Şifreyi mi unuttun?\" öğesini seçin ve yönergeleri izleyin.
 
-Diğer nedenler
-i.mi.com adresinde oturum açın ve cihazınızın kilidini buradan açmayı deneyin."</string>
+Cihazı etkinleştiremiyor musunuz?
+i.mi.com/ss adresine gidin ve cihazın kilidini açmak için başvurunuzu gönderin."</string>
   <string name="unlock_help_title">Kilit açma yardımı:</string>
   <string name="unlock_number">Kilit açma kodu: %s</string>
   <string name="unlock_wrong_captcha">Girmiş olduğunuz kod hatalı</string>

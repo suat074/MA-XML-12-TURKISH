@@ -22,7 +22,7 @@
   <string name="accessibility_manual_zen_less_time">Daha az zaman.</string>
   <string name="accessibility_manual_zen_more_time">Daha fazla zaman.</string>
   <string name="accessibility_no_wifi">Wifi bağlantısı kesildi.</string>
-  <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
+  <string name="accessibility_speakerphone_enabled">Hoparlör açık</string>
   <string name="accessibility_wifi_off">Wifi kapalı.</string>
   <string name="accessibility_wifi_one_bar">Wifi bir çubuk.</string>
   <string name="accessibility_wifi_security_type_none">Açık ağ</string>
@@ -64,7 +64,7 @@
   <string name="blocked_numbers_block_emergency_number_message">Acil durum numarası engellenemiyor.</string>
   <string name="blocked_numbers_butter_bar_body">Bir acil durum numarasını çevirdikten veya kısa mesaj gönderdikten sonra, acil durum servislerinin sizinle iletişim kurabilmesi için engelleme kapatılır.</string>
   <string name="blocked_numbers_butter_bar_button">Şimdi yeniden etkinleştir</string>
-  <string name="blocked_numbers_butter_bar_title">Geçici olarak engelleme kapalı</string>
+  <string name="blocked_numbers_butter_bar_title">Engelli listesi kapalı</string>
   <string name="blocked_numbers_msg">Engellenen numaralardan arama veya metin alamazsınız.</string>
   <string name="blocked_numbers_number_already_blocked_message">%1$s zaten engellendi.</string>
   <string name="blocked_numbers_number_blocked_message">%1$s engellendi</string>
@@ -164,12 +164,12 @@
   <string name="can_not_dial_vt_while_voice_prompt">Sesli görüşme esnasında görüntülü çağrı yapılamıyor</string>
   <string name="can_not_dial_while_vt_prompt">Görüntülü çağrıdayken arama yapılamaz</string>
   <string name="cancel">İptal</string>
-  <string name="cant_call_due_to_ongoing_call">%1$s çağrınız nedeniyle arama yapılamıyor.</string>
-  <string name="cant_call_due_to_ongoing_calls">%1$s çağrınız nedeniyle arama yapılamıyor.</string>
-  <string name="cant_call_due_to_ongoing_unknown_call">Başka bir uygulamadaki çağrı nedeniyle arama yapılamıyor.</string>
+  <string name="cant_call_due_to_ongoing_call">Çağrı yapılamıyor. %1$s diğer çağrı devam ediyor.</string>
+  <string name="cant_call_due_to_ongoing_calls">Çağrı yapılamıyor. Önce %1$s çağrınızı bitirin.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Başka bir uygulamadaki çağrı nedeniyle çağrı yapılamıyor.</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
-  <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
+  <string name="change_default_dialer_dialog_affirmative">Varsayılan Telefon uygulaması olarak ayarla</string>
   <string name="change_default_dialer_dialog_negative">İptal</string>
   <string name="change_default_dialer_dialog_title">%s varsayılan Telefon uygulamanız mı?</string>
   <string name="change_default_dialer_warning_message">%s, çağrıların tüm yönlerine erişebilecek ve kontrol edebilecektir. Yalnızca güvendiğiniz uygulamalar varsayılan Telefon uygulaması olarak ayarlanmalıdır.</string>
@@ -228,7 +228,7 @@
   <string name="disabled">Devre dışı</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
-  <string name="duplicate_video_call_not_allowed">Şu an çağrı eklenemedi.</string>
+  <string name="duplicate_video_call_not_allowed">Daha fazla çağrı eklenemiyor</string>
   <string name="enable_account_preference_title">Çağrı Hesapları</string>
   <string name="enable_adb">USB Hata Ayıklama</string>
   <string name="enable_adb_summary">USB bağlandığında Hata Ayıklama Modu</string>
@@ -312,7 +312,7 @@
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
   <string name="okay">Tamam</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Çağrı yapılamadı, geçersiz numara girildi.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Bu uygulama Telefon izni olmadan giden aramaları yapamaz.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Bu uygulama, gerekli izinler olmadan giden çağrı yapamaz.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Sadece acil durum çağrılarına izin verilir.</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="phone_settings_call_blocking_txt">Çağrı engelleme</string>
@@ -413,7 +413,7 @@
   <string name="status_unavailable">Kullanım dışı</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacık üzerinde uzun işlemleri yaptığında ekranı flaşla</string>
-  <string name="telecommAppLabel">Çağrı Yönetimi</string>
+  <string name="telecommAppLabel">Çağrıları yönet</string>
   <string name="test_account_0_label">Q Mobil</string>
   <string name="test_account_0_short_description">Q Mobile ile Hesabım</string>
   <string name="test_account_1_label">AVM Kablosuz Ağı</string>

@@ -17,6 +17,7 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="ads_summary_default_value">Bu uygulamayı yükleyen kullanıcılar bunları da beğendi</string>
   <string name="copy">Kopyala</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="miui_clear_apks_summary">Toplam %s</string>
