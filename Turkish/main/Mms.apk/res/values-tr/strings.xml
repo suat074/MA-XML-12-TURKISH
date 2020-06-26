@@ -177,6 +177,13 @@
   <string name="copy_verification_code_tip">Başarıyla kopyalandı</string>
   <string name="current_data_version">Mi Mesaj sürümü</string>
   <string name="date_picker_lunar">Çince Geleneksel Takvimi</string>
+  <string name="debug_about_mms">Mms hakkında</string>
+  <string name="debug_category_db">Veri tabanı</string>
+  <string name="debug_category_others">Diğerleri</string>
+  <string name="debug_close_success">Hata ayıklama kullanılamıyor</string>
+  <string name="debug_enable_success">Hata ayıklama kullanılabilir</string>
+  <string name="debug_export_db">Veritabanını dışa aktar</string>
+  <string name="debug_title">Hata ayıklama</string>
   <string name="delete">Sil</string>
   <string name="delete_block_conversation">Bu sohbeti sil</string>
   <string name="delete_bookmark">Favorilerden kaldır</string>
