@@ -11,4 +11,14 @@
   <string name="setup">Kur</string>
   <string name="user">Kullanıcı</string>
   <string name="virtualizer_strength">Surround ses</string>
+  <string name="classical">Klasik</string>
+  <string name="dance">Dans</string>
+  <string name="flat">Düz</string>
+  <string name="folk">Halk</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Caz</string>
+  <string name="normal">Normal</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
 </resources>

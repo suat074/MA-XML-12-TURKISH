@@ -8,6 +8,14 @@
     <item quantity="other">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
     <item quantity="one">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
   </plurals>
+  <plurals name="pref_camera_fastmotion_duration_unit">
+    <item quantity="other">%1$s dak.</item>
+    <item quantity="one">%1$s dak</item>
+  </plurals>
+  <plurals name="timer_burst_setting_total_count">
+    <item quantity="other">%1$s fotoğraf</item>
+    <item quantity="one">%1$s fotoğraf</item>
+  </plurals>
   <plurals name="toast_burst_snap_finished_summary">
     <item quantity="other">Seri çekim bitti, %1$s fotoğraf çekildi</item>
     <item quantity="one">Seri çekim bitti, %1$s fotoğraf çekildi</item>

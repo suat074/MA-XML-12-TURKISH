@@ -5,7 +5,7 @@
   <string name="add_printer_by_ip">IP adresine göre yazıcı ekle</string>
   <string name="app_name">Sistem yazdırma hizmeti</string>
   <string name="connect_hint_text">Yazıcınızın ön panelinden bu bağlantıyı onaylamanız gerekebilir</string>
-  <string name="connecting_to">%1$s\'ye bağlanıyor</string>
+  <string name="connecting_to">%1$s bağlanılıyor</string>
   <string name="connects_via_network">Mevcut ağ üzerinden %1$s ile bağlanır</string>
   <string name="connects_via_wifi_direct">WLAN Direkt ile bağlanır</string>
   <string name="failed_connection">%1$s ile bağlantı kurulamadı</string>
@@ -19,6 +19,7 @@
   <string name="media_size_89x119mm">89x119 mm</string>
   <string name="media_size_8x10in">8x10 inç</string>
   <string name="no_printer_found">Bu adreste yazıcı bulunamadı</string>
+  <string name="print">Yazdır</string>
   <string name="printer_busy">Meşgul</string>
   <string name="printer_check">Yazıcıyı kontrol et</string>
   <string name="printer_door_open">Kapak açık</string>
@@ -30,6 +31,11 @@
   <string name="printer_out_of_ink">Mürekkep bitti</string>
   <string name="printer_out_of_paper">Kağıt bitti</string>
   <string name="printer_out_of_toner">Toner bitti</string>
+  <string name="recommendation_enable_summary">Etkinleştirmek için seçin</string>
+  <string name="recommendation_install_summary">Yüklemek için seçin</string>
+  <string name="recommendation_manage">Hizmetleri yönet</string>
+  <string name="recommendation_summary">Varsayılan Yazdırma Hizmeti temel seçenekler sağlar. Bu yazıcı için diğer seçenekler başka bir yazdırma hizmetinden edinilebilir.</string>
+  <string name="recommendations_heading">Önerilen hizmetler</string>
   <string name="saved_printers">Kaydedilmiş yazıcılar</string>
   <string name="searching">Aranıyor…</string>
   <string name="title_activity_add_printer">Yazıcı ekle</string>

@@ -468,9 +468,12 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="soundrecorder_sync_only_in_wifi_summary_china">Kayıt cihazı, kayıtları indirmek veya yüklemek için mobil veri kullanmayacak</string>
   <string name="soundrecorder_sync_records">Xiaomi Bulut ile eşitle</string>
   <string name="starred_contact">Favoriler</string>
+  <string name="storage_manage_cloud_data_title">Buluttaki öğeleri görüntüle</string>
   <string name="storage_manage_expansion">Daha fazlasını alın</string>
+  <string name="storage_manage_full_summary">Bulut depolaması dolu. Planınızı yükseltin.</string>
   <string name="storage_manage_list_title">Bulut verileri</string>
   <string name="storage_manage_list_title_action">Daha fazla göster</string>
+  <string name="storage_manage_normal_summary">Bulut depolama planını değiştir</string>
   <string name="storage_manage_renewal">Yenile</string>
   <string name="storage_manage_title">Bulut depolama planını değiştirin</string>
   <string name="storage_manage_upgrade">Yükselt</string>

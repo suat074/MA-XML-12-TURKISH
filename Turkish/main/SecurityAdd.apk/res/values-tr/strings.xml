@@ -52,6 +52,7 @@
   <string name="ew_share_logo_title">Deprem uyarısı</string>
   <string name="ew_share_save_tips">%s konumuna kaydedildi</string>
   <string name="ew_share_title">Paylaş</string>
+  <string name="ew_title_back">Geri dön</string>
   <string name="ew_warning_detail">Uyarı ayrıntıları</string>
   <string name="fastboot_locked_answer_1">Fastboot, Mi cihazlarını flaşlamanın geleneksel yöntemidir. Cihaz Fastboot modundayken, üzerinde kayıtlı tüm verilere doğrudan ulaşılabilir ve silinebilir. Cihazı kaybettiğinizde verilerin güvenli kalmasını sağlamak ve Cihaz bul özelliğinin güvenilirliğini garanti etmek için Fastbootu kilitleriz.</string>
   <string name="fastboot_locked_answer_2">Cihazınızı kaybederseniz Fastboot, üzerinde depolanan öğelerin güvenliğini garanti eder. Fastboot kilidini kaldırırsanız, Cihaz bul özelliğini kullanarak cihazınızı uzaktan kilitleyemez veya verileri silemezsiniz. Bu yüzden cihazınızdaki Fastboot kilidini açmanızı önermiyoruz.</string>

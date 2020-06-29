@@ -196,6 +196,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="camera_disabled">Kamera devre dışı bırakıldı</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="camera_facedetection_sub_option_hint">Deneysel seçenek artık kullanılabilir</string>
+  <string name="camera_fastmotion_title">Hızlandırılmış videolar</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_liveshot_off_tip">Dinamik çekim kapatıldı</string>
   <string name="camera_liveshot_on_tip">Dinamik çekim</string>
@@ -434,12 +435,19 @@ Kopyayı kablosuz olarak A4 kağıdına yazdırın."</string>
 Daha iyi efekt için lensi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
   <string name="lens_dirty_detected_title_front">Ön kamera merceği kirli</string>
+  <string name="lighting_bright_red">Parlak kırmızı</string>
+  <string name="lighting_dazzling">Göz kamaştırıcı</string>
+  <string name="lighting_dreamland">Hayaller ülkesi</string>
+  <string name="lighting_gorgeous">Muhteşem</string>
   <string name="lighting_hint_needed">Konuyu çerçeveye yerleştirin</string>
   <string name="lighting_hint_title">Stüdyo aydınlatma</string>
   <string name="lighting_hint_too_close">Kamerayı daha uzaklaştırın</string>
   <string name="lighting_hint_too_far">Kamerayı daha yakına getir</string>
   <string name="lighting_hint_usage">"Portre modunda stüdyo ışık efektlerini  
 kullanabilirsiniz"</string>
+  <string name="lighting_lanshan">Mavi Dağ</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalji</string>
   <string name="lighting_pattern_dot">Nokta</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Yapraklar</string>
@@ -449,6 +457,8 @@ kullanabilirsiniz"</string>
   <string name="lighting_pattern_rainbow">Gökkuşağı</string>
   <string name="lighting_pattern_shutter">Panjur</string>
   <string name="lighting_pattern_stage">Aşama</string>
+  <string name="lighting_phantom">Fantom</string>
+  <string name="lighting_rainbow">Gökkuşağı</string>
   <string name="live_edit_exit_confirm">Durdur</string>
   <string name="live_edit_exit_message">Çekimi şimdi durdur?</string>
   <string name="live_edit_share_title">Paylaş</string>
@@ -603,6 +613,7 @@ Makro modunu kullanın"</string>
   <string name="module_name_portrait">Portre</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Kare</string>
+  <string name="module_name_super_moon">Süper Ay</string>
   <string name="module_name_video">Video</string>
   <string name="moive_frame">Film çerçevesi</string>
   <string name="more_mode_style">Tüm kamera modlarını nasıl düzenlemek istediğinizi seçin</string>
@@ -670,7 +681,10 @@ Makro modunu kullanın"</string>
   <string name="pic_flaw_blink_more">Çerçevedeki biri gözlerini kapatmış gibi görünüyor</string>
   <string name="pic_flaw_blink_one">Çerçevedeki kişi gözlerini kapatmış gibi görünüyor</string>
   <string name="pic_flaw_cover">Lens kısmen kapatılmış gibi görünüyor</string>
+  <string name="pixel_ai_108">AI 100 milyon ultra canlı</string>
+  <string name="pixel_ai_108_close">AI 100 milyon ultra canlıyı kapat</string>
   <string name="popup_tip_3d_beauty_intro_text">3D Güzellik</string>
+  <string name="popup_tips_near_range_mode">Yakın odaklama</string>
   <string name="portait_effect_entry_blackwhite">S&amp;B</string>
   <string name="portait_effect_entry_cool">Nane</string>
   <string name="portait_effect_entry_dusk">Alacakaranlık</string>
@@ -722,6 +736,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Kamera ayarları</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
+  <string name="pref_camera_ai_shutter_description">Deklanşöre basıldığında en iyi anı akıllıca seçin</string>
+  <string name="pref_camera_ai_shutter_title">AI deklanşörü</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
   <string name="pref_camera_antibanding_entry_3">Otomatik</string>
   <string name="pref_camera_antibanding_title">Görüntü titreşimini önle</string>
@@ -771,8 +787,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_device_watermark_title">Cihaz filigranı</string>
   <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Düşük ışıklı ortamlarda resim kalitesini artırmak için kare hızı otomatik olarak 60FPS\'den 33FPS\'ye düşürülür</string>
-  <string name="pref_camera_dynamic_frame_rate_title">Düşük ışık otomatik kare hızı</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Video kalitesini artırmak için düşük ışık koşullarında %1$d olan kare hızını %2$d FPS\'ye düşürün</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarlayın</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Kapalı</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -780,6 +796,16 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_face_info_watermark_title">Fotoğrafta yüz bilgilerini göster</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Yüz algılama otomatik gizli</string>
   <string name="pref_camera_facedetection_title">Yüz Tanıma</string>
+  <string name="pref_camera_fastmotion_duration">Süre</string>
+  <string name="pref_camera_fastmotion_duration_description">Bir çekim oturumunun süresi varsayılan olarak sınırsızdır. Ayrıca, oturumu sabit bir anda durduracak zamanlayıcıyı da ayarlayabilirsiniz.</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Sınırsız</string>
+  <string name="pref_camera_fastmotion_speed">Hız</string>
+  <string name="pref_camera_fastmotion_speed_150x">Gündoğumu ve günbatımı</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Bitkiler</string>
+  <string name="pref_camera_fastmotion_speed_30x">Sokak</string>
+  <string name="pref_camera_fastmotion_speed_750x">Alaca karanlık</string>
+  <string name="pref_camera_fastmotion_speed_90x">Bulutlar</string>
+  <string name="pref_camera_fastmotion_speed_description">Daha yüksek hızda çekilen hızlandırılmış videolar daha kısa ve daha yoğun olur. Farklı sahneler için uygun hız değerleri şunlardır:</string>
   <string name="pref_camera_first_tag_tips">Başarıyla etiketlendi</string>
   <string name="pref_camera_fisheye_title">Balık gözü</string>
   <string name="pref_camera_flashmode_entry_auto">Otomatik</string>
@@ -1082,7 +1108,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
   <string name="see_qrcode_detals">QR kodu ayrıntıları</string>
   <string name="settings_camera_near_range_description">Yakın plandaki nesneleri çekerken bulanıklaştırma efektini kaldırın</string>
-  <string name="settings_camera_near_range_title">Yakın çekim modu</string>
+  <string name="settings_camera_near_range_title">Yakın odaklama</string>
   <string name="share">Paylaş</string>
   <string name="simple_mode_button_asd_flash">Flaş yakalamasını kapat</string>
   <string name="simple_mode_button_asd_hdr">HDR yakalamasını kapat</string>
@@ -1121,6 +1147,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="super_eis_pro">Sabit video Pro</string>
   <string name="super_eis_pro_disabled_hint">Sabit video Pro kapalı</string>
   <string name="super_macro_mode">Süper makro</string>
+  <string name="super_moon_improve_effect_tips">Ayı daireye yerleştir</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>
@@ -1136,10 +1163,10 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="timbre_normal">Orijinal</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
-  <string name="timer_burst">Timer burst</string>
-  <string name="timer_burst_manu_param_interval">Zaman aralığı (pozlama süresi içermez)</string>
-  <string name="timer_burst_param_interval">Zaman aralığı</string>
-  <string name="timer_burst_param_total_count">Toplam yakalama sayısı</string>
+  <string name="timer_burst">Zamanlı seri çekim</string>
+  <string name="timer_burst_manu_param_interval">Pozlama olmadan aralık</string>
+  <string name="timer_burst_param_interval">Aralık</string>
+  <string name="timer_burst_param_total_count">Fotoğraf sayısı</string>
   <string name="timer_burst_setting_total_count">Adet: %1$s</string>
   <string name="title_snap_double_confirm">Yeniden onaylayın</string>
   <string name="toast_burst_snap_finished_summary">Çekim yapıldı, %1$s fotoğraf çekildi</string>
@@ -1174,6 +1201,8 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
 Daha heyecan verici güzelliği keşfedin."</string>
   <string name="unknow_error">Bilinmeyen hata</string>
+  <string name="unsupported_microphones_3d_record_tips">3D stereo ses harici mikrofonu desteklemiyor</string>
+  <string name="unsupported_microphones_audio_zoom_tips">Ses yakınlaştırması harici mikrofonu desteklemiyor</string>
   <string name="user_agree">Kabul et</string>
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
@@ -1187,6 +1216,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="video_beauty_tip_beautification">Güzelleştir</string>
   <string name="video_beauty_tip_filter">Filtreler</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="video_bokeh_blur">Bulanık</string>
+  <string name="video_bokeh_color_point">Renk lekeleri</string>
+  <string name="video_bokeh_spin">Döndür</string>
+  <string name="video_bokeh_zoom_in">Yakınlaştır</string>
+  <string name="video_bokeh_zoom_out">Uzaklaştır</string>
   <string name="video_camera_label">Video kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
   <string name="video_effect_entry_bygone">Geçmiş</string>
@@ -1219,6 +1253,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="watermark_tab_general">Genel</string>
   <string name="watermark_tab_scene">Sahne</string>
   <string name="watermark_tab_spots">Yer</string>
+  <string name="watermark_tab_super_moon_silhouette">Siluet</string>
+  <string name="watermark_tab_super_moon_text">Metin</string>
   <string name="wideselfie_press_shoot_key_to_start">Deklanşöre dokunun</string>
   <string name="wideselfie_result_image_lossless">Panoramik çekim oluşturulamadı</string>
   <string name="wideselfie_rotate_slowly">Telefonu yana doğru döndürün</string>

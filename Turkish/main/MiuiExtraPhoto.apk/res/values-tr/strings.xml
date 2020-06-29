@@ -39,6 +39,7 @@
   <string name="refocus_save_to_video">Video olarak kaydet</string>
   <string name="refocus_saving">Kaydediliyor…</string>
   <string name="refocus_title">Bulanıklık</string>
+  <string name="refocus_type_movie_relighting">Sinematik</string>
   <string name="refocus_type_relighting">Stüdyo aydınlatma</string>
   <string name="refocus_type_relighting_no_face">Yüz bulunamadı</string>
   <string name="refocus_type_relighting_small_face">Stüdyo aydınlatması, yüzlerin buradan daha fazla yer kapladığı fotoğraflar üzerinde çalışır.</string>
