@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Varsayılan)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Çok küçük metin boyutu</item>
+        <item>Küçük metin boyutu</item>
+        <item>Varsayılan metin boyutu</item>
+        <item>Büyük metin boyutu</item>
+        <item>Çok büyük metin boyutu</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Uygulama tarafından ayarlandı</item>
+        <item>Siyah üzerine beyaz</item>
+        <item>Beyaz üzerine siyah</item>
+        <item>Siyah üzerine sarı</item>
+        <item>Mavi üzerine sarı</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Doğrulama</item>
+        <item>Sertifika durumunu iste</item>
+        <item>Sertifika durumunu gerektir</item>
+        <item>Tüm güvenilmeyen sertifika durumlarını gerektir</item>
+    </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>Yalnızca LTE</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA tercih edilen</item>
+        <item>Yalnızca GSM</item>
+        <item>Yalnızca WCDMA</item>
+        <item>GSM/WCDMA otomatik</item>
+        <item>CDMA/EvDo otomatik</item>
+        <item>EvDo olmadan CDMA</item>
+        <item>Yalnızca EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Genel</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Yalnızca TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Yalnızca NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Yalnızca GSM</item>
+        <item>Yalnızca WCDMA</item>
+        <item>GSM/WCDMA tercihli</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>Önceden paylaşılan anahtara sahip L2TP/IPSec VPN</item>
+        <item>Sertifikalara sahip L2TP/IPSec VPN</item>
+        <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamaya sahip IPSec VPN</item>
+        <item>Sertifikalara ve Xauth kimlik doğrulamaya sahip IPSec VPN</item>
+        <item>Sertifikalara ve karma kimlik doğrulamaya sahip IPSec VPN</item>
+        <item>Sertifika ve kullanıcı adı/şifre yetkilendirmesine sahip IKEv2/IPSec VPN</item>
+        <item>Önceden paylaşılan anahtara sahip IKEv2/IPSec VPN</item>
+        <item>Sertifikaya sahip IKEv2/IPSec VPN</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Ims Tercihli</item>
+        <item>WLAN</item>
+        <item>Mobil</item>
+        <item>Yalnızca WLAN</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Ims Tercihli</item>
+        <item>WLAN</item>
+        <item>Mobil</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Kablosuz</item>
+        <item>Mobil</item>
+        <item>Yalnızca kablosuz</item>
+    </string-array>
+</resources>

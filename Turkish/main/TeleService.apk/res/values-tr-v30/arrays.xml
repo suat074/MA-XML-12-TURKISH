@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Varsayılan)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA tercih edilen</item>
+        <item>Yalnızca GSM</item>
+        <item>Yalnızca WCDMA</item>
+        <item>GSM/WCDMA otomatik</item>
+        <item>CDMA/EvDo otomatik</item>
+        <item>EvDo olmadan CDMA</item>
+        <item>Yalnızca EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Genel</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Yalnızca TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Yalnızca NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+</resources>
