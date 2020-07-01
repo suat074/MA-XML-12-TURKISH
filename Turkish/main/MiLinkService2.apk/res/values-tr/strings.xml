@@ -198,6 +198,24 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
   <string name="privacy_agree">Kabul et</string>
+  <string name="privacy_detail"><Data>Bu uygulamanın internete bağlanması ve normal çalışabilmesi için gerekli kişisel verileri toplaması gerekir. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="privacy_detail_extra"><Data>Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> ve &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="privacy_explain">"Yansıtma'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitörde yansıtmanıza olanak tanır. Uygulamanın internete bağlanması ve normal çalışabilmesi için aşağıdaki izinleri alması gerekir:"</string>
+  <string name="privacy_negative">Çık</string>
+  <string name="privacy_permission_ble">"Bluetooth'u açma ve kapatma"</string>
+  <string name="privacy_permission_ble_desc">Yakındaki mevcut cihazları bulmak için</string>
+  <string name="privacy_permission_location">Konuma erişme</string>
+  <string name="privacy_permission_location_desc">Yakındaki mevcut cihazları bulmak için</string>
+  <string name="privacy_permission_necessary">Zorunlu izinler</string>
+  <string name="privacy_permission_necessary_desc">Bu izinler, bu uygulamanın temel özelliklerini ve hizmetlerini kullanılabilir kılmak için gereklidir.</string>
+  <string name="privacy_permission_nfc_desc">NFC kullanan cihazları eşleştirmek için</string>
+  <string name="privacy_permission_optional">İsteğe bağlı izinler</string>
+  <string name="privacy_permission_optional_desc">Bunları kullanırken ek özellikler için kullanılır</string>
+  <string name="privacy_permission_wlan">Wi-Fi açma ve kapatma</string>
+  <string name="privacy_permission_wlan_china">WLAN açma ve kapatma</string>
+  <string name="privacy_permission_wlan_desc">Yakındaki mevcut cihazları bulmak için</string>
+  <string name="privacy_permission_wlan_desc_china">Yakındaki mevcut cihazları bulmak için</string>
+  <string name="privacy_positive">Kabul</string>
   <string name="privacy_text_1"><Data>"Yansıtma\'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtmanızı sağlar.
 Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> ve &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> okuyun ve kabul edin.
 Bu uygulamanın normal bir şekilde çalışabilmesi için internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:"</Data></string>
@@ -207,6 +225,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
 　　•Harici cihazlara ses göndermek için çağrıları ve sesleri kaydeder
 　　•Cihazınızı tanımlamak için telefon numarasına, IMEI ve IMSI\'ye erişir
 　　•Yakındaki cihazları bulmak için konumunuza erişir"</string>
+  <string name="privacy_title">Dikkat</string>
   <string name="private_protect">Özel öğeleri gizle</string>
   <string name="san_wait_msg_1">Hedef cihazda kablosuz yansıtma özelliğini açın</string>
   <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>

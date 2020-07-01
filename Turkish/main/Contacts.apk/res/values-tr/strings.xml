@@ -225,7 +225,7 @@
   <string name="callrecordview_menu_batch_delete">Toplu temizle</string>
   <string name="callrecordview_menu_blocklist">Engelli listesi</string>
   <string name="callrecordview_menu_conference">Konferans çağrısı</string>
-  <string name="callrecordview_menu_delete">Çağrı geçmişini temizle</string>
+  <string name="callrecordview_menu_delete">Sil</string>
   <string name="callrecordview_menu_delete_accepted">Cevaplanan çağrıları temizle</string>
   <string name="callrecordview_menu_delete_all">Çağrı geçmişini temizle</string>
   <string name="callrecordview_menu_delete_called">Giden çağrıları temizle</string>

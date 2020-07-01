@@ -53,6 +53,14 @@
     <item quantity="one">%1$d daha fazla yorum</item>
     <item quantity="other">%1$d daha fazla yorum</item>
   </plurals>
+  <plurals name="detail_reward_few_times">
+    <item quantity="one">%s ödül</item>
+    <item quantity="other">%s ödül</item>
+  </plurals>
+  <plurals name="detail_reward_times">
+    <item quantity="one">%s ödül</item>
+    <item quantity="other">%s ödül</item>
+  </plurals>
   <plurals name="detail_update_time_hour">
     <item quantity="other">%d saat önce</item>
     <item quantity="one">%d saat önce</item>

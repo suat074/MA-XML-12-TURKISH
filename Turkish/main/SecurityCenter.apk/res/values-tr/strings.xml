@@ -766,6 +766,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="choose">Seçin</string>
   <string name="choose_gs_show_way">Ana sayfa yönünü seç</string>
   <string name="clean_immediately">Temizle</string>
+  <string name="clean_master_icon_recall_button_text">Ekle</string>
+  <string name="clean_master_icon_recall_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin.</string>
+  <string name="clean_master_icon_recall_title">Çöpü hızlı temizleme</string>
+  <string name="clean_master_icon_recall_toast_text">Temizleyici için bir Ana ekran kısayolu başarıyla eklendi</string>
   <string name="cleaned">Temizlendi</string>
   <string name="clear_garbage">Boş yer kazanmak için çöpü boşalt</string>
   <string name="clear_immediately">Şimdi temizle</string>
@@ -2383,7 +2387,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="section_title_clear_acc">Önbelleği temizle</string>
   <string name="section_title_security_defend">Güvenlik</string>
   <string name="section_title_system">Sistem güvenliği</string>
-  <string name="security_bottom_guide_to_pm_text">Yardımcı Program Kiti açılıyor…</string>
+  <string name="security_bottom_guide_to_pm_text">Yardımcı programları açmak için bırakın</string>
   <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
   <string name="security_scan_optimizing">Optimize ediliyor…</string>
   <string name="security_guide_bubble_text">Aç</string>

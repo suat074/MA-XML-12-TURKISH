@@ -907,6 +907,11 @@
     <item>4K (üst çözünürlük, güvenli)</item>
     <item>720p, 1080p (çift ekran)</item>
   </string-array>
+  <string-array name="paper_color_values">
+    <item>Tam renkler</item>
+    <item>Açık renkler</item>
+    <item>Siyah ve beyaz</item>
+  </string-array>
   <string-array name="perm_hips_action">
     <item>İzin ver</item>
     <item>Sor</item>

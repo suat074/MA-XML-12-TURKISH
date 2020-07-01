@@ -113,4 +113,8 @@
   <string name="unbind_device_alert_title">Cihaz eşleşmesini kaldır</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="wifi_unsaved_network_linking">SSID Köprüleme - Otomatik Bağlantı</string>
+  <string name="wifi_unsaved_network_linking_summary">SSID ve BSSID kısmi eşleşmesinde mevcut bağlanmış WPA/WPA2-PSK 2GHz SSID kimlik bilgileriyle yeni bir WPA/WPA2-PSK 5GHz SSID otomatik bağlantı girişimini etkinleştir</string>
+  <string name="wifi_whitelist_roaming">SSID Köprüleme - Hızlı Devir Teslim</string>
+  <string name="wifi_whitelist_roaming_summary">"Aynı ağ geçidi MAC adresine sahip farklı SSID WPA/WPA2-PSK AP'leri arasında dolaşımı etkinleştir"</string>
 </resources>

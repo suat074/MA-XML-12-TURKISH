@@ -62,6 +62,9 @@
   <string name="framwork_base_service">Bu hizmetleri sağlamak için Mi Hizmet Çerçevesi\'nin (Mi hesabı, Mi Push, Mi İstatistik, MIUI BI) internete bağlanması, telefon numaranıza, IMEI\'ye ve IMSI\'ye erişmesi ve cihazınızdan push bildirimleri almasına izin verilmesi gerekir.</string>
   <string name="game_introduction">Oyunlar eklentisi oturum açmanıza, siparişler oluşturmanıza, ödemeleri tamamlamanıza, kupon kullanmanıza ve promosyon etkinliklerine katılmanıza olanak sağlar.</string>
   <string name="google_service_introduction">Google Play’in normal çalışabilmesi için internete bağlanması, bulunduğunuz yere erişmesi, ses kaydı yapabilmesi, arama yapabilmesi, takvim etkinlikleri, arama geçmişi, sensörler, depolama, kamera, cihaz bilgisi ve hesaplara erişebilmesi gerekir.</string>
+  <string name="home_settings_miui_home">Klasik</string>
+  <string name="home_settings_poco_launcher">Uygulama çekmecesi</string>
+  <string name="home_settings_title">Varsayılan başlatıcıyı seçin</string>
   <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
   <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. Bu klavyenin gizlilik politikasını %s adresinde görüntüleyin.</string>
   <string name="input_method_category">Mesaj yazmak, not yazmak ve diğer her şey için kullanacağınız varsayılan klavyeyi seçin. Diğer üçüncü taraf klavyelerini daha sonra yükleyebileceğinizi unutmayın.</string>
