@@ -69,6 +69,8 @@
   <string name="HIPS_Perm_Intl_group_name_storage">Depolama</string>
   <string name="HIPS_Perm_Location">Konum bilgisi alma</string>
   <string name="HIPS_Perm_Location_Desc">kesin konumu alır (GPS ve ağ tabanlı)</string>
+  <string name="HIPS_Perm_mediaVolume">Medya ses seviyesini ayarla</string>
+  <string name="HIPS_Perm_mediaVolume_Desc">Uygulamanın medya ses seviyesini ayarlamasına izin ver</string>
   <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>
   <string name="HIPS_Perm_PhoneID_Desc">telefon numarası, IMEI ve IMSI\'ye erişir</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişir</string>

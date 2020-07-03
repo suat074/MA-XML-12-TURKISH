@@ -381,6 +381,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="mtzgadget_missing_text">Widget kullanılamıyor</string>
   <string name="multi_selecting_tips">Bir uygulamayı almak için simgesini sürükleyip buraya bırakın.</string>
+  <string name="navigation_type_full_screen">Hareketler</string>
+  <string name="navigation_type_title">Sistemde gezinme</string>
+  <string name="navigation_type_virtual_key">Düğmeler</string>
   <string name="no_detail_page">Ayrıntı sayfası yok</string>
   <string name="no_space_toast">Yeterli alan yok</string>
   <string name="no_space_toast_when_click_widget">Bu sayfada yeterli yer yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin.</string>

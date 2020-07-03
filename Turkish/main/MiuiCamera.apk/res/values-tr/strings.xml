@@ -736,7 +736,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Kamera ayarları</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
-  <string name="pref_camera_ai_shutter_description">Deklanşöre basıldığında en iyi anı akıllıca seçin</string>
+  <string name="pref_camera_ai_shutter_description">Deklanşöre basarken otomatik olarak en iyi anı seçin</string>
   <string name="pref_camera_ai_shutter_title">AI deklanşörü</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
   <string name="pref_camera_antibanding_entry_3">Otomatik</string>
@@ -1201,8 +1201,8 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
 Daha heyecan verici güzelliği keşfedin."</string>
   <string name="unknow_error">Bilinmeyen hata</string>
-  <string name="unsupported_microphones_3d_record_tips">3D stereo ses harici mikrofonu desteklemiyor</string>
-  <string name="unsupported_microphones_audio_zoom_tips">Ses yakınlaştırması harici mikrofonu desteklemiyor</string>
+  <string name="unsupported_microphones_3d_record_tips">3D ses harici mikrofonları desteklemez</string>
+  <string name="unsupported_microphones_audio_zoom_tips">Ses yakınlaştırma harici mikrofonları desteklemez</string>
   <string name="user_agree">Kabul et</string>
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
