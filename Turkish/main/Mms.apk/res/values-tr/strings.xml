@@ -7,6 +7,7 @@
   <string name="actionbar_button_up_description">Geri</string>
   <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
+  <string name="ad_close_button_text">Promosyon</string>
   <string name="addBlackList">Engelle</string>
   <string name="add_attachment">Ek ekle</string>
   <string name="add_contact">vCard</string>

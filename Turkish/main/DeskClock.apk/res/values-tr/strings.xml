@@ -31,6 +31,7 @@
   <string name="alarmclock_silent_hint">Alarm susturuldu</string>
   <string name="alert">Zil Sesi</string>
   <string name="alert_ringtone">Alarm zil sesi</string>
+  <string name="alert_vibrate_enable_summary">Alarm çaldığında titreşim</string>
   <string name="alert_volume">Zil sesi seviyesi</string>
   <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarla</string>
   <string name="already_exist">Bu zamanlayıcı zaten var</string>
@@ -283,6 +284,7 @@
   <string name="ringtone_digital_timer">Zamanlayıcı</string>
   <string name="ringtone_dream">Hayal</string>
   <string name="ringtone_firefly">Ateş böcekleri</string>
+  <string name="ringtone_more">Diğer</string>
   <string name="ringtone_other">Daha fazla zil sesi</string>
   <string name="ringtone_weather">Hava alarmı</string>
   <string name="ringtone_week">Doğa alarmı</string>

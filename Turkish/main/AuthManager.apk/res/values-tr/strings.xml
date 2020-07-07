@@ -118,6 +118,10 @@
   <string name="location_warning">%1$s bu cihaz için konum hizmetleri sağlayıcısıdır. Konum erişimini Konum Ayarları\'ndan değiştirilebilirsiniz.</string>
   <string name="never_ask_again">Kısıtladıktan sonra tekrar sorma</string>
   <string name="ok">Tamam</string>
+  <string name="perm_action_allow">İzin ver</string>
+  <string name="perm_action_deny">Asla izin verme</string>
+  <string name="perm_modem_location">Konumunuza erişim</string>
+  <string name="perm_modem_location_desc">Operatörünüz konum bilgilerinize erişmeye çalışıyor. Konum bilgileri operatörle paylaşılsın mı?</string>
   <string name="permdesc_camera">Fotoğraf çeker ve video kaydeder</string>
   <string name="permdesc_in_calls">Gelen çağrıları izler</string>
   <string name="permdesc_location">Konum bilgisine erişir</string>
