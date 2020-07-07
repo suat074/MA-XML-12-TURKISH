@@ -17,9 +17,13 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="account_other">Diğer</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="casting_tips">Yansıtılıyor…</string>
+  <string name="close_hotspot_hint">Yansıtmadan önce taşınabilir paylaşım noktasını kapatın</string>
+  <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı Wi-Fi ağlarından bağlantıyı kesin</string>
+  <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı WLAN ağlarından bağlantıyı kesin</string>
   <string name="console_guide_btn_got_it">Anladım</string>
   <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır.</string>
   <string name="console_guide_subtitle_private">Kayan bildirimleri, gelen çağrıları ve diğer özel öğeleri harici monitörde gösterme</string>
@@ -54,6 +58,7 @@ Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
   <string name="dialog_select_tv">Cihaz seç (%d)</string>
   <string name="dialog_show_help">Yardım</string>
   <string name="disconnect">Yansıtmayı durdur</string>
+  <string name="enable_screen_projection_summary">Ekran içeriğini harici bir monitöre yansıtın</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
@@ -142,6 +147,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir.
 4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
   <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
+  <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile eşitlendi</string>
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor</string>
@@ -197,6 +203,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
+  <string name="open_game_accelerate">Game Turbo\'yu aç</string>
   <string name="privacy_agree">Kabul et</string>
   <string name="privacy_detail"><Data>Bu uygulamanın internete bağlanması ve normal çalışabilmesi için gerekli kişisel verileri toplaması gerekir. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="privacy_detail_extra"><Data>Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> ve &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> okuyun ve kabul edin.</Data></string>
@@ -234,6 +241,24 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">C</string>
+  <string name="screen_projection">Yansıt</string>
+  <string name="screen_projection_characteristics">Ayrıcalıklı özellşikler</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Ekran kapalıyken yansıt</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Harici monitörlerde kayan bildirimleri, gelen çağrıları ve diğer özel öğeleri görüntülemeyin.</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Özel öğeleri gizle</string>
+  <string name="screen_projection_characteristics_small_window_summary">Telefonunuzun diğer özelliklerini kullanabilmek için yansıtılan pencereyi küçültün.</string>
+  <string name="screen_projection_characteristics_small_window_title">Pencereyi simge durumuna küçült</string>
+  <string name="screen_projection_example_document_summary">"Slaytlar arasında geçiş yapmak ve notları görüntülemek için telefonunuzu kullanırken harici bir monitörde sunumları görüntüleyin. Bu özelliği denemek için Dosya Yöneticisi > Belgeler'e gidin."</string>
+  <string name="screen_projection_example_document_title">Belgeler</string>
+  <string name="screen_projection_example_gallery_summary">Harici bir monitörde görüntülemek için Galeri uygulamasında bir öğenin altındaki Paylaş düğmesine dokunun.</string>
+  <string name="screen_projection_example_gallery_title">Fotoğraflar &amp; videolar</string>
+  <string name="screen_projection_example_game_summary">Game Turbo, harici bir monitörde oyun oynamanıza izin verir. Bu özelliği açmak için Game Turbo araç kutusundaki kısayolu kullanın.</string>
+  <string name="screen_projection_example_game_title">Oyunlar</string>
+  <string name="screen_projection_help">Yardım</string>
+  <string name="screen_projection_sample_summary">Belgeleri, oyunları, fotoğrafları ve videoları yansıt</string>
+  <string name="screen_projection_sample_title">Demolar</string>
+  <string name="screen_projection_title">Yansıt</string>
   <string name="search_menu_title">Ara</string>
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>

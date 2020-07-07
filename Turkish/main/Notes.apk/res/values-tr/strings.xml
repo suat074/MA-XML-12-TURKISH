@@ -67,7 +67,7 @@
   <string name="check_in_todo_app">Görevleri görüntüle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="cloud_service_state_open_reminder">Notları eşitlemek için bulut ile eşitlemeyi açın.</string>
-  <string name="cloud_service_state_open_reminder_note_and_todo">Önemli notlarınızın ve yapılacakların kaybolmaması için Xiaomi Bulut ile eşitlemeyi açın</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Bulut ile eşitlemeyi aç</string>
   <string name="cloud_trash_bin_title">Buluttan silinmiş notlar</string>
   <string name="confirm_cancel">Reddet</string>
   <string name="confirm_ok">Kabul et</string>
@@ -78,6 +78,7 @@
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
   <string name="cta_dialog_title">İzin gerekli</string>
   <string name="cta_reminder">Notlar\'ın normal çalışması için internete bağlanma, ses kaydetme ve kişilerinize erişme izinlerine ihtiyacı var. İzin ver?</string>
+  <string name="cta_v2_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri almasına izin verin.</string>
   <string name="cta_v2_app_purpose">Notlar oluşturma, görüntüleme ve yönetme</string>
   <string name="cta_v2_app_purpose_v12">Notlar\'a Hoş Geldiniz! Metin, resim ve ses içeren görevler ve notlar oluşturmak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="data_empty_note">Burada henüz not yok</string>
@@ -397,8 +398,10 @@
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">Paz</string>
-  <string name="sync_all_terms">%1$s ve %2$s , %3$s</string>
+  <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
+  <string name="sync_folder_todo">%1$s ve %2$s</string>
   <string name="sync_note_folder">%1$s ve %2$s</string>
+  <string name="sync_note_todo">%1$s ve %2$s</string>
   <string name="sync_tips">Notları bulutla eşitlemek için dokunun.</string>
   <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kaldırma Yıldönümü</string>
   <string name="the_anti_aggression_day">Anti-Saldırganlık Günü</string>
