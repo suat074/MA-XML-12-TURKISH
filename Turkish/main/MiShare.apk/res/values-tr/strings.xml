@@ -79,6 +79,7 @@
   <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin.</string>
   <string name="error_send_file_service_disabled">Giden transfer iptal edildi</string>
   <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin.</string>
+  <string name="error_send_transfer_pc_error">Aktarım zaman aşımına uğradı. Bilgisayarınızdaki dosya paylaşım uygulamasını güncelleyin ve tekrar deneyin.</string>
   <string name="error_slave_wifi_in_use">Çift Wi-Fi açıkken Mi Paylaşım çalışmaz. Ayarlar\'dan çift Wi-Fi\'ı kapatın ve tekrar deneyin.</string>
   <string name="error_slave_wifi_in_use_china">Çift WLAN açıkken Mi Paylaşım çalışmaz. Ayarlar\'dan çift WLAN\'ı kapatın ve tekrar deneyin.</string>
   <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>

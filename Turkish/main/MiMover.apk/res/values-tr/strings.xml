@@ -447,6 +447,10 @@ Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilme
   <string name="dialog_request_permission_title">Dikkat</string>
   <string name="dialog_tip_upgrade_summary">Mi Transfer sürümü eski görünüyor. Dosyaları aktarabilmek için Mi Transfer\'i en son sürümüne güncelleyin.</string>
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Anladım</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"Uygulama kısıtlamaları nedeniyle WeChat uygulama verileri ve sohbet geçmişi aktarılamadı. Uygulama içi yedekleme özelliğini deneyin.
+WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçeneğine gidin."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">WeChat uygulama verileri aktarılamadı</string>
   <string name="dialog_version_summary_tip">Yenilikler:</string>
   <string name="dialog_version_title_tip">Bir güncelleme mevcut</string>
   <string name="do_not_restore_temporarily">Şimdi değil</string>
@@ -815,6 +819,7 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="saving_data_space_low">Yeterli depolama alanı yok.\nEn az %s alan boşaltın.</string>
   <string name="scan_soft_ap_label">Yeni cihaza bağlan</string>
   <string name="scanner_bottom_tip">Aktarımı daha hızlı yapmak için yalnızca önemli öğeleri seçin.</string>
+  <string name="scanner_not_support_data_transfer_tip">Xiaomi dışındaki cihazlardan uygulama verileri (WeChat ve QQ sohbet geçmişi dahil) aktarılamıyor.</string>
   <string name="scanner_permission_alert_cancel">Anladım</string>
   <string name="scanner_permission_alert_ok">Ayarlar</string>
   <string name="scanner_quit_alert_btn_negative">Çık</string>

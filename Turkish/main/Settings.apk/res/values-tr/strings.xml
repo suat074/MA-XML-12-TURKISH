@@ -2932,6 +2932,8 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="location_mode_sensors_only_description">Konum belirlemek için GPS kullanın</string>
   <string name="location_mode_sensors_only_title">Sadece cihaz</string>
   <string name="location_mode_title">Mod</string>
+  <string name="location_modem_summary">Operatörler, baz istasyonları aracılığıyla konumunuzu öğrenecek</string>
+  <string name="location_modem_title">Konum bilgilerini operatörle paylaş</string>
   <string name="location_neighborhood_level">Uygulamaların konumunuzu tahmin etmek için WLAN ve mobil ağlardaki verileri kullanmasına izin verin</string>
   <string name="location_neighborhood_level_wifi">WLAN tarafından belirlenen konum</string>
   <string name="location_network_based">WLAN &amp; mobil ağ</string>
@@ -3671,7 +3673,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="normal_smartcover_title">Opak ön kapak</string>
   <string name="not_battery_optimizing">Pil optimizasyonu kullanmıyor</string>
   <string name="not_installed">Yüklenmedi</string>
-  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; Bildirim alanı</string>
+  <string name="notch_and_status_bar_settings">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string>
   <string name="notch_settings">Çentik</string>
@@ -3946,6 +3948,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="payment_summary">%1$s varsayılandır</string>
   <string name="peek_notification_icon_title">Gelen bildirimler için simgeleri göster</string>
   <string name="performance_category">Performans</string>
+  <string name="permission_action_prompt">Sor</string>
   <string name="permission_detail_info">Ayrıntılar</string>
   <string name="permission_detail_info_summary">%1$d güvenli | %2$d gizli | %3$d diğer</string>
   <string name="permission_manage">İzin yöneticisi</string>
@@ -5368,7 +5371,7 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="status_bar_style_list">Birleşmiş</string>
   <string name="status_bar_style_page">Ayrı ayrı</string>
   <string name="status_bar_styles_title">Durum çubuğu stili</string>
-  <string name="status_bar_title">Durum çubuğu</string>
+  <string name="status_bar_title">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="status_bt_address">Bluetooth adresi</string>
   <string name="status_data_state">Hücresel ağ durumu</string>
   <string name="status_failed_to_write">NFC etiketi için veri yazılamıyor. Eğer problem devam ederse, farklı bir etiket deneyin</string>

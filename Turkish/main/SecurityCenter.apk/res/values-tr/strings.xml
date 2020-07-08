@@ -216,6 +216,10 @@
   <string name="app_behavior_location_bg">%1s arka planda konumunuza erişti</string>
   <string name="app_behavior_location_bg_single">Bu uygulama arka planda konumunuza erişti</string>
   <string name="app_behavior_location_single">Bu uygulama konumunuza erişti</string>
+  <string name="app_behavior_media_volume">%1s medya sesini ayarladı</string>
+  <string name="app_behavior_media_volume_bg">%1s arka planda medya sesini ayarladı</string>
+  <string name="app_behavior_media_volume_bg_single">Bu uygulama arka planda medya sesini ayarladı</string>
+  <string name="app_behavior_media_volume_single">Bu uygulama medya sesini ayarladı</string>
   <string name="app_behavior_menu_about">Uygulama davranış kayıtları hakkında</string>
   <string name="app_behavior_monitor_off">Bildirimler kapatılıyor</string>
   <string name="app_behavior_monitor_off_content">Bu uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim alamayacaksınız. Bildirimler yine de kapatılsın mı?</string>

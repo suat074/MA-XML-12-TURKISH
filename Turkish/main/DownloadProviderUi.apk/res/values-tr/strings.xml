@@ -226,6 +226,7 @@
   <string name="info_flow_only_load_wifi">Sadece içeriği Wi-Fi kullanarak yükle</string>
   <string name="info_flow_setting">İçerik Ayarları</string>
   <string name="info_flow_show">Önerilen içeriği göster</string>
+  <string name="info_rank_show">Popüler öğe tavsiyesi</string>
   <string name="input_valid_address">Dosya yolunu girin</string>
   <string name="install">Yükle</string>
   <string name="install_failed">"%1$s yüklenemedi"</string>
