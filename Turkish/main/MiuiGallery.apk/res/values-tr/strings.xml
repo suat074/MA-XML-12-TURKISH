@@ -270,6 +270,10 @@
   <string name="burst_save_confirm_dialog_title">Fotoğraflar kaydediliyor</string>
   <string name="burst_save_error_msg">Kaydedilemedi</string>
   <string name="burst_save_processing">İşleniyor…</string>
+  <string name="burst_save_video">Video olarak kaydet</string>
+  <string name="burst_save_video_fail">Kaydedilemedi</string>
+  <string name="burst_save_video_progerss">Video oluşturuluyor…</string>
+  <string name="burst_save_video_title">Video çözünürlüğü</string>
   <string name="buy_member_tip">Üye ol.</string>
   <string name="by_email">E-Posta</string>
   <string name="by_others">Diğer</string>
@@ -702,9 +706,11 @@ mevcut"</string>
   <string name="filter_bi_tea">Çay</string>
   <string name="filter_bi_warm">Ilık</string>
   <string name="filter_bi_young">Genç</string>
+  <string name="filter_category_classic">Klasik</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Gıda</string>
   <string name="filter_category_master">Usta</string>
+  <string name="filter_category_popular">Popüler</string>
   <string name="filter_category_portrait">Portre</string>
   <string name="filter_category_scene">Manzara</string>
   <string name="filter_category_sky">Gökyüzü</string>
@@ -750,7 +756,13 @@ mevcut"</string>
   <string name="filter_people_sepia">Sepya</string>
   <string name="filter_people_story">Hikaye</string>
   <string name="filter_people_tea">Çay</string>
+  <string name="filter_popular_humanity">Belgesel</string>
+  <string name="filter_popular_lnk">Mürekkep</string>
+  <string name="filter_popular_purple">Mor</string>
+  <string name="filter_portrait_greyish">Kül</string>
   <string name="filter_portrait_hint">Renk odaklama</string>
+  <string name="filter_portrait_mist">Sis</string>
+  <string name="filter_portrait_painting">Boyama</string>
   <string name="filter_scene_city">Şehir</string>
   <string name="filter_scene_df">Sis</string>
   <string name="filter_scene_koizora">Aşk</string>
@@ -921,6 +933,7 @@ mevcut"</string>
   <string name="loading_members">Üyeler yükleniyor</string>
   <string name="loading_processing_tip">Fotoğraf işleniyor…</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
+  <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgiler kaldırılıyor (%d/%d)…</string>
   <string name="loading_video">Video indiriliyor...</string>
   <string name="loading_video_compress_lib">Video sıkıştırma eklentisi indiriliyor…</string>
   <string name="loading_video_fail_sync_without_network">Meta verileri indirmek için ağa bağlanın</string>
@@ -1141,7 +1154,9 @@ mevcut"</string>
   <string name="onekey_none">Yok</string>
   <string name="onekey_portrait">Portre</string>
   <string name="onekey_scene">Manzara</string>
-  <string name="online_video_normal_transcoding">Bu video şu anda kodlanıyor. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="online_video_error_unknown">Çevrimiçi oynatma hatası oluştu. Bunun yerine öğeyi indirin.</string>
+  <string name="online_video_error_unsupported_type">Çevrimiçi oynatıcı bu biçimi desteklemiyor. Bunun yerine öğeyi indirin.</string>
+  <string name="online_video_normal_transcoding">Çevrimiçi oynatıcı henüz hazır değil. Bunun yerine öğeyi indirin.</string>
   <string name="online_video_vip_tip">Videoları tam olarak önyüklemeden yayınlamak için VIP üyesi olun</string>
   <string name="online_video_vip_transcoding">"VIP akışına başlamak üzere…
 Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman alabilir."</string>
@@ -1502,8 +1517,15 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="screen_doodle_talkback_size">Doodle çizgi genişliği</string>
   <string name="screen_editor_btn_delete">Sil</string>
   <string name="screen_editor_btn_save">Kaydet</string>
+  <string name="screen_editor_btn_shell_off">Cihaz çerçevesini kaldır</string>
+  <string name="screen_editor_btn_shell_on">Cihaz çerçevesi ekle</string>
+  <string name="screen_editor_crop_disallowed_with_shell">Cihaz çerçevesiyle ekran görüntüleri kırpılamıyor</string>
   <string name="screen_editor_delete_dialog_msg">Bu ekran görüntüsünü sil?</string>
   <string name="screen_editor_finish">Bitti</string>
+  <string name="screen_editor_shell_disallowed_with_crop">Kırpılmış ekran görüntülerine cihaz çerçevesi eklenemiyor</string>
+  <string name="screen_editor_shell_net_error">Cihaz çerçevesini indirmek için ağa bağlanın</string>
+  <string name="screen_editor_shell_res_downloading">Cihaz çerçevesi indiriliyor…</string>
+  <string name="screen_editor_shell_storage_insufficient">Yetersiz depolama alanı nedeniyle cihaz çerçevesi indirilemiyor</string>
   <string name="screen_save_dialog_btn_cancel">İptal</string>
   <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
   <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>
@@ -1814,6 +1836,8 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="thursday">Perşembe</string>
   <string name="thursday_short">Prş</string>
   <string name="thursday_shortest">P</string>
+  <string name="time_burst_photo_enter">Zamanlı seri çekim</string>
+  <string name="time_burst_preview_title">Zamanlı seri çekim</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
   <string name="tip_capture_location">Konum:</string>
