@@ -64,10 +64,10 @@
   <string name="accessibility_filter_open_panel">Filtre menüsü açıldı</string>
   <string name="accessibility_filter_pad_close">Filtre menüsü gizlendi</string>
   <string name="accessibility_flash_auto">Otomatik flaş açık</string>
-  <string name="accessibility_flash_back_soft_light">Flash Yumuşak ışık modunda çalışıyor</string>
+  <string name="accessibility_flash_back_soft_light">Flaş Yumuşak ışık modunda çalışıyor</string>
   <string name="accessibility_flash_mode_button">Flaş Düğmesi</string>
-  <string name="accessibility_flash_off">Flash kapalı</string>
-  <string name="accessibility_flash_on">Flash açık</string>
+  <string name="accessibility_flash_off">Flaş kapalı</string>
+  <string name="accessibility_flash_on">Flaş açık</string>
   <string name="accessibility_flash_torch">Flaş açık, fener modu</string>
   <string name="accessibility_focus_status">%1$sX yakınlaştırma</string>
   <string name="accessibility_foucs_peak">Üst değer</string>
