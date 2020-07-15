@@ -771,6 +771,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="choose_gs_show_way">Ana sayfa yönünü seç</string>
   <string name="clean_immediately">Temizle</string>
   <string name="clean_master_icon_recall_button_text">Ekle</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Hayır teşekkürler</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Ekle</string>
+  <string name="clean_master_icon_recall_dialog_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin.</string>
+  <string name="clean_master_icon_recall_dialog_title">Çöp kutusunu daha hızlı temizle</string>
+  <string name="clean_master_icon_recall_hint">Ana ekran kısayolu ekle</string>
   <string name="clean_master_icon_recall_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin.</string>
   <string name="clean_master_icon_recall_title">Çöpü hızlı temizleme</string>
   <string name="clean_master_icon_recall_toast_text">Temizleyici için bir Ana ekran kısayolu başarıyla eklendi</string>
@@ -1320,6 +1325,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_game_video_type_manual_record">Manuel kayıt</string>
   <string name="gb_get_gift_right_now">Şimdi kontrol et</string>
   <string name="gb_global_settings">Genel ayarlar</string>
+  <string name="gb_gpu_driver_btn_update">Güncellemeleri kontrol et</string>
+  <string name="gb_gpu_driver_update">GPU Sürücü Güncelleyici</string>
+  <string name="gb_gpu_driver_update_app">Güncelle</string>
+  <string name="gb_gpu_driver_update_app_tips">Mevcut sürüm güncel</string>
   <string name="gb_have_signed">Bugün kontrol edildi</string>
   <string name="gb_manual_record_dialog_del_video_message">Seçili videolar kalıcı olarak silinsin mi?</string>
   <string name="gb_msg_completely_shielded">Mesajları gizle</string>
@@ -1367,7 +1376,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-  <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"</Data></string>
+  <string name="gdpr_msg"><Data>"Güvenlik risklerini tespit edebilmek ve verilerinizi koruyabilmek için cihazınız hakkında gerekli miktarda bilgiyi toplamamız gerekir. Hizmetlerimizi kullanmadan önce &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Bu tür bilgileri toplamamıza izin vermezseniz, bu uygulamayı kullanmaya devam edebilirsiniz ancak bazı özellikleri kullanamazsınız. "</Data></string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_setting_alert_dialog_content">%s alan boşaltılabilir</string>
@@ -3101,6 +3110,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="vtb_func_frc_title">Hareket yumuşatma</string>
   <string name="vtb_func_vpp_desc4">Video çözünürlüğü 4K\'dan yüksek olduğunda bu özellik çalışmaz.</string>
   <string name="vtb_func_vpp_title">Geliştirilmiş konturlar</string>
+  <string name="vtb_function_video_translation">Gerçek zamanlı çeviri</string>
   <string name="vtb_other_milink_connect">Şimdi video yansıtılamıyor. Başka öğeler yansıtılmak üzere…</string>
   <string name="vtb_stop_milink_connect">Video yansıtma durduruldu</string>
   <string name="wakepath_confirm_start_activity">İzin verilen %1$s, %2$s açsın mı?</string>
