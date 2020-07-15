@@ -51,7 +51,7 @@
   <string name="action_settings">Ayarlar</string>
   <string name="ad_close">Kapat</string>
   <string name="ad_data_exception">Reklam Veri Hatası!</string>
-  <string name="ad_recommend">Tavsiyeler</string>
+  <string name="ad_recommend">Reklamları göster</string>
   <string name="ad_setting">Reklam Ayarları</string>
   <string name="add_music">Şarkı ekle</string>
   <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle.</string>
@@ -100,6 +100,8 @@
   <string name="artist_home_search_hint">Sanatçıları ara</string>
   <string name="artist_is_empty">Sanatçı adı boş olamaz.</string>
   <string name="artist_name">Sanatçı</string>
+  <string name="audio_ad_countdown">%ss içinde reklamı atla</string>
+  <string name="audio_ad_pass">Reklamı atla</string>
   <string name="audio_picker_title">Bir şarkı seçin</string>
   <string name="auto_recommend">Otomatik (önerilir)</string>
   <string name="auto_sound_quality">Otomatik</string>
@@ -458,6 +460,7 @@
   <string name="joox_account_login_conflict_message">Başka bir cihazda oturum açmışsınız gibi görünüyor. Burada da oturum aç?</string>
   <string name="joox_account_login_exception">Tekrar oturum açın</string>
   <string name="joox_account_multi_device_login">Birden fazla cihaz</string>
+  <string name="joox_anonymous_name">Ziyaretçi</string>
   <string name="joox_area_check_failed">Görünüşe göre hizmetlerimizin kullanılamadığı bir bölgedesiniz. Başka bir ağa bağlanın ve uygulamayı tekrar başlatın.</string>
   <string name="joox_auth_button_acquire_vip_instantly">VIP üyeliği alın</string>
   <string name="joox_auth_button_login_to_acquire_vip">VIP üyelik almak için oturum açın</string>
@@ -482,6 +485,10 @@
   <string name="joox_auth_title_vip_content">VIP içeriği</string>
   <string name="joox_auth_title_vip_expired">Üyeliğin süresi doldu</string>
   <string name="joox_auth_title_vip_function">VIP özellikleri</string>
+  <string name="joox_category_artist">Sanatçılar</string>
+  <string name="joox_category_playlist">Çalma listeleri</string>
+  <string name="joox_category_vip">Hayran Merkezi</string>
+  <string name="joox_download_tab_title">JOOX</string>
   <string name="joox_download_title">JOOX indirmeleri</string>
   <string name="joox_privacy_desc">JOOX Gizlilik Politikası (isteğe bağlı)</string>
   <string name="joox_privacy_tips_content">Çevrimiçi hizmetleri kullanmadan önce &lt;a href="/link/click">JOOX Gizlilik Politikasını&lt;/a> okuyun ve kabul edin.</string>
@@ -489,6 +496,10 @@
   <string name="joox_recommend_artist_title">Önerilen sanatçılar</string>
   <string name="joox_recommend_playlist_title">Önerilen oynatma listeleri</string>
   <string name="joox_search_result_more">Daha fazla</string>
+  <string name="joox_search_subtitle_prefix_album">albüm</string>
+  <string name="joox_search_subtitle_prefix_artist">sanatçı</string>
+  <string name="joox_search_subtitle_prefix_playlist">çalma listesi</string>
+  <string name="joox_search_subtitle_prefix_song">parça</string>
   <string name="joox_vip_check_to_pay">Satın al</string>
   <string name="joox_vip_expired_hint">VIP üyeliğinizin süresi doldu. JOOX\'tan indirilen şarkılar yalnızca indirmelerinizde görüntülenir.</string>
   <string name="keep_queued_download">Koru</string>
@@ -704,6 +715,10 @@
   <string name="preset_music_playlist">Mi Müzik Listesi</string>
   <string name="priority_storage">Harici SD kart kullan</string>
   <string name="priority_storage_summary">İndirmeler mevcutsa SD karta otomatik kaydedilir</string>
+  <string name="privacy_authorize_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="privacy_authorize_revoke_failed">Yetkilendirme iptal edilemedi</string>
+  <string name="privacy_authorize_revoke_success">Yetkilendirme başarıyla iptal edildi</string>
+  <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor…</string>
   <string name="privacy_desc">Gizlilik Politikası (zorunlu)</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="pro_member">PRO Üye</string>
@@ -716,11 +731,14 @@
   <string name="ready_to_play">Bir sonraki</string>
   <string name="recently_played">Son çalınan</string>
   <string name="recently_played_songs">En son</string>
+  <string name="recommend_artist_title">Önerilen Sanatçı</string>
   <string name="recommend_songs_when_playing_audio_files">Müzik dinlerken şarkı önerileri alın</string>
   <string name="recommended_file_size_download_in_mobile">Bu dosyayı indirmek için %s mobil veri kullanılsın mı?</string>
   <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantısı kullanılsın mı?</string>
   <string name="remove">Kaldır</string>
   <string name="remove_download">Kaldır</string>
+  <string name="remove_user_privacy_dialog_message">Yetkilendirmeyi iptal ettikten sonra, Mi Müzik veri toplamayı durdurur ve ilgili tüm veriler sunuculardan silinir. Bu, Mi Müzik uygulamasını neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi?</string>
+  <string name="remove_user_privacy_dialog_title">Yetkilendirmeyi iptal et</string>
   <string name="renew_dialog_title">Pro ol\nMutlu Ol</string>
   <string name="repeat_all_notif">Bütün şarkıları tekrarla</string>
   <string name="repeat_current_notif">Geçerli şarkıyı tekrarla.</string>
@@ -731,6 +749,7 @@
   <string name="retry">Tekrar Dene</string>
   <string name="retry_after_network_available">Ağa bağlanamıyor. Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="retry_download">Tekrar Dene</string>
+  <string name="revoke_upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilmeyecek</string>
   <string name="ringtone_editing">Zil sesi editörü</string>
   <string name="ringtone_not_support">Şarkı biçimi desteklenmiyor!</string>
   <string name="ringtone_selected">Seçili</string>
@@ -905,7 +924,16 @@
   <string name="upgrade_music">Müzik Güncelle</string>
   <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın.</string>
   <string name="upgrading_in_backstage">Arka planda güncelleniyor…</string>
+  <string name="upload_playlist_to_hungama_negative_text">Eşitleme</string>
+  <string name="upload_playlist_to_hungama_positive_text">Eşitle</string>
+  <string name="upload_playlist_to_hungama_title">Mi Hesabınızı, kullandığınız diğer cihazlardan erişebilmek için çevrimiçi şarkıları Hungama ile senkronize edin.</string>
+  <string name="upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilecek</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_privacy_dialog_negative_text">İptal</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Geri al (%ss)</string>
+  <string name="user_privacy_dialog_positive_text">Geri al</string>
+  <string name="user_privacy_setting_group_title">Yetkilendirme</string>
+  <string name="user_privacy_setting_title">Yetkilendirmenizi vermek veya iptal etmek için anahtarı değiştirin</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="version_info">Sürüm</string>
