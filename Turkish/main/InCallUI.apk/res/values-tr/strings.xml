@@ -111,7 +111,7 @@
   <string name="do_not_support_video_calls_by_remote">Görüntülü çağrı aramaları diğer cihazda desteklenmiyor</string>
   <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
   <string name="enter_ai_assistant">Kullan</string>
-  <string name="enter_ai_assistant_tip">"AI Çağrı asistanı bu çağrıyı alabilir ve diğer kişinin konuşmasını sizin yerinize metne dönüştürebilir. AI'nın şimdi yanıtlamasına izin verilsin mi?"</string>
+  <string name="enter_ai_assistant_tip">Şu anda konuşmak için uygun değilseniz AI metni konuşmaya dönüştürebilir. Bu çağrı için AI kullanılsın mı?</string>
   <string name="inCallLabel">Telefon</string>
   <string name="incall_bubble_hangup_click_hint">Çağrıya geri dönmek için tekrar dokunun</string>
   <string name="incall_call_type_label_sip">İnternet çağrısı</string>

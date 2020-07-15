@@ -154,6 +154,7 @@
   <string name="confirm_unbind">Bu hesapla bağlantı kesilsin mi?</string>
   <string name="confirm_unbundled_phone_dialog_message">%1$s telefon numarası %2$s Mi Hesabı ile ilişkilendirildi. Devam ederseniz, artık Mi Hesabı %3$s ile ilişkilendirilmez. Devam edilsin mi?</string>
   <string name="continue_action">Devam</string>
+  <string name="copy_to_clipboard_successful">Başarıyla kopyalandı</string>
   <string name="delete_action">Sil</string>
   <string name="delete_bank_card_message">Çıkış yaptıktan sonra Mi Ödeme banka kartları ve NFC kartları silinecek.</string>
   <string name="delete_bank_card_title">Banka kartınız siliniyor</string>

@@ -1047,8 +1047,10 @@
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
   <string name="lockscreen_carrier_default">Hizmet yok</string>
   <string name="lockscreen_charging_msg">Şarj ediliyor...</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.\n  </string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.\n\n %d saniye sonra tekrar deneyin.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Telefonunuzu açmak için gerekli olan şifreyi %1$d kez yanlış girdiniz. %2$d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Şifreyi %1$d kez yanlış girdiniz. %2$d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.
+
+ %3$d saniye sonra tekrar deneyin."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecek.</string>
   <string name="lockscreen_none">Yok</string>
   <string name="lockscreen_shortcut_left">Sol kısayol</string>

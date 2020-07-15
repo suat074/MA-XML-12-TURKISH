@@ -48,4 +48,20 @@
         <item quantity="other">%d kayıt arasında ara</item>
         <item quantity="one">%d kayıt arasında ara</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">Bilinmeyen bir hata nedeniyle %d öğe geri yüklenemedi.</item>
+        <item quantity="one">Bilinmeyen bir hata nedeniyle %d öğe geri yüklenemedi.</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d gün kaldı</item>
+        <item quantity="one">%d gün kaldı</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">%d seçili kayıt kalıcı olarak silinsin mi?</item>
+        <item quantity="one">%d seçili kayıt kalıcı olarak silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Silinen öğeler %d güne kadar çöp kutusunda saklanabilir</item>
+        <item quantity="one">Silinen öğeler %d güne kadar çöp kutusunda saklanabilir</item>
+    </plurals>
 </resources>

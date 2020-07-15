@@ -106,6 +106,10 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="accessibility_personal_account_title">Kişisel hesap - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşu ile çağrıyı sonlandır</string>
   <string name="accessibility_preference_magnification_summary">Ekranı yakınlaştırın</string>
+  <string name="accessibility_settings_tabs_general">Genel</string>
+  <string name="accessibility_settings_tabs_hearing">İşitme</string>
+  <string name="accessibility_settings_tabs_physical">Fiziksel</string>
+  <string name="accessibility_settings_tabs_visual">Vizyon</string>
   <string name="accessibility_screen_magnification_enable">Büyütme hareketleri</string>
   <string name="accessibility_screen_magnification_gestures_title">Üç kez dokunarak büyütme</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Erişilebilirlik düğmesi %1$s olarak ayarlandı. Büyütmeyi kullanmak için Erişilebilirlik düğmesine dokunup basılı tutun, ardından büyütmeyi seçin.</string>
@@ -263,6 +267,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="agps_roaming_summary">Dolaşımdayken GPS\'e yardımcı olmak için mobil veri kullanın</string>
   <string name="ai_button_title">Mi AI düğmesi</string>
   <string name="ai_button_title_global">AI düğmesi</string>
+  <string name="ai_call_assistant">AI çağrıları</string>
   <string name="ai_settings_click_title">Basın</string>
   <string name="ai_settings_double_click_category">AI düğmesine iki kez basın</string>
   <string name="ai_settings_double_click_title">İki kez basın</string>
@@ -2523,6 +2528,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="header_category_wireless_networks">Ağ</string>
   <string name="header_data_and_synchronization">Veri &amp; Eşitleme</string>
   <string name="headset_settings_title">Ses efektleri</string>
+  <string name="hearing_aids_category">İşitme yardımcı araçları</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Eğer durdurursanız mevcut bazı işleri kaybedebilirsiniz.</string>
   <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
   <string name="help_label">Yardım ve geri bildirim</string>
@@ -2622,6 +2628,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="infinity_display_title">Tam ekran hareketleri</string>
   <string name="information_dialog_button_text">Anladım</string>
   <string name="input_assistance">Giriş yardımı</string>
+  <string name="input_device_category">Giriş cihazı</string>
   <string name="input_hint_prefix">%1$s girin</string>
   <string name="input_method">Klavye</string>
   <string name="input_method_bottom_close">Kapalı</string>
@@ -3009,7 +3016,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="lockpassword_choose_your_pattern_header">Deseninizi seçin</string>
   <string name="lockpassword_choose_your_pin_header">PIN kodunu ayarlayın</string>
   <string name="lockpassword_choose_your_pin_header_second_space">İkinci Alan için \n PIN kodunu ayarla</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">%d-%d haneli girin</string>
+  <string name="lockpassword_choose_your_pin_title">%1$d-%2$d basamak girin</string>
   <string name="lockpassword_confirm_for_second_user">İkinci Alan şifresini onayla</string>
   <string name="lockpassword_confirm_passwords_dont_match">Şifreler eşleşmiyor</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN kodları eşleşmiyor</string>
@@ -4926,7 +4933,12 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="security_encryption_rejected_via_home_manager">Bu özellik demo sürümünde desteklenmiyor.</string>
   <string name="security_encryption_title">Kilit ekranı şifresi kullanarak cihazı şifrele</string>
   <string name="security_input">Güvenli klavye</string>
+  <string name="security_input_enable">Güvenli klavye</string>
   <string name="security_input_hint">Şifreleri girerken güvenli klavye kullan</string>
+  <string name="security_input_num_order">Sabit</string>
+  <string name="security_input_num_random_order">Rastgele</string>
+  <string name="security_input_num_setting_title">Sayısal tuş takımı</string>
+  <string name="voice_access">Ses kontrolleri</string>
   <string name="security_keyguard_category_name">Kilit ekranı</string>
   <string name="security_password_category_name">Ekran kilidi</string>
   <string name="security_passwords_title">Gizlilik</string>
@@ -5925,7 +5937,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Cihazın kilidini açmak için parmağınızla basit bir desen çizin</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">Cihazın kilidini açmak için %d-%d haneli rakam girin</string>
+  <string name="unlock_set_unlock_pin_summary">Cihazın kilidini açmak için %1$d-%2$d sayı girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Bir ekran kilidi ayarladıktan sonra, parmak izinizi Ayarlar &gt; Güvenlik bölümünden de ayarlayabilirsiniz.</string>

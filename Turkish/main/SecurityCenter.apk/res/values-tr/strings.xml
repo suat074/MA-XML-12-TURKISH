@@ -1140,6 +1140,13 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="first_aid_scanning_item4">Pil sorunları kontrol ediliyor…</string>
   <string name="first_aid_scanning_item5">Diğer sorunlar kontrol ediliyor…</string>
   <string name="first_aid_stop_scan">Taramayı durdur</string>
+  <string name="first_settings_default_camera_title">Varsayılan olarak meta veri olmadan paylaş</string>
+  <string name="first_settings_default_location_subtitle">Paylaşılan fotoğraflardan konum bilgilerini kaldır</string>
+  <string name="first_settings_default_location_title">Varsayılan olarak konum bilgisi olmadan paylaş</string>
+  <string name="first_settings_share_enable">\"Güvenli paylaşım\" rozeti ekle</string>
+  <string name="first_settings_share_enable_subtitle">"WeChat'te paylaştığınız öğeler MIUI rozetiyle görüntülenir"</string>
+  <string name="first_settings_subtitle">Kullanabileceğiniz güvenli paylaşım seçenekleri:</string>
+  <string name="first_settings_title">Gizliliğinizi koruyun</string>
   <string name="five_percent_total_pkg">%s (aylık verinin 5%%\'i)</string>
   <string name="fod_authentication_shift_button">İptal</string>
   <string name="fod_button_finger">Parmakizi kullan</string>
@@ -1522,6 +1529,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
   <string name="loading">Sadece bir saniye…</string>
+  <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgiler kaldırılıyor (%d/%d)…</string>
   <string name="local_ip_exception_summary">Yerel IP adresi alınamadı. Bu sorunu MIUI\'ye bildirmek için Geri Bildirim uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
   <string name="lock_all_title">Tüm uygulamaları kilitle</string>
   <string name="lock_mode_title">Kilit ayarları</string>
@@ -1800,6 +1808,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="notification_channel_battery">Pil</string>
   <string name="notification_exit_power_save_mode">Pil Tasarrrufu kapatıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
+  <string name="notification_garbage_clean_botton_text">Temizle</string>
+  <string name="notification_garbage_clean_hint">Depolama alanını temizle</string>
+  <string name="notification_garbage_clean_size">%s serbest</string>
   <string name="notification_garbage_cleanup_summary">Cihazı hızlandırmak için çöpü (%s) temizle</string>
   <string name="notification_garbage_cleanup_title">Çöp dosyaları temizle</string>
   <string name="notification_low_battery_action_btn">Aç</string>
@@ -1811,6 +1822,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="notification_masked_item">Bildirim içeriği nasıl gizlenir?</string>
   <string name="notification_masked_subtitle">Seçilen uygulamalarda bildirim içeriğini gizlemek için Uygulama kilidini kullanın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
+  <string name="notification_whatsapp_clean_button_text">Temizle</string>
+  <string name="notification_whatsapp_clean_size">WhatsApp önbelleği %s boyutuna ulaştı</string>
   <string name="notify_channel_mipush">Güvenlik push mesajları</string>
   <string name="notify_channel_name_behavior">Davranış geçmişi</string>
   <string name="notify_channel_name_security">Sistem güvenliği</string>
@@ -1863,6 +1876,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="om_shortcut_added_toast_text">Başarıyla eklendi</string>
   <string name="om_shortcut_dialog_summary">RAM Jet, belleği temizlemenize ve cihazınızın hızını tek bir dokunuşla artırmanıza olanak tanır. Ana ekranınıza RAM Jet eklensin mi?</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="once_settings_camera_ttile">Meta veri olmadan paylaş</string>
+  <string name="once_settings_location_title">Konum bilgisi olmadan paylaş</string>
+  <string name="once_settings_subtitle">Seçilen öğeleri nasıl paylaşmak istersiniz?</string>
+  <string name="once_settings_title">Gizlilik koruması</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Uygulama bulunamadı</string>
   <string name="open_app">Aç</string>
@@ -2414,10 +2431,18 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="settings">Veri kullanım ayarları</string>
   <string name="settings_battery_consume_abnormal_summary">Pil hızlı boşaldığında bildirim alın</string>
   <string name="settings_battery_consume_abnormal_title">Pil boşaltma bildirimleri</string>
+  <string name="settings_camera_subtitle_no">Meta veri yok</string>
   <string name="settings_category_other">Diğer ayarlar</string>
   <string name="settings_category_overheat">Isınma</string>
   <string name="settings_choice_no_notification">Kapalı</string>
+  <string name="settings_image_camera_summary">Cihaz modeli, meta veri vb.</string>
+  <string name="settings_location_subtitle_no">Konum bilgisi yok</string>
   <string name="settings_power_save_ontime_title">Zamanlama</string>
+  <string name="settings_share_enable_summary">"WeChat'te paylaştığınız öğeler bir MIUI rozeti ile görünecek"</string>
+  <string name="settings_share_info">Galeri ve Dosya Yöneticisi\'nden paylaşılan öğeler için kullanılabilecek güvenli paylaşım seçenekleri şunlardır:</string>
+  <string name="settings_show_detail">Ayrıntıları görüntüle</string>
+  <string name="settings_tip">Diğer seçenekleri görüntülemek için Galeri > Ayarlar\'a gidin</string>
+  <string name="settings_title">Güvenli paylaşım</string>
   <string name="shield_keyboard_detail">Tekrar açmak için düğmelere iki kez dokunun</string>
   <string name="shield_keyboard_summary">Oyunlar sırasında düğmeleri ve tam ekran hareketlerini kısıtla</string>
   <string name="shield_keyboard_title">Düğmeleri ve hareketleri kısıtla</string>
@@ -2821,7 +2846,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tether_over_limit_warning_notify_message">Taşınabilir paylaşımı kapatın.</string>
   <string name="tether_over_limit_warning_notify_title">İnternet paylaşımı veri sınırına ulaşıldı</string>
   <string name="text_button">Anladım</string>
-  <string name="text_cycle_day">%s</string>
+  <string name="text_security">Gizlilik</string>
   <string name="thermal_tips_message">Performans modunda oyun oynamak aşırı ısınma sorunlarına neden olabilir.</string>
   <string name="thermal_tips_title">Dikkat</string>
   <string name="third_application">Üçüncü taraf uygulamalar</string>
@@ -3031,6 +3056,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="vb_advanced_settings_after_open">Sonra</string>
   <string name="vb_advanced_settings_before_open">Önce</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Animasyonları geliştirerek hareketli nesneleri daha canlı hale getirin. Bu özellik daha yüksek güç tüketimi gerektirir.</string>
+  <string name="vb_quick_func_auto_bgm">Arka plan müziğini tanıma</string>
   <string name="vb_quick_func_hangup_listening">Ekran kapalıyken video sesini çal</string>
   <string name="vb_quick_func_screen_capture">Ekran görüntüsü</string>
   <string name="vb_quick_func_screen_record">Kayıt</string>

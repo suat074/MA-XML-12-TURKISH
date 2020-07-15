@@ -271,6 +271,10 @@
   <string name="recording_quality_low">Düşük kalite</string>
   <string name="recording_quality_standard">Normal kalite</string>
   <string name="recording_stopped">Durduruldu</string>
+  <string name="recovery">Geri yükle</string>
+  <string name="recovery_failed_dialog_button">Anladım</string>
+  <string name="recovery_failed_dialog_title">Dikkat</string>
+  <string name="save_record_dialog_title">Kaydı kaydet</string>
   <string name="reg_error_audio_exist">ses var</string>
   <string name="reg_error_audio_large">ses 500 MB\'den büyük olmamalıdır</string>
   <string name="reg_error_audio_short">ses çok küçük</string>
@@ -335,7 +339,11 @@
   <string name="toast_file_is_downloading">Dosya yükleniyor...</string>
   <string name="toast_max_record_time">%1$s yaklaşık %2$s kayıt yapabilirsin</string>
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
+  <string name="trash_box">Son silinen öğeler</string>
+  <string name="trash_box_close_tip">İstemi kapat</string>
+  <string name="trash_box_delete_all">Çöp kutusundaki tüm öğeler kalıcı olarak silinsin mi?</string>
   <string name="usage_description">Ses aktarma ve öğeleri bulutla eşitleme</string>
+  <string name="user_feedback">Geri bildirim</string>
   <string name="webview_check_network">Ağ ayarları</string>
   <string name="webview_data_error">Bir hata oluştu</string>
   <string name="webview_locating_fail">Konumunuz bulunamadı</string>
