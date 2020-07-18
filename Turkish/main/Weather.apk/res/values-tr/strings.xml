@@ -292,6 +292,13 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="search_weather">Hava durumu</string>
     <string name="search_weather_keywords">Hava sıcaklığı;Hava durumu;Hava;Hava kalitesi;Kirlilik derecesi;Nem</string>
     <string name="settings">Ayarlar</string>
+	<string name="settings_atmospheric_pressure_atm">Standart atmosfer (atm)</string>
+    <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>
+    <string name="settings_atmospheric_pressure_inhg">İnç cıva (inHg)</string>
+    <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+    <string name="settings_atmospheric_pressure_mmhg">Milimetre cıva (mmHg)</string>
+    <string name="settings_atmospheric_pressure_title">Atmosferik basınç birimleri</string>
+    <string name="international_details_humidity_title">NEM</string>
     <string name="share">Paylaş</string>
     <string name="share_button">Paylaş</string>
     <string name="share_menu_title">Paylaş</string>

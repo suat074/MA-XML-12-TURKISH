@@ -321,6 +321,7 @@ uygulamamızı derecelendirin"</string>
   <string name="download_btn_select_none">Vazgeç</string>
   <string name="download_complete">Başarıyla indirildi</string>
   <string name="download_completed">İndirildi</string>
+  <string name="download_confirm_dialog_title">Risk uyarısı</string>
   <string name="download_dialog_default_path_invalid">Seçtiğiniz indirme konumu geçersiz. Varsayılan yere kaydediliyor...</string>
   <string name="download_dialog_file_length_default_txt">Sadece bir saniye…</string>
   <string name="download_dialog_file_length_lessthan1kb">1KB\'dan az</string>
@@ -342,6 +343,9 @@ uygulamamızı derecelendirin"</string>
   <string name="download_no_sdcard_dlg_msg">%s indirmek için bir SD kart gerekiyor.</string>
   <string name="download_no_sdcard_dlg_title">SD kart yok</string>
   <string name="download_pending">İndirme başlıyor…</string>
+  <string name="download_proceed">Normal indirme</string>
+  <string name="download_risk_alert_content">Oyun Xiaomi Market tarafından doğrulanmadı. Normal indirmeyi seçerseniz, risklerin ve sonuçlarının farkında olduğunuzu kabul edersiniz.</string>
+  <string name="download_safe">Güvenli indirme</string>
   <string name="download_sdcard_busy_dlg_msg">SD kart meşgul. İzinli indirmeler USB Depolama bildirimini kapatır</string>
   <string name="download_sdcard_busy_dlg_title">SD kart mevcut değil</string>
   <string name="download_status_failed">İndirilemedi</string>
@@ -943,6 +947,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="save_to_camera">Galeriye kaydet</string>
   <string name="save_to_camera_failed">Resim kaydedilemiyor</string>
   <string name="save_to_camera_success">Galeriye kaydedildi</string>
+  <string name="saved_sucess">Başarıyla kaydedildi</string>
   <string name="scanner_uninstalled_text">Devam etmek için Tarayıcıyı yükleyin</string>
   <string name="scanner_uninstalled_title">Tarayıcı kaldırıldı</string>
   <string name="screenshot_loading_dialog_title">Yakalanıyor</string>

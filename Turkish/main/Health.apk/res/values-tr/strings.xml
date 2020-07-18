@@ -48,6 +48,7 @@
   <string name="allow_notice_periods">Aktif zaman aralığı</string>
   <string name="altitude">Rakım</string>
   <string name="altitude_range">Rakım</string>
+  <string name="app_setting">Uygulamalar</string>
   <string name="audio_permission_dialog_desc">Uyku döngünüzü analiz etmek, konuşma ve horlamayı kaydetmek için Xiaomi Sağlık\'ın ses kaydı iznine ihtiyacı var.</string>
   <string name="audio_permission_dialog_title">Ses kaydetmeye izin ver</string>
   <string name="audio_record_perm_description">Uyku döngüsünü analiz ederken horlamayı ve konuşmayı kaydetmek için</string>
@@ -430,6 +431,7 @@
   <string name="health_cloud_service">Bulut hizmetleri</string>
   <string name="health_data_cloud_sync_subtitle">Sağlık verilerinizi bulutla eşitleyin ve tüm cihazlardan erişin</string>
   <string name="health_data_cloud_sync_title">Bulut ile eşitle</string>
+  <string name="health_data_sync">Sağlık verilerini eşitle</string>
   <string name="health_score">Sağlık puanı</string>
   <string name="health_score_tips">Sağlık puanınız, VKİ\'niz (vücut kitle indeksi) ile uyku ve etkinlik adımlarınıza dayanarak hesaplanır. Hedefinize ne kadar yakınlaşırsanız, sağlık puanınız o kadar artar.</string>
   <string name="health_setting">Sağlık ayarları</string>
@@ -569,6 +571,7 @@
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor…</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -1016,6 +1019,7 @@
   <string name="sustain_title">"Şu kadar süredir hareket etmediniz "</string>
   <string name="swim">Yüzme</string>
   <string name="swim_type">Stil</string>
+  <string name="sync_health_data">Sağlık verilerini eşitle</string>
   <string name="sync_immediately">Eşitle</string>
   <string name="sync_is_not_closed">Eşitleme şimdi açık</string>
   <string name="sync_is_off">Eşitleme kapalı</string>
@@ -1026,8 +1030,12 @@
   <string name="sync_status_network_failure">Eşitlenemedi. Ağa bağlanın ve yeniden deneyin.</string>
   <string name="sync_status_never_done">Eşitlenmedi</string>
   <string name="sync_status_oauth_error">Veriler eşitlenemedi. Önce gerekli izinleri verin.</string>
+  <string name="system_app_setting">Sistem uygulaması ayarları</string>
   <string name="systolic_pressure">Sistolik</string>
   <string name="tb_audio_progress_bar">Ses çalma çubuğu</string>
+  <string name="tb_blood_pressure_day_chart">%1$s. En yüksek sistolik basınç: %2$d milimetre cıva. En düşük diyastolik basınç: %3$d milimetre cıva.</string>
+  <string name="tb_blood_pressure_item">%1$s. Sistolik basınç: %2$d milimetre cıva. Diyastolik basınç: %3$d milimetre cıva.</string>
+  <string name="tb_blood_pressure_wm_card">Ortalama sistolik basınç: %1$d milimetre cıva. Ortalama diyastolik basınç: %2$d milimetre cıva. En yüksek sistolik basınç: %3$d milimetre cıva. En yüksek diyastolik basınç: %4$d milimetre cıva. En düşük sistolik basınç: %5$d milimetre cıva. En düşük diyastolik basınç: %6$d milimetre cıva.</string>
   <string name="tb_card_on_using_list">Eklendi</string>
   <string name="tb_click_finish_stand">Görünüşe göre son bir saat içinde ayağa kalkmadınız. Varsa, el ile bir kayıt ekleyin.</string>
   <string name="tb_current_select">%1$s şuan seçili</string>

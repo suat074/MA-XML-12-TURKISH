@@ -172,6 +172,10 @@
   <string name="install">Yükle</string>
   <string name="install_scanner_to_continued_use">Tarayıcı kaldırıldı. Tekrar yükle?</string>
   <string name="interest_rate_hint">Faiz oranını girin</string>
+  <string name="investment_invalid_duration">Yatırım süresi sıfırdan büyük olmalıdır</string>
+  <string name="investment_type_once">Bir kere</string>
+  <string name="investment_type_recurring">Tekrarlanan</string>
+  <string name="item_page_title_investment">Yatırım hesaplayıcısı</string>
   <string name="item_title_aa_payment">Faturayı böl</string>
   <string name="item_title_age">Yaş</string>
   <string name="item_title_area_conversion">Alan</string>
@@ -182,6 +186,7 @@
   <string name="item_title_discount">İndirim</string>
   <string name="item_title_dress_size">Giysi boyu</string>
   <string name="item_title_emi">Kredi hesaplayıcı</string>
+  <string name="item_title_investment">Yatırım</string>
   <string name="item_title_length_conversion">Uzunluk</string>
   <string name="item_title_loan">Kredi</string>
   <string name="item_title_mortgage">Ev borcu</string>
@@ -207,6 +212,7 @@
   <string name="label_from_date">Başlangıç</string>
   <string name="label_history">Geçmiş</string>
   <string name="label_interest">Faiz (yüzde)</string>
+  <string name="label_investment_duration">Süre</string>
   <string name="label_loan_tenure">Kredi süresi</string>
   <string name="label_months">Ay</string>
   <string name="label_no_history">Henüz burada öğe yok</string>
@@ -216,8 +222,10 @@
   <string name="label_statistics">İstatistikler</string>
   <string name="label_to_date">Bitiş</string>
   <string name="label_total_interest">Toplam faiz</string>
+  <string name="label_total_investment">Toplam yatırım</string>
   <string name="label_total_payment">Toplam ödeme</string>
   <string name="label_total_principal">Toplam ana para</string>
+  <string name="label_total_value">Toplam değer</string>
   <string name="label_years">Yıl</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">Sol parantez</string>
@@ -557,6 +565,9 @@
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">S</string>
+  <string name="tv_recurrence_monthly">Aylık</string>
+  <string name="tv_recurrence_quaterly">Üç aylık</string>
+  <string name="tv_recurrence_yearly">Yıllık</string>
   <string name="unit_cm">Santimetre</string>
   <string name="unit_data_default_area_0">sq.m</string>
   <string name="unit_data_default_area_1">sq.cm</string>
