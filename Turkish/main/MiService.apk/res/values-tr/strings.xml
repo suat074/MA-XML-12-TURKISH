@@ -114,6 +114,7 @@
   <string name="miui_guide_item_complete">Tamamlandı</string>
   <string name="miui_guide_item_new">Yeni</string>
   <string name="miui_guide_item_progress">Tamamlanan %1$d/%2$d</string>
+  <string name="miui_guide_menu_privacy">Gizlilik Politikası</string>
   <string name="miui_guide_top_bar_sub_title">MIUI neler yapabileceğini öğrenin</string>
   <string name="miui_guide_top_bar_title">Başlangıç kılavuzu</string>
   <string name="miui_main_bottom_bar_feedback">Geri bildirim</string>
@@ -128,6 +129,8 @@
   <string name="miui_main_update_success_sub_title">Yeni MIUI ile tanışın</string>
   <string name="miui_main_update_success_title">Hayat daha kolaylaşıyor</string>
   <string name="miui_main_update_success_title_12">Yalnız senin</string>
+  <string name="miui_mine_repair_mode_sub_title">Satış sonrası bakım sırasında verilerinizi güvende tutun</string>
+  <string name="miui_mine_repair_mode_title">Bakım modu</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize eşitleniyor…</string>

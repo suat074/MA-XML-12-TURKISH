@@ -1263,6 +1263,9 @@ Favori listenize kişi eklemek için:
   <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">J</font>ale <font fgcolor="">M</font>erve kişisini aramak için %d ve %d girin</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
+  <string name="theme_dialog_confirm_button">Anladım</string>
+  <string name="theme_dialog_confirm_content">"Kişiler'in bu sürümü şu anda uygulanmış temayı desteklemiyor."</string>
+  <string name="theme_dialog_confirm_title">Tema uygulanamıyor</string>
   <string name="title_other_devices">Diğer mevcut cihazlar</string>
   <string name="title_paired_devices">Eşleşmiş cihazlar</string>
   <string name="titleJoinContactDataWith">Kişileri birleştir</string>

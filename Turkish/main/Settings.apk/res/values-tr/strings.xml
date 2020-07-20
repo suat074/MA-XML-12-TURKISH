@@ -396,6 +396,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="app_floating_window_dlg_disable">%1$s için kayan pencere ayarlarını kapatmak, uygulamanın yeniden başlatılmasını gerektirir.</string>
   <string name="app_floating_window_dlg_enable">%1$s için kayan pencere ayarlarını açmak, uygulamanın yeniden başlatılmasını gerektirir.</string>
   <string name="app_forward_locked">Uygulama, kopyalamaya karşı korumalı.</string>
+  <string name="app_function">Uygulama özelliği</string>
   <string name="app_info_storage_title">Kullanılan alan</string>
   <string name="app_install_details_group_title">Mağaza</string>
   <string name="app_install_details_summary">Uygulama %1$s üzerinden yüklendi</string>
@@ -1677,7 +1678,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="day_of_week">Haftanın günü</string>
   <string name="dc_light_dialog_summary">Titreşim önleme modu açık olduğunda görüntü kalitesi etkilenebilir. Yine de açılsın mı?</string>
   <string name="dc_light_summary">Göz yorgunluğunu azaltmak için DC karartma uygulayın</string>
-  <string name="dc_light_summary_new">DC kısma, düşük ışık koşullarında yoğun titremeyi önler ve göz yorgunluğunu azaltır. Ancak, bu özellik açıkken görüntü kalitesi etkilenebilir.</string>
+  <string name="dc_light_summary_new">Düşük ışık koşullarında yoğun titremeyi önleyin ve göz yorgunluğunu azaltın</string>
   <string name="dc_light_title">Titreşim önleme modu</string>
   <string name="debug_app">Hata ayıklama uygulamasını seçin</string>
   <string name="debug_app_not_set">Hata ayıklama uygulaması ayarlanmadı</string>
@@ -2350,6 +2351,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="force_touch_enable_tips">3D Dokunma etkin olduğunda uygulama simgesine açmak için uzunca süre basın.</string>
   <string name="foreground_traffic">Ön planda %s</string>
   <string name="forget">UNUT</string>
+  <string name="forget_passpoint_wifi_message">Telefonunuz bu ağa otomatik olarak bağlanmayı durduracak.</string>
   <string name="forget_password_button_text"><u>Şifreyi unuttum</u></string>
   <string name="forget_password_dialog_button_text">Geri</string>
   <string name="forget_password_dialog_content_four">2. [Verileri sil] öğesini seçin ve cihazınız yeniden başlatana kadar bekleyin.</string>
@@ -3945,6 +3947,13 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="passpoint_content">%1$s kimlik bilgileri</string>
   <string name="passpoint_label">Üzerinden kaydedildi</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint, WLAN Alliance tarafından başlatılan güvenilir, güvenli ve otomatik bir wlan bağlantı teknolojisidir. WLAN yapılandırılmış ağ ile mobil aygıtlar arasında sorunsuz bağlantı kurmak için hesapları otomatik olarak yapılandırın.
+
+Bu işlev yalnızca ilk defa hesap kaydı için WLAN MAC adresinizi alır. Verilerinizi %s ile uygun olarak işleyeceğiz. Lütfen bu politikayı dikkatle okuyun ve devam etmeyi kabul edin."</string>
+  <string name="passpoint_r1_privacy_dialog_no">İptal</string>
+  <string name="passpoint_r1_privacy_dialog_title">Dikkat</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Gizlilik Politikası</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Katıl ve devam et</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran kilidini ayarla</string>
   <string name="password_guard">Şifre</string>

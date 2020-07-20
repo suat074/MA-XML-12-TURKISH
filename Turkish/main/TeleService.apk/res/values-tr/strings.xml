@@ -1618,7 +1618,9 @@
   <string name="sip_system_decide">Otomatik</string>
   <string name="smart_divert_summary">CFNRc ayarları</string>
   <string name="smart_divert_title">Akıllı-Yönlendirme</string>
-  <string name="smart_dual_sim_prompt">Mevcut bağlantınız zayıf olduğunda cihazınız ikincil SIM kullanarak mobil veri ağına bağlanır. Bu, ek veri ücretleri oluşturabilir. Veri planınızla ilgili ayrıntılar için yerel operatörünüze başvurun.</string>
+  <string name="smart_dual_sim_prompt">Geçerli bağlantı zayıfsa, cihazınız ikinci bir SIM kullanarak bir mobil veri ağına bağlanır. Bu, ek veri ücretleri oluşturabilir. Ek ücretlerden kaçınmak için bir veri kullanım limiti belirleyin.</string>
+  <string name="smart_dual_sim_prompt_ok">Ayarlar</string>
+  <string name="smart_dual_sim_prompt_title">Veri kullanım uyarısı (SIM %s)</string>
   <string name="smart_dual_sim_summary">Mevcut bağlantı zayıf olduğunda otomatik olarak ikincil SIM karta geçin ve mobil veriyi kullanın. Bağlantı düzeldiğinde, orijinal SIM karta geri dönün.</string>
   <string name="smart_dual_sim_title">Akıllı çift SIM</string>
   <string name="smsc_dialog_message">Girdiğiniz numaranın doğru olduğundan emin olun. Aksi takdirde, SMS gönderemez veya alamazsınız. SMSC numaranızı onaylamak için operatörünüze başvurun.</string>
