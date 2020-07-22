@@ -100,7 +100,7 @@
   <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız, diğer kişiden Mi Paylaşım\'ı açmasını isteyin.</string>
   <string name="hide">Gizle</string>
   <string name="i_know">Anladım</string>
-  <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
+  <string name="location_enabled">Mi Paylaşım, yakındaki cihazları bulmak için konum hizmetlerini açtı</string>
   <string name="mi_drop">Mi Paylaşım</string>
   <string name="mishare_folder_in_file_explorer">Dosya Yöneticisi &amp; Paylaşım</string>
   <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Mi Paylaşım\'ı kullanabilirsiniz.

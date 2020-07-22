@@ -2649,6 +2649,10 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="input_method_function_no_function_des">Herhangi bir kısayol gösterme</string>
   <string name="input_method_function_switch">Klavyeler arasında geçiş yap</string>
   <string name="input_method_function_switch_des">Farklı bir klavyeye geçmek için dokunun</string>
+  <string name="input_method_function_switch_keyboard_language">Dil değiştir</string>
+  <string name="input_method_function_switch_keyboard_language_des">Giriş dilleri arasında geçiş yapmak için dokunun</string>
+  <string name="input_method_function_switch_keyboard_type">Klavye değiştir</string>
+  <string name="input_method_function_switch_keyboard_type_des">Farklı klavyeler arasında geçiş yapmak için dokunun</string>
   <string name="input_method_function_voice">Sesli giriş</string>
   <string name="input_method_function_voice_des">Sesli girişi kullanmak için dokunun</string>
   <string name="input_method_function_xiaoai">Mi AI sesli giriş</string>
