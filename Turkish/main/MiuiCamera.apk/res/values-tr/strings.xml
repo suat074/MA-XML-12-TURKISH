@@ -442,17 +442,18 @@ Kopyayı kablosuz olarak A4 kağıdına yazdırın."</string>
 Daha iyi efekt için lensi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
   <string name="lens_dirty_detected_title_front">Ön kamera merceği kirli</string>
-  <string name="lighting_bright_red">Parlak kırmızı</string>
-  <string name="lighting_dazzling">Göz kamaştırıcı</string>
+  <string name="lighting_bright_red">Kızıl</string>
+  <string name="lighting_dazzling">Kirişler</string>
   <string name="lighting_dreamland">Hayaller ülkesi</string>
-  <string name="lighting_gorgeous">Muhteşem</string>
+  <string name="lighting_gorgeous">Rengarenk</string>
   <string name="lighting_hint_needed">Konuyu çerçeveye yerleştirin</string>
   <string name="lighting_hint_title">Stüdyo aydınlatma</string>
   <string name="lighting_hint_too_close">Kamerayı daha uzaklaştırın</string>
   <string name="lighting_hint_too_far">Kamerayı daha yakına getir</string>
   <string name="lighting_hint_usage">"Portre modunda stüdyo ışık efektlerini  
 kullanabilirsiniz"</string>
-  <string name="lighting_lanshan">Mavi Dağ</string>
+  <string name="lighting_lanshan">Çöküş</string>
+  <string name="lighting_movie_light_effect_title">Sinematik efektler</string>
   <string name="lighting_neon">Neon</string>
   <string name="lighting_nostalgia">Nostalji</string>
   <string name="lighting_pattern_dot">Nokta</string>
@@ -464,7 +465,7 @@ kullanabilirsiniz"</string>
   <string name="lighting_pattern_rainbow">Gökkuşağı</string>
   <string name="lighting_pattern_shutter">Panjur</string>
   <string name="lighting_pattern_stage">Aşama</string>
-  <string name="lighting_phantom">Fantom</string>
+  <string name="lighting_phantom">Hayalet</string>
   <string name="lighting_rainbow">Gökkuşağı</string>
   <string name="live_edit_exit_confirm">Durdur</string>
   <string name="live_edit_exit_message">Çekimi şimdi durdur?</string>
@@ -735,6 +736,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_960_watermark_title">960FPS filigranı</string>
   <string name="pref_advance_settings">Ek ayarlar</string>
   <string name="pref_ai_detect">AI algılama</string>
+  <string name="pref_audio_denoise_title">Ses gürültü azaltma</string>
   <string name="pref_audio_focus_entry_front">Ön</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arka</string>
@@ -1032,6 +1034,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_lens_dirty_detect_title">Kirli lens hakkında bilgi edinin</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_manual_exposure_title_abbr">S</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_module_settings">Modlar</string>
   <string name="pref_more_mode_style_title">Kamera modları</string>
@@ -1183,8 +1186,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="toast_start_audio_capture">Bir fotoğraf çekince sesinide kaydet</string>
   <string name="ubi_focus_capture_fail">Fotoğraf çekilemiyor</string>
   <string name="ubifocus_capture_warning_message">En iyi sonuç için, resim hem yakın hem de uzak nesneler içermelidir (merceğe 1 metre az)</string>
-  <string name="ultra_ai_pixel_photography_close_tip">AI %s ultra net kapalı</string>
-  <string name="ultra_ai_pixel_photography_open_tip">AI %s ultra net</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD kapalı</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
   <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>
