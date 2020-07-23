@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Renk düzeltme, renklerin cihazınızda nasıl görüntüleneceğini düzenlemenize olanak sağlar.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
     <string name="accessibility_work_profile_app_description">İş %s</string>
     <string name="accessor_expires_text">Kiralama süresinin bitiş zamanı: %s</string>
     <string name="accessor_info_title">Veri paylaşan uygulamalar</string>
@@ -38,10 +38,13 @@
     <string name="battery_info_status_charging_slow">Yavaş şarj oluyor</string>
     <string name="blob_expires_text">Son kullanım tarihi: %s</string>
     <string name="blob_id_text">Paylaşılan veri kimliği: %d</string>
-    <string name="bluetooth_connected_battery_level">Bağlı, pil %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Bağlı (medya yok), pil %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Bağlı (telefon yok), pil %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlı (telefon veya medya yok), pil %1$s%2$s</string>
+    <string name="bluetooth_connected_battery_level">Bağlı | Pil %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Bağlı (medya yok) | Pil %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Bağlı (telefon yok) | Pil %1$s %2$s</string>
+	<string name="bluetooth_connected_no_a2dp">Bağlı (medya yok) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Bağlı (telefon veya medya yok) %1$s</string>
+    <string name="bluetooth_connected_no_map">Bağlı (mesaj erişimi yok) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlı (telefon veya medya yok) | Pil %1$s %2$s</string>
     <string name="bluetooth_enable_gabeldorsche">"Gabeldorsche'yi etkileştir"</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Bluetooth Gabeldorsche özellik yığınını etkinleştirir.</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Devre dışı bırakılmış olması telefon veya mikrofonlu kulaklık tarafından desteklenmediği anlamına gelir.</string>
@@ -67,10 +70,11 @@
     <string name="keywords_adb_wireless">adb, hata ayıklama, dev</string>
     <string name="media_transfer_this_device_name">Telefon hoparlörü</string>
     <string name="media_transfer_wired_device_name">Kablolu ses cihazı</string>
+	<string name="media_transfer_wired_usb_device_name">Kablolu kulaklık</string>
     <string name="power_charging_duration">%1$s - şarj olmaya %2$s kaldı</string>
     <string name="power_remaining_charging_duration_only">Şarj olmaya %1$s kaldı</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">Telefon kısa süre içinde kapanabilir</string>
-    <string name="power_remaining_duration_shutdown_imminent">Telefon kısa süre içinde kapanabilir(%1$s</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Cihazınız yakında kapanabilir</string>
+    <string name="power_remaining_duration_shutdown_imminent">Cihaz yakında kapanabilir (%1$s)</string>
     <string name="power_remaining_less_than_duration">En çok %1$s kaldı (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">En çok %1$s kaldı</string>
     <string name="power_remaining_more_than_subtext">En az %1$s kaldı (%2$s)</string>

@@ -118,7 +118,8 @@
   <string name="permlab_exemptFromAudioRecordRestrictions">ses kaydı kısıtlamalarından muafiyet</string>
   <string name="permlab_preferredPaymentInfo">Tercih Edilen NFC Ödeme Hizmeti Bilgileri</string>
   <string name="permlab_systemCamera">Bir uygulama veya hizmetin fotoğraf ve video çekmek için sistem kameralarına erişmesine izin verin</string>
-  <string name="personal_apps_suspended_turn_profile_on">İş profilini aç</string>
+  <string name="personal_apps_suspended_turn_profile_on">Aç</string>
+  <string name="personal_apps_suspension_soon_text">Kişisel uygulamalar %1$s\'de %2$s\'de engellenecek. BT yöneticiniz iş profilinizin %3$d günden fazla kapalı kalmasına izin vermiyor.</string>
   <string name="personal_apps_suspension_text">İş profilinizi açana kadar kişisel uygulamalarınız engellendi</string>
   <string name="personal_apps_suspension_title">İş profilinizi açın</string>
   <string name="personal_apps_suspension_tomorrow_text">Kişisel uygulamalarınız yarın engellenecek</string>
@@ -250,6 +251,7 @@
   <string name="resolver_work_tab">İş</string>
   <string name="resolver_work_tab_accessibility">İş görünümü</string>
   <string name="sensor_notification_service">Sensör Bildirim Hizmeti</string>
+  <string name="tethered_notification_title">İnternet paylaşımı veya paylaşım noktası etkin</string>
   <string name="twilight_service">Alacakaranlık Hizmeti</string>
   <string name="unpin_specific_target">%1$s uygulamasının sabitlemesini kaldır</string>
   <string name="usb_device_resolve_prompt_warn">Bu uygulamaya ses kaydetme izni verilmedi ancak bu USB cihazı üzerinden sesleri yakalayabilir.</string>

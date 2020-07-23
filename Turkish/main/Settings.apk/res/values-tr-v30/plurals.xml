@@ -52,4 +52,12 @@
         <item quantity="other">%d program ayarlandı</item>
         <item quantity="one">1 program ayarlandı</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d öncelikli konuşma</item>
+        <item quantity="one">%d öncelikli konuşma</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">%1$d uygulamanın tümünü göster</item>
+        <item quantity="one">%1$d uygulamanın tümünü göster</item>
+    </plurals>
 </resources>

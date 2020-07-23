@@ -63,6 +63,7 @@
     <string name="keywords_adb_wireless">adb, hata ayıklama, dev</string>
     <string name="media_transfer_this_device_name">Telefon hoparlörü</string>
     <string name="media_transfer_wired_device_name">Kablolu ses cihazı</string>
+	<string name="media_transfer_wired_usb_device_name">Kablolu kulaklık</string>
     <string name="power_charging_duration">%1$s - şarj olmaya %2$s kaldı</string>
     <string name="power_remaining_charging_duration_only">Şarj olmaya %1$s kaldı</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Telefon kısa süre içinde kapanabilir</string>
