@@ -455,7 +455,7 @@
   <string name="indoor_running">Koşu bandı</string>
   <string name="input_body_weight">Sağlık tavsiyeleri almak için ağırlık verisi girin</string>
   <string name="instructions_provider">Miao Sağlık tarafından sağlanan talimatlar</string>
-  <string name="insufficient">Yeterli değil</string>
+  <string name="insufficient">Yetersiz</string>
   <string name="jump_over">Atla</string>
   <string name="just_recently">Şu anda</string>
   <string name="keep_edit">İptal</string>
@@ -753,6 +753,7 @@
   <string name="remind_query_menstruation_start">Adet döneminiz başladı mı? Kaydetmeyi unutmayın.</string>
   <string name="remind_sleep_report_complete">Uyku istatistikleri hazır</string>
   <string name="remind_sleep_report_content">Dün gece %1$d sa %2$d dak. uyudunuz. Ayrıntıları görüntülemek için dokunun.</string>
+  <string name="remind_sleep_report_content_1">Dün gece %1$d saat uyudunuz. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="remind_sleep_report_title">Uyku istatistikleri hazır</string>
   <string name="remind_subtitle_menstruation_start">Bir sonraki adet döneminin tahmini başlangıcından 2 gün önce bir hatırlatıcı alın</string>
   <string name="remind_subtitle_record">Adet dönemlerinizin başlangıç ve bitiş tarihlerini kaydetmeniz gerektiğinde hatırlatıcı alın</string>
@@ -988,7 +989,9 @@
   <string name="stand_notice_title4">Ayağa kalk ve biraz gerin</string>
   <string name="stand_notice_title5">Görünüşe göre son bir saat içinde ayağa kalkmadın</string>
   <string name="stand_notice_title6">Son bir saat içinde ayağa kalktın mı?</string>
+  <string name="stand_remind_setting_desc">1 saat içinde hiçbir ayakta durma faaliyeti tespit edilmezse, ayakta durmanızı hatırlatan bir bildirim gönderin</string>
   <string name="stand_setting">Ayarlar</string>
+  <string name="stand_stop_reminding">Ayakta durma hatırlatıcıları almayı durdur</string>
   <string name="standard_format">(standart: %1s)</string>
   <string name="standing_already">" Ayağa kalktın"</string>
   <string name="state_agree">Kabul et</string>

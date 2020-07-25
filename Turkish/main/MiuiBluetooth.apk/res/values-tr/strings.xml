@@ -18,7 +18,7 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="app_name">MIUI Bluetooth</string>
-  <string name="audio_relay_default_device_name">XiaoAi Hoparlörler</string>
+  <string name="audio_relay_default_device_name">Mi AI Hoparlör</string>
   <string name="ble_device_address">Bluetooth Akıllı cihaz MAC</string>
   <string name="ble_device_profile">Bluetooth cihaz profili</string>
   <string name="ble_device_profile_header_title">Ayarlar</string>
@@ -60,11 +60,11 @@
   <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
   <string name="goto_package">%1$s aç</string>
   <string name="install_package">Daha fazla fonksiyon için %1$s yükleyin</string>
-  <string name="mi_audio_relay_cancel">tamam</string>
-  <string name="mi_audio_relay_connect_failed">başarısız</string>
-  <string name="mi_audio_relay_localphone">telefon</string>
-  <string name="mi_audio_relay_phone_name">xiaomi telefon</string>
-  <string name="mi_audio_relay_title">oynatma cihazlarını seç</string>
+  <string name="mi_audio_relay_cancel">Tamam</string>
+  <string name="mi_audio_relay_connect_failed">Tekrar dene</string>
+  <string name="mi_audio_relay_localphone">Bu cihaz</string>
+  <string name="mi_audio_relay_phone_name">Telefonum</string>
+  <string name="mi_audio_relay_title">Cihaz seç</string>
   <string name="mi_band_vibrate_alarm">Alarm sesi çaldığında titret</string>
   <string name="mi_band_vibrate_incall">Çaldığında titret</string>
   <string name="mi_band_vibrate_incall_in_contacts">Kişilerden çağrılar</string>

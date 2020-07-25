@@ -112,7 +112,7 @@
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</string>
     <string name="china_version_first_start_network_msg">"Hava durumu uygulamasını kullanabilmek için Xiaomi'nin %1$s ve %2$s sözleşmelerini kabul etmeniz gerekmektedir. Hava durumu uygulamasının normal olarak çalışabilmesi için konumunuza erişmesi ve internete bağlanması gerekmektedir. Kabul edilsin mi?"</string>
-    <string name="city_exceeded_warning">10 şehre kadar ekleyebilirsiniz</string>
+    <string name="city_exceeded_warning">Daha fazla şehir eklenemiyor. Yeni bir şehir eklemek için önce listede varolan bir şehri silin.</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
     <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
@@ -150,6 +150,10 @@
     <string name="daily_forecast_no_data">"Hava durumu bilgileri alınamadı
 Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</string>
     <string name="data_provided_by">Verileri sağlayan</string>
+	<string name="dialog_msg_score_midrop">Hava Durumu hakkında ne düşünüyorsunuz?</string>
+    <string name="dialog_msg_score_not_good">Bize de görüşlerinizi bildirir misiniz?</string>
+    <string name="dialog_msg_score_perfect">Güzel! Play Store\'da da hava durumu değerlendirilsin mi?</string>
+    <string name="dialog_title_score">Hava Durumu\'nu değerlendirin</string>
 	<string name="dislike_alert_dialog_title">Neden bu içeriği görmek istemiyorsun?</string>
     <string name="edit_city">Şehirleri yönet</string>
     <string name="empty_view_net_loading">Güncelleniyor…</string>
@@ -273,6 +277,8 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="rainfall_settings_title">Yağış</string>
 	<string name="rain_sound_setting_summary_text">Ses efektleriyle hava değişikliklerine eşlik edin</string>
     <string name="rain_sound_setting_title_text">Ses efektleri</string>
+	<string name="rating_dialog_later">Sonra</string>
+    <string name="rating_dialog_rate_now">Şimdi değerlendir</string>
     <string name="real_time_sunrise">Gündoğumu %1$s</string>
     <string name="real_time_sunset">Günbatımı %1$s</string>
     <string name="realtime_aqi_title">Hava Kalite İndeksi</string>

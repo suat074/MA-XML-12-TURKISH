@@ -69,7 +69,7 @@
     <item>Daha fazla bilgi edinmek ve bu özelliği açmak için \"Devam\" düğmesine dokunun.</item>
   </string-array>
   <string-array name="stand_guide_page_content2">
-    <item>Xiaomi Sağlık, cihazınızı nasıl kullandığınıza bağlı olarak ayağa kalkıp kalkmadığınızı öğrenir. Bir saat içinde hareket algılanmazsa, ayağa kalkmanız veya elle kayıt eklemeniz hatırlatılır.</item>
+    <item>Daimi asistan, cep telefonunun yanınızda durduğunu algılar ve otomatik olarak kaydeder. 1 saat içinde herhangi bir ayakta durma hareketi algılanmadığında size hatırlatması için hatırlatıcıyı açın:</item>
     <item>Bu özellik hareketinizi izler ve hatırlatıcılar gönderir.</item>
   </string-array>
   <string-array name="week">

@@ -447,6 +447,8 @@
   <string name="individuation_cart_login_title">Daha fazla öneri görmek ister misiniz?</string>
   <string name="individuation_recommend_switch_message">Bu özelliği kapatmak, kişiselleştirilmiş Mi Müzik hizmetlerini etkileyecektir. Yine de kapatılsın mı?</string>
   <string name="individuation_recommend_title">Öneriler</string>
+  <string name="individuation_setting_summary">İlgi alanlarınıza göre içerik önerileri alın</string>
+  <string name="individuation_setting_title">Kişiselleştirilmiş öneriler</string>
   <string name="input_hint_prefix">Lütfen %1$s girin</string>
   <string name="installing_apk">Yükleniyor…</string>
   <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli alan yok</string>
@@ -920,6 +922,9 @@
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unlimited_downloads">Sınırsız indirme</string>
   <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
+  <string name="upload_favorite_dialog_title">Diğer eşitlenmiş cihazlardan erişebilmek için şarkılarınızı buluta yükleyin. Bu özelliği Ayarlar\'dan kapatabilirsiniz.</string>
+  <string name="upload_favorite_setting_summary">Diğer cihazlardan erişmek için şarkıları buluta yükleyin</string>
+  <string name="upload_favorite_setting_title">Şarkıları eşitle</string>
   <string name="update_now">ŞİMDİ GÜNCELLE</string>
   <string name="upgrade_music">Müzik Güncelle</string>
   <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın.</string>

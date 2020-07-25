@@ -2351,7 +2351,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="force_touch_enable_tips">3D Dokunma etkin olduğunda uygulama simgesine açmak için uzunca süre basın.</string>
   <string name="foreground_traffic">Ön planda %s</string>
   <string name="forget">UNUT</string>
-  <string name="forget_passpoint_wifi_message">Telefonunuz bu ağa otomatik olarak bağlanmayı durduracak.</string>
+  <string name="forget_passpoint_wifi_message">Cihazınız bu ağa otomatik olarak bağlanmayı durduracak.</string>
   <string name="forget_password_button_text"><u>Şifreyi unuttum</u></string>
   <string name="forget_password_dialog_button_text">Geri</string>
   <string name="forget_password_dialog_content_four">2. [Verileri sil] öğesini seçin ve cihazınız yeniden başlatana kadar bekleyin.</string>
@@ -3953,11 +3953,11 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="passpoint_label">Üzerinden kaydedildi</string>
   <string name="passpoint_r1_privacy_dialog_message">"Passpoint, WLAN Alliance tarafından başlatılan güvenilir, güvenli ve otomatik bir wlan bağlantı teknolojisidir. WLAN yapılandırılmış ağ ile mobil aygıtlar arasında sorunsuz bağlantı kurmak için hesapları otomatik olarak yapılandırın.
 
-Bu işlev yalnızca ilk defa hesap kaydı için WLAN MAC adresinizi alır. Verilerinizi %s ile uygun olarak işleyeceğiz. Lütfen bu politikayı dikkatle okuyun ve devam etmeyi kabul edin."</string>
+Bu özellik yalnızca ilk hesap kaydı için WLAN MAC adresinizi alır. Verilerinizi %s ilkelerine uygun olarak işleyeceğiz. Bu özelliği kullanmadan önce Gizlilik Politikamızı okuyun ve kabul edin."</string>
   <string name="passpoint_r1_privacy_dialog_no">İptal</string>
   <string name="passpoint_r1_privacy_dialog_title">Dikkat</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Gizlilik Politikası</string>
-  <string name="passpoint_r1_privacy_dialog_yes">Katıl ve devam et</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Kabul</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran kilidini ayarla</string>
   <string name="password_guard">Şifre</string>
