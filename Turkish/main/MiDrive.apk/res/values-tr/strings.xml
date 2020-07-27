@@ -482,7 +482,6 @@
   <string name="delete_folders">%1$d dizin silinsin mi?</string>
   <string name="delete_success">Dosya silindi</string>
   <string name="download_failed">"Silinemedi"</string>
-  <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G üzerinden indiriliyor…</string>
   <string name="downloading_in_wifi">İndiriliyor…</string>
   <string name="drive_low_memory_description_content">Cep telefonu depolama alanı yetersiz, daha fazla depolama alanı serbest bırakmak için çöp dosyaları temizlemek için gidin?</string>
@@ -508,13 +507,10 @@
   <string name="folder_name_invalid">"Klasör adları şu karakterleri içeremez: /\\:*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">"Resim yüklenemedi"</string>
-  <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
   <string name="load_err">"Yüklenemedi"</string>
   <string name="login_reg_content">Dosyaları saklayın ve birden çok cihaz arasında eşitleyin.</string>
   <string name="login_reg_title">Mi Drive uygulamasını heryerde kullanın.</string>
-  <string name="megabyteShort">MB</string>
-  <string name="month_day_format">dd MMM </string>
   <string name="move_failed">"Kesilemedi"</string>
   <string name="move_failed_retry">"Kesilemedi, %1$s bekleyin ve yeniden deneyin"</string>
   <string name="need_get_accounts_and_storage_permission">Mi Drive\'ın hesabınıza ve harici depolama biriminize normal şekilde erişmesi gerekiyor.</string>
@@ -529,20 +525,16 @@
   <string name="open_changed_file_title">Değişiklik uygulandı.</string>
   <string name="operating">İşleniyor…</string>
   <string name="operation_cancel">İptal</string>
-  <string name="operation_copy">Kopyala</string>
   <string name="operation_copying">Kopyalanıyor…</string>
   <string name="operation_copying_detail">Kopyalanıyor (%1$d/%2$d)</string>
   <string name="operation_create_folder">Yeni bir dizin oluştur</string>
   <string name="operation_create_folder_message">Dizin adı</string>
   <string name="operation_creating_folder">Dizin oluşturuluyor…</string>
-  <string name="operation_delete">Sil</string>
   <string name="operation_delete_message_folder">Tüm dizin içeriği silinecek.</string>
   <string name="operation_delete_selected_tasks">Seçili görev silinsin mi?</string>
   <string name="operation_delete_title">Silinsin mi?</string>
   <string name="operation_deleting">Siliniyor…</string>
   <string name="operation_deleting_detail">Siliniyor (%1$d/%2$d)</string>
-  <string name="operation_download">İndir</string>
-  <string name="operation_move">Kes</string>
   <string name="operation_moving">Taşınıyor…</string>
   <string name="operation_moving_detail">Taşınıyor (%1$d/%2$d)</string>
   <string name="operation_paste">Yapıştır</string>
@@ -550,7 +542,6 @@
   <string name="operation_pause">Durdur</string>
   <string name="operation_pause_all">Tümünü Durdur</string>
   <string name="operation_refresh">Yenile</string>
-  <string name="operation_rename">Adlandır</string>
   <string name="operation_rename_message">Dizini Adlandır</string>
   <string name="operation_renaming">Adlandırılıyor…</string>
   <string name="operation_resume">Başlat</string>
@@ -581,13 +572,10 @@
   <string name="transing">Gönderiliyor</string>
   <string name="upload_failed">"Yüklenemedi"</string>
   <string name="upload_file_to_midrive">Mi Drive alanına dosya gönder</string>
-  <string name="uploading">Gönderiliyor</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Ağ bağlantısı bekleniyor</string>
   <string name="wait_sdcard">SD Kart bekleniyor…</string>
   <string name="wait_wifi">WLAN bağlantısı bekleniyor</string>
   <string name="waiting">Bekliyor</string>
   <string name="wangpan_root_path">Sürücüm</string>
-  <string name="year_month_day_format">dd MMM yyyy</string>
-  <string name="yesterday">Dün</string>
 </resources>

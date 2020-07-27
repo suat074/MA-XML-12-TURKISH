@@ -80,30 +80,6 @@
         <item quantity="few"> %1$d öğe</item>
         <item quantity="many"> %1$d öğe</item>
     </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d dakika önce</item>
-        <item quantity="zero">%1$d dakika önce</item>
-        <item quantity="one">%1$d akika önce</item>
-        <item quantity="two">%1$d dakika önce</item>
-        <item quantity="few">%1$d dakika önce</item>
-        <item quantity="many">%1$d dakika önce</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d saat önce</item>
-        <item quantity="zero">%1$d saat önce</item>
-        <item quantity="one">%1$d saat önce</item>
-        <item quantity="two">%1$d saat önce</item>
-        <item quantity="few">%1$d saat önce</item>
-        <item quantity="many">%1$d saat önce</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d gün önce</item>
-        <item quantity="zero">%1$d gün önce</item>
-        <item quantity="one">%1$d gün önce</item>
-        <item quantity="two">%1$d gün önce</item>
-        <item quantity="few">%1$d gün önce</item>
-        <item quantity="many">%1$d gün önce</item>
-    </plurals>
     <plurals name="seconds">
         <item quantity="other">%1$d saniye</item>
         <item quantity="zero">%1$d akika önce</item>
