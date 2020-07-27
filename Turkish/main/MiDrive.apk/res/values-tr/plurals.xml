@@ -140,4 +140,64 @@
         <item quantity="other">"%1$d dosya transfer edilemedi."</item>
         <item quantity="one">"%1$d dosya transfer edilemedi."</item>
     </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%1$d gün önce</item>
+    <item quantity="one">%1$d gün önce</item>
+  </plurals>
+  <plurals name="download_done_info_for_sys_content">
+    <item quantity="other">%1$d öğe başarıyla indirildi</item>
+    <item quantity="one">%1$d öğe başarıyla indirildi</item>
+  </plurals>
+  <plurals name="download_fail_info_for_sys_content">
+    <item quantity="other">%1$d öğe indirilemedi</item>
+    <item quantity="one">%1$d öğe indirilemedi</item>
+  </plurals>
+  <plurals name="downloading_info_for_sys_title">
+    <item quantity="other">İndiriliyor... %1$d öğe kaldı (%2$s%%)</item>
+    <item quantity="one">İndiriliyor... %1$d öğe kaldı (%2$s%%)</item>
+  </plurals>
+  <plurals name="exception_copy_delete">
+    <item quantity="other">Bazı öğeler eksik. %1$d öğe kopyalanamadı.</item>
+    <item quantity="one">Bazı öğeler eksik. %1$d öğe kopyalanamadı.</item>
+  </plurals>
+  <plurals name="exception_move_delete">
+    <item quantity="other">Bazı öğeler eksik. %1$d öğe taşınamadı.</item>
+    <item quantity="one">Bazı öğeler eksik. %1$d öğe taşınamadı.</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$d saat önce</item>
+    <item quantity="one">%1$d saat önce</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$d dak. önce</item>
+    <item quantity="one">%1$d dak. önce</item>
+  </plurals>
+  <plurals name="search_head_hint_file">
+    <item quantity="other">\"%1$s\" içeren %2$d öğe</item>
+    <item quantity="one">\"%1$s\" içeren %2$d öğe</item>
+  </plurals>
+  <plurals name="setting_file_list_item_desc">
+    <item quantity="other">%1$d öğe | %2$s | %3$s</item>
+    <item quantity="one">%1$d öğe | %2$s | %3$s</item>
+  </plurals>
+  <plurals name="setting_list_folder_item_desc">
+    <item quantity="other">%1$d öğe | %2$s</item>
+    <item quantity="one">%1$d öğe | %2$s</item>
+  </plurals>
+  <plurals name="text_group_count">
+    <item quantity="other">%1$d öğe</item>
+    <item quantity="one">%1$d öğe</item>
+  </plurals>
+  <plurals name="upload_done_info_for_sys_content">
+    <item quantity="other">%1$d öğe başarıyla yüklendi</item>
+    <item quantity="one">%1$d öğe başarıyla yüklendi</item>
+  </plurals>
+  <plurals name="upload_fail_info_for_sys_content">
+    <item quantity="other">%1$d öğe yüklenemedi</item>
+    <item quantity="one">%1$d öğe yüklenemedi</item>
+  </plurals>
+  <plurals name="uploading_info_for_sys_title">
+    <item quantity="other">Yükleniyor... %1$d öğe kaldı (%2$s%%)</item>
+    <item quantity="one">Yükleniyor... %1$d öğe kaldı (%2$s%%)</item>
+  </plurals>
 </resources>

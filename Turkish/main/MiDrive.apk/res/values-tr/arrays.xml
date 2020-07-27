@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="account_user_gender_name">
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="privacy_dialog_runtime_permission_desc">
+    <item>Mi Hesabını kullanarak oturum açmak için</item>
+    <item>Dosyaları önizlemek, yüklemek, indirmek ve eşitlemek için</item>
+  </string-array>
+</resources>
