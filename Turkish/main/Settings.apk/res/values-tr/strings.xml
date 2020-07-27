@@ -7459,7 +7459,6 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun</string>
   <string name="custom_gesture_title">Özel Hareketler</string>
   <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
-  <string name="launch_ai_shortcut">Mi AI kısayolu</string>
   <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
   <string name="launch_alipay_scanner">Alipay tarayıcı</string>
   <string name="launch_calculator">Hesap makinesi</string>
