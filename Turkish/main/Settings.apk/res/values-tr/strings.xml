@@ -7427,8 +7427,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
     <string name="wifi_security_short_none_owe">Yok/OWE</string>
   <string name="adjust_temperature_title">Renk sıcaklığı</string>
   <string name="advanced_screen_paper_mode_title">Okuma modu</string>
-  <string name="auto_adjst_effect_summary">Optimum konfor seviyesini korumak için renk sıcaklığını ortam ışığına otomatik olarak ayarlayın</string>
-  <string name="auto_adjust_effect_title">Renk sıcaklığını otomatik olarak ayarlama</string>
+  <string name="auto_adjst_effect_summary">Renk sıcaklığını ortam ışığına otomatik olarak ayarlayın</string>
+  <string name="auto_adjust_effect_title">Renk sıcaklığını otomatik olarak ayarla</string>
   <string name="beauty_camera">Görüntülü aramalar için güzelleştir</string>
   <string name="beauty_camera_summary">"WeChat video görüşmeleri için Güzelleştir'i kullan"</string>
   <string name="beauty_camera_switch">Güzelleştir</string>
@@ -7449,4 +7449,23 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="wifi_unsaved_network_linking_summary">SSID ve BSSID kısmi eşleşmesinde mevcut bağlanmış WPA/WPA2-PSK 2GHz SSID kimlik bilgileriyle yeni bir WPA/WPA2-PSK 5GHz SSID otomatik bağlantı girişimini etkinleştir</string>
   <string name="wifi_whitelist_roaming">SSID Köprüleme - Hızlı Devir Teslim</string>
   <string name="wifi_whitelist_roaming_summary">"Aynı ağ geçidi MAC adresine sahip farklı SSID WPA/WPA2-PSK AP'leri arasında dolaşımı etkinleştir"</string>
+  <string name="app_enable_bluetooth_record">Bluetooth\'u açan uygulamalar</string>
+  <string name="back_double_tap">İki kez geriye dokun</string>
+  <string name="back_tap">Geriye dokun</string>
+  <string name="back_triple_tap">Üç kez geriye dokun</string>
+  <string name="bt_absVolume_open_dialog_summary">Uyumluluk sorunları nedeniyle, bazı Bluetooth cihazlarında anormal ses seviyeleri olabilir ve bu özellik bu özellik kapatılarak çözülebilir.</string>
+  <string name="bt_absVolume_open_dialog_title">Dikkat</string>
+  <string name="bt_absVolume_pre_title">Mutlak ses</string>
+  <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun</string>
+  <string name="custom_gesture_title">Özel Hareketler</string>
+  <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
+  <string name="launch_ai_shortcut">Mi AI kısayolu</string>
+  <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
+  <string name="launch_alipay_scanner">Alipay tarayıcı</string>
+  <string name="launch_calculator">Hesap makinesi</string>
+  <string name="launch_control_center">Kontrol merkezi</string>
+  <string name="launch_notification_center">Bildirim alanı</string>
+  <string name="launch_wechat_payment_code">WeChat ödeme kodu</string>
+  <string name="launch_wechat_scanner">WeChat tarayıcı</string>
+  <string name="mute">Sessiz mod</string>
 </resources>

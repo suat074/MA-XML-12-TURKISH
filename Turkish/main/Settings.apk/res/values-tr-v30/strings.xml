@@ -267,9 +267,11 @@ Aşağı indirilen alanı açmak için ekranın üst kısmından aşağı kaydı
   <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">İnterneti yalnızca USB ve Ethernet üzerinden paylaş</string>
   <string name="disable_wifi_hotspot_when_usb_on">İnterneti yalnızca USB üzerinden paylaş</string>
   <string name="disabled_by_administrator_summary">Kullanılamıyor</string>
+  <string name="dndm_wristband_detailed">Giyilebilir cihazınız planlanan başlangıç saatinden bir saat önce uyuduğunuzu algılarsa Rahatsız Etmeyin özelliğini açın</string>
   <string name="double_twist_for_camera_mode_title">Selfie için kamerayı çevir</string>
   <string name="double_twist_for_camera_suggestion_title">Selfie\'leri daha hızlı çekin</string>
   <string name="doze_always_on_summary">Daha fazla pil kullanımı</string>
+  <string name="doze_always_on_title">Her zaman açık ekran</string>
   <string name="doze_summary">Ekran karanlıkken yeni bildirimler için açılır</string>
   <string name="doze_title">Bildirimlerde ekranı uyandır</string>
   <string name="enable_adb_wireless">Kablosuz hata ayıklama</string>
@@ -529,6 +531,7 @@ Uygulama sabitlemeyi kullanmak için: \u0009
 2.\u0009Genel Bakış'ı açın \u0009
 3.\u0009Ekranın üst kısmındaki uygulama simgesine ve ardından Sabitle'ye dokunun"</string>
   <string name="screen_pinning_title">Uygulama sabitleme</string>
+  <string name="search_user_agreement">Hizmet Şartları;Kullanıcı Sözleşmesi</string>
   <string name="security_patch">Android güvenlik güncellemesi</string>
   <string name="security_settings_face_enroll_improve_face_alert_body">"Yüz tanıma kilidini tekrar kurmak için mevcut yüz verilerinizi silin.
   

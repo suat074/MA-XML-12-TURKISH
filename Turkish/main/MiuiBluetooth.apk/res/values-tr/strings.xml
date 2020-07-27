@@ -113,6 +113,16 @@
   <string name="reset_function_msg">Bu özelliği sıfırlamak, %1$s öğesinin normal şekilde çalışmasını engelleyebilir.</string>
   <string name="search_menu_title">Arama</string>
   <string name="some_app_taking">(%1$s zaten bu özelliği kullanıyor)</string>
+  <string name="switch_audio_device_bt_a2dp">Bluetooth (Medya sesi)</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Bağlı bir cihazda medya sesini çal</string>
+  <string name="switch_audio_device_bt_hfp">Bluetooth (Çağrılar)</string>
+  <string name="switch_audio_device_bt_hfp_summary">Bağlı bir cihazda çağrı sesini çal. Bu özelliğin manuel olarak kapatılması gerekir.</string>
+  <string name="switch_audio_device_default">Varsayılan</string>
+  <string name="switch_audio_device_default_summary">Şu anda kullanılan cihaz</string>
+  <string name="switch_audio_device_hfp_hint">Varsayılan çıkışa geri dönme</string>
+  <string name="switch_audio_device_hfp_toast_hint">Bu cihazda tekrar ses çalmaya başlamak için varsayılan ses çıkışını seçin.</string>
+  <string name="switch_audio_device_phone_summary">Bu cihazda sesi çal</string>
+  <string name="switch_audio_dialog_title">Ses çıkışını seçin</string>
   <string name="unbind_device_alert_cancel">İptal</string>
   <string name="unbind_device_alert_content">%1$s ile bağlantı kesildi. Pil tasarrufu için, şimdi bu cihazın eşlemesini kaldırın.</string>
   <string name="unbind_device_alert_ok">Eşleşmeyi kaldır</string>

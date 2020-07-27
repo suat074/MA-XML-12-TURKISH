@@ -108,7 +108,7 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
   <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
   <string name="not_sent_recently">Yakınlarda yok</string>
-  <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
+  <string name="notch_and_status_bar_setting">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notification_aggregate_description1">MIUI, push ve promosyon bildirimlerini otomatik olarak gruplandırarak Bildirim alanınızı daha az kalabalık hale getirebilir.</string>
   <string name="notification_aggregate_description2">Algoritmalarımız bildirim içeriğini analiz eder ve bu özelliği anlık mesajlaşma uygulamalarından gelen önemli uyarılara ve bildirimlere uygulamaz. Önemli bildirimlerin yanlışlıkla gruplandığını görürseniz, \"Geri bildirim\" özelliğimizi kullanarak karşılaştığınız sorunu bildirin.</string>
   <string name="notification_aggregate_summary">MIUI için bildirimleri otomatik olarak gruplandırmasına izin ver</string>

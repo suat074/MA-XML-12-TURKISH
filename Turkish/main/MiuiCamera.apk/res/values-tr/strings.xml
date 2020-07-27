@@ -309,7 +309,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="custom_tint_color_select">Renkleri özelleştir</string>
   <string name="custom_watermark_contains_senstive_words">Filigran sınırlı terimler içeremez (%1$s)</string>
   <string name="custom_watermark_tips">Bu metin filigran ikinci satırı olarak görünecektir. En fazla 18 harf içerebilir.</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">En fazla %d Çince karakter veya %d harf.</string>
+  <string name="custom_watermark_tips_gen2">En çok %1$d Çince karakter veya %2$d harf.</string>
   <string name="custom_watermark_too_many_words">Girdiğiniz metin çok uzun</string>
   <string name="custom_watermark_words">Özel filigran</string>
   <string name="custom_watermark_words_input_hint">Metni girin</string>
