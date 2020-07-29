@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_speakerphone_enabled">Hoparlör açık</string>
+  <string name="alert_place_outgoing_call_with_redirection">%1$s kullanarak aramayı yönlendir</string>
+  <string name="alert_place_unredirect_outgoing_call">Telefon numaramı kullanarak ara</string>
+  <string name="alert_redirect_outgoing_call_or_not">Bu aramanın nasıl yapılacağını seçin</string>
+  <string name="alert_redirect_outgoing_call_timeout">Çağrı %1$s tarafından yapılamaz. Farklı bir çağrı yönlendirme uygulaması kullanmayı deneyin veya yardım için geliştiriciyle iletişime geçin.</string>
+  <string name="blocked_numbers_butter_bar_title">Engelli listesi kapalı</string>
+  <string name="cant_call_due_to_no_supported_service">Bu türde çağrıları destekleyen çağrı hesapları olmadığından çağrı yapılamıyor.</string>
+  <string name="cant_call_due_to_ongoing_call">%1$s çağrınız nedeniyle çağrı yapılamıyor.</string>
+  <string name="cant_call_due_to_ongoing_calls">Çağrı yapılamıyor. Önce %1$s çağrınızı bitirin.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Başka bir uygulamadaki çağrı nedeniyle çağrı yapılamıyor.</string>
+  <string name="change_default_call_screening_dialog_affirmative">Varsayılan olarak ayarla</string>
+  <string name="change_default_call_screening_dialog_negative">İptal</string>
+  <string name="change_default_call_screening_dialog_title">%s varsayılan çağrı görüntüleme uygulamanız yapılsın mı?</string>
+  <string name="change_default_call_screening_warning_message">%s, kişilerinizde bulunmayan arayanlar hakkındaki bilgileri görebilecek ve bu aramaları engelleyebilecek. Yalnızca güvendiğiniz uygulamalar varsayılan çağrı görüntüleme uygulaması olarak ayarlanmalıdır.</string>
+  <string name="change_default_call_screening_warning_message_for_disable_old_app">%s artık çağrıları görüntüleyemeyecek.</string>
+  <string name="change_default_dialer_dialog_affirmative">Varsayılan olarak ayarla</string>
+  <string name="developer_title">Telekom geliştirici menüsü</string>
+  <string name="duplicate_video_call_not_allowed">Daha fazla çağrı eklenemiyor</string>
+  <string name="notification_channel_call_blocking">Çağrı engelleme</string>
+  <string name="outgoing_call_not_allowed_no_permission">Bu uygulama, gerekli izinler olmadan giden çağrı yapamaz.</string>
+  <string name="phone_settings_call_blocking_txt">Çağrı engelleme</string>
+  <string name="phone_settings_number_not_in_contact_summary_txt">Kişilerinizde listelenmeyen numaraları engelle</string>
+  <string name="phone_settings_number_not_in_contact_txt">Kişiler\'de olmayan numaralar</string>
+  <string name="phone_settings_payphone_summary_txt">Ödemeli telefonlardan gelen çağrıları engelle</string>
+  <string name="phone_settings_payphone_txt">Ödemeli telefon</string>
+  <string name="phone_settings_private_num_summary_txt">Numaralarını açıklamayan arayanları engelle</string>
+  <string name="phone_settings_private_num_txt">Özel</string>
+  <string name="phone_settings_unknown_summary_txt">Tanımlanamayan çağrı aramalarını engelle</string>
+  <string name="phone_settings_unknown_txt">Bilinmeyen</string>
+  <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Çağrı engelleme kapalı</string>
+  <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Çağrı engelleme</string>
+  <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Acil durum müdahale ekiplerinin sizinle iletişim kurmasına izin verebilmek için çağrı engelleme kapatıldı.</string>
+  <string name="phone_strings_emergency_call_made_dialog_title_txt">Acil durum çağrısı yapıldı</string>
+  <string name="respond_via_sms_failure_format">%s adresine mesaj gönderilemedi.</string>
+  <string name="telecommAppLabel">Çağrıları yönet</string>
+</resources>

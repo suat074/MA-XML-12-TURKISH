@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="accessibility_timer_burst_count">
+    <item quantity="other">Seri çekimde %d fotoğraf</item>
+    <item quantity="one">Seri çekimde %d fotoğraf</item>
+  </plurals>
+  <plurals name="accessibility_timer_burst_interval">
+    <item quantity="other">Aralık: %d saniye</item>
+    <item quantity="one">Aralık: %d saniye</item>
+  </plurals>
   <plurals name="accessibility_focus_face_detect">
     <item quantity="other">Odaklandı. %d yüz algılandı</item>
     <item quantity="one">Odaklandı. %d yüz algılandı</item>
