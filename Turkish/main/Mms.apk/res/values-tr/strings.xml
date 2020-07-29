@@ -95,6 +95,8 @@
   <string name="cannot_send_message_reason">Mesajınızın geçerli bir alıcısı yok.</string>
   <string name="card_insert_to_contact">Kişi aktar</string>
   <string name="change_duration_activity">Süreyi değiştir</string>
+  <string name="chatbot_list_title">Mini uygulamalarım</string>
+  <string name="chatbot_main_title">Mini uygulamalar</string>
   <string name="chatbox_list_title">Mini uygulamalarım</string>
   <string name="chatbox_main_title">Mini uygulamalar</string>
   <string name="check_all">Tümünü seç</string>

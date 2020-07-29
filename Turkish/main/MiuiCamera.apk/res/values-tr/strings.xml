@@ -239,7 +239,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ambilight_scene_crowd_moving">Hareketli kalabalık</string>
   <string name="ambilight_scene_light_track">Hafif boyama</string>
   <string name="ambilight_scene_magic_star">Yıldızlı gökyüzü</string>
-  <string name="ambilight_scene_silky_water">İpeksi su</string>
+  <string name="ambilight_scene_silky_water">Yağlı boya</string>
   <string name="ambilight_scene_star_track">Yıldız gezileri</string>
   <string name="ambilight_scene_traffic_light">Neon izleri</string>
   <string name="ambilight_tips_for_longtime_using_tripod">Daha uzun pozlama yakalamak için tripod kullanın</string>
@@ -330,7 +330,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="close_back_flash_toast">Cihazınız aşırı ısınmış. Şimdi flaş kullanamazsınız.</string>
   <string name="close_front_flash_toast">Cihazınız aşırı ısınmış. Şimdi flaş kullanamazsınız.</string>
   <string name="color_effect_entry_berry">Meyveler</string>
-  <string name="color_effect_entry_blackgold">Rodyum</string>
+  <string name="color_effect_entry_blackgold">Altın sarısı</string>
   <string name="color_effect_entry_blackice">Kara buz</string>
   <string name="color_effect_entry_blackwhite">S&amp;B</string>
   <string name="color_effect_entry_classic">Klasik</string>
@@ -1265,7 +1265,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="timbre_normal">Orijinal</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
-  <string name="timer_burst">Zamanlı seri çekim</string>
+  <string name="timer_burst">Zamanlı çekim</string>
   <string name="timer_burst_manu_param_interval">Pozlama olmadan aralık</string>
   <string name="timer_burst_param_interval">Aralık</string>
   <string name="timer_burst_param_total_count">Fotoğraf sayısı</string>

@@ -7458,7 +7458,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="bt_absVolume_open_dialog_title">Dikkat</string>
   <string name="bt_absVolume_pre_title">Mutlak ses</string>
   <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun</string>
-  <string name="custom_gesture_title">Özel Hareketler</string>
+  <string name="custom_gesture_title">Özel hareketler</string>
   <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
   <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
   <string name="launch_alipay_scanner">Alipay tarayıcı</string>
