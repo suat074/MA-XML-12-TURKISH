@@ -937,7 +937,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_heic_image_format_description2">Yüksek verimli görüntü dosyası biçimi depolama alanından tasarruf sağlar, ancak bazı üçüncü taraf uygulamalar tarafından desteklenmez. HEIF ile canlı fotoğraf çekemez ve filigranları kaldıramazsınız.</string>
   <string name="pref_camera_heic_image_format_title">HEIF Formatı</string>
   <string name="pref_camera_hfr_entry_off">Kapalı</string>
-  <string name="pref_camera_high_quality_preferred_description">Görüntü yakalama hızına göre görüntü kalitesine öncelik veren algoritmayı kullanın</string>
+  <string name="pref_camera_high_quality_preferred_description">Akıllı algoritmayı kullanarak görüntü kalitesini artırın. Bu özellik açıkken görüntü yakalama hızı düşebilir.</string>
   <string name="pref_camera_high_quality_preferred_title">Görüntü kalitesini artır</string>
   <string name="pref_camera_histogram_entry_disable">Kapat</string>
   <string name="pref_camera_histogram_entry_enable">Aç</string>
