@@ -730,9 +730,8 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="nav_launch_title">Aşağıdaki uygulamaları kullanmayı deneyin</string>
   <string name="nav_lunch_duokan">Duokan açılıyor…</string>
   <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
-  <string name="nav_screen_incognito_message">"Tarama ve arama geçmişiniz Gizli modda kaydedilmeyecek.
-İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın."</string>
-  <string name="nav_screen_incognito_title">Gizli mod</string>
+  <string name="nav_screen_incognito_message">Şimdi özel olarak göz atabilirsiniz. Tarama geçmişiniz, arama istekleriniz ve indirmeleriniz kaydedilmeyecek. Site verileri de kaydedilmeyecek.</string>
+  <string name="nav_screen_incognito_title">Gizli moda geçtiniz.</string>
   <string name="navigate_feedback_dislike">ilgilenmiyorum</string>
   <string name="navigate_feedback_dislike_tips">Bu tür video önerilerini azaltacaktır</string>
   <string name="navigate_feedback_input_report_label">Diğer nedenler</string>
@@ -1196,6 +1195,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Tara
   <string name="title_bar_loading">Yükleniyor...</string>
   <string name="title_notice_push">Push özelliğini aç</string>
   <string name="toast_feedback">Bu türden daha az öğe göreceksiniz.</string>
+  <string name="toast_not_support">Bu özellik henüz desteklenmiyor</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="topic_content_default">konu</string>

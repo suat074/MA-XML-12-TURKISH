@@ -150,9 +150,9 @@
   <string name="antivirus_none_engine_dialog_ok">Tamam</string>
   <string name="antivirus_not_wlan">WLAN\'a bağlı değilsiniz. Mobil verileri kullanmak ek ücretler üretebilir. Her halükarda devam edilsin mi</string>
   <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve ayrıntılarını yükle</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntılarını yükleyin ve tarayın.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Virüsleri daha etkili bir şekilde saptamak ve etkisiz hale getirmek için, bir bulut motoru kullanarak taramak amacıyla uygulamaların paket adlarını ve özelliklerini yükleyeceğiz.</string>
   <string name="antivirus_privacy_dialog_ok">Tamam</string>
-  <string name="antivirus_privacy_dialog_summary">Bu özellik, cihaz kimliğinizi Avast, AVL ve Tencent sunucularına şifreler ve yükler (%s).</string>
+  <string name="antivirus_privacy_dialog_summary"><Data>Bu özellik üçüncü taraf bir virüsten koruma motoru tarafından desteklenmektedir. Daha fazla bilgi edinmek için üçüncü tarafça sağlanan &lt;a href=\"%1$s\">Lisans Sözleşmesi&lt;/a> okuyun.</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikası</string>
   <string name="antivirus_privacy_dialog_summary_new"><Data>Bu özellik Avast, AVL ve Tencent tarafından sağlanan virüsten koruma tanımlarını kullanır. Daha fazla bilgi için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Bu özellik AVL ve Tencent tarafından sağlanan virüsten koruma tanımlarını kullanır. Daha fazla bilgi için ilgili &lt;a href=\"%1$s\">lisans sözleşmelerini&lt;/a> okuyun.</Data></string>

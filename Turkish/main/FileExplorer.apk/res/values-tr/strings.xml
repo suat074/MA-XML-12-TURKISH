@@ -198,6 +198,7 @@
   <string name="download_fail">İndirilemedi</string>
   <string name="downloaded_sticker_str">İndirildi</string>
   <string name="downloading">İndiriliyor...</string>
+  <string name="drag_not_support_with_dir">Klasörler yeniden düzenlenemiyor veya gönderilemiyor</string>
   <string name="editor_commend">Düzenle</string>
   <string name="empty_comment">Yorumlar boş olamaz</string>
   <string name="enable_documentsui">Önce Ayarlar &gt; Yüklü Uygulamalar altından %s açın</string>
@@ -355,6 +356,8 @@
   <string name="menu_item_sort_name">Ad</string>
   <string name="menu_item_sort_type">Tipi</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_new_display_open">Yeni pencerede aç</string>
+  <string name="menu_pc_open">Bilgisayar programıyla aç</string>
   <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="message_comment_prefix">"Yorum: "</string>
   <string name="message_my_received_notification">Yeni Mesaj</string>
@@ -526,6 +529,7 @@
   <string name="phone_valid_code_tip">Kod birden fazla girildi, yeni bir tane alıp, deneyin</string>
   <string name="pick_file">Dosyaları Seç</string>
   <string name="pick_folder">Dizin seç</string>
+  <string name="pkgname_zsxq">Bilgi gezegeni</string>
   <string name="popup_msg_qq">Bu videoyu QQ arkadaşlarınızla paylaşın.</string>
   <string name="popup_msg_wb">Harika video değil mi? Weibo arkadaşlarınızla paylaşın!</string>
   <string name="popup_msg_wx">Bu videoyu WeChat arkadaşlarınızla paylaşın.</string>
@@ -584,6 +588,7 @@
   <string name="rlv_refreshing">Yenileniyor…</string>
   <string name="rlv_release_to_close">Kapatmak için bırakın</string>
   <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="save_file_to_mishare">Mi Paylaşım klasörüne kaydedildi</string>
   <string name="save">Kaydet</string>
   <string name="save_desc_success">Başarıyla değiştirildi​</string>
   <string name="save_failed">Kaydedilemedi, tekrar deneyin</string>

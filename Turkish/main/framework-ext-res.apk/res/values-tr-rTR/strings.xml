@@ -28,7 +28,7 @@
   <string name="autofill">Oto. doldur</string>
   <string name="autofill_save_message">MIUI\'ın hesaplarınızı ve şifrelerinizi kaydetmesine izin verilsin mi?</string>
   <string name="autofill_save_ok">İzin ver</string>
-  <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar &gt; Şifreler &amp; güvenlik &gt; %s bölümünden yönetebilirsiniz.</string>
+  <string name="autofill_save_sub_message">Şifrelerinizi Ayarlar &gt; Şifreler &amp; güvenlik &gt; %s bölümünden görüntüleyebilir ve yönetebilirsiniz.</string>
   <string name="autofill_save_title">Şifreleri otomatik olarak kaydet</string>
   <string name="autofill_service_name">Şifreleri yönet</string>
   <string name="bluetooth_close">Bu uygulama Bluetooth\' kapattı</string>

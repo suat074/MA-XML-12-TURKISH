@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Yüksek hız</item>
+        <item>Dengeli</item>
+        <item>Yüksek kalite</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>En hızlı</item>
+        <item>Dengeli</item>
+        <item>Varsayılan</item>
+    </string-array>
+</resources>
