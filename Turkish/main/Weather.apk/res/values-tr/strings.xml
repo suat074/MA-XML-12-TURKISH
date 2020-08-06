@@ -186,8 +186,10 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="index_item_install_now">Şimdi yükle</string>
     <string name="index_item_installing">Yükleniyor</string>
     <string name="indices_desc_humidity">Nem %%%1$s</string>
+	<string name="indices_title_chance_of_rain">Yağmur yağma olasılığı</string>
     <string name="indices_title_feel">Hissedilen</string>
     <string name="indices_title_pressure">Basınç</string>
+	<string name="indices_title_wind_speed">Rüzgar hızı</string>
     <string name="install">Yükle</string>
     <string name="international_details_pressure_title">BASINÇ</string>
     <string name="international_details_title">Ayrıntılar</string>

@@ -83,6 +83,7 @@
   <string name="activity_title_permission_manager">İzinler</string>
   <string name="activity_title_permissions_manager">İzinler</string>
   <string name="activity_title_power_manager">Pil optimizasyonu</string>
+  <string name="activity_title_risk_app_install_manager">Riskli uygulama kurulum yetkisi</string>
   <string name="activity_title_root_acquired">Kök erişimine izin ver</string>
   <string name="activity_title_root_manager">Kök erişimi</string>
   <string name="activity_title_root_note">Kök erişimi hakkında</string>
@@ -1712,7 +1713,8 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="menu_summary_garbage_cleanup">Çöp bulunamadı</string>
   <string name="menu_summary_garbage_cleanup_2">Çöp boyutu</string>
   <string name="menu_summary_garbage_cleanup_3">Çöp kutusunu şimdi temizle</string>
-  <string name="menu_summary_garbage_cleanup_ex">%s çöp kutusunu temizle</string>
+  <string name="menu_summary_garbage_cleanup_ex">%s boşalt</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% depolama alanı</string>
   <string name="menu_summary_networkassistants">Veri planınızı yönetin</string>
   <string name="menu_summary_networkassistants_2">Sınır aşıldı</string>
   <string name="menu_summary_networkassistants_3">Yeterince veri kaldı</string>

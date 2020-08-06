@@ -27,7 +27,7 @@
   <string name="activitychooserview_choose_application">Bir uygulama seçin</string>
   <string name="activitychooserview_choose_application_error">%s başlatılamadı</string>
   <string name="adb_active_notification_message">USB hata ayıklama özelliğini devre dışı bırakmak için dokunun.</string>
-  <string name="adb_active_notification_title">USB Hata Ayıklaması bağlandı</string>
+  <string name="adb_active_notification_title">USB hata ayıklama açık</string>
   <string name="adb_debugging_notification_channel_tv">USB hata ayıklama</string>
   <string name="add_account_button_label">Hesap ekle</string>
   <string name="add_account_label">Hesap ekleyin</string>
@@ -1322,7 +1322,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="system_error_manufacturer">Cihazınızla ilgili dahili bir sorun var. Ayrıntılar için üreticinize başvurun.</string>
   <string name="system_error_wipe_data">Cihazınızla ilgili dahili bir sorun var ve fabrika ayarlarına sıfırlama işlemi yapılıncaya kadar dengesiz olabilir.</string>
   <string name="taking_remote_bugreport_notification_title">Hata raporu alınıyor…</string>
-  <string name="tethered_notification_message">Kurulum için dokunun.</string>
+  <string name="tethered_notification_message">Ayarlamak için dokunun.</string>
   <string name="tethered_notification_multi_device_message">%1$s cihaz bağlı</string>
   <string name="tethered_notification_no_device_message">Bağlı cihaz yok</string>
   <string name="tethered_notification_one_device_message">%1$s cihaz bağlı</string>
@@ -1372,7 +1372,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="usb_mtp_notification_title">Dosya aktarımı için USB\'den bağlandı</string>
   <string name="usb_notification_message">Diğer USB seçenekleri için dokunun.</string>
   <string name="usb_power_notification_message">Bağlı cihazı şarj ediliyor. Daha fazla seçenek için dokunun.</string>
-  <string name="usb_ptp_notification_title">Fotoğraf aktarımı için USB\'den bağlandı</string>
+  <string name="usb_ptp_notification_title">USB üzerinden PTP açık</string>
   <string name="usb_storage_activity_title">USB Depolaması</string>
   <string name="usb_storage_button_mount">USB depolama birimini aç</string>
   <string name="usb_storage_error_message">USB belleğinizi USB yığın belleği amaçlı kullanmayla ilgili bir sorun var.</string>
@@ -1388,8 +1388,8 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="usb_storage_title">USB bağlandı</string>
   <string name="usb_supplying_notification_title">Bağlanan cihaz için USB\'den güç sağlanıyor</string>
   <string name="usb_tether_notification_title">USB paylaşımı açık</string>
-  <string name="usb_unsupported_audio_accessory_message">Eklenen cihaz bu telefonla uyumlu değil. Daha fazla bilgi için dokunun.</string>
-  <string name="usb_unsupported_audio_accessory_title">Analog ses aksesuarı algılandı</string>
+  <string name="usb_unsupported_audio_accessory_message">Bağlı cihaz bu telefonla uyumlu değil. Daha fazla bilgi için dokunun.</string>
+  <string name="usb_unsupported_audio_accessory_title">Algılanan analog ses aksesuarı</string>
   <string name="use_a_different_app">Farklı bir uygulama kullanın</string>
   <string name="user_creation_account_exists">%1$s\'nin %2$s ile yeni bir kullanıcı oluşturmasına izin verilsin mi?</string>
   <string name="user_creation_adding">"%1$s\'nin %2$s ile yeni bir kullanıcı oluşturmasına izin verilsin mi? (Bu hesaba sahip bir kullanıcı zaten var) "</string>

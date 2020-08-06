@@ -3956,12 +3956,12 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="passpoint_content">%1$s kimlik bilgileri</string>
   <string name="passpoint_label">Üzerinden kaydedildi</string>
-  <string name="passpoint_r1_privacy_dialog_message">"Passpoint, WLAN Alliance tarafından başlatılan güvenilir, güvenli ve otomatik bir wlan bağlantı teknolojisidir. WLAN yapılandırılmış ağ ile mobil aygıtlar arasında sorunsuz bağlantı kurmak için hesapları otomatik olarak yapılandırın.
+  <string name="passpoint_r1_privacy_dialog_message">"Bu WLAN hizmeti, genişleticiler tarafından sağlanır. Yakındaki desteklenen erişim noktalarına otomatik olarak bağlanmanızı sağlar.
 
-Bu özellik yalnızca ilk hesap kaydı için WLAN MAC adresinizi alır. Verilerinizi %s ilkelerine uygun olarak işleyeceğiz. Bu özelliği kullanmadan önce Gizlilik Politikamızı okuyun ve kabul edin."</string>
-  <string name="passpoint_r1_privacy_dialog_no">İptal</string>
+Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Çık</string>
   <string name="passpoint_r1_privacy_dialog_title">Dikkat</string>
-  <string name="passpoint_r1_privacy_dialog_url_text">Gizlilik Politikası</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">\"genişletilmiş Gizlilik Politikası\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Kabul</string>
   <string name="passwordIncorrect">Girdiğiniz şifre hatalı</string>
   <string name="password_entrance_title">Ekran kilidini ayarla</string>

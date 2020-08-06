@@ -96,6 +96,8 @@
   <string name="location_changed_notification_text">BT yöneticinizden daha fazla bilgi alabilirsiniz.</string>
   <string name="location_changed_notification_title">Uygulamalar konumunuza erişebilir</string>
   <string name="location_service">Konum Hizmeti</string>
+  <string name="lock_to_app_toast">Bu ekranın sabitlemesini kaldırmak için Ana Sayfa ve Güç düğmesini aynı anda basılı tutun.</string>
+  <string name="lock_to_app_toast_accessible">Bu ekranın sabitlemesini kaldırmak için Ana Sayfa ve Güç düğmesini aynı anda basılı tutun.</string>
   <string name="mobile_no_internet">Mobil ağın internet bağlantısı yok</string>
   <string name="not_checked">işaretli değil</string>
   <string name="notification_channel_developer_important">Önemli geliştirici mesajları</string>
@@ -257,9 +259,4 @@
   <string name="usb_device_resolve_prompt_warn">Bu uygulamaya ses kaydetme izni verilmedi ancak bu USB cihazı üzerinden sesleri yakalayabilir.</string>
   <string name="usb_unsupported_audio_accessory_message">Takılan cihaz bu telefonla uyumlu değil. Daha fazla bilgi edinmek için dokunun.</string>
   <string name="usb_unsupported_audio_accessory_title">Analog ses aksesuarı algılandı</string>
-  <string name="volume_icon_description_bluetooth">Bluetooth ses düzeyi</string>
-  <string name="volume_icon_description_incall">Çağrı ses düzeyi</string>
-  <string name="volume_icon_description_media">Medya ses düzeyi</string>
-  <string name="volume_icon_description_notification">Bildirim ses düzeyi</string>
-  <string name="volume_icon_description_ringer">Zil ses düzeyi</string>
 </resources>
