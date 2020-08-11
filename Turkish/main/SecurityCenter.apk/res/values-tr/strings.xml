@@ -83,7 +83,6 @@
   <string name="activity_title_permission_manager">İzinler</string>
   <string name="activity_title_permissions_manager">İzinler</string>
   <string name="activity_title_power_manager">Pil optimizasyonu</string>
-  <string name="activity_title_risk_app_install_manager">Riskli uygulama kurulum yetkisi</string>
   <string name="activity_title_root_acquired">Kök erişimine izin ver</string>
   <string name="activity_title_root_manager">Kök erişimi</string>
   <string name="activity_title_root_note">Kök erişimi hakkında</string>
