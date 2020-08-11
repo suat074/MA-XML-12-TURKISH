@@ -140,6 +140,8 @@
   <string name="aqi_quality_index_moderate">Orta</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
   <string name="auto_add_app_shortcut">Yeni uygulamaları Ana ekrana yerleştir</string>
+  <string name="auto_disable_screenbuttons_summary">Yeniden etkinleştirmek için herhangi bir gezinme düğmesine iki kez dokunun</string>
+  <string name="auto_disable_screenbuttons_title">Gezinti düğmelerini otomatik olarak devre dışı bırak</string>
   <string name="back">Geri</string>
   <string name="backup_fail">Başlatıcı yedeklenemedi</string>
   <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
@@ -315,6 +317,7 @@
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
   <string name="is_setting_wallpaper_message">Duvar kağıdınız ayarlanıyor…</string>
   <string name="is_system_wallpaper_message">Sistem kaynakları silinemiyor</string>
+  <string name="key_shortcut_settings_title">Düğme kısayolları</string>
   <string name="launcher_auto_fill_empty_title">Boş hücreleri doldur</string>
   <string name="launcher_global_search_mode_title">Global arama</string>
   <string name="launcher_global_search_provider_title">Global arama sağlayıcısı</string>
