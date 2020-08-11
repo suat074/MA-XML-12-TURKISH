@@ -544,4 +544,13 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar eşitlenemiyor</string>
   <string name="xiaomi_cloud_service">Xiaomi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
+  <string name="midrive_guide1_desc">Cihazınızda depolama alanını boşaltmak için öğeleri buluta yedekleyin.</string>
+  <string name="midrive_guide1_title">Güvenli yedekleme</string>
+  <string name="midrive_guide2_desc">Öğeleri yüksek hızda indirin.</string>
+  <string name="midrive_guide2_title">Hızlı indirme</string>
+  <string name="midrive_guide3_desc">Mobil cihazlarda, bilgisayarlarda ve tarayıcılarda Mi Drive kullanın.</string>
+  <string name="midrive_guide3_title">Her yerde çalışır</string>
+  <string name="midrive_guide_btn_install">Mi Drive\'ı yükle</string>
+  <string name="midrive_guide_btn_installed">Mi Drive\'ı aç</string>
+  <string name="midrive_guide_btn_installing">Yükleniyor…</string>
 </resources>

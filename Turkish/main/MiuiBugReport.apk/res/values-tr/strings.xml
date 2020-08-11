@@ -182,7 +182,10 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_continue">Geribildirimle devam et</string>
   <string name="feedback_description">Açıklama</string>
   <string name="feedback_description_bugreport_hint">Bazı işaretler (...) telefonumun bozulmasına neden oldu (...).</string>
-  <string name="feedback_description_hint">Karşılaştığınız sorunu açıklayın</string>
+  <string name="feedback_description_hint">"Burada, karşılaştığınız sorunu açıklayın.
+%1$d. Sorunla hangi uygulamada veya hangi sayfada karşılaştınız?
+%2$d. Yaptığınız hangi işlemlerden sonra sorun ortaya çıktı?
+%3$d. Sorunu çözmemize yardımcı olabilecek ek bilgileri bize verin."</string>
   <string name="feedback_description_hint_suggestion">MIUI\'yi nasıl geliştirmek istediğinizi bize söyleyin.</string>
   <string name="feedback_description_label">Açıklama</string>
   <string name="feedback_description_suggest_hint">Yeni bir özellik eklemenizi istiyorum () çünkü şuna ihtiyacımız var ().</string>
@@ -653,7 +656,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="title_same_question_feedback_main">MIUI forumundaki benzer sorunlar</string>
   <string name="title_system_app">MIUI Uygulamaları</string>
   <string name="title_user_guide">Kullanım klavuzu</string>
-  <string name="toast_app_tag_required">Sorunu seçin</string>
+  <string name="toast_app_tag_required">Önce sorunu seçin</string>
   <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string>
   <string name="toast_description_required">Bir açıklama yazılması gereklidir</string>
   <string name="toast_feedback_collect_store">Günlükler toplanıyor...</string>

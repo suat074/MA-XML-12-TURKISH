@@ -69,8 +69,8 @@
     <item>Daha fazla bilgi edinmek ve bu özelliği açmak için \"Devam\" düğmesine dokunun.</item>
   </string-array>
   <string-array name="stand_guide_page_content2">
-    <item>Daimi asistan, cep telefonunun yanınızda durduğunu algılar ve otomatik olarak kaydeder. 1 saat içinde herhangi bir ayakta durma hareketi algılanmadığında size hatırlatması için hatırlatıcıyı açın:</item>
-    <item>Bu özellik hareketinizi izler ve hatırlatıcılar gönderir.</item>
+    <item>Xiaomi Sağlık ayağa kalktığınızda bunu tespit edip kaydedebilir. Ayrıca 1 saatlik hareketsizlikten sonra ayağa kalkmanız için hatırlatıcılar alabilirsiniz.</item>
+    <item>Bu özellik, hareketlerinizi izler ve sonuçlara göre hatırlatıcılar gönderir.</item>
   </string-array>
   <string-array name="week">
     <item>Pazar</item>

@@ -141,4 +141,7 @@ Bu sorunu bildirin &gt;"</string>
   <string name="summary_show_badge_enable_notification_first">Bildirimlerin, bildirim rozetlerini açabilmesi için izin ver</string>
   <string name="tip_feedback_success">Başarıyla gönderildi</string>
   <string name="tip_select_category">Bildirim kategorisini seçin</string>
+  <string name="float_notifications_short">Yüzer</string>
+  <string name="lockscreen_notifications_short">Kilit ekranı</string>
+  <string name="show_badge_notifications_short">Rozetler</string>
 </resources>

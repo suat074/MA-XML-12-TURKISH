@@ -361,4 +361,21 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="wear_app_channel">Android Wear\'da uygulamaları yükleme/kaldırma</string>
   <string name="wear_not_allowed_dlg_text">Wear\'da yükleme/kaldırma işlemleri desteklenmiyor.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
+  <string name="install_continue">Kuruluma devam et</string>
+  <string name="action_bar_report_link_des">Uygulama uyarısı</string>
+  <string name="exit_install_button">Yükleme</string>
+  <string name="install_confirm_dialog_message">Bu uygulama Google tarafından yapılmıştır. Bu uygulamayı normal şekilde kullanabilmek için Google Play hizmetlerini yüklemelisiniz. Bu uygulamayı şimdi yüklemek, cihazınızın hatalı çalışmasına neden olabilir. Yine de yüklensin mi?</string>
+  <string name="install_confirm_dialog_negative_button">İptal</string>
+  <string name="install_confirm_dialog_positive_button">Yükle</string>
+  <string name="install_confirm_dialog_title">Dikkat</string>
+  <string name="install_confirm_question_des_10">"Riskleri almak ve yüklemeye devam etmek istiyorsanız, Güvenlik &gt; Uygulamaları Yönet &gt; İzinler &gt; Olası riskli uygulamalar bölümünden kurulumu yetkilendirin. \"Olası riskli uygulamalar\" bölümünü bulamıyorsanız, Güvenlik uygulamanızı güncelleyip yeniden deneyin."</string>
+  <string name="install_confirm_text_gms">Bu uygulama Google tarafından yapılmıştır. Bu uygulamayı yüklemeden önce Google Play hizmetlerini yükleyin. Bu çerçeve olmadan uygulama düzgün çalışmayabilir.</string>
+  <string name="install_control_cancel_vip_account_install">Çık</string>
+  <string name="install_control_vip_account_install">Beta için başvur</string>
+  <string name="install_vip_account_mode_explain_des">Bu, uygulamanın Beta sürümüdür. Yüklemeden önce Beta test izinleri için başvurun.</string>
+  <string name="install_vip_account_mode_solution_des">Beta için başvur</string>
+  <string name="intercept_confirm_dialog_message">%1$s, %2$s uygulamasını yüklemeye çalışıyor. Devam etmek için kimliğinizi doğrulayın.</string>
+  <string name="intercept_confirm_dialog_positive">Doğrula</string>
+  <string name="intercept_confirm_dialog_title">Dikkat</string>
+  <string name="spannable_continue_text">Riskleri anlıyorum. Yine de yükle.</string>
 </resources>

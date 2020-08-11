@@ -278,7 +278,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="ai_settings_single_click_title">Basın</string>
   <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
   <string name="airplane_mode">Uçak modu</string>
-  <string name="airplane_mode_summary">Çağrıları, SMS\'leri, mobil veriyi devre dışı bırakır</string>
+  <string name="airplane_mode_summary">Cihazınızın mobil ağlarla bağlantısını kesmek için açın. Bu özellik açıkken çağrı yapamayacak, kısa mesaj gönderip alamayacak veya mobil veri kullanamayacaksınız.</string>
   <string name="alarm_ringtone_title">Varsayılan alarm zil sesi</string>
   <string name="alarm_sound_dialog_title">Alarmı seçiniz</string>
   <string name="alarm_sound_title">Alarm</string>
@@ -2232,7 +2232,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="find_my_device">Cihazı bul</string>
   <string name="find_my_device_disable">Kapalı</string>
   <string name="find_my_device_enable">Açık</string>
-  <string name="find_my_device_summary">Mi hesabına giriş yapılmalıdır</string>
+  <string name="find_my_device_summary">Bu özellik, Mi Hesabı\'nda oturum açmayı gerektirir</string>
   <string name="fingerprint_add_max">%d için parmak izi ekleyebilirsiniz</string>
   <string name="fingerprint_add_title">Parmak izi ekle</string>
   <string name="fingerprint_and_password_entrance_title">Ekran kilidi &amp; parmak izi</string>
@@ -7472,4 +7472,11 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="launch_wechat_payment_code">WeChat ödeme kodu</string>
   <string name="launch_wechat_scanner">WeChat tarayıcı</string>
   <string name="mute">Sessiz mod</string>
+  <string name="advanced_gesture">Özel hareketler</string>
+  <string name="change_brightness">Parlaklığı ayarla</string>
+  <string name="double_click_volume_down_when_lock">Ekran kilitliyken Sesi kısma tuşuna iki kez basın</string>
+  <string name="gesture_function_dialog_message">%1$s, \"%2$s\" için kullanılıyor. \"%3$s\" ile değiştirilsin mi?</string>
+  <string name="gesture_settings_title">Hareket kısayolları</string>
+  <string name="key_combination_power_volume_down">Ses kısma + Güç</string>
+  <string name="long_press_power_key_half_second">Güç düğmesini 0.5 saniye basılı tutun</string>
 </resources>

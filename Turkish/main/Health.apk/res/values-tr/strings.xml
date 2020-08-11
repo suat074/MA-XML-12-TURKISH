@@ -989,9 +989,9 @@
   <string name="stand_notice_title4">Ayağa kalk ve biraz gerin</string>
   <string name="stand_notice_title5">Görünüşe göre son bir saat içinde ayağa kalkmadın</string>
   <string name="stand_notice_title6">Son bir saat içinde ayağa kalktın mı?</string>
-  <string name="stand_remind_setting_desc">1 saat içinde hiçbir ayakta durma faaliyeti tespit edilmezse, ayakta durmanızı hatırlatan bir bildirim gönderin</string>
+  <string name="stand_remind_setting_desc">1 saatlik hareketsizlikten sonra ayağa kalkmanız için bir hatırlatma alın</string>
   <string name="stand_setting">Ayarlar</string>
-  <string name="stand_stop_reminding">Ayakta durma hatırlatıcıları almayı durdur</string>
+  <string name="stand_stop_reminding">Bir daha gösterme</string>
   <string name="standard_format">(standart: %1s)</string>
   <string name="standing_already">" Ayağa kalktın"</string>
   <string name="state_agree">Kabul et</string>
@@ -1305,4 +1305,23 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="year">Yıl</string>
   <string name="yesterday">Dün</string>
+  <string name="heart_rate">Kalp atış hızı</string>
+  <string name="hr_heart_rate_unit">Kalp atış hızı (BPM)</string>
+  <string name="hr_input_heart_rate">Kalp atış hızını kaydet</string>
+  <string name="hr_state">Durum</string>
+  <string name="hr_state_active">Aktif</string>
+  <string name="hr_state_fast">Hızlı</string>
+  <string name="hr_state_normal">Normal</string>
+  <string name="hr_state_regular">Düzenli</string>
+  <string name="hr_state_resting">Dinlenme</string>
+  <string name="hr_state_slow">Yavaş</string>
+  <string name="per_time_minutes_heart_rate">" BPM"</string>
+  <string name="resting_heart_rate">Dinlenmiş kalp atış hızı</string>
+  <string name="resting_heart_rate_desc">Dinlenme halindeki yetişkinler için normal kalp atış hızı dakikada 60 ila 100 atış arasındadır. Yaşa, cinsiyete ve diğer faktörlere bağlı olarak değişebilir.</string>
+  <string name="tb_heart_rate_max_min">Kalp atış hızı. En yüksek: %1$d. En düşük: %2$d.</string>
+  <string name="tb_home_heart_rate_card">Kalp atış hızı. Dakikada %1$d vuruş. %2$s üzerinde kaydedildi.</string>
+  <string name="tb_home_heart_rate_card_no_data">Kalp atış hızı. Veri yok.</string>
+  <string name="tb_range">%1$s ile %2$s arası</string>
+  <string name="tb_resting_heart_rate_avg">Ortalama dinlenmiş kalp atış hızı: %1$d. Durum: %2$s.</string>
+  <string name="tb_resting_heart_rate_avg2">Ortalama dinlenmiş kalp atış hızı. En yüksek: %1$d. En düşük: %2$d.</string>
 </resources>

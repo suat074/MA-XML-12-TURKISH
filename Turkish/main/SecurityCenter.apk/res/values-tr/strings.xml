@@ -3461,4 +3461,14 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="usb_mount">USB depolama cihazını bağla</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="activity_title_risk_app_install_manager">Olası riskli uygulamalar</string>
+  <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
+  <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım.</string>
+  <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü taraf olarak geliştirilmiştir ve yerel yasa ve yönetmelikleri ihlal edebilir. Xiaomi, bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır.</string>
+  <string name="risk_app_install_agree_title">Yasal uyarı</string>
+  <string name="risk_app_install_auth_result">%1$s kurulumuna izin verdiniz. Kurulum paketi algılandıktan sonra devam edebilirsiniz.</string>
+  <string name="risk_app_install_empty_text">Henüz burada öğe yok</string>
+  <string name="risk_app_install_history">Yetki geçmişi</string>
+  <string name="risk_app_install_item_des">Sürüm: %1$s</string>
+  <string name="risk_app_install_manager">Olası riskli uygulamalar</string>
 </resources>
