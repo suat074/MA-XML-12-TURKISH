@@ -219,6 +219,7 @@ EEE"</string>
   <string name="time_picker_dialog_title">Zamanı ayarla</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
+  <string name="title_system_wallpaper_resource">Sistem duvar kağıtları</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="tuesday">Salı</string>

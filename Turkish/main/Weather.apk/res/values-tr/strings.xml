@@ -199,7 +199,7 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="life_index_title">Hava durumu endeksi</string>
     <string name="locate_fail_detail_err">"Cihaz konumu bulunamıyor
 Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
-    <string name="location_provider_btn_text">Konum hizmetlerini aç</string>
+    <string name="location_provider_btn_text">Hava Durumunun konumunuza erişmesine izin verin</string>
     <string name="location_tag">Konum</string>
     <string name="manager_city_option_add_city_back_search">Aramaya geri dön</string>
     <string name="manager_city_option_add_city_content">Bu şehir başarıyla açılış sayfasına eklendi</string>

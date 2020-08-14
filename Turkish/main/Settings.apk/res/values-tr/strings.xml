@@ -7479,4 +7479,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="gesture_settings_title">Hareket kısayolları</string>
   <string name="key_combination_power_volume_down">Ses kısma + Güç</string>
   <string name="long_press_power_key_half_second">Güç düğmesini 0.5 saniye basılı tutun</string>
+  <string name="sim_card_lock">SIM kart durumu</string>
+  <string name="smart_home_title">Akıllı ev</string>
+  <string name="smart_home_value_none">Yok</string>
+  <string name="smart_home_value_unknown">Bilinmeyen</string>
 </resources>

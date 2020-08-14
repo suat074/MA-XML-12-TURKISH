@@ -578,4 +578,9 @@
   <string name="wait_wifi">WLAN bağlantısı bekleniyor</string>
   <string name="waiting">Bekliyor</string>
   <string name="wangpan_root_path">Sürücüm</string>
+  <string name="setting_create_shortcut">Ana ekran kısayolu</string>
+  <string name="shortcut_dialog_confirm">Oluştur</string>
+  <string name="shortcut_dialog_content">Mi Drive için bir Ana ekran kısayolu oluşturulsun mu?</string>
+  <string name="tip_shortcut_added_success">Başarıyla oluşturuldu</string>
+  <string name="tip_shortcut_already_added">Ana ekran kısayolu zaten var</string>
 </resources>

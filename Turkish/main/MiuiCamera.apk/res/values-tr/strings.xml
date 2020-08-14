@@ -729,6 +729,8 @@ Makro modunu kullanın"</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>
   <string name="only_mimoji_multi_window_mode_not_supported">Bu özellik çoklu pencere modunda kullanılamaz</string>
+  <string name="pano_click_to_toggle_direction">Yönü değiştirmek için oka dokunun</string>
+  <string name="pano_go_on_moving">Lütfen telefonu ok yönünde sabit bir hızda hareket ettirin</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Referans çizgisi ile oku hizalayın</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Devam et…</string>
   <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
@@ -887,9 +889,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
   <string name="pref_camera_dynamic_frame_rate_summary">Video kalitesini artırmak için düşük ışık koşullarında %1$d olan kare hızını %2$d FPS\'ye düşürün</string>
   <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarlayın</string>
-  <string name="pref_camera_eis_entry_normal">EIS açık</string>
+  <string name="pref_camera_eis_entry_normal">Sabit video</string>
   <string name="pref_camera_eis_entry_off">Kapalı</string>
-  <string name="pref_camera_eis_entry_pro">EIS Pro açık</string>
+  <string name="pref_camera_eis_entry_pro">Sabit video Pro</string>
   <string name="pref_camera_eis_title">EIS</string>
   <string name="pref_camera_face_info_watermark_title">Fotoğrafta yüz bilgilerini göster</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Yüz algılama otomatik gizli</string>
@@ -1318,7 +1320,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="video_beauty_tip">Videolar için güzelleştirme</string>
-  <string name="video_beauty_tip_beautification">Güzelleştir</string>
+  <string name="video_beauty_tip_beautification">Filtreler</string>
   <string name="video_beauty_tip_filter">Filtreler</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_bokeh_blur">Bulanık</string>
