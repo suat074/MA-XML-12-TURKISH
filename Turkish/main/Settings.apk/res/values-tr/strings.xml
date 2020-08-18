@@ -3969,7 +3969,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="password_security_settings_title">Şifreler &amp; güvenlik</string>
   <string name="password_turned_off_text">Şifre kapatıldı</string>
   <string name="password_turned_on_text">Şifre açıldı</string>
-  <string name="password_unlock_title">Şifre</string>
+  <string name="password_unlock_title">Ekran kilidi</string>
   <string name="payment_summary">%1$s varsayılandır</string>
   <string name="peek_notification_icon_title">Gelen bildirimler için simgeleri göster</string>
   <string name="performance_category">Performans</string>
@@ -4637,6 +4637,8 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="screen_projection_sample_title">Demolar</string>
   <string name="screen_projection_title">Yansıt</string>
   <string name="screen_reader_category_title">Ekran okuyucular</string>
+  <string name="screen_reader_mode_input_type_summary">TalkBack açıkken metin girişini etkinleştirmek için hareket seçin</string>
+  <string name="screen_reader_mode_input_type_title">Metin girişi</string>
   <string name="screen_resolution_dialog_title">Çözünürlüğü Değiştir</string>
   <string name="screen_resolution_high_format">Yüksek (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>

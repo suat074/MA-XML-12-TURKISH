@@ -1435,5 +1435,9 @@
     <item>Otomatik (önerilir)</item>
     <item>Doygun</item>
     <item>Orijinal renk</item>
-  </string-array>  
+  </string-array>
+  <string-array name="screen_reader_mode_input_type_selector_titles">
+    <item>Dokun</item>
+    <item>İki kez dokun</item>
+  </string-array>
 </resources>

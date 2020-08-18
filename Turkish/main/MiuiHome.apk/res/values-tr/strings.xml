@@ -608,4 +608,11 @@
   <string name="navigation_guide_settings">Hareket önizlemeleri</string>
   <string name="switch_screen_button_order">Tuşları ters çevir</string>
   <string name="switch_screen_button_order_desc">Geri ve Menü tuşlarının yerini değiştir</string>
+  <string name="menu_new_display_open">Yeni pencerede aç</string>
+  <string name="menu_pc_open">Bilgisayar programı ile aç</string>
+  <string name="navigation_type_title_synonyms_1">Tam ekran</string>
+  <string name="navigation_type_title_synonyms_2">Küçük beyaz çubuk</string>
+  <string name="navigation_type_title_synonyms_3">Tam ekran hareketleri</string>
+  <string name="navigation_type_title_synonyms_4">Gezinme tuşu</string>
+  <string name="open_personal_assistant_title_synonyms">Yardımcı ekran</string>
 </resources>

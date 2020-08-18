@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_for_continue_timer">Devam</string>
+  <string name="action_for_pause_timer">Duraklat</string>
+  <string name="action_for_restart">Tekrarla</string>
+  <string name="action_for_snooze">Ertele</string>
+  <string name="action_for_stop">Durdur</string>
   <string name="add_alarm">Alarm ekle</string>
   <string name="add_timer">Sık zamanlayıcı</string>
   <string name="add_clock">Saat ekle</string>
