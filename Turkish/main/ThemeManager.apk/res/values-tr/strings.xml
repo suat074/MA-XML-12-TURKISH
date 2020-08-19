@@ -359,7 +359,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="kuyin_user_agreement_content_href">iFlytek Gizlilik Politikası</string>
   <string name="lab">Tema laboratuvarı</string>
   <string name="like_list">Beğendiklerim</string>
-  <string name="live_wallpaper">Hareketli duvar kağıdı</string>
+  <string name="live_wallpaper">Hareketli duvar kağıtları</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
   <string name="loading_resource_detail_info">Sadece bir saniye…</string>
@@ -781,7 +781,7 @@ EEE"</string>
   <string name="show_mamual_hide_theme">Gizli temaları göster</string>
   <string name="show_mamual_hide_wallpaper">Gizli duvar kağıtlarını göster</string>
   <string name="stagger_list_end">Şimdilik bu kadar</string>
-  <string name="super_wallpaper">Süper Duvar Kağıtları</string>
+  <string name="super_wallpaper">Süper duvar kağıtları</string>
   <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından oluşturulur. Uygulamamız, çalışmaları desteklememize olanak tanıyan az miktarda reklam içerir.</string>
   <string name="support_theme_store_supported">Desteğin için teşekkürler!</string>
   <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>

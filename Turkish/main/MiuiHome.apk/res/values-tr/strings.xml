@@ -484,6 +484,8 @@
   <string name="reset_fail">Geri yüklenemedi</string>
   <string name="reset_scene_prompt">Ekran varsayılan düzene sıfırlanacaktır.</string>
   <string name="reset_title">Geri yükle</string>
+  <string name="resource_canary_leak_tip">sızıntı var!</string>
+  <string name="resource_canary_wait_for_heapdump_message">Yığın anlık görüntüsü atılıyor...</string>
   <string name="screen_cells_config_title">Ana ekran düzeni</string>
   <string name="screen_locked_toast">Ana ekran düzeni kilitli.</string>
   <string name="screen_number">%d ekran</string>

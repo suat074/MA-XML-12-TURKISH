@@ -329,6 +329,8 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="gallery_tab_all">Tümü</string>
   <string name="gallery_tab_videos">Videolar</string>
   <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için iki kez dokunun</string>
+  <string name="galleryplus_copyright_unsported_audio">Telif hakkı kısıtlamaları nedeniyle ses parçası videosu oynatılamıyor</string>
+  <string name="galleryplus_copyright_unsported_video">Telif hakkı kısıtlamaları nedeniyle bu video oynatılamıyor</string>
   <string name="galleryplus_cta_tips">Kullanıcı Deneyimi Programına kaydolarak ve Mi Video\'nun internete bağlanmasına izin vererek hizmetlerimizi geliştirmemize yardımcı olabilirsiniz. Kabul ediyor musunuz?</string>
   <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar iki kez dokunun</string>
   <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
@@ -1141,6 +1143,8 @@ Hesap güvenliğinizin artırılması."</string>
   <string name="video_live_over">Bu oturum sona erdi</string>
   <string name="video_offline">Bu öge artık kullanılabilir değil</string>
   <string name="vp_app_name">Video Oynatıcı</string>
+  <string name="vp_copyright_unsported_audio">Telif hakkı kısıtlamaları nedeniyle ses parçası videosu oynatılamıyor</string>
+  <string name="vp_copyright_unsported_video">Telif hakkı kısıtlamaları nedeniyle bu video oynatılamıyor</string>
   <string name="vp_hardware_unsported">Bu video cihazınızda oynatılamıyor.</string>
   <string name="vp_notify_apk_installed">Başarıyla indirildi</string>
   <string name="vp_replay">Yeniden oynat</string>
