@@ -80,7 +80,7 @@
   <string name="activate_email_notice">Hesabınızı 24 saat içinde etkinleştirdiğinizden emin olun.</string>
   <string name="activity_not_found_notice">Uygulama bulunamadı</string>
   <string name="add_account">Hesaba bağlan</string>
-  <string name="agreement_and_privacy">Gizlilik Politikası ve Kullanıcı Sözleşmesi</string>
+  <string name="agreement_and_privacy">Şartlar ve koşullar</string>
   <string name="app_name">Mi Hesabı</string>
   <string name="auth_fail_warning">Oturum süresi doldu, yeniden oturum açın</string>
   <string name="authorize_title">Yetkilendir</string>
@@ -212,6 +212,7 @@
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="google">Google</string>
   <string name="guest_account_label">Mi Misafir Hesabı</string>
+  <string name="help_center">Yardım</string>
   <string name="i_agree">Tamam</string>
   <string name="i_agree_continue">Kabul</string>
   <string name="identity">Kimlik</string>

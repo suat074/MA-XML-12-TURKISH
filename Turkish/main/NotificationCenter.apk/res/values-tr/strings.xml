@@ -58,6 +58,9 @@
   <string name="lock_screen_display_rules">Biçim</string>
   <string name="lock_screen_tip_toast">\"Biçim\" içinde Kilit ekranı bildirimlerine izin ver</string>
   <string name="lockscreen_notifications">Kilit ekranı bildirimleri</string>
+  <string name="menu_setting_aggregatation_feedback">Gruplama seçenekleri</string>
+  <string name="menu_setting_feedback_donot_classify">Gruplama</string>
+  <string name="menu_setting_more_settings">Diğer ayarlar</string>
   <string name="menu_setting_recommend_to_minus">Daha az bildirim göster</string>
   <string name="menu_setting_recommend_to_normal">Bildirimleri azaltma</string>
   <string name="menu_setting_show_in_home">Gruplandırma</string>
@@ -107,6 +110,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
   <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
+  <string name="mune_setting_prefix_category">"Grupla "</string>
   <string name="not_sent_recently">Yakınlarda yok</string>
   <string name="notch_and_status_bar_setting">Kontrol merkezi &amp; durum çubuğu</string>
   <string name="notification_aggregate_description1">MIUI, push ve promosyon bildirimlerini otomatik olarak gruplandırarak Bildirim alanınızı daha az kalabalık hale getirebilir.</string>
@@ -128,6 +132,7 @@ Bu sorunu bildirin &gt;"</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="search_menu_title">Ara</string>
   <string name="settings_guide_title">Diğer ayarlara ihtiyacınız var mı?</string>
+  <string name="setting_menu_success">Başarıyla ayarlandı</string>
   <string name="show_badge_notifications">Bildirim rozetleri</string>
   <string name="status_bar_setting">Durum çubuğu</string>
   <string name="summary_disable_float_notification">Kayan bildirimlere izin verilmiyor</string>
@@ -140,6 +145,7 @@ Bu sorunu bildirin &gt;"</string>
   <string name="summary_lock_screen_enable_notification_first">Bildirimlerin, Kilit ekranı bildirimlerini açabilmesi için izin ver</string>
   <string name="summary_show_badge_enable_notification_first">Bildirimlerin, bildirim rozetlerini açabilmesi için izin ver</string>
   <string name="tip_feedback_success">Başarıyla gönderildi</string>
+  <string name="tip_feedback_thanks">Geri bildiriminiz için teşekkür ederiz!</string>
   <string name="tip_select_category">Bildirim kategorisini seçin</string>
   <string name="float_notifications_short">Yüzer</string>
   <string name="lockscreen_notifications_short">Kilit ekranı</string>

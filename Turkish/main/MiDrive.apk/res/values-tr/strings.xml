@@ -591,4 +591,17 @@
   <string name="shortcut_dialog_content">Mi Drive için bir Ana ekran kısayolu oluşturulsun mu?</string>
   <string name="tip_shortcut_added_success">Başarıyla oluşturuldu</string>
   <string name="tip_shortcut_already_added">Ana ekran kısayolu zaten var</string>
+  <string name="update_dialog_button_cancel">Şimdi değil</string>
+  <string name="update_dialog_button_ok">Güncelle</string>
+  <string name="update_dialog_content">"Yeni sürüm: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Bir güncelleme mevcut</string>
+  <string name="update_failed">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="update_failed_no_app_info">Kurulum paketi alınamadı</string>
+  <string name="update_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="update_no_update">Mevcut sürüm güncel</string>
+  <string name="update_progress_dialog_content">İndiriliyor…</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
 </resources>
