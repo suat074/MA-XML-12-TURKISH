@@ -508,7 +508,11 @@
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">"Resim yüklenemedi"</string>
   <string name="kilobyteShort">KB</string>
-  <string name="load_err">"Yüklenemedi"</string>
+  <string name="load_err">Yüklenemedi</string>
+  <string name="load_label_up_no_data">Gösterilecek başka öğe yok</string>
+  <string name="load_label_up_none">Gösterilecek başka öğe yok</string>
+  <string name="load_label_up_refresh">Öğeler yükleniyor…</string>
+  <string name="load_label_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="login_reg_content">Dosyaları saklayın ve birden çok cihaz arasında eşitleyin.</string>
   <string name="login_reg_title">Mi Drive uygulamasını heryerde kullanın.</string>
   <string name="move_failed">"Kesilemedi"</string>
@@ -554,6 +558,10 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Önce Gezgini güncelleyin.</string>
   <string name="quota_info">Mi Drive: %1$s mevcut, toplam %2$s</string>
+  <string name="refresh_label_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="refresh_label_refreshed">Başarıyla yenilendi</string>
+  <string name="refresh_label_refreshing">Yenileniyor…</string>
+  <string name="refresh_label_release_to_refresh">Yenilemek için bırakın</string>
   <string name="rename_alert">"Bu dosyanın uzantısını değiştirirseniz, bunu açmak mümkün olmayabilir."</string>
   <string name="rename_failed">Aynı isimde bir dosya zaten var.</string>
   <string name="request_permission_msg">Mi Drive\'ın hesabınıza erişmesine izin verin.</string>

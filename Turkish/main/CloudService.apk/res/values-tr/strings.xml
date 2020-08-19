@@ -553,4 +553,9 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="midrive_guide_btn_install">Mi Drive\'ı yükle</string>
   <string name="midrive_guide_btn_installed">Mi Drive\'ı aç</string>
   <string name="midrive_guide_btn_installing">Yükleniyor…</string>
+  <string name="low_battery_locate_summary">Pil azaldığında konum bilgilerini otomatik olarak bildirin</string>
+  <string name="low_battery_locate_title">Pil azaldığında konumu bildir</string>
+  <string name="power_off_locate_summary">"Güç düğmesine uzun basarak konum bilgilerini bildirin.
+Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
+  <string name="power_off_locate_title">Gücü kapatmadan önce konumu bildir</string>
 </resources>

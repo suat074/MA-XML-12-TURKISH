@@ -3439,8 +3439,8 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="mqs_privacy_automatically_upload">Bir dahaki sefere otomatik yükle</string>
   <string name="mqs_privacy_dialog_cancel">İptal</string>
   <string name="mqs_privacy_dialog_confirm">Yükle</string>
-  <string name="mqs_privacy_dialog_content">Bu sorunu bulmamıza ve çözmemize yardımcı olmak için günlükleri yükleyin. Günlükler, bulunduğunuz yerle ilgili bilgiler dahil olmak üzere kişisel bilgilerinizi içerebilir.</string>
-  <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>
+  <string name="mqs_privacy_dialog_content">Yakın zamanda cihazınızda hatalar oluşmuş gibi görünüyor. Bu sorunu bulmamıza ve çözmemize yardımcı olması için günlükleri yükleyebilirsiniz. Günlükler, konumunuzla ilgili bilgiler dahil kişisel bilgilerinizi içerebilir. Şimdi yüklensin mi?</string>
+  <string name="mqs_privacy_dialog_title">Günlükleri yükle</string>
   <string name="msd_driver_download">Sürücüyü indir</string>
   <string name="msd_driver_download_mac">OSX: Sürücüyü indirin ve AndroidFileTransfer.dmg dosyasını yükleyin</string>
   <string name="msd_driver_download_mac_url">Sürücüleri http://www.android.com/filetransfer/ adresten alın</string>
