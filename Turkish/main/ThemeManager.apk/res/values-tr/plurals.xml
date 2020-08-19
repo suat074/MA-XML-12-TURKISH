@@ -30,52 +30,52 @@
     <item quantity="one">1 dak önce</item>
   </plurals>
   <plurals name="aod_batch_has_update_text">
-    <item quantity="one">%1$d tema için güncelleme mevcut</item>
     <item quantity="other">%1$d tema için güncelleme mevcut</item>
+	<item quantity="one">%1$d tema için güncelleme mevcut</item>
   </plurals>
   <plurals name="aod_batch_updating_text">
-    <item quantity="one">%1$d tema güncelleniyor</item>
     <item quantity="other">%1$d tema güncelleniyor</item>
+	<item quantity="one">%1$d tema güncelleniyor</item>
   </plurals>
   <plurals name="anonymous_resource_count_aod">
-    <item quantity="one">%1$d AOD teması</item>
     <item quantity="other">%1$d AOD teması</item>
+    <item quantity="one">%1$d AOD teması</item>
   </plurals>
   <plurals name="anonymous_resource_count_font">
-    <item quantity="one">%1$d yazı tipi</item>
     <item quantity="other">%1$d yazı tipi</item>
+	<item quantity="one">%1$d yazı tipi</item>
   </plurals>
   <plurals name="anonymous_resource_count_icon">
-    <item quantity="one">%1$d simge</item>
     <item quantity="other">%1$d simge</item>
+	<item quantity="one">%1$d simge</item>
   </plurals>
   <plurals name="anonymous_resource_count_theme">
-    <item quantity="one">%1$d tema</item>
     <item quantity="other">%1$d tema</item>
+	<item quantity="one">%1$d tema</item>
   </plurals>
   <plurals name="anonymous_resource_count_title">
-    <item quantity="one">%1$d öğe ekle</item>
     <item quantity="other">%1$d öğe ekle</item>
+	<item quantity="one">%1$d öğe ekle</item>
   </plurals>
   <plurals name="anonymous_resource_link_success_message">
-    <item quantity="one">Hesabınıza %1$d öğe eklendi. Siparişlerinizde eklenen öğeleri görüntüleyin.</item>
     <item quantity="other">Hesabınıza %1$d öğe eklendi. Siparişlerinizde eklenen öğeleri görüntüleyin.</item>
+	<item quantity="one">Hesabınıza %1$d öğe eklendi. Siparişlerinizde eklenen öğeleri görüntüleyin.</item>
   </plurals>
   <plurals name="anonymous_resource_login_message">
-    <item quantity="one">Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlamasız indirmek için oturum açın.</item>
     <item quantity="other">Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlamasız indirmek için oturum açın.</item>
+	<item quantity="one">Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlamasız indirmek için oturum açın.</item>
   </plurals>
   <plurals name="anonymous_resource_view">
-    <item quantity="one">%1$d öğe hesabınıza eklenmedi</item>
     <item quantity="other">%1$d öğe hesabınıza eklenmedi</item>
+	<item quantity="one">%1$d öğe hesabınıza eklenmedi</item>
   </plurals>
   <plurals name="de_author_fans_amount">
-    <item quantity="one">%1$d hayran</item>
     <item quantity="other">%1$d hayran</item>
+	<item quantity="one">%1$d hayran</item>
   </plurals>
   <plurals name="de_author_theme_amount">
-    <item quantity="one">%1$d öğe</item>
     <item quantity="other">%1$d öğe</item>
+	<item quantity="one">%1$d öğe</item>
   </plurals>
   <plurals name="de_icon_count">
     <item quantity="other">%1$d simge</item>
@@ -86,12 +86,12 @@
     <item quantity="other">%1$d daha fazla yorum</item>
   </plurals>
   <plurals name="detail_reward_few_times">
-    <item quantity="one">%s ödül</item>
     <item quantity="other">%s ödül</item>
+	<item quantity="one">%s ödül</item>
   </plurals>
   <plurals name="detail_reward_times">
-    <item quantity="one">%s ödül</item>
     <item quantity="other">%s ödül</item>
+	<item quantity="one">%s ödül</item>
   </plurals>
   <plurals name="detail_update_time_hour">
     <item quantity="other">%d saat önce</item>
@@ -145,8 +145,8 @@
     <item quantity="one">%d yorum</item>
   </plurals>
   <plurals name="resource_download_notification_title_many">
-    <item quantity="one">%1$d öğe başarıyla indirildi</item>
     <item quantity="other">%1$d öğe başarıyla indirildi</item>
+	<item quantity="one">%1$d öğe başarıyla indirildi</item>
   </plurals>
   <plurals name="resource_rating">
     <item quantity="other">%1$.1f puan</item>

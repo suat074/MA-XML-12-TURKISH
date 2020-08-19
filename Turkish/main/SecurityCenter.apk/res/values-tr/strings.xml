@@ -1443,6 +1443,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
   <string name="gtb_setting_item_summary_smart_5g">Game Turbo bir 5G ağı algıladığında, ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
   <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed">Mi/Redmi yönlendiricilerine bağlandığında bağlantı hızını 10%-20% artırın</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi hız artırma</string>
+  <string name="gtb_wlan_speed_tips">Mi WiFi kullanılıyor…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'><u>Yanlış operatör mü?</u>&lt;/font>"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>
