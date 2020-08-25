@@ -1582,7 +1582,7 @@
   <string name="screenshot_failed_in_landscape_mode">Yatay modda kaydırma ekran görüntüsü alınamıyor</string>
   <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
   <string name="screenshot_failed_to_capture_text">Uygulama veya kuruluşunuz tarafından ekran görüntüsü alınmasına izin verilmiyor</string>
-  <string name="screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almaya izin vermiyor</string>
+  <string name="screenshot_failed_to_capture_title">Burada ekran görüntüsü alınamıyor</string>
   <string name="screenshot_failed_to_save_text">Sınırlı depolama alanı nedeniyle ekran görüntüsü kaydedilemiyor.</string>
   <string name="screenshot_failed_to_save_title">Yeni ekran görüntüleri için yeterli depolama alanı yok</string>
   <string name="screenshot_failed_to_save_unknown_text">Ekran görüntüsü kaydedilirken bir hata oluştu.</string>
@@ -1634,6 +1634,8 @@
   <string name="show_silently">Bildirimleri sessizce göster</string>
   <string name="show_touches">Dokunmayı göster</string>
   <string name="show_touches_summary">Dokunmalarda görsel geri bildirim göster</string>
+  <string name="sim_state_locked_dialog_title">Geçersiz SIM kart</string>
+  <string name="sim_state_locked_puk_dialog_message">En az 10 kez yanlış PUK kodu girdiniz. SIM kartınız şu anda geçersiz. Bu SIM kartı bir başkasıyla değiştirin.</string>
   <string name="simulate_color_space">Renk uzayını simüle et</string>
   <string name="snooze_option_15_min">15 dakika</string>
   <string name="snooze_option_1_hour">1 saat</string>

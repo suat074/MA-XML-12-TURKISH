@@ -1041,6 +1041,7 @@
   <string name="mobile_data_status_roaming_turned_on_subtext">Veri dolaşımını aç</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Şu anda dolaşımda olan veri planı etkin</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Şu anda dolaşım, veri planına ihtiyaç duyuyor</string>
+  <string name="mobile_intelligent_connection_title">Mobil ağ akıllı bağlantı</string>
   <string name="mobile_network_settings_not_available">Bu kullanıcı için hücresel ağ ayarları mevcut değil</string>
   <string name="mobile_networks">Mobil ağ ayarları</string>
   <string name="mobile_property">Mobil ağ özellikleri</string>
@@ -1742,6 +1743,8 @@
   <string name="title_cfu_enabled">Çağrı yönlendirme açık</string>
   <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürme</string>
   <string name="track_frame_time">Profil GPU oluşturma</string>
+  <string name="traffic_mode_summary">Mevcut uygulama, ağ kaynağını kullanma önceliğine sahiptir, aşırı deneyim sağlar. Bu, arka plandaki uygulamanın ağı kullanamamasına neden olabilir</string>
+  <string name="traffic_mode_switch_title">Aşırı mod</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
   <string name="transport_title">Taşıma Tipi</string>
   <string name="tts_default_lang_summary">Konuşulan metnin dile özgü sesini ayarlar</string>

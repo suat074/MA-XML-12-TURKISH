@@ -118,6 +118,8 @@
   <string name="input_method_clipboard_clear_all_phrase_des">Panonuzdaki tüm öğeler temizlensin mi?</string>
   <string name="input_method_clipboard_copy_success">Başarıyla kopyalandı</string>
   <string name="input_method_clipboard_delete_success">Başarıyla silindi</string>
+  <string name="input_method_clipboard_move_cursor_guide1">İmleci taşımak için mavi alana basın ve basılı tutun ~</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Parmağınızı yatay olarak hareket ettirin ~</string>
   <string name="input_method_clipboard_participle">Ayrı kelimeler</string>
   <string name="input_method_clipboard_settings_button">Ayarlar</string>
   <string name="input_method_clipboard_tips">Kopyalanan öğeler 48 saat sonra panodan silinecek</string>

@@ -2663,6 +2663,9 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="input_method_function_xiaoai">Mi AI sesli giriş</string>
   <string name="input_method_function_xiaoai_des">Mi AI sesli girişi kullanmak için dokunun</string>
   <string name="input_method_manage">Klavyeleri yönet</string>
+  <string name="input_method_middle_function_move_cursor">İmleci taşı</string>
+  <string name="input_method_middle_function_move_cursor_des">İmleci taşımak için orta alana basın ve basılı tutun</string>
+  <string name="input_method_middle_function_no_function_des">Herhangi bir eylem atama</string>
   <string name="input_method_quick_access">Hızlı erişim</string>
   <string name="input_method_quick_cloud_mode_title">Yeni pano içeriği hakkında bildirimler</string>
   <string name="input_method_quick_cloud_summary">Uyumlu bilgisayarlarda öğeleri kopyalayın ve cihazınıza yapıştırın</string>
@@ -3308,6 +3311,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="mi_shopping_mall">Grup VKontakte</string>
   <string name="mi_transfer">Mi Transfer</string>
   <string name="mi_upi_settings">Mi Ödeme Hesabı</string>
+  <string name="middle_function_key">Orta alan</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Çeşitli Dosyalar</string>
   <string name="misc_files_selected_count">" %2$d\'den %1$d seçildi"</string>
