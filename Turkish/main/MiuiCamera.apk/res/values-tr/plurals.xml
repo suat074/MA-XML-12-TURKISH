@@ -12,6 +12,10 @@
     <item quantity="other">Odaklandı. %d yüz algılandı</item>
     <item quantity="one">Odaklandı. %d yüz algılandı</item>
   </plurals>
+  <plurals name="accessibility_vv_duartion">
+    <item quantity="other">Süre: %d saniye</item>
+    <item quantity="one">Süre: %d saniye</item>
+  </plurals>
   <plurals name="clone_guide_tip2">
     <item quantity="other">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
     <item quantity="one">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>

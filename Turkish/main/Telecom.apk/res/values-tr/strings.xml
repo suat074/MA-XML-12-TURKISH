@@ -301,6 +301,8 @@
   <string name="notification_channel_call_blocking">Çağrı engelleme</string>
   <string name="notification_channel_incoming_call">Gelen aramalar</string>
   <string name="notification_channel_missed_call">Cevapsız aramalar</string>
+  <string name="notification_incallservice_not_responding_body">Çağrınız, cihazınızla birlikte gelen telefon uygulamasını kullandı</string>
+  <string name="notification_incallservice_not_responding_title">%s yanıt vermeyi durdurdu</string>
   <string name="notification_incoming_call">%2$s ile %1$S çağrısı</string>
   <string name="notification_incoming_video_call">%2$s ile %1$S görüntülü çağrı</string>
   <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>

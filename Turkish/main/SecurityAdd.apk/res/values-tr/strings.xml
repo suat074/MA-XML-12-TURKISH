@@ -364,6 +364,9 @@
   <string name="title_share_link">URL\'yi paylaş</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
+  <string name="tool_box_active_loading">Sadece bir saniye…</string>
+  <string name="tool_box_active_no_networ">Ağa bağlanılamadı</string>
+  <string name="tool_box_active_reload">Yenile</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">Sal</string>

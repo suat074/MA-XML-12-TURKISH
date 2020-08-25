@@ -88,6 +88,10 @@
     <item quantity="other">%1$d dakika içinde</item>
     <item quantity="one">%1$d dakika içinde</item>
   </plurals>
+  <plurals name="ew_concern_date">
+    <item quantity="other">%d gün önce</item>
+    <item quantity="one">%d gün önce</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">%d uygulamada ara</item>
     <item quantity="one">%d uygulamada ara</item>

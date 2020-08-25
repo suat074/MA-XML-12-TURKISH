@@ -156,7 +156,7 @@
   <string name="app_pa_setting_service_stock">Hisse senetleri</string>
   <string name="app_pa_setting_service_stock_summary">En son piyasa trendleri</string>
   <string name="app_pa_setting_service_timetable">Sınıf programı</string>
-  <string name="app_pa_setting_service_timetable_summary">Tüm sınıflarınız tek bir yerde</string>
+  <string name="app_pa_setting_service_timetable_summary">Sınıfları zamanlamak için dokunun</string>
   <string name="app_pa_setting_title">Ayarlar</string>
   <string name="app_pa_setting_version">Sürüm: %1$s</string>
   <string name="app_stock_more_add_stock">Ekle</string>
@@ -1518,4 +1518,26 @@
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Dün</string>
+  <string name="app_sleep">Uyku</string>
+  <string name="app_sleep_awake">Uyanık</string>
+  <string name="app_sleep_continue">Daha iyi uyu</string>
+  <string name="app_sleep_deep">Derin</string>
+  <string name="app_sleep_enough">Yeterli</string>
+  <string name="app_sleep_light">Hafif</string>
+  <string name="app_sleep_sleeping">Daha fazla uyu</string>
+  <string name="app_sleep_too_long">Çok fazla</string>
+  <string name="app_sleep_too_short">Yeterli değil</string>
+  <string name="app_stock_network_unavailable">Ağa bağlanılamadı</string>
+  <string name="app_stock_search_fail">Sonuçlar bulunamadı</string>
+  <string name="app_stock_search_loading">Sadece bir saniye…</string>
+  <string name="base_hour_minute">%1$ds%2$dd</string>
+  <string name="commute_navigation_choice">Navigasyon uygulaması</string>
+  <string name="commute_navigation_choice_recommend">Otomatik</string>
+  <string name="commute_navigation_dialog_item_recommend">Otomatik (tercihlerinize göre)</string>
+  <string name="commute_navigation_dialog_title">Navigasyon uygulamasını seçin</string>
+  <string name="cta_dialog_all_purpose">Uygulama kasasına hoş geldiniz! Bu uygulama iş, yaşam tarzı ve seyahatle ilgili hizmetler için tek durak noktasıdır.</string>
+  <string name="cta_dialog_desc_calendar">Takvim etkinliklerini ve planlanan gezileri görüntülemek için</string>
+  <string name="cta_dialog_desc_location">Günlük işe gidip gelme sürenizi hesaplamak için</string>
+  <string name="cta_dialog_desc_phone_state">IMEI kullanarak cihazınızı tanımlamak için</string>
+  <string name="cta_dialog_desc_storage">Öğeleri cihazınıza kaydetmek için</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="car_ui_toolbar_nav_icon_content_description">Geri</string>
     <string name="cope_provisioning_step_1_header">İş uygulamaları iş profilinizde tutulur ve BT yöneticiniz tarafından yönetilir</string>
     <string name="cope_provisioning_step_2_header">Kişisel uygulamalar ayrı olup iş uygulamalarından gizlenir</string>
     <string name="cope_provisioning_step_3_header">BT yöneticiniz bu cihazı kontrol edebilir ve belirli uygulamaları engelleyebilir</string>

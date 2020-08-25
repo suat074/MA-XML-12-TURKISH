@@ -178,6 +178,9 @@
   <string name="general_location">Mağazada tanımlama işlevinin yetkilendirilmesi için konum bilgilerinin alınması gerekir</string>
   <string name="general_location_dialog">Nesne tanımanın bazı özellikleri Dianping tarafından sağlanmaktadır. Mağazalardaki nesneleri tanımlamak istiyorsanız, Dianping\'in, size ilgili sonuçları sağlaması için bu özelliği kullanırken çektiğiniz fotoğrafları konum bilgileriyle birlikte kullanması gerekir.</string>
   <string name="general_location_prompt">Konum erişimi</string>
+  <string name="general_no">Öğe bilgisi bulunamadı</string>
+  <string name="general_no_found">Sizin için benzer ürünler tavsiyesi</string>
+  <string name="general_plant">Aradığınız şey şu olabilir:</string>
   <string name="general_recognized">"Sonuç: "</string>
   <string name="general_title">Tanımlamak için bir nesnenin fotoğrafını çekin</string>
   <string name="grant_permission">İzin ver</string>

@@ -31,6 +31,7 @@
     <string name="add_notification_text">Bildirim ekle</string>
     <string name="add_ringtone_text">Zil sesi ekle</string>
     <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+	<string name="app_label">Sesler</string>
     <string name="delete_ringtone_text">Sil</string>
     <string name="notification_sound_default">Varsayılan bildirim sesi</string>
     <string name="ringtone_default">Varsayılan zil sesi</string>
