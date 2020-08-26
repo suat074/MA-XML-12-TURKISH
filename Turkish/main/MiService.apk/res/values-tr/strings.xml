@@ -123,6 +123,7 @@
   <string name="miui_main_next_page">Sonraki</string>
   <string name="miui_main_pre_page">Geri</string>
   <string name="miui_main_shortcut_label_submit_feedback">Geri bildirim gönder</string>
+  <string name="miui_main_update_back_to_home">Ana ekran hazırlanıyor…</string>
   <string name="miui_main_update_continue">Sonraki</string>
   <string name="miui_main_update_learn_more">Daha fazla bilgi edin</string>
   <string name="miui_main_update_start">Şimdi güncelle</string>

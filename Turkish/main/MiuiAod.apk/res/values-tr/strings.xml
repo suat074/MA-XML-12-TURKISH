@@ -89,9 +89,12 @@ dd/MM"</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">C</string>
   <string name="icon_content_description">İletişim Kutusu Simgesi</string>
+  <string name="item_view_role_description">Sekme</string>
   <string name="large_time">Büyük saat</string>
   <string name="letter_space">Harf boşluğu</string>
   <string name="line_space">Satır aralığı</string>
+  <string name="material_slider_range_end">Aralık sonu,</string>
+  <string name="material_slider_range_start">Aralık başlangıcı,</string>
   <string name="mini_time">Küçük saat</string>
   <string name="minimalist_clock">Basit saat</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
@@ -146,6 +149,7 @@ dd/MM"</string>
   <string name="more_online_theme">Çevrimiçi öğeler</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">%1$d daha fazla yeni bildirim</string>
   <string name="mtrl_picker_a11y_next_month">Gelecek aya değiştir</string>
   <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
   <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>

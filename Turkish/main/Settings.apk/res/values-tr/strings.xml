@@ -7466,10 +7466,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="back_double_tap">İki kez geriye dokun</string>
   <string name="back_tap">Geriye dokun</string>
   <string name="back_triple_tap">Üç kez geriye dokun</string>
-  <string name="bt_absVolume_open_dialog_summary">Uyumluluk sorunları nedeniyle, bazı Bluetooth cihazlarında anormal ses seviyeleri olabilir ve bu özellik bu özellik kapatılarak çözülebilir.</string>
+  <string name="bt_absVolume_open_dialog_summary">Uyumluluk sorunları nedeniyle, bazı Bluetooth cihazlarında anormal ses seviyeleri olabilir ve bu özellik kapatılarak çözülebilir.</string>
   <string name="bt_absVolume_open_dialog_title">Dikkat</string>
   <string name="bt_absVolume_pre_title">Mutlak ses</string>
-  <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun</string>
+  <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun. Medya arka planda oynatılmadığında bu özelliği açıp kapatabilirsiniz.</string>
   <string name="custom_gesture_title">Özel hareketler</string>
   <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
   <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>

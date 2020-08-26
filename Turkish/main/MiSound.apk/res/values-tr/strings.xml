@@ -197,6 +197,6 @@
   <string name="sure_give_up_test">Testi şimdi durdurursanız bir dahaki sefere baştan başlamak zorunda kalacaksınız. Yine de durulsun mu?</string>
   <string name="sure_to_back">Değişiklikler şimdi yoksayılsın mı?</string>
   <string name="third_note">Sessiz bir yer bulun.</string>
-  <string name="ringtone_output_device_summary">Bir çevre birimi (kablolu kulaklık veya Bluetooth cihazı) bağlandığında, hoparlörün telefon zil sesi veya bildirim sesi de olur</string>
-  <string name="ringtone_output_device_title">Hoparlörün çalmasına izin ver</string>
+  <string name="ringtone_output_device_summary">Aksesuarlar (kablolu kulaklıklar veya Bluetooth cihazları) bağlandığında gelen çağrılar ve bildirimler için sese izin verin</string>
+  <string name="ringtone_output_device_title">Hoparlör sesine izin ver</string>
 </resources>
