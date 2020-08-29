@@ -216,7 +216,7 @@
   <string name="deep_sleep">Derin uyku</string>
   <string name="deep_sleep_duration">Derin uyku süresi</string>
   <string name="deep_sleep_duration_decrease_description">Derin uykun çok kısa</string>
-  <string name="deep_sleep_duration_description">İnsanlar uyurken periyodik olarak hızlı göz hareketleri olur, bu yüzden uyku hızlı göz hareketleri uykusu ve hızlı olmayan göz hareketleri uykusu olarak ayrılabilir. Derin uyku, tüm gece uykusunun yaklaşık 20 - 25 %% kısmını oluşturan hızlı göz hareketleri uykusu sürelerinde gerçekleşir. Derin uykuda, daha az bilinç aktivitesi vardır ve beyin statik durumdadır, uyanması nispeten daha zordur.</string>
+  <string name="deep_sleep_duration_description">İnsanlar uyuduğunda periyodik olarak hızlı göz hareketleri meydana gelir. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılabilir. Derin uyku, genel uyku süresinin yaklaşık 20%% ila 25\'ini oluşturan HOGH uyku dönemlerinde gerçekleşir. Beyniniz derin uyku sırasında dinlenir ve düşük seviyelerde bilinçli aktivite gösterir, bu nedenle uyanmak kolay değildir.</string>
   <string name="deep_sleep_duration_increase_description">Derin uykun çok uzun</string>
   <string name="deep_sleep_duration_normal_description">Yeterli miktarda derin uykunuz var</string>
   <string name="delete">Sil</string>
@@ -231,9 +231,11 @@
   <string name="delete_dialog_close_sync_msg">%1$s öğesini silmek için önce ilgili cihazda eşitlemeyi kapatın.</string>
   <string name="delete_dialog_confirm_msg_cloud">%1$s, bu cihazda ve bulutta depolanan ilgili verilerle birlikte silinsin mi?</string>
   <string name="delete_dialog_confirm_msg_local">%1$s, ilgili verilerle birlikte silinsin mi?</string>
+  <string name="delete_dailog_confirm_msg_wear">%1$s şimdi silinsin mi?</string>
   <string name="delete_menstruation_record_confirm">Bu kayıt silinsin mi?</string>
   <string name="delete_origin_data_description">%1$s tarafından oluşturulan tüm veriler silinsin mi?</string>
   <string name="delete_record">Kayıtları sil</string>
+  <string name="delete_wear_data_toast">%1$s tarafından sağlanan veriler silinemiyor</string>
   <string name="description">Ayrıntılar</string>
   <string name="detection_has_no_data">Veri yok</string>
   <string name="detection_not_start">Henüz başlamadı</string>
@@ -353,6 +355,10 @@
   <string name="exercise_recog_confirm_walk">%1$s ila %2$s arasında yürüyor muydunuz?</string>
   <string name="exercise_record">Egzersiz geçmişi</string>
   <string name="exercise_record_no_data">Burada henüz öğe yok</string>
+  <string name="exercise_remind_content_improve_goal">Etkinlik hedefinizi kademeli olarak artırarak daha sağlıklı kalın</string>
+  <string name="exercise_remind_content_lower_goal">Başarabileceğiniz hedefleri belirleyerek motivasyonunuzu koruyun</string>
+  <string name="exercise_remind_title_improve_goal">Daha yüksek bir hedef belirleyin</string>
+  <string name="exercise_remind_title_lower_goal">Gerçekçi bir hedef belirleyin</string>
   <string name="exercise_reminder_accomplished">Etkinlik hedefinize ulaştınız!</string>
   <string name="exercise_reminder_title">Etkinlik hatırlatıcısı</string>
   <string name="exercise_reminder_unaccomplished">Henüz hedefinize ulaşmadınız. Devam edin!</string>
@@ -447,6 +453,33 @@
   <string name="home_tip_sync_immediately">Bazı öğeler eşitlenmedi. Şimdi eşitlemek için dokunun.</string>
   <string name="home_tip_syncing">Sağlık verileri eşitleniyor...</string>
   <string name="hour">S</string>
+  <string name="hr_choose_detect_state">Algılama durumunu seçin</string>
+  <string name="hr_detect">Kalp atış hızı tespiti</string>
+  <string name="hr_detect_desc">Sürekli ışık kaynağı olarak flaş lambası, kan akışı değişikliklerini toplamak içinde cep telefonu kamerası ile, görüntü analizi yoluyla sabit nabız dalgası sinyali toplanabilir, kalp atış hızının bilimsel tespiti yapılabilir</string>
+  <string name="hr_detect_finished">Tespit tamamlandı</string>
+  <string name="hr_detect_principle_desc_1">Sürekli ışık kaynağı olarak kameranın yanında bulunan flaş lambası sayesinde parmak kameraya konulur, görüntü analizi ile kan akış görüntüsünü elde edilir, kararlı nabız dalga sinyali toplanarak kalp atış hızı değeri elde edilir.</string>
+  <string name="hr_detect_principle_desc_2">Çok sayıda deney sonucunda, kalp atış hızı hata değeri artı veya eksi 2 arasındadır.</string>
+  <string name="hr_detect_principle_desc_3">Kamera ve flaş profesyonel olmayan bir edinim ekipmanı olduğundan, birden çok kez ölçmeniz ve gözlemlemeniz önerilir.</string>
+  <string name="hr_detect_principle_title">Kalp atış hızı algılama ilkesi</string>
+  <string name="hr_detect_report_title">Test raporu</string>
+  <string name="hr_detect_state_after_activity">Egzersizden sonra</string>
+  <string name="hr_detect_state_after_activity_desc">Egzersizden hemen sonra ölçün</string>
+  <string name="hr_detect_state_regular">Genel durum</string>
+  <string name="hr_detect_state_regular_desc">Günlük iş ve çalışma durumu</string>
+  <string name="hr_detect_state_reseting">Dinlenme durumu</string>  
+  <string name="hr_detect_state_reseting_desc">Sadece uyan ya da tamamen rahatla</string>
+  <string name="hr_disturb_detect">Algılama kesintisi</string>
+  <string name="hr_disturb_detect_desc">Tekrar test edin, lütfen işlem sırasında sabit tutun</string>
+  <string name="hr_in_detect">Lütfen test ederken parmaklarınızı bırakmayın</string>
+  <string name="hr_measure_heart_rate">Kalp atış hızı ölçümü</string>
+  <string name="hr_open_permission_desc">Mi Sağlık, kalp atış hızı tespitine istinaden kan akışı değişikliklerini almak için kamera iznine ihtiyaç duyar. Kabul et?</string>
+  <string name="hr_open_permission_title">Lütfen ilgili izinleri verin</string>
+  <string name="hr_phone_detect_records">Cep telefonu algılama kaydı</string>
+  <string name="hr_pre_detect">Algılama için kamerayı ve flaşı tamamen kapatmak etmek için lütfen parmaklarınızı kullanın</string>
+  <string name="hr_pre_detect_finger">Parmak ile yoklayın</string>
+  <string name="hr_pre_detect_finger_desc">Parmak kapsama alanı tespit ediliyor. Lütfen bırakmayın</string>
+  <string name="hr_see_report">Raporu görüntüle</string>
+  <string name="hr_start_detect">Deneyimlemeye başlayın</string>
   <string name="icon_content_description">İletişim Kutusu Simgesi</string>
   <string name="improve_step_target">Hedefinize çok sık ulaşıyorsunuz. Daha yüksek bir hedef seçmeyi deneyin.</string>
   <string name="improve_your_health_default_tips">Sağlıklı kalmak için egzersiz yapın ve uykunuzu alın.</string>
@@ -454,6 +487,8 @@
   <string name="indoor_rinding">İç mekan döngüsü</string>
   <string name="indoor_running">Koşu bandı</string>
   <string name="input_body_weight">Sağlık tavsiyeleri almak için ağırlık verisi girin</string>
+  <string name="inquire_recover_data">Sağlık verileri şimdi geri yüklensin mi?</string>
+  <string name="inquire_recover_data_subtitle">Görünüşe göre Mi Hesabınızla (%1$s) ilişkili sağlık verileri var. Bulutla eşitlemeyi açıp verileri şimdi geri yüklemek ister misiniz?</string>
   <string name="instructions_provider">Miao Sağlık tarafından sağlanan talimatlar</string>
   <string name="insufficient">Yetersiz</string>
   <string name="jump_over">Atla</string>
@@ -496,7 +531,7 @@
   <string name="late">Geç</string>
   <string name="light_sleep">Hafif uyku</string>
   <string name="light_sleep_duration">Hafif uyku süresi</string>
-  <string name="light_sleep_duration_description">İnsanlar uyuduğunda periyodik olarak hızlı göz hareketleri meydana gelir. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılabilir. Hafif uyku, HOGH uykusu dönemlerinde meydana gelir ve toplam uyku süresinin yaklaşık 50% ila 60\'ını oluşturur. Hafif uyku sırasında, bilinç yavaş yavaş azalır ve beyin nispeten statiktir, ancak yine de kolayca uyandırılabilir.</string>
+  <string name="light_sleep_duration_description">İnsanlar uyuduğunda periyodik olarak hızlı göz hareketleri meydana gelir. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılabilir. Hafif uyku, HOGH uykusu dönemlerinde meydana gelir ve toplam uyku süresinin yaklaşık 50%% ila 60\'ını oluşturur. Hafif uyku sırasında, bilinç yavaş yavaş azalır ve beyin nispeten hareketsizdir, ancak yine de kolayca uyandırılabilir.</string>
   <string name="light_sleep_time_decrease_description">Hafif uykun çok kısa</string>
   <string name="light_sleep_time_increase_description">Hafif uykun çok uzun</string>
   <string name="light_sleep_time_normal_description">Yeterli miktarda hafif uykun var</string>
@@ -674,6 +709,7 @@
   <string name="open_stand_assistant">Ayağa kalkmayı takip etmek için dokunun</string>
   <string name="open_swimming">Suda yüzme açık</string>
   <string name="open_sync">Eşitlemeyi aç</string>
+  <string name="open_sync_and_enter_app">Eşitlemeyi aç</string>
   <string name="open_unrestricted_permissions">Uykunuzu daha doğru takip edebilmek için Mi Sağlık\'a arka planda çalışma izni verin.</string>
   <string name="organ_donation_volunteer">Gönüllü organ bağışı</string>
   <string name="origin">Kaynak</string>
@@ -741,7 +777,7 @@
   <string name="relationship_with_contact">İlişki</string>
   <string name="rem_duration">HGH uyku süresi</string>
   <string name="rem_duration_decrease_description">HGH uykunuz çok kısa</string>
-  <string name="rem_duration_description" formatted="false">HGH, hızlı göz hareketini ifade eder. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılır. Hızlı göz hareketi uykusu, toplam uyku süresinin yaklaşık 20% ila 25\'ini oluşturur. İnsanlar bu aşamada uyandığında, 74-95%\'i rüya gördüğünü ve rüyalarını hatırladığını söylüyor. Beyin çok aktiftir ve HGH uykusu sırasında vücut tamamen gevşer, bu da uykunun bu evresinde bilişsel işlevlerin korunmasını sağlar.</string>
+  <string name="rem_duration_description">HGH, hızlı göz hareketini ifade eder. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılır. Hızlı göz hareketi uykusu, toplam uyku süresinin yaklaşık 20%% ila 25\'ini oluşturur. İnsanlar bu aşamada uyandığında, 74%%-95\'i rüya gördüğünü ve rüyalarını hatırladığını söylüyor. Beyin çok aktiftir ve HGH uykusu sırasında vücut tamamen gevşer, bu da bu uyku aşamasını bilişsel işlevlerin korunması için gerekli kılar.</string>
   <string name="rem_Duration_increase_description">HGH uykunuz çok uzun</string>
   <string name="rem_duration_normal_description">HGH uyku süresi normal</string>
   <string name="remarks">Açıklama</string>
@@ -820,7 +856,7 @@
   <string name="sleep_deep_light_no_data_improvement">Uyku aşamaları algılanamadı. Algoritmalarımızı geliştiriyoruz. Bizi izlemeye devam edin!</string>
   <string name="sleep_detection_enable">Uyku döngüsünü analiz edin</string>
   <string name="sleep_detection_feedback">Geri bildirim</string>
-  <string name="sleep_detection_guide_four_description">Uyku izleme her gün pilinizde yaklaşık 1% tüketim yapar.</string>
+  <string name="sleep_detection_guide_four_description">Uyku izleme her gün pilinizde yaklaşık 1%% tüketim yapar.</string>
   <string name="sleep_detection_guide_four_high_power_description">Yatmadan önce cihazınızın yeterince şarj edildiğinden emin olun. Zayıf pil uyku izlemeyi kesintiye uğratabilir.</string>
   <string name="sleep_detection_guide_four_high_power_title">Cihazınızı şarj edin</string>
   <string name="sleep_detection_guide_four_title">Düşük güç tüketimi</string>
@@ -1289,6 +1325,7 @@
   <string name="weight_remind">Tartım hatırlatıcıları</string>
   <string name="weight_setting">Ağırlık ayarları</string>
   <string name="weight_trend_offset_date">"%1$s - %2$s arasında: "</string>
+  <string name="welcome_back">Tekrar hoşgeldiniz!</string>
   <string name="welcome_exercise">Egzersizleri takip et</string>
   <string name="welcome_exercise_description">Egzersizleri takip etmek için cihazınızı yanınızda taşıyın</string>
   <string name="welcome_sedentary">Harekete devam et</string>
