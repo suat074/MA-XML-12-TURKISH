@@ -27,6 +27,8 @@
   <string name="disconnected_peripheral">%1$s bağlantısı kesildi</string>
   <string name="disconnecting_peripheral">%1$s bağlantısı kesiliyor</string>
   <string name="failed_to_enable_bt">Bluetooth etkinleştirilemedi</string>
+  <string name="nfc_blocking_alert_message">Nasıl düzeltileceğini öğrenmek için dokunun.</string>
+  <string name="nfc_blocking_alert_title">NFC engellenmiş olabilir</string>
   <string name="nfcUserLabel">Nfc</string>
   <string name="pair_no">Hayır</string>
   <string name="pair_yes">Evet</string>

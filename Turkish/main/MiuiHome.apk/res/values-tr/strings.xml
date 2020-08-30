@@ -42,6 +42,9 @@
   <string name="add_screen">Ekran ekle</string>
   <string name="added_all_category">Tüm uygulamalar başarıyla eklendi</string>
   <string name="additional_settings">Ek ayarlar</string>
+  <string name="alexa_notification_add">Ekle</string>
+  <string name="alexa_notification_cancel">Şimdi değil</string>
+  <string name="alexa_notification_content">Kontrol merkezine Alexa kısayolu eklensin mi?</string>
   <string name="all_app_category_all">Tümü</string>
   <string name="all_app_category_communication">İletişim</string>
   <string name="all_app_category_default">Kategori</string>

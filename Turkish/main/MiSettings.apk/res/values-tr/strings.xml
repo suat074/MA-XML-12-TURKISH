@@ -253,10 +253,11 @@
   <string name="usage_device_limit_app_prolong_time2">40 dakika ekle</string>
   <string name="usage_device_limit_app_prolong_time3">60 dakika ekle</string>
   <string name="usage_device_limit_app_prolong_time4">Bugün için sınırlama</string>
+  <string name="usage_device_limit_app_prolong_time5">Bir kez zaman ekle</string>
   <string name="usage_device_limit_notifation_summary_start">%1$s içinde sınırınıza ulaşacaksınız</string>
   <string name="usage_device_limit_notifation_title">Bugün kalan süre</string>
   <string name="usage_device_limit_time_over">Bugünün sınırına ulaştınız (%1$s)</string>
-  <string name="usage_exit">Çıkış</string>
+  <string name="usage_exit">Çık</string>
   <string name="usage_focus_focus_premission_main_summary">Odak modu kullanım istatistiklerini kaydetmesi için bu uygulamanın hesap bilgilerinize erişmesi gerekir.</string>
   <string name="usage_focus_focus_premission_second_summary">Bu izinleri vermeyi kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; Ancak, temel işlevsellik yine de sizin için mevcut olacak. Ayarlar\'dan her zaman izinleri kısıtlayabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>
   <string name="usage_focus_new_summary">Daha dikkatli ve odaklanmış olun</string>
