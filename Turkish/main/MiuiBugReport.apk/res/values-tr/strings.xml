@@ -628,6 +628,10 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="sns_access_token_expired_warning">Oturum süresi doldu. Bu hesabı yeniden bağlamak için tekrar oturum açın.</string>
   <string name="sns_bind_limit">Çok fazla deneme. Oturum açmak için başka yollar deneyin.</string>
   <string name="sns_sign_in">Diğer yolla oturum aç</string>
+  <string name="stop_full_log_dialog_cancel">Şimdi değil</string>
+  <string name="stop_full_log_dialog_confirm">Yükle</string>
+  <string name="stop_full_log_dialog_content">Görünüşe göre şu anda günlükler oluşturuluyor. Oluşturmayı bırakıp hazır olanlar yüklensin mi?</string>
+  <string name="stop_full_log_dialog_title">Günlükler oluşturuluyor…</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
   <string name="submit_dialog_content"><Data>"Geri bildirimi kullanabilmek için &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgileri de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."</Data></string>
@@ -635,6 +639,10 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="submit_dialog_not_wifi_content">Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir.</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">Rapor gönderilemedi</string>
+  <string name="suggest_upload_log_dialog_cancel">Hayır teşekkürlers</string>
+  <string name="suggest_upload_log_dialog_confirm">Yükle</string>
+  <string name="suggest_upload_log_dialog_content">Mühendislerimizin karşılaştığınız sorunu en kısa sürede bulup çözmelerine yardımcı olmak için ilgili günlükleri yüklemenizi öneririz. Günlükler yalnızca sorunları analiz etmek için kullanılır ve başka amaçlar için kullanılmaz.</string>
+  <string name="suggest_upload_log_dialog_title">İlgili günlükleri yükleyin</string>
   <string name="suggestion_description">Açıklamanızı buraya yazın</string>
   <string name="system_app_select">Yerleşik uygulamalar</string>
   <string name="systemui">Bildirim Alanı</string>
@@ -658,7 +666,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="title_user_guide">Kullanım klavuzu</string>
   <string name="toast_app_tag_required">Önce sorunu seçin</string>
   <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string>
-  <string name="toast_description_required">Bir açıklama yazılması gereklidir</string>
+  <string name="toast_description_required">Önce sorunu açıklayın</string>
   <string name="toast_feedback_collect_store">Günlükler toplanıyor...</string>
   <string name="toast_feedback_network_unavailable">Ağa bağlanamıyor!</string>
   <string name="toast_feedback_pending_wlan">Mesaj bir WLAN ağına bağlandığınızda gönderilecek</string>
@@ -670,6 +678,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="toast_log_not_exists">Gerekli günlük silindi veya mevcut değil</string>
   <string name="toast_log_too_large">Yüklenemiyor. Günlük çok büyük.</string>
+  <string name="toast_min_description_count">Açıklamanız daha uzun olmalıdır</string>
   <string name="toast_module_required">Öğe seç</string>
   <string name="toast_network_unavailable">Gönderilemedi. Ağa bağlanamıyor.</string>
   <string name="toast_pending_log_collection">Günlükler halen toplanıyor...</string>
