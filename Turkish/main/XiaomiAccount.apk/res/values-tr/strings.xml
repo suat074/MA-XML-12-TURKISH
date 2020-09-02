@@ -334,7 +334,7 @@
   <string name="passport_extra_gdpr_license">Mi hesabınızı oluşturmak, xiaomi\'nin doğrulama verileri (örneğin, doğrulama kodları), ikinci alan verileri (örneğin, ikinci alanı kullanma yolları hakkında bilgi, birinci ve ikinci alanlarda kullanılan kimlikler) ve Gizlilik Politikamızda belirtilen diğer veriler de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul ettiğiniz anlamına gelir. Kişisel verileri nasıl işlediğimizi ve kullandığımızı öğrenmek için Gizlilik Politikamıza bakın.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_first_login_prompt">İlk kez oturum açtığınızda, Mi Hesabı otomatik olarak oluşturulur.</string>
+  <string name="passport_first_login_prompt">Bir telefon numarasını ilk kez kullandığınızda Mi Hesabı otomatik olarak oluşturulur.</string>
   <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>

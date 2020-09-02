@@ -3353,6 +3353,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="miui_lab_slogan">Öğrenin. Araştırın. Keşfedin.</string>
   <string name="miui_lab_super_resolution_desc">Daha canlı görüntüler</string>
   <string name="miui_lab_super_resolution_title">Süper çözünürlük</string>
+  <string name="miui_master_clear_prompt_battery_low">Pil %1$s değerinin altında olduğunda fabrika ayarlarına sıfırlama yapılamaz. Devam etmeden önce cihazınızı şarj edin.</string>
   <string name="miui_master_clear_summary">Telefon üzerindeki tüm verileri siler</string>
   <string name="miui_more_special_feature">Yeni özellikleri keşfedin</string>
   <string name="miui_optimization_disabled">MIUI optimizasyonunu kapat</string>
@@ -5963,7 +5964,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Cihazın kilidini açmak için parmağınızla basit bir desen çizin</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
-  <string name="unlock_set_unlock_pin_summary">Cihazın kilidini açmak için %1$d-%2$d sayı girin</string>
+  <string name="unlock_set_unlock_pin_summary">Cihazın kilidini açmak için %1$d-%2$d rakam girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Bir ekran kilidi ayarladıktan sonra, parmak izinizi Ayarlar &gt; Güvenlik bölümünden de ayarlayabilirsiniz.</string>

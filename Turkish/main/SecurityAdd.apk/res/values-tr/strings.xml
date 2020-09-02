@@ -128,9 +128,15 @@
   <string name="gb_advance_settings_vibration_4d_summary">Oyunda çekimler sırasında titreşim</string>
   <string name="gb_advance_settings_vibration_4d_summary2">Oyunda öldürme sırasında titreştir</string>
   <string name="gb_alipays_can_not_complete">Ödeme tamamlanamıyor. Devam etmek için yükleyin.</string>
+  <string name="gb_dialog_game_speed_close">Işık hızı modu kapatılıyor…</string>
+  <string name="gb_dialog_game_speed_exist">Işık hızı modunda sadece bir oyun kullanabilirsiniz. \"%s\" şimdi değiştirilsin mi?</string>
   <string name="gb_game_control">GPU ayarları</string>
   <string name="gb_game_qcom_sing">SNAPDRAGON</string>
   <string name="gb_game_settings">Ek ayarlar</string>
+  <string name="gb_game_speed_closed">Işık hızı modu kapalı</string>
+  <string name="gb_game_speed_closed_fail">Işık hızı modu kapatılamadı</string>
+  <string name="gb_game_speed_open">Işık hızı modu açık</string>
+  <string name="gb_game_speed_open_fail">Işık hızı modu açılamadı</string>
   <string name="gb_gpu_control_anisotropic_filtering">Anizotropik filtreleme</string>
   <string name="gb_gpu_control_anti_aliasing">Kenar yumuşatma</string>
   <string name="gb_gpu_control_fps">Kare hızı</string>

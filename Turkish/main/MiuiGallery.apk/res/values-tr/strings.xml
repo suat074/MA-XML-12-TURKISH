@@ -734,7 +734,7 @@ mevcut"</string>
   <string name="filter_food_wholemeal">Tahıl</string>
   <string name="filter_general_blackice">Kara buz</string>
   <string name="filter_general_greenorange">Limon</string>
-  <string name="filter_general_movie">Film</string>
+  <string name="filter_general_movie">Sinema</string>
   <string name="filter_master_hazy">Puslu</string>
   <string name="filter_master_mellow">Yumuşak</string>
   <string name="filter_master_memoire">Anılar</string>
@@ -2242,7 +2242,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="security_share_subtitle_default">Gizlilik koruması</string>
   <string name="security_share_subtitle_hide">Konum bilgileri kaldırıldı</string>
   <string name="security_share_subtitle_no_hide">Konum bilgilerini içerir</string>
-  <string name="cleaner_empty">Tümünü sil</string>
+  <string name="cleaner_empty">Tümünü temizle</string>
   <string name="drop_failed">Kaydedilemedi</string>
   <string name="drop_format_not_supported">Bu dosya türü desteklenmiyor</string>
   <string name="drop_success">Başarıyla kaydedildi</string>
@@ -2291,10 +2291,20 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="sky_nocturne">Gece</string>
   <string name="sky_sunny">Güneşli</string>
   <string name="text_tab_mark">İşaretle</string>
-  <string name="time_burst_save_all">Tüm fotoğrafları kaydet</string>
-  <string name="time_burst_save_select">Seçili fotoğrafları kaydet</string>
+  <string name="time_burst_save_all">Tüm fotoğrafları dışa aktar</string>
+  <string name="time_burst_save_select">Seçili fotoğrafları dışa aktar</string>
   <string name="time_burst_save_video">Video olarak kaydet</string>
   <string name="trash_size">Silinen öğeler (%s)</string>
   <string name="menu_new_display_open">Yeni pencerede aç</string>
   <string name="menu_pc_open">Bilgisayar programı ile aç</string>
+  <string name="burst_save_dialog_title">Saklanacak fotoğrafları seçin</string>
+  <string name="filter_movie_quiet">Hzurulu</string>
+  <string name="filter_popular_bluedream">Pijama</string>
+  <string name="filter_popular_shallow_summer">Haziran</string>
+  <string name="filter_popular_smokegreen">Adaçayı</string>
+  <string name="filter_popular_watergreen">Zümrüt</string>
+  <string name="filter_portrait_mojito">Mojito</string>
+  <string name="filter_portrait_waterblue">Akuamarin</string>
+  <string name="photo_page_rotate_screen">Ekranı döndür</string>
+  <string name="time_burst_save_dialog_title">Öğeleri dışa aktar</string>
 </resources>

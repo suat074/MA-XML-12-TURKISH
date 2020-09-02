@@ -2118,4 +2118,10 @@
   <string name="wifi_security_short_none_owe">Yok/OWE</string>
   <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
   <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Kilidi açmak için şifre girin veya parmak izi kullanın</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Kilidi açmak için desen çizin veya parmak izi kullanın</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Kilidi açmak için PIN girin veya parmak izi kullanın</string>
+  <string name="input_password_hint_text_v11">Şifre girin</string>
+  <string name="input_pattern_hint_text_v11">Desen çizin</string>
+  <string name="input_pin_hint_text_v11">PIN girin</string>
 </resources>
