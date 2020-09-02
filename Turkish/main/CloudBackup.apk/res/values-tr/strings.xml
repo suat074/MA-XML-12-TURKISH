@@ -37,18 +37,32 @@
   <string name="back_up_task_in_process">Yedekleniyor…</string>
   <string name="back_up_task_unfinished">Yedeklenemedi</string>
   <string name="backing_up_to_micloud">Yedekleniyor…</string>
+  <string name="backup_action_buy_cloud_space">Daha fazla depolama alanı edinin</string>
+  <string name="backup_action_check_network">Ağ ayarlarını kontrol edin</string>
+  <string name="backup_action_clean_disk_space">Yer açın</string>
+  <string name="backup_action_retry_now">Tekrar deneyin</string>
   <string name="backup_fail_wifi_needed">Yedeklenemedi, Wi-Fi gerekli.</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi Bulut üzerinde yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Bu yedeği kaydetmek için yeterli bulut depolama alanı kalmadı. Planınızı yükseltin veya bulut depolama alanını boşaltın.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>
-  <string name="backup_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="backup_failed_reason_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
   <string name="backup_finished_notification_content">Ana Ekran Uygulamaları, Sistem Ayarları, vb yedekleyin.</string>
   <string name="backup_now">Şimdi Yedekle</string>
+  <string name="backup_remind_buy_cloud_space">Bulut depolama planınızı yükseltin</string>
+  <string name="backup_remind_clean_disk_space">Depolama alanını boşaltın</string>
+  <string name="backup_remind_cloud_space_cost">Yedekleme boyutu: %s</string>
   <string name="backup_size">Boyut: %s</string>
   <string name="backup_stopped_msg">Geçerli yedekleme önceki olanın üzerine yazacaktır. Görüntülemek için dokunun.</string>
   <string name="backup_stopped_title">Yedekleme duraklatıldı</string>
   <string name="backup_success">Başarıyla yedeklendi</string>
   <string name="backup_successfully">Başarıyla yedeklendi</string>
   <string name="backup_to_cloud">Uygulamayı Yedekle</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">Yedeklenemiyor</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Yeterli depolama alanı yok
+Yedeklenemiyor"</string>
+  <string name="backup_warning_reason_network_error">"Ağ hatası
+Yedeklenemiyor"</string>
+  <string name="backup_warning_reason_no_server_response">"Bağlantı kesildi
+Tekrar deneyin"</string>
   <string name="btn_back">Geri</string>
   <string name="btn_continue">Devam</string>
   <string name="btn_restore_abort">İptal</string>

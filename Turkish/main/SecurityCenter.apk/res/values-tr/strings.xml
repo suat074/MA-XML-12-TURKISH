@@ -3500,4 +3500,16 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="risk_app_install_history">Yetki geçmişi</string>
   <string name="risk_app_install_item_des">Sürüm: %1$s</string>
   <string name="risk_app_install_manager">Olası riskli uygulamalar</string>
+  <string name="charger_detect_button_ok">Anladım</string>
+  <string name="charger_detect_info1">Güç adaptörünün ve kablonun doğru şekilde bağlanıp bağlanmadığını kontrol edin.</string>
+  <string name="charger_detect_info2">Standart olmayan veya eski güç adaptörleri ve kabloları kullanıyorsanız şarj işlemi de yavaşlayabilir.</string>
+  <string name="charger_detect_no_remind">Tekrar gösterme</string>
+  <string name="charger_detect_title">Yavaş şarj</string>
+  <string name="function_auto_reject_detail">"Bu özellik hakkında:
+1. Oyun oynarken, mobil veri hizmeti olmadan SIM karta gelen tüm çağrılar otomatik olarak reddedilir.
+2. Cevapsız çağrılarla ilgili bildirimleri görürsünüz ve diğer kişi o anda meşgul olduğunuza dair bir sesli mesaj duyar.
+3. Bu özellik yalnızca Çin\'deki mobil operatörler tarafından desteklenmektedir."</string>
+  <string name="function_auto_reject_title">Veri hizmeti olmadan SIM kartlarına yapılan VoLTE çağrılarını reddet</string>
+  <string name="vb_fps_settings">Otomatik yenileme hızı</string>
+  <string name="vb_fps_settings_tips">Bu özellik, ekran yenileme hızını video kare hızına ayarlar, bu da pil tasarrufu sağlar ve oynatmayı sorunsuz hale getirir. Yüzer yorumları açmak, otomatik yenileme hızını kapatır.</string>
 </resources>
