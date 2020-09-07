@@ -100,6 +100,14 @@
     <item quantity="few">%1$d saat önce</item>
     <item quantity="many">%1$d saat önce</item>
   </plurals>
+  <plurals name="install_find_application">
+    <item quantity="other">%d uygulama arasında ara</item>
+    <item quantity="one">%d uygulama arasında ara</item>
+  </plurals>
+  <plurals name="install_find_application_num">
+    <item quantity="other">%d uygulama bulundu</item>
+    <item quantity="one">%d uygulama bulundu</item>
+  </plurals>
   <plurals name="million">
     <item quantity="other">%1$d kişi tarafından indirildi</item>
   </plurals>

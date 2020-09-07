@@ -904,4 +904,12 @@
   <string name="you_liao_xunlei_desc">Ev sahibi statüsünü kazanmak için bizimle sözleşme imzalayın</string>
   <string name="you_liao_xunlei_str">Xunlei Ev Sahibi</string>
   <string name="youliao_master_rank">Youliao En İyi</string>
+  <string name="encrypt_setting">Şifreleme</string>
+  <string name="not_use">Şimdi değil</string>
+  <string name="operation_encrypt_summary">Özel klasördeki dosyaları şifreleyin. Büyük dosyaların şifresinin çözülmesi beklenenden daha uzun sürebilir.</string>
+  <string name="operation_encrypt_title">Özel dosyaları şifrele</string>
+  <string name="private_folder_update_msg">Dosya Yöneticisi ek bir güvenlik önlemi getiriyor: özel dosyaları şimdi şifreleyebilirsiniz!</string>
+  <string name="private_folder_update_msg_summary">Şifre çözme işlemi, özel klasördeki dosyaların kaldırılmasını yavaşlatır. Ayarlar\'dan şifrelemeyi açıp kapatabilirsiniz.</string>
+  <string name="private_folder_update_tips">Yeni özellik</string>
+  <string name="use">Kullan</string>
 </resources>

@@ -47,7 +47,7 @@
   <string name="account_has_been_set">Değiştir</string>
   <string name="account_invalid_user_avatar">Bu fotoğraf geçersiz. Farklı bir tane dene.</string>
   <string name="account_limit_update_birthday">Doğum günü şimdi güncellenemedi</string>
-  <string name="account_mibi_center">Mi Kredi</string>
+  <string name="account_mibi_center">Mi Para</string>
   <string name="account_mibi_charge">Mi Kredisi Ücreti</string>
   <string name="account_mipay_info">Mi Ödeme</string>
   <string name="account_no_set">Yok</string>
@@ -568,7 +568,7 @@
   <string name="update_email_address_dialog_title">E-Postayı güncelle</string>
   <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
   <string name="update_phone_number_notice_message">Kimliğinizi doğrulamadan önce telefon numarasını güncelleyin</string>
-  <string name="used_cloud_storage_info">Kullanılan depolama alanı %s</string>
+  <string name="used_cloud_storage_info">%s kullanıldı</string>
   <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
   <string name="user_avatar_uploading">Biraz bekleyin...</string>
   <string name="vip_account_settings">VIP Ayarları</string>

@@ -17,6 +17,11 @@
     <item>Boyut</item>
     <item>Ad</item>
   </string-array>
+  <string-array name="uninstalled_app_sort_type">
+    <item>Boyut</item>
+    <item>Kullanım sıklığı</item>
+    <item>Yükleme zamanı</item>
+  </string-array>
   <string-array name="wechat_sort">
     <item>Tarih</item>
     <item>Boyut</item>

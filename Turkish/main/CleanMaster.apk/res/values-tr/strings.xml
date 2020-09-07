@@ -398,6 +398,7 @@
   <string name="hot_today">Bugün popüler</string>
   <string name="information_setting">Öneriler</string>
   <string name="install_sucess">%s başarıyla yüklendi</string>
+  <string name="install_time_format">dd/MM/yyyy</string>
   <string name="installed">Yüklendi</string>
   <string name="installing">Yükleniyor</string>
   <string name="item_title_process_mode">Bir eylem seçin</string>
@@ -500,6 +501,10 @@
   <string name="optimizecenter_data_support_cm">Clean Master tarafından desteklenmektedir</string>
   <string name="optimizecenter_data_support_tc">Tencent tarafından desteklenmektedir</string>
   <string name="output_videos">Videoları aktar</string>
+  <string name="permission_dialog_storage_btn1">Ayarlar</string>
+  <string name="permission_dialog_storage_btn2">İptal</string>
+  <string name="permission_dialog_storage_content">Temizleyicinin normal çalışabilmesi için dahili depolamaya erişim izni gerekir. Depolama izinlerini yönetmek için \"Ayarlar\" öğesine dokunun.</string>
+  <string name="permission_dialog_storage_title">Gerekli izinler</string>
   <string name="phone_search">Google Arama</string>
   <string name="positive_confirm">Tamam</string>
   <string name="pref_about_privacy_title">Gizlilik Politikası</string>

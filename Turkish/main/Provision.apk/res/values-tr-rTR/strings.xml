@@ -272,5 +272,5 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="wc_double_check_title">Duvar Kağıdı Döngüsü\'nü deneyin</string>
   <string name="wc_notice_link_agreement_index">Kullanıcı Sözleşmesi</string>
   <string name="wc_notice_link_privacy_index">Gizlilik Politikası</string>
-  <string name="wc_notice_link_summary">Üçüncü taraf içerik sağlayıcısının %1$s ve %2$s belgelerini okuyun ve kabul edin</string>
+  <string name="wc_notice_link_summary">Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının %1$s ve %2$s belgelerini okuyun ve kabul edin</string>
 </resources>
