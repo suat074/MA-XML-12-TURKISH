@@ -262,4 +262,15 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="fast_pairing_introduction">Mi Link, cihazınızın MIUI Bluetooth Hizmeti\'ni kullanarak yakındaki Bluetooth cihazlarına bağlanmasını sağlar. Yakındaki cihazları bulabilmek için MIUI Bluetooth Hizmeti\'nin internete bağlanmasına izin verin.</string>
   <string name="disagreement_abnormal_running_fast_pairing">Bu izinleri vermeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda izinleri kısıtlamayı ve bu özelliği Ayarlar\'dan kapatmayı seçebilirsiniz.</string>
+  <string name="wc_dialog_agree">Kabul et</string>
+  <string name="wc_dialog_reject">Reddet</string>
+  <string name="wc_dialog_summary">Duvar Kağıdı Döngüsü, Kilitli ekranınıza her gün çarpıcı görüntüler ve heyecan verici hikayeler sunar.</string>
+  <string name="wc_dialog_title">Yeniden tasarlanan Kilit ekranı</string>
+  <string name="wc_double_check_agree">Dene</string>
+  <string name="wc_double_check_reject">Hayır teşekkürler</string>
+  <string name="wc_double_check_summary">Duvar Kağıdı Döngüsü\'nü açarak işinize yarayıp yaramadığını görebilirsiniz. Ayarlar > Kilit ekranı yolundan Duvar Kağıdı Döngüsü\'nü her zaman açıp kapatabileceğinizi unutmayın.</string>
+  <string name="wc_double_check_title">Duvar Kağıdı Döngüsü\'nü deneyin</string>
+  <string name="wc_notice_link_agreement_index">Kullanıcı Sözleşmesi</string>
+  <string name="wc_notice_link_privacy_index">Gizlilik Politikası</string>
+  <string name="wc_notice_link_summary">Üçüncü taraf içerik sağlayıcısının %1$s ve %2$s belgelerini okuyun ve kabul edin</string>
 </resources>
