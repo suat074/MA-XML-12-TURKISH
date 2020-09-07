@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="account_sync_frequency">
+    <item>Manuel</item>
+    <item>15 dakikada bir</item>
+    <item>Her saat</item>
+    <item>4 saatte bir</item>
+    <item>12 saatte bir</item>
+  </string-array>
   <string-array name="change_response_labels">
     <item>Sadece bu faaliyette</item>
     <item>Tüm faaliyetler esnasında</item>
