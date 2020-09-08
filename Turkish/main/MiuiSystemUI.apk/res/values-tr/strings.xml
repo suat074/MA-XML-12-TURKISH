@@ -1095,7 +1095,7 @@
   <string name="miui_ringer_standard_description">Gelen çağrılar ve bildirimler için zil sesleri sessiz</string>
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Alarm dışındaki tüm öğeler için sessiz ve titreşim kapalı</string>
-  <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
+  <string name="miui_screen_rotation_freeze_message">Yatay modda ekran yönü kilitlendi</string>
   <string name="miui_toast_zen_dnd_to_off">Rahatsız etme şimdi kapalı. Sesler ve titreşim normale döndü.</string>
   <string name="miui_toast_zen_standard_to_off">Sessiz mod şimdi kapatıldı. Zil sesleri normale döndü.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Sessiz mod şimdi kapatıldı. Zil sesleri, bildirim ve medya sesleri çalınacak.</string>

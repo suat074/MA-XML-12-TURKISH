@@ -134,6 +134,12 @@
   <string name="quick_controls_title">Cihaz kontrolleri</string>
   <string name="quick_settings_hang_label">Yüzer pencereler</string>
   <string name="quick_settings_hang_on">Şimdi yüzer pencereleri kullanabilirsiniz</string>
+  <string name="quick_settings_pcmode_cancel_button">İPTAL</string>
+  <string name="quick_settings_pcmode_dialog_message_turnoff">Cep PC\'yi kapat</string>
+  <string name="quick_settings_pcmode_dialog_message_turnon">Cep PC\'yi aç</string>
+  <string name="quick_settings_pcmode_dialog_remember_text">Tekrar gösterme</string>
+  <string name="quick_settings_pcmode_label">Cep PC</string>
+  <string name="quick_settings_pcmode_ok_button">Tamam</string>
   <string name="quick_settings_scanner_label">Tarayıcı</string>
   <string name="reset">Sıfırla</string>
   <string name="saturday">Cumartesi</string>

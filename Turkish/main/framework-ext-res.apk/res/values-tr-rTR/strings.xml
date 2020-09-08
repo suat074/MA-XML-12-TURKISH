@@ -217,7 +217,7 @@
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
   <string name="screen_on_proximity_sensor_title">Cep modu</string>
   <string name="screen_paper_mode_enter_toast">Okuma modu açık. Bu özelliği kapatmak için, Ayarlar &gt; Ekran &gt; Okuma modu seçeneğine gidin.</string>
-  <string name="screen_rotation_freeze_message">Otomatik döndürme devre dışı bırakıldı.</string>
+  <string name="screen_rotation_freeze_message">Yatay modda ekran yönü kilitlendi</string>
   <string name="screenshot_gesture_detect_alert_button">Ayarlardan aç</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Tekrar gösterme</string>
   <string name="screenshot_gesture_detect_alert_msg">Üç parmağı aşağı doğru çektiğinizde ekran görüntüsü alınsın mı?</string>
@@ -271,7 +271,7 @@
   <string name="status_bar_toggle_paper_mode">Okuma modu</string>
   <string name="status_bar_toggle_power_mode">Performans</string>
   <string name="status_bar_toggle_quiet_mode">Rahatsız etme</string>
-  <string name="status_bar_toggle_rotate">Döndürme kapalı</string>
+  <string name="status_bar_toggle_rotate">Yönü kilitle</string>
   <string name="status_bar_toggle_screen_button">Düğmeler</string>
   <string name="status_bar_toggle_screenshot">Ekran görüntüsü</string>
   <string name="status_bar_toggle_sync">Eşitle</string>

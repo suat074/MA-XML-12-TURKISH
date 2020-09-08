@@ -7492,4 +7492,6 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="smart_home_title">Akıllı ev</string>
   <string name="smart_home_value_none">Yok</string>
   <string name="smart_home_value_unknown">Bilinmeyen</string>
+  <string name="wifi_connect_channel">WLAN kanalı:</string>
+  <string name="wifi_connect_frequency">WLAN frekansı:</string>
 </resources>

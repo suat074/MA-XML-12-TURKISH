@@ -77,6 +77,9 @@
   <string name="ai_west_lake">Batı Gölü</string>
   <string name="ai_wuhan">Wuhan</string>
   <string name="ai_zhang_jia_jie">Zhangjiajie</string>
+  <string name="aiwatermark_location_absent_hint">Konum bilgisi alınamadı</string>
+  <string name="aiwatermark_location_list_title">Konum</string>
+  <string name="aiwatermark_location_tips">Daha alakalı filigranlar almak için Kamera\'nın konumunuza erişmesine izin verin</string>
   <string name="custom_tint_color_champagne">Şampanya</string>
   <string name="custom_tint_color_light_orange">Portakal</string>
   <string name="custom_tint_color_lilac">Leylak</string>
