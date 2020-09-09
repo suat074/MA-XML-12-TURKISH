@@ -176,4 +176,12 @@
   <string name="worker_try_join_in_connected_state">Başarıyla bağlandı</string>
   <string name="worker_try_join_in_connecting_state">Cihaz bağlanıyor…</string>
   <string name="yesterday">Dün</string>
+  <string name="http_buffer_size">HTTP önbellek boyutu</string>
+  <string name="log_warning">Günlük anahtarlarını değiştirmek, güvenlik risklerini artırabilir ve performansı etkileyebilir. Bu geçişleri yalnızca gerekli olduğunda kullanın.</string>
+  <string name="message_log">Mesaj günlükleri</string>
+  <string name="resource_log">Kaynak günlükleri</string>
+  <string name="settings_log_options">Günlükler</string>
+  <string name="traffic_log">Trafik günlükleri</string>
+  <string name="verbose_mode">Ayrıntılı mod</string>
+  <string name="worker_authorization_loading">Sadece bir saniye…</string>
 </resources>

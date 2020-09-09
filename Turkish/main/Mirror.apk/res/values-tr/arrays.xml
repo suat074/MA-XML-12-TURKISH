@@ -2,8 +2,8 @@
 <resources>
   <string-array name="settings_search_mirror">
     <item>Ekran Kombo</item>
-    <item>Bağlan &amp; paylaş/Ekran Kombo</item>
-    <item>Ekran Kombo</item>
+    <item>Bağlantı &amp; paylaş/Ekran Kombo</item>
+    <item>Ekran Combo;Çoklu Ekran;Ekran yansıtma;PC;Bilgisayar</item>
   </string-array>
   <string-array name="settings_tips_message">
     <item>1. Ekran Kombo\'yu kullanmadan önce mobil cihazınızdaki paylaşım noktasını, Mi Paylaşım\'ı veya yansıtmayı kapatın.\n2. Hem mobil cihazınızda hem de bilgisayarınızda Wi-Fi\'ı kapatın.\n3. Mobil cihazınızın bilgisayarınıza yakın olduğundan emin olun.</item>

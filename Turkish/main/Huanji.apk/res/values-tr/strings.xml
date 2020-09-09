@@ -704,8 +704,8 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="new_wait_link_message_1">Ayarlar\'a gidin, arama çubuğuna \"Mi Transfer\" yazın ve arama sonuçlarında \"Mi Transfer\" öğesine dokunun.</string>
   <string name="new_wait_link_message_2">"\"Ben bir göndericiyim\" düğmesi Mi Transfer'in başlangıç sayfasındadır."</string>
   <string name="new_wait_link_title_1">1. Eski cihazınızda Ayarlar\'a gidin.</string>
-  <string name="new_wait_link_title_2">2. Arama çubuğuna \"Mi Transfer\" yazın.</string>
-  <string name="new_wait_link_title_3">3. Arama sonuçlarında \"Mi Transfer\" öğesine dokunun.</string>
+  <string name="new_wait_link_title_2">1. \"Ben göndericiyim\" öğesine dokunun ve biraz bekleyin.</string>
+  <string name="new_wait_link_title_3">2. Eski cihazda aşağıdaki WLAN erişim noktasını seçin.</string>
   <string name="nickname">Takma ad</string>
   <string name="night">ÖS</string>
   <string name="no_more_memory_title">Aktarmayı başlatmak için bu cihazda yeterli depolama alanı yok. Depolama alanını boşaltın ve tekrar deneyin.</string>
@@ -899,7 +899,7 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">P</string>
-  <string name="switching_to_5g">5 GHz ağına geçiliyor…</string>
+  <string name="switching_to_5g">Yüksek hızlı aktarım kanalına geçiliyor…</string>
   <string name="sync_data_to_mi_cloud_content1">%d. \"Kişiler\" sekmesinde \"Şimdi eşitle\" öğesine dokunun.</string>
   <string name="sync_data_to_mi_cloud_content2">%d. \"Fotoğraflar\" sekmesinde \"Şimdi yedekle\" öğesine dokunun.</string>
   <string name="sync_data_to_mi_cloud_summary">iPhone\'unuzda Xiaomi Bulutu açın ve verileri eşitlemek için bu adımları izleyin. Eşitleme tamamlandığında aşağıdaki düğmeye dokunun.</string>
