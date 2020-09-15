@@ -117,6 +117,7 @@
   <string name="early_morning">Sabah</string>
   <string name="edit_header_done_description">Bitti</string>
   <string name="edit_header_lock_description">Not gizlendi</string>
+  <string name="edit_note_hint_title">Başlık</string>
   <string name="empty_folder_import_notes">Notları içe aktar</string>
   <string name="empty_folder_no_notes">Burada not yok</string>
   <string name="enable_sync">Eşitle</string>

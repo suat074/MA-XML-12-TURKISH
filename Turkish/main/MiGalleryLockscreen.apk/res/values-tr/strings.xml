@@ -558,6 +558,7 @@ EEE"</string>
   <string name="search_menu_title">Arama</string>
   <string name="search_str">Popüler istekler</string>
   <string name="see_all">Tümünü göster</string>
+  <string name="see_detail">Görüntüle</string>
   <string name="see_more">Daha fazla göster</string>
   <string name="see_more_content">Daha fazla göster</string>
   <string name="select_package">Sürümü seçin</string>
@@ -720,6 +721,7 @@ EEE"</string>
   <string name="toast_update_no_more_newest_feeds">Şimdilik yeni öğe yok</string>
   <string name="top_search_tip">Beğendiğiniz kategorileri arayın</string>
   <string name="torch">El feneri</string>
+  <string name="understand_band_story">Daha fazla bilgi edin</string>
   <string name="uninstall_introducation_text_desc">Duvar Kağıdı Döngüsü, yeni kaliteli görüntüleri doğrudan Kilit ekranınıza getirir. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="uninstall_introduction_text_title">Duvar Kağıdı Döngüsü Hakkında</string>
   <string name="uninstall_warning_text_desc">Duvar Kağıdı Döngüsü olmadan düzenli olarak yeni Kilit ekranı duvar kağıtları alamazsınız. Ancak, uygulamayı tekrar indirip yükleyebilirsiniz. Duvar Kağıdı Döngüsü Sil?</string>

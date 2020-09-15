@@ -8,4 +8,9 @@
     <item>Mi Hesabını kullanarak oturum açmak için</item>
     <item>Dosyaları önizlemek, yüklemek, indirmek ve eşitlemek için</item>
   </string-array>
+  <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+    <item>Mi Hesabını kullanarak oturum açmak için</item>
+    <item>Dosyaları önizlemek, yüklemek, indirmek ve eşitlemek için</item>
+    <item>Güncelleme kontrolü işlevini uygulamak için kullanılır</item>
+  </string-array>
 </resources>

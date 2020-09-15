@@ -161,4 +161,12 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="yesterday">dün</string>
   <string name="your_guardian">【%1$s】 koruyucunuz 【%2$s】 kaldırmanızı öneriyor</string>
+  <string name="I_know">Anladım</string>
+  <string name="bind_status_dialog_cancle">İptal</string>
+  <string name="bind_status_dialog_confirm">Geri yükle</string>
+  <string name="bind_status_dialog_des">Görünüşe göre önceden eklenen bir cihaz artık Family Guard tarafından korunmuyor. \"%s\" şimdi geri yüklensin mi?</string>
+  <string name="bind_status_dialog_title">Eklenen cihazı geri yükle</string>
+  <string name="bind_status_last_bind_time">İlk eklenen: %s</string>
+  <string name="refresh">Yenile</string>
+  <string name="search_menu_title">Ara</string>
 </resources>
