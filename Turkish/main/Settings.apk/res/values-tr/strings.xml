@@ -7497,4 +7497,17 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="smart_home_value_unknown">Bilinmeyen</string>
   <string name="wifi_connect_channel">WLAN kanalı:</string>
   <string name="wifi_connect_frequency">WLAN frekansı:</string>
+  <string name="activity_check_context">Cihazınız şu anda internete bağlanmaya çalışıyor. Mobil veri kullanıyorsanız bu işlem beklenenden daha uzun sürebilir. Bunun yerine geri dönüp bir WLAN ağına bağlanabilir veya mobil veri bağlantısı kurulana kadar beklemeye devam edebilirsiniz.</string>
+  <string name="activity_check_title">İnternet bağlantısı</string>
+  <string name="dialog_check_button_negative">Tekrar dene</string>
+  <string name="dialog_check_button_positive">WLAN\'a bağlan</string>
+  <string name="dialog_check_context">"Cihazınız şu anda internete bağlanamıyor.
+1. Kullanılabilir ağlardan birini seçmek için \"WLAN\'a bağlan\"a dokunun.
+2. Mobil veri kullanmak istiyorsanız \"Tekrar dene\"ye dokunun veya SIM kartınızı çıkarıp yeniden takın."</string>
+  <string name="dialog_check_title">İnternete bağlanılamıyor</string>
+  <string name="dialog_wifi_button_negative">Hayır</string>
+  <string name="dialog_wifi_button_positive">Evet</string>
+  <string name="dialog_wifi_context">Cihazınızı kurmak için internete bağlanmanız gerekir. WLAN\'a bağlanmadığınız sürede, mobil veri kullanılabilir. Mobil veri kullanmak ek operatör ücretleri oluşturabilir. Yine de mobil veri kullanılsın mı?</string>
+  <string name="dialog_wifi_title">Mobil veri kullan</string>
+  <string name="font_size_kddi">Orta</string>
 </resources>
