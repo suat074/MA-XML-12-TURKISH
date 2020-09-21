@@ -63,9 +63,28 @@
   <string name="clearDesc">temizle</string>
   <string name="combine_loan">Birleşik kredi</string>
   <string name="commercial_loan">Ticari kredi</string>
+  <string name="common_google_play_services_enable_button">Etkinleştir</string>
+  <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmediğiniz sürece %1$s çalışmayacak.</string>
+  <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
+  <string name="common_google_play_services_install_button">Yükle</string>
+  <string name="common_google_play_services_install_text">%1$s, cihazınızda eksik olan Google Play hizmetleri olmadan çalışmayacak.</string>
+  <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+  <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+  <string name="common_google_play_services_notification_ticker">Google Play hizmetleri hatası</string>
+  <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s, cihazınız tarafından desteklenmeyen Google Play hizmetleri olmadan çalışmayacak.</string>
+  <string name="common_google_play_services_update_button">Güncelle</string>
+  <string name="common_google_play_services_update_text">Google Play hizmetlerini güncelleştirmediğiniz sürece %1$s çalışmayacak.</string>
+  <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelle</string>
+  <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmayacak.</string>
+  <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekli. Kısa süre içinde kendini güncelleyecek.</string>
+  <string name="common_open_on_phone">Telefonda aç</string>
+  <string name="common_signin_button_text">Oturum aç</string>
+  <string name="common_signin_button_text_long">Google ile oturum aç</string>
   <string name="convert_currency">Para birimi çevirici</string>
   <string name="convertion_unit">Birim çevirici</string>
   <string name="convertion_unit_area">Alan çevirici</string>
+  <string name="convertion_unit_data">Veri dönüştürücü</string>
   <string name="convertion_unit_length">Uzunluk çevirici</string>
   <string name="convertion_unit_radix">Sayısal sistem</string>
   <string name="convertion_unit_temperature">Sıcaklık çevirici</string>
@@ -90,7 +109,7 @@
   <string name="description_title">Hesap Makinesi hakkında</string>
   <string name="deselect_all">Seçimi kaldır</string>
   <string name="devided_by_zero_reminder_message">Sıfıra bölünemez</string>
-  <string name="dialog_privacy_content">Uygulamamız, hesap makinesinin temel özelliklerinin yanı sıra, bilimsel bir hesap makinesi ve çok amaçlı bir dönüştürücü de içeriyor. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. Hesap Makinesi\'ni kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
+  <string name="dialog_privacy_content"><Data>Uygulamamız, hesap makinesinin temel özelliklerinin yanı sıra, bilimsel bir hesap makinesi ve çok amaçlı bir dönüştürücü de içeriyor. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. Hesap Makinesini kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyup kabul etmelisiniz.</Data></string>
   <string name="dialog_privacy_title">Şartlar ve Koşullar</string>
   <string name="dialog_rating_desc_ask">Hesap makinesi hakkında ne düşünüyorsunuz?</string>
   <string name="dialog_rating_desc_less">Bize geri bildiriminizi verebilir misiniz?</string>
@@ -712,6 +731,12 @@
   <string name="unit_data_display_currency_yer">Yemen riyali</string>
   <string name="unit_data_display_currency_zar">Güney Afrika randı</string>
   <string name="unit_data_display_currency_zmw">Zambiya kwachası</string>
+  <string name="unit_data_display_data_b">Bayt</string>
+  <string name="unit_data_display_data_gb">Gigabayt</string>
+  <string name="unit_data_display_data_kb">Kilobayt</string>
+  <string name="unit_data_display_data_mb">Megabayt</string>
+  <string name="unit_data_display_data_pb">Petabayt</string>
+  <string name="unit_data_display_data_tb">Terabayt</string>
   <string name="unit_data_display_length_au">Astronomik Birim</string>
   <string name="unit_data_display_length_chi">Chi</string>
   <string name="unit_data_display_length_cm">Santimetre</string>
@@ -894,4 +919,11 @@
   <string name="xiaomi_update_dialog_message_diff">Tanıtım Sürümü: %1$s\nDelta Güncelleme Boyutu: %2$s</string>
   <string name="xiaomi_update_dialog_title">%1$s güncellemesi!</string>
   <string name="yesterday">Dün</string>
+  <string name="currency_dialog_privacy_content"><Data>Para birimi dönüştürücünün en son döviz kurlarını almak için internete bağlanması gerekir. Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="dont_allow">Reddet</string>
+  <string name="item_title_data_conversion">Veri</string>
+  <string name="label_powered_by">Mi Hesap Makinesi tarafından desteklenir</string>
+  <string name="privacy_disagree">Gizlilik politikası hüküm ve koşullarımıza katılmadığınızda, Mi Hesap Makinesi veri toplamayı durduracak ve ilgili tüm veriler sunuculardan silinecektir. Uygulamadaki bazı özellikleri kullanamayabilirsiniz. Yine de reddedilsin mi?</string>
+  <string name="privacy_switch">Gizlilik politikasını kabul edin</string>
+  <string name="privacy_switch_disagree">Reddet</string>
 </resources>

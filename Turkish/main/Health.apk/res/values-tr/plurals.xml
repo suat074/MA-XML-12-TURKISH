@@ -258,4 +258,24 @@
     <item quantity="other">%1$d yaşında</item>
     <item quantity="one">%1$d yaşında</item>
   </plurals>
+  <plurals name="days_in_menstrual_period">
+    <item quantity="other">Dönem süresi: %1$d gün</item>
+    <item quantity="one">Dönem süresi: %1$d gün</item>
+  </plurals>
+  <plurals name="days_in_period">
+    <item quantity="other">Döngü süresi: %1$d gün</item>
+    <item quantity="one">Döngü süresi: %1$d gün</item>
+  </plurals>
+  <plurals name="group_unit">
+    <item quantity="other">%1$d döngü</item>
+    <item quantity="one">%1$d döngü</item>
+  </plurals>
+  <plurals name="mens_offset_predict_menstrual_period">
+    <item quantity="other">Dönem muhtemelen %1$d gün içinde başlayacak</item>
+    <item quantity="one">Dönem muhtemelen %1$d gün içinde başlayacak</item>
+  </plurals>
+  <plurals name="unit_group">
+    <item quantity="other">" döngü"</item>
+    <item quantity="one">" döngü"</item>
+  </plurals>
 </resources>
