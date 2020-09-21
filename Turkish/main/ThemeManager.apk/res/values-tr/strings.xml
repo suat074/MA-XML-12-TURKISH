@@ -1039,4 +1039,20 @@ Boyut: %2$s"</string>
 Delta güncelleme boyutu: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
+  <string name="home_daily">Günlük öne çıkanlar</string>
+  <string name="item_view_role_description">Sekme</string>
+  <string name="loading_picture">Resim yükleniyor…</string>
+  <string name="material_slider_range_end">Aralık sonu,</string>
+  <string name="material_slider_range_start">Aralık başlangıcı,</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">%1$d adetten fazla yeni bildirim</string>
+  <string name="resource_status_error">Bir hata oluştu. Bu duvar kağıdı şu anda görüntülenemiyor.</string>
+  <string name="share_copy_theme_url">Tema URL\'sini kopyala</string>
+  <string name="share_copy_url_success">Başarıyla kopyalandı</string>
+  <string name="share_copy_wallpaper_url">Duvar kağıdı URL\'sini kopyala</string>
+  <string name="share_picture_loading">Resim yükleniyor…</string>
+  <string name="share_save_success">Saved successfully</string>
+  <string name="share_save_to_photo">Galeri</string>
+  <string name="share_theme_content_text">"Harika bir tema \"%1$s\" buradan indirebilirsiniz.: %2$s. Kimden "</string>
+  <string name="share_wallpaper_content_text">"Harika bir duvar kağıdı \"%1$s\" buradan indirebilirsiniz: %2$s. Kimden "</string>
+  <string name="wallpaper_setting_library">Kütüphane</string>
 </resources>

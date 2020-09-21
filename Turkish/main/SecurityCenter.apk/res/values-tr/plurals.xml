@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="applock_app_suggest_lock">
+    <item quantity="other">%1$s uygulamaları ile Uygulama kilidini kullanabilirsiniz</item>
+    <item quantity="one">%1$s uygulaması ile Uygulama kilidini kullanabilirsiniz</item>
+  </plurals>
+  <plurals name="applock_one_key_lock">
+    <item quantity="other">%s uygulama, Uygulama kilidi ile korunacak</item>
+    <item quantity="one">%s uygulama, Uygulama kilidi ile korunacak</item>
+  </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">%d oyun eklendi</item>
     <item quantity="one">%d oyun eklendi</item>

@@ -294,16 +294,16 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="allow_data_usage_title">Dolaşımda veri kullanımına izin ver</string>
   <string name="allow_device_id_access">Cihaz kimliğini kullanabilecek uygulamaları seçin</string>
   <string name="allow_float_summary">Kayan bildirimlere izin ver</string>
-  <string name="allow_float_title">Kayan bildirimler</string>
+  <string name="allow_float_title">Kayan bildirimlere izin ver</string>
   <string name="allow_keyguard_summary">Kilit ekranında bildirimleri göster</string>
-  <string name="allow_keyguard_title">Kilit ekranı bildirimleri</string>
+  <string name="allow_keyguard_title">Kilit ekranı bildirimlerine izin ver</string>
   <string name="allow_lights_title">LED ışık kullanmaya izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
   <string name="allow_oaid_used">Sanal kimlik kullan</string>
   <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde görüntülenmesine izin ver. Bu, uygulamaları kullanmanıza engel olabilir, görünüm veya davranış şeklini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
-  <string name="allow_sound_title">Sese izin ver</string>
+  <string name="allow_sound_title">Ses çalmaya ver</string>
   <string name="allow_vibrate_title">Titreşime izin ver</string>
   <string name="alpha_build">\nAlfa</string>
   <string name="always">Her zaman</string>
@@ -633,7 +633,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="backup_set_null_pw">Önce şifreyi girin</string>
   <string name="backup_set_pw_confirm_title">Yeni yedekleme şifresini onayla</string>
   <string name="badge_counter_position_title">Bildirim sayacı</string>
-  <string name="badge_title">Uygulama simgesi rozetlerini göster</string>
+  <string name="badge_title">Bildirim rozetlerine izin ver</string>
   <string name="band_24G">" (2.4 GHz bant)"</string>
   <string name="band_5G">" (5 GHz bant)"</string>  
   <string name="band_mode_failed">Başarısız</string>
@@ -2848,6 +2848,9 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
   <string name="launch_defaults_some">Bazı varsayılanlar ayarlandı</string>
   <string name="launch_google_search">Google Asistan\’ı başlat</string>
+  <string name="launch_noapp_dialog_cancel">İptal</string>
+  <string name="launch_noapp_dialog_install">Yükle</string>
+  <string name="launch_noapp_dialog_replace">Ayarlar</string>
   <string name="launch_recents">Son uygulamalar</string>
   <string name="launch_voice_assistant">Ses asistanı başlat</string>
   <string name="launcher_icon">Simgeler</string>
@@ -5725,7 +5728,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="telephony_monitor_switch">Telefon Monitörü</string>
   <string name="telephony_monitor_switch_summary">TelefonMonitörü, telefon/modem işleviyle ilgili bir sorun algıladığında günlükleri toplar ve hatayı bildirmesi için kullanıcıya bir bildirim gösterir.</string>
   <string name="telephony_monitor_toast">TelefonMonitörü değişikliğini uygulamak için cihazı yeniden başlatın</string>
-  <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
+  <string name="temporary_style">Dokunduktan sonra 10 saniye boyunca</string>
   <string name="terms_title">Şartlar ve Hükümler</string>
   <string name="testing">Test</string>
   <string name="testing_phone_info">Telefon Bilgisi</string>
@@ -7494,4 +7497,17 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="smart_home_value_unknown">Bilinmeyen</string>
   <string name="wifi_connect_channel">WLAN kanalı:</string>
   <string name="wifi_connect_frequency">WLAN frekansı:</string>
+  <string name="activity_check_context">Cihazınız şu anda internete bağlanmaya çalışıyor. Mobil veri kullanıyorsanız bu işlem beklenenden daha uzun sürebilir. Bunun yerine geri dönüp bir WLAN ağına bağlanabilir veya mobil veri bağlantısı kurulana kadar beklemeye devam edebilirsiniz.</string>
+  <string name="activity_check_title">İnternet bağlantısı</string>
+  <string name="dialog_check_button_negative">Tekrar dene</string>
+  <string name="dialog_check_button_positive">WLAN\'a bağlan</string>
+  <string name="dialog_check_context">"Cihazınız şu anda internete bağlanamıyor.
+1. Kullanılabilir ağlardan birini seçmek için \"WLAN\'a bağlan\"a dokunun.
+2. Mobil veri kullanmak istiyorsanız \"Tekrar dene\"ye dokunun veya SIM kartınızı çıkarıp yeniden takın."</string>
+  <string name="dialog_check_title">İnternete bağlanılamıyor</string>
+  <string name="dialog_wifi_button_negative">Hayır</string>
+  <string name="dialog_wifi_button_positive">Evet</string>
+  <string name="dialog_wifi_context">Cihazınızı kurmak için internete bağlanmanız gerekir. WLAN\'a bağlanmadığınız sürede, mobil veri kullanılabilir. Mobil veri kullanmak ek operatör ücretleri oluşturabilir. Yine de mobil veri kullanılsın mı?</string>
+  <string name="dialog_wifi_title">Mobil veri kullan</string>
+  <string name="font_size_kddi">Orta</string>
 </resources>
