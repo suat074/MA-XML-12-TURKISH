@@ -124,7 +124,7 @@ OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. 
   <string name="refuse_file">Reddet</string>
   <string name="retry_task">Tekrar gönder</string>
   <string name="scanning_device_tips">Yakındaki cihazlar aranıyor... Diğer cihazın keşfedilebilir modda olduğundan emin olun.</string>
-  <string name="scanning_only_xiaomi_device">Bu öğeyi sadece bir Xiaomi cihazına gönderebilirsiniz</string>
+  <string name="scanning_only_xiaomi_device">Bu öğe yalnızca Xiaomi veya Black Shark cihazlarına aktarılabilir</string>
   <string name="search_menu_title">Ara</string>
   <string name="send_file">DOSYA GÖNDER</string>
   <string name="send_files_to">Öğeleri gönder</string>

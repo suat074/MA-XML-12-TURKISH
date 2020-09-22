@@ -834,6 +834,17 @@
   <string name="miprofile_switch_on_alertdialog_title">Profil fotoğrafını güncelle</string>
   <string name="missing_name">(İsimsiz)</string>
   <string name="missing_required_permission">Gerekli bir izni devre dışı bıraktınız.</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Hiçbiri</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">yenileniyor</string>

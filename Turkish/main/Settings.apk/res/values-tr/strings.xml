@@ -6167,7 +6167,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="use_otg_file_transfers_summary">Daha yavaş 500mA şarj ve dosya aktarımları</string>
   <string name="use_otg_title">Hareket halinde USB</string>
   <string name="use_personalized_ad_service">Kişiselleştirilmiş reklam önerileri</string>
-  <string name="use_personalized_ad_service_summary">Öneri özelliği kapatıldığında, yine aynı miktarda reklam göreceksiniz, ancak davranış verilerinize veya kişisel bilgilerinize bağlı olmayacak.</string>
+  <string name="use_personalized_ad_service_summary">Kişiselleştirilmiş reklam önerileri devre dışı bırakıldığında, özellik açıkken olduğu gibi aynı oranda reklam görmeye devam edeceksiniz. Ancak, reklamlar kişisel tercihlerinize dayalı olmayacağından artık alakalı olmayacaktır.</string>
   <string name="use_privacy_password_immediate">Kullan</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistem dilini kullan</string>
   <string name="use_this_wlan">Bağlandı</string>

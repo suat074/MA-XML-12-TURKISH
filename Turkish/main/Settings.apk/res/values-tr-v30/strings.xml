@@ -789,4 +789,11 @@ Sesli arama sırasında interneti kullanamazsınız ve bazı uygulamalar çalı�
   <string name="wifi_ap_hidden_ssid">SSID\'yi gizle</string>
   <string name="wifi_ap_ssid_off">Kapalı</string>
   <string name="wifi_ap_ssid_on">Açık</string>
+  <string name="dpp_qrcode_generator_summary">Bu QR kodunu Easy Connect destekleyen bir cihazla tarayın</string>
+  <string name="miui_wifi_wakeup_summary">Cihazınız yakındaki kayıtlı ağları algıladığında WLAN otomatik olarak açılır ve bağlantı kurulmazsa 15 dakika sonra kapanır.</string>
+  <string name="wifi_wakeup_location_summary">Bu özelliği kullanabilmek için konum hizmetlerini açın.</string>
+  <string name="wifi_wakeup_negative_button">İptal</string>
+  <string name="wifi_wakeup_positive_button">AÇ</string>
+  <string name="wifi_wakeup_scan_summary">Uygulamaların ve hizmetlerin WLAN\'ı otomatik olarak açabilmesi için WLAN ağlarını aramasına izin verin. Bu özelliği açmak, cihazınızın yakındaki kayıtlı ağlara otomatik olarak bağlanmasına izin verecektir.</string>
+  <string name="wifi_wakeup_title">Ek özellikleri aç</string>
 </resources>

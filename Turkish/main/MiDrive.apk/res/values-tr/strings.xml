@@ -368,6 +368,7 @@
   <string name="rename_success">Başarıyla yeniden adlandırıldı</string>
   <string name="request_permission_confirm">Anladım</string>
   <string name="request_permission_content">Mi Drive\'ın oturum açmak için kullanabilmesi için Mi Drive\'ın bu cihazdaki hesaplara erişmesi gerekiyor. Cihazınızdaki dosyalara erişme ve bunları kaydetme izni, Mi Drive\'ın öğeleri önizlemesine, yüklemesine, indirmesine ve eşitlemesine olanak tanır.</string>
+  <string name="request_permission_content_with_phone_state">Mi Hesabınız ile oturum açabilmeniz, dosyaları önizleyebilmeniz, karşıya yükleyebilmeniz, eşitleyebilmeniz ve güncelleştirmeleri denetleyebilmeniz için Mi Drive\'ın hesaplarınıza, fotoğraflarınıza, dosyalarınıza ve IMEI\'ye erişim izinleri gerekir.</string>
   <string name="request_permission_title">Gerekli izinler</string>
   <string name="resend_active_email">Yeniden gönder</string>
   <string name="resend_email_reach_limit_message">Çok fazla doğrulama e-postası istediniz. Doğrulama e-postasının gelen kutunuzun Spam klasöründe olmadığından emin olun.</string>
