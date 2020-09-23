@@ -1777,7 +1777,6 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="menu_text_antispam">Engelli Listesi</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
-  <string name="menu_text_garbage_cleanup_danger">%s çöp</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
