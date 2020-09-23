@@ -266,7 +266,7 @@
   <string name="burst_image_download_item_title" formatted="false">Orijinali indir (%s|%s)</string>
   <string name="burst_preview_title">Seri çekim</string>
   <string name="burst_save_all">Tümünü kaydet</string>
-  <string name="burst_save_choice_title" formatted="false">%d dışında %d seçildi</string>
+  <string name="burst_save_choice_title">%1$d / %2$d seçildi</string>
   <string name="burst_save_confirm_dialog_title">Fotoğraflar kaydediliyor</string>
   <string name="burst_save_error_msg">Kaydedilemedi</string>
   <string name="burst_save_processing">İşleniyor…</string>
@@ -563,7 +563,7 @@
   <string name="empty_album_other_list_title">Burada albüm yok</string>
   <string name="empty_album_rubbish_list_title">Burada albüm yok</string>
   <string name="empty_description_conditions">Önemli olan şeyleri hatırla</string>
-  <string name="empty_description_conditions_new">Öğelerin burada erken görünmesi için yeterince fotoğraf çekin, şarj cihazını bağlayın ve ekranı kapatın.</string>
+  <string name="empty_description_conditions_new">Şarj cihazını bağlayın ve öğelerin burada daha hızlı görünmesi için ekranı kapatın</string>
   <string name="empty_description_no_cards">Fotoğraf çekmeye devam et. Öğeler oluşturulur oluşturulmaz burada görüntülenir.</string>
   <string name="empty_query_text_msg">Ne arayacağımı bilmiyorum...</string>
   <string name="empty_recommend_back">Geri</string>
@@ -2307,4 +2307,31 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="filter_portrait_waterblue">Akuamarin</string>
   <string name="photo_page_rotate_screen">Ekranı döndür</string>
   <string name="time_burst_save_dialog_title">Öğeleri dışa aktar</string>
+  <string name="filter_popular_autumn">Sonbahar</string>
+  <string name="filter_popular_coffee">Kahve</string>
+  <string name="filter_popular_coldsmoke">Soğuk sis</string>
+  <string name="filter_popular_comic">Anime</string>
+  <string name="filter_popular_dream">Hayal</string>
+  <string name="filter_popular_hill">Tepeler</string>
+  <string name="filter_popular_kamakura">Kamakura</string>
+  <string name="internal_storage_device">Dahili depolama</string>
+  <string name="operation_photo_rename">Yeniden adlandır</string>
+  <string name="operation_pic_to_pdf">PDF oluştur</string>
+  <string name="photodetail_failed_already_exist">Bu dosya zaten var</string>
+  <string name="photodetail_rename_failed">Yeniden adlandırılamadı</string>
+  <string name="photodetail_rename_invalid">"Dosya adları bu karakterleri içeremez: /\\:*?&lt;&gt;|."</string>
+  <string name="photodetail_rename_success">Başarıyla yeniden adlandırıldı</string>
+  <string name="photodetail_rename_title">Yeniden adlandır</string>
+  <string name="photodetail_rename_too_long">Girdiğiniz dosya adı çok uzun</string>
+  <string name="pic_to_pdf_a4_format">A4 kağıt</string>
+  <string name="pic_to_pdf_all_not_support">Seçilen resimler PDF olarak kaydedilemez</string>
+  <string name="pic_to_pdf_exit_notice">Şimdi çıkarsanız bu PDF kaydedilmeyecek. Yine de çıkılsın mı?</string>
+  <string name="pic_to_pdf_not_support_video">Videolar PDF olarak kaydedilemez</string>
+  <string name="pic_to_pdf_preview_loading">Önizleme yükleniyor…</string>
+  <string name="pic_to_pdf_save_in">PDF %s konumuna kaydedildi</string>
+  <string name="save_error_try_a_different_template_msg">Kaydedilemedi. Resim çok büyük.</string>
+  <string name="search_title_photo_name">Dosya adı</string>
+  <string name="toast_invalid_char">Dosya adları \"%s\" içeremez</string>
+  <string name="toast_invalid_prefix">Dosya adları \".\" veya \"_\" ile başlayamaz</string>
+  <string name="toast_rename_exit">Bu dosya zaten var</string>
 </resources>

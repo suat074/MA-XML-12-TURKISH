@@ -175,6 +175,7 @@
   <string name="exceed_binded_phone_times_notice">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="exit">Çıkış</string>
   <string name="facebook">Facebook</string>
+  <string name="facebook_login">Facebook ile giriş</string>
   <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="find_device">Cihazı bul</string>
   <string name="find_device_access_denied">Durum alınamıyor, erişim reddedildi</string>
@@ -211,6 +212,7 @@
   <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabını ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="google">Google</string>
+  <string name="google_login">Google ile giriş</string>
   <string name="guest_account_label">Mi Misafir Hesabı</string>
   <string name="help_center">Yardım</string>
   <string name="i_agree">Tamam</string>

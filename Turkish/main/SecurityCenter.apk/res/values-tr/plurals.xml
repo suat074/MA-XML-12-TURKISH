@@ -96,6 +96,10 @@
     <item quantity="other">%1$d dakika içinde</item>
     <item quantity="one">%1$d dakika içinde</item>
   </plurals>
+  <plurals name="exit_dialog_release_memory_message">
+    <item quantity="other"><Data>Cihazınızı hızlandırmak için &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?</Data></item>
+    <item quantity="one"><Data>Cihazınızı hızlandırmak için &lt;font color=#0099ff>%d&lt;/font> uygulama kapatılsın mı?</Data></item>
+  </plurals>
   <plurals name="ew_concern_date">
     <item quantity="other">%d gün önce</item>
     <item quantity="one">%d gün önce</item>

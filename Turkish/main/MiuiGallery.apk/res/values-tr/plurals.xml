@@ -192,6 +192,14 @@
         <item quantity="one">%d saat</item>
         <item quantity="other">%d saat</item>
     </plurals>
+	<plurals name="pic_to_pdf_filter_count">
+        <item quantity="one">%d desteklenmeyen öğe filtrelendi</item>
+        <item quantity="other">%d desteklenmeyen öğe filtrelendi</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="one">PDF dosyaları en fazla %d resim içerebilir</item>
+        <item quantity="other">PDF dosyaları en fazla %d resim içerebilir</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Seçilen fotoğraflar cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>
         <item quantity="one">Seçilen fotoğraf cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>

@@ -108,6 +108,9 @@
   <string name="app_news_default_title">Haberler</string>
   <string name="app_note_add">Ekle</string>
   <string name="app_note_title_empty">Notlar</string>
+  <string name="app_pa_setting_global_display">Görüntüle</string>
+  <string name="app_pa_setting_global_display_blur_option">Bulanık duvar kağıdı</string>
+  <string name="app_pa_setting_global_display_blur_summary">Duvar kağıdının bulanıklaştırılması hızlıca kaydırma yanıtını yavaşlatır</string>
   <string name="app_pa_setting_head_bg_img">Arka plan</string>
   <string name="app_pa_setting_head_bg_img_default">Ayarlanmadı</string>
   <string name="app_pa_setting_head_bg_img_set">Ayarla</string>
@@ -159,6 +162,7 @@
   <string name="app_pa_setting_service_timetable_summary">Sınıfları zamanlamak için dokunun</string>
   <string name="app_pa_setting_title">Ayarlar</string>
   <string name="app_pa_setting_version">Sürüm: %1$s</string>
+  <string name="app_sports_title_all_leagues">Tüm maçlar</string>
   <string name="app_stock_more_add_stock">Ekle</string>
   <string name="app_stock_title">Hisse senetleri</string>
   <string name="app_stock_title_add_stock">Ekle</string>
@@ -1520,11 +1524,11 @@
   <string name="yesterday">Dün</string>
   <string name="app_sleep">Uyku</string>
   <string name="app_sleep_awake">Uyanık</string>
-  <string name="app_sleep_continue">Daha iyi uyu</string>
+  <string name="app_sleep_continue">Biraz daha uyuyun?</string>
   <string name="app_sleep_deep">Derin</string>
   <string name="app_sleep_enough">Yeterli</string>
   <string name="app_sleep_light">Hafif</string>
-  <string name="app_sleep_sleeping">Daha fazla uyu</string>
+  <string name="app_sleep_sleeping">İyi uykular</string>
   <string name="app_sleep_too_long">Çok fazla</string>
   <string name="app_sleep_too_short">Yeterli değil</string>
   <string name="app_stock_network_unavailable">Ağa bağlanılamadı</string>

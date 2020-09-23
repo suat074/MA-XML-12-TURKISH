@@ -1008,7 +1008,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="exit">Çık</string>
   <string name="exit_dialog_garbage_clean_message">Cihazınızdaki çöp miktarı %s\'dan fazla. Çöpü temizle?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Temizle</string>
-  <string name="exit_dialog_garbage_clean_title">Çöpü temizle</string>
+  <string name="exit_dialog_garbage_clean_title">Depolama alanı boşaltın</string>
   <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
   <string name="exit_dialog_release_storage_message">Cihazınızdaki depolama alanının 80%\'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın.</string>
   <string name="exit_dialog_release_storage_positive_button">Alan boşalt</string>
@@ -1777,6 +1777,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="menu_text_antispam">Engelli Listesi</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
+  <string name="menu_text_garbage_cleanup_danger">%s çöp</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
@@ -2402,7 +2403,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="renew_now">Yenile</string>
   <string name="repair">Onar</string>
   <string name="repair_loading_text">Biraz bekleyin…</string>
-  <string name="repeated_marked_number_summary">Aynı numaradan 3 dakika içinde gelen ikinci aramayı engelleme</string>
+  <string name="repeated_marked_number_summary">Aynı numaradan %d dakika içinde gelen ikinci aramayı engelleme</string>
   <string name="repeated_marked_number_title">Raporlu numaranın tekrar eden aramasını engelleme</string>
   <string name="replace_dns">DNS\'i otomatik yerleştir</string>
   <string name="report">Raporla</string>
@@ -2649,7 +2650,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="st_msg_settings">SMS engelleme listesi</string>
   <string name="st_msg_stranger_group">Yabancılardan gelen mesajları engelle</string>
   <string name="st_settings_name">Engelleme ayarları</string>
-  <string name="st_share_settings">Sim 1 ile ayarları paylaş</string>
+  <string name="st_share_settings">Sim %d ile ayarları paylaş</string>
   <string name="st_sub_title_customize_mode_name">Adı</string>
   <string name="st_sub_title_whiteblack_list_group">Engelli listesi</string>
   <string name="st_sum_call_wait">Dışarıda mesajınız gelen çağrılar için meşgul sinyali olarak da çalınır.</string>
@@ -3531,4 +3532,17 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="function_auto_reject_title">Veri hizmeti olmadan SIM kartlarına yapılan VoLTE çağrılarını reddet</string>
   <string name="vb_fps_settings">Otomatik yenileme hızı</string>
   <string name="vb_fps_settings_tips">Bu özellik, ekran yenileme hızını video kare hızına ayarlar, bu da pil tasarrufu sağlar ve oynatmayı sorunsuz hale getirir. Yüzer yorumları açmak, otomatik yenileme hızını kapatır.</string>
+  <string name="bottom_func_guide_default_text">Daha fazla özellik</string>
+  <string name="exit_dialog_exit">Çık</string>
+  <string name="exit_dialog_garbage_clean_message_new"><Data>Temizleyici, &lt;font color=#0099ff>%s&lt;/font> depolama alanı boşaltabilir. Şimdi temizlensin mi?</Data></string>
+  <string name="exit_dialog_release_memory_positive_button">Kapat</string>
+  <string name="exit_dialog_release_memory_title"><Data>Cihazınızı &lt;font color=#0099ff>%d%%&lt;/font> hızlandırın</Data></string>
+  <string name="menu_item_notification_optimize_text">%d%% dolu</string>
+  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s dolu</string>
+  <string name="stranger_call_dialog_add_block_list">Engelle</string>
+  <string name="stranger_call_dialog_add_contacts">Yeni kişi</string>
+  <string name="stranger_call_dialog_notification_body">Kişilere ekle veya bu numarayı engelle</string>
+  <string name="stranger_call_dialog_notification_title_format">Bilinmeyen numara %s</string>
+  <string name="stranger_call_dialog_subtitle_format">%s kişileriniz arasında değil. Bu telefon numarasını kişilere ekleyebilir veya engelleyebilirsiniz.</string>
+  <string name="stranger_call_dialog_title">"Bilinmeyen numara "</string>
 </resources>
