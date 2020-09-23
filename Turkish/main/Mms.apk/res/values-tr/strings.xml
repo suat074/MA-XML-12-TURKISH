@@ -1180,4 +1180,14 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="toast_not_show_camera_perm_req">Bu özelliği kullanabilmek için Mesajlaşma\'nın kamerayı kullanmasına izin verin</string>
   <string name="toast_not_show_microphone_perm_req">Bu özelliği kullanabilmek için Mesajlaşma\'nın mikrofonu kullanmasına izin verin</string>
   <string name="toast_not_show_storage_perm_req">Bu özelliği kullanabilmek için Mesajlaşma\'nın depolamaya erişmesine izin verin</string>
+  <string name="ad_notification_title">Önemsiz mesajlar</string>
+  <string name="pref_group_ad_mms_recognition">Tanıtım mesajları grubu</string>
+  <string name="pref_summary_ad_mms_recognition">Tanıtım mesajlarını ayrı bir sekmeye yerleştirin</string>
+  <string name="pref_summary_collapse_ad_notification_mms_new">Tanıtım mesajlarını gruplandırın ve Bildirim alanında önemsiz olarak işaretleyin</string>
+  <string name="pref_title_ad_mms_recognition">Tanıtım mesajlarını tanıyın</string>
+  <string name="pref_rcs_show_report_message">Teslimat raporları al</string>
+  <string name="pref_rcs_show_report_message_tip">Mesajlarınız diğer kişiye teslim edildiğinde rapor alın</string>
+  <string name="rcs_chatbot_no_waring">Mesaj bildirimleri sessiz</string>
+  <string name="rsc_chatbot_back">Geri</string>
+  <string name="rsc_chatbot_detail">Satıcı bilgileri</string>
 </resources>

@@ -1378,4 +1378,10 @@ Favori listenize kişi eklemek için:
   <string name="yellowPageNavigationIconLabel">Sarı sayfalar</string>
   <string name="yellowPageNavigationLabel">Sarı sayfalar</string>
   <string name="zero_items_selected">Öğeleri seçin</string>
+  <string name="dialog_delete_contact_button_delete">Sil</string>
+  <string name="dialog_delete_contact_button_keep">Tut</string>
+  <string name="dialog_delete_contact_content">Xiaomi Bulut kişilerinizden bazılarını silmek istiyor. Şimdi silinsin mi?</string>
+  <string name="dialog_delete_contact_title">Kişiler siliniyor</string>
+  <string name="notification_click_detail">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="notification_micloudsync_delete_contact">Xiaomi Bulut kişilerinizden bazılarını silmek istiyor</string>
 </resources>

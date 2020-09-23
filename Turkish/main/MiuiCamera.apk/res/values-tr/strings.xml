@@ -625,6 +625,10 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="face_beauty_intelligent_level_3">Yüksek</string>
   <string name="face_beauty_smart">Akıllı</string>
   <string name="face_score_info">Puan: %.1f</string>
+  <string name="fastmotion_pro_adjust_name">Parametreler</string>
+  <string name="fastmotion_pro_save_time_infinity">Sınırsız süre</string>
+  <string name="fastmotion_pro_save_time_min_and_sec">Süre: %1$s %2$s</string>
+  <string name="fastmotion_pro_save_time_min_or_sec">Süre: %1$s</string>
   <string name="film_video_e_tip">Yalnızca manzara çekimini destekler</string>
   <string name="film_video_tip">Çekim için tripod kullanın</string>
   <string name="fps960_toast">Ağır çekim yakalama, kaydın son çeyreğinde başlayacaktır</string>

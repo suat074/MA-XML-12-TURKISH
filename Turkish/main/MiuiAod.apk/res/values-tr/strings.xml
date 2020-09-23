@@ -36,6 +36,8 @@
   <string name="always_style">Her zaman</string>
   <string name="animation_clock_panel">Dalga kadranı</string>
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
+  <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+  <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
   <string name="aod_lock_screen_date">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>

@@ -25,6 +25,11 @@
     <item>PIN</item>
     <item>Şifre</item>
   </string-array>
+  <string-array name="cellular_package_type">
+    <item>Aylık plan</item>
+    <item>Sınırsız</item>
+    <item>Günlük plan</item>
+  </string-array>
   <string-array name="date_of_app_all">
     <item>"Dün (mobil veri) "</item>
     <item>"Bugün (mobil veri) "</item>
