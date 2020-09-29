@@ -3581,4 +3581,10 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="traffic_calculation">Günlük bir faturalandırma döngüsü kullanın</string>
   <string name="traffic_limit_input">Veri sınırı (zorunlu)</string>
   <string name="unknown_package">Planınızın ne olduğundan emin değil misiniz?</string>
+  <string name="privacy_revoke_dialog_content">Düğmeyi kapatarak, Güvenlik Gizlilik Politikasına olan onayınızı geri çekmiş olursunuz. Kişisel bilgilerinizi toplamayı bırakacağız. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği süre içinde silinecektir. Güvenlik, size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Gizlilik Politikasına verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanarak verilen hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir.</string>
+  <string name="privacy_revoke_dialog_negetive_text">İptal</string>
+  <string name="privacy_revoke_dialog_positive_text">Geri çek</string>
+  <string name="privacy_revoke_dialog_title">Onayı geri çek</string>
+  <string name="settings_privacy_revoke_desc">Düğmeyi kapatarak, Güvenlik Gizlilik Politikasına olan onayınızı geri çekmiş olursunuz.</string>
+  <string name="settings_privacy_revoke_title">Onayı geri çek</string>
 </resources>
