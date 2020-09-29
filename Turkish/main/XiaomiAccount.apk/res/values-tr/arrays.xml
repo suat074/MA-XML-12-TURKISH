@@ -17,7 +17,7 @@
   <string-array name="settings_search_account_and_authority_global">
     <item>Hesaplar</item>
     <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
-    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;QQ;Weibo</item>
+    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;Facebok;Google</item>
   </string-array>
   <string-array name="settings_search_change_password">
     <item>Şifre değiştir</item>
