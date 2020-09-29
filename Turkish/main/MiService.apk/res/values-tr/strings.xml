@@ -90,7 +90,7 @@
   <string name="miui_feedback_edit_submit_directly">Gönder</string>
   <string name="miui_feedback_edit_title_occurrence_time">Zamanı seç</string>
   <string name="miui_feedback_edit_title_reproductivity">Verimliliği seçin</string>
-  <string name="miui_feedback_edit_toast_description_required">Bir açıklama yazmalısın</string>
+  <string name="miui_feedback_edit_toast_description_required">Önce sorunu açıklayın</string>
   <string name="miui_feedback_edit_toast_module_required">Öğeyi seçin</string>
   <string name="miui_feedback_edit_toast_more_desc_required">Açıklamanız daha uzun olmalıdır</string>
   <string name="miui_feedback_edit_toast_problem_class_required">Kategori seç</string>

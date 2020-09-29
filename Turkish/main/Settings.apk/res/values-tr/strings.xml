@@ -7007,7 +7007,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_disabled">Kapalı</string>
   <string name="xiaomi_cloud_service_unknown">Bilinmiyor</string>
-  <string name="xiaomi_money_service">Mi Kredisi</string>
+  <string name="xiaomi_money_service">Mi Paraları</string>
   <string name="xiaomi_router_available_notif_summary">Daha fazla bilgi görüntülemek için dokunun.</string>
   <string name="xiaomi_router_available_notif_title">Mi Yönlendirici kullanılabilir</string>
   <string name="xiaomi_router_notif_summary">Mi Yönlendirici kullanılabilir olduğunda beni haberdar et</string>
@@ -7510,4 +7510,20 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="dialog_wifi_context">Cihazınızı kurmak için internete bağlanmanız gerekir. WLAN\'a bağlanmadığınız sürede, mobil veri kullanılabilir. Mobil veri kullanmak ek operatör ücretleri oluşturabilir. Yine de mobil veri kullanılsın mı?</string>
   <string name="dialog_wifi_title">Mobil veri kullan</string>
   <string name="font_size_kddi">Orta</string>
+  <string name="control_center_style">Kontrol merkezi stili</string>
+  <string name="control_center_style_summary">Düğmeleri ve bildirimleri nasıl görüntülemek istediğinizi seçin</string>
+  <string name="display_animate_category">Animasyonlu efektler</string>
+  <string name="display_animate_content">Cihazın kilidi açılırken görüntülenen animasyonlu efektleri azaltın</string>
+  <string name="display_animate_title">Animasyonları azalt</string>
+  <string name="legacy_control_center_desc">Düğmeleri ve bildirimleri görüntülemek için durum çubuğunu aşağı çekin</string>
+  <string name="legacy_control_center_title">Eski sürüm</string>
+  <string name="lock_screen_action">Aşağı kaydırdıktan sonra Kilit ekranında gösterilen öğeler</string>
+  <string name="modern_control_center_desc">Bildirimleri görüntülemek için soldan durum çubuğunu aşağı çekin. Kontrol merkezini açmak için sağdan durum çubuğunu aşağı çekin.</string>
+  <string name="modern_control_center_title">Yeni sürüm</string>
+  <string name="notification_control_center">Bildirimler &amp; Kontrol merkezi</string>
+  <string name="notification_display_settings">Bildirim alanı</string>
+  <string name="notification_settings">Bildirimler</string>
+  <string name="requires_modern_control_center">Kontrol merkezinin yeni sürümüyle çalışır</string>
+  <string name="show_badge_notifications_short">Rozetler</string>
+  <string name="switchNetworkToast">Mobil ağlara bağlanmak ek ücretler oluşturabilir</string>
 </resources>

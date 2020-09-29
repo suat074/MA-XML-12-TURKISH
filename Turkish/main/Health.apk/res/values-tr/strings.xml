@@ -468,10 +468,12 @@
   <string name="home_tip_sync_immediately">Bazı öğeler eşitlenmedi. Şimdi eşitlemek için dokunun.</string>
   <string name="home_tip_syncing">Sağlık verileri eşitleniyor...</string>
   <string name="hour">S</string>
+  <string name="hr_camera_permission_desc">Kalp atış hızı değerini belirlemek için kamera aracılığıyla parmak çevresindeki ışık değişikliklerinin frekansını elde etmek için</string>
   <string name="hr_choose_detect_state">Şu anda hangi durumdasın?</string>
   <string name="hr_detect">Kalp atış hızını ölçün</string>
   <string name="hr_detect_desc">Ölçüm sırasında, telefonunuzun flaşı sürekli bir ışık kaynağı olarak kullanılacak ve kamera kan akışındaki değişiklikleri algılayacaktır. Görüntüler daha sonra analiz edilecek ve kalp atış hızınız tekrarlanan modellere göre belirlenecektir.</string>
-  <string name="hr_detect_finished">Bitti!</string> 
+  <string name="hr_detect_finished">Bitti!</string>
+  <string name="hr_detect_fps_jitter">Kalp atış hızı ölçülemedi. Tekrar deneyin.</string>  
   <string name="hr_detect_principle_desc_1">Kalp atış hızınızı telefonunuzun flaşını ve kamerasını parmağınızla kapatarak ölçebilirsiniz. Flaş sürekli bir ışık kaynağı olarak kullanılacak ve kamera kan akışındaki değişiklikleri algılayacaktır. Görüntüler daha sonra analiz edilecek ve kalp atış hızınız tekrarlanan modellere göre belirlenecektir.</string>
   <string name="hr_detect_principle_desc_2">Birden fazla test, bu yöntem için hata payının dakikada yaklaşık 2 vuruş olduğunu göstermektedir.</string>
   <string name="hr_detect_principle_desc_3">Dış faktörlerin (örn. Sıcaklık, cilt tonu, hareket) yanlış veya eksik ölçümlere yol açabileceğini unutmayın. Mevcut okumanızın doğru olduğundan emin olmak için birden fazla ölçüm yapın. Burada sağlanan sonuçlar sadece referans amaçlıdır. Bu ölçüm yöntemi profesyonel tıbbi ekipmanın yerini alamaz.</string>

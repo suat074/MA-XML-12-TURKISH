@@ -1209,6 +1209,7 @@
   <string name="notification_channel_tv_pip">Resim içinde resim</string>
   <string name="notification_channel_usb">USB</string>
   <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+  <string name="notification_control_center">Bildirimler &amp; Kontrol merkezi</string>
   <string name="notification_default_channel_desc">Bu uygulamanın bildirim kategorileri yok</string>
   <string name="notification_done">Tamam</string>
   <string name="notification_group_collapse_button_text">Daralt</string>
@@ -1471,7 +1472,7 @@
   <string name="quick_settings_rssi_emergency_only">Sadece acil çağrılar</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Düğmeler</string>
-  <string name="quick_settings_screenlock_label">Ekranı kilitle</string>
+  <string name="quick_settings_screenlock_label">Kilit</string>
   <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
   <string name="quick_settings_secondary_label_until">%s\'e kadar</string>
   <string name="quick_settings_settings_label">Ayarlar</string>

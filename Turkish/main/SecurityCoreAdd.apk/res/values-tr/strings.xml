@@ -458,8 +458,8 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="xspace_disable">Oluşturulmadı</string>
   <string name="xspace_enable">Oluşturuldu</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Geçiş yapmadan 2 hesap kullanın</string>
-  <string name="xspace_guide_title">Klonlu uygulama oluştur</string>
+  <string name="xspace_guide_des">Klonlu uygulamalar aynı anda iki hesap kullanmanızı sağlar</string>
+  <string name="xspace_guide_title">Klonlu uygulamaları deneyin</string>
   <string name="xspace_header">Klonlu uygulamalar</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_install_completed">Ana ekrana simge eklendi</string>
@@ -479,4 +479,10 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="xspace_uninstall_dialog_title">Klonlu uygulamayı kaldır</string>
   <string name="xspace_uninstalling">Kaldırılıyor…</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="xspace_guide_content_bound">Kullanılabilir uygulamalar</string>
+  <string name="xspace_guide_description">"Her hesap kendi
+uygulamasını hak eder"</string>
+  <string name="xspace_install_complete">&lt;font>Başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font></string>
+  <string name="xspace_notification_button">Dene</string>
+  <string name="xspace_start">Oluştur</string>
 </resources>

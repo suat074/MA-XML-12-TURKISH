@@ -374,7 +374,7 @@
   <string name="call_description_recording">Kaydediliyor…</string>
   <string name="call_forward_option">Çağrı Yönlendir</string>
   <string name="call_forwarding_number_hint">Çağrıları yönlendir</string>
-  <string name="call_forwarding_settings">Çağrı yönlendirme ayarları</string>
+  <string name="call_forwarding_settings">Çağrı yönlendirme</string>
   <string name="call_forwarding_settings_with_label">Çağrı yönlendirme ayarları (%s)</string>
   <string name="call_record_add_numbers">Numara ekle</string>
   <string name="call_record_auto_always">Tüm numaralar</string>

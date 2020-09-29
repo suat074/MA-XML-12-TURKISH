@@ -9,6 +9,16 @@
     <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
     <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;Google;Weibo</item>
   </string-array>
+  <string-array name="settings_search_account_and_authority_non_global">
+    <item>Hesaplar</item>
+    <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
+    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;QQ;Weibo</item>
+  </string-array>
+  <string-array name="settings_search_account_and_authority_global">
+    <item>Hesaplar</item>
+    <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
+    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;QQ;Weibo</item>
+  </string-array>
   <string-array name="settings_search_change_password">
     <item>Şifre değiştir</item>
     <item>Mi Hesabı şifresini değiştirin</item>

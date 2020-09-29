@@ -1504,4 +1504,15 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="wideselfie_rotate_to_front">Telefonu öne eğin</string>
   <string name="wideselfie_rotate_to_left_slowly">Telefonu sola döndür</string>
   <string name="wideselfie_rotate_to_right_slowly">Telefonu sağa döndür</string>
+  <string name="auto_hibernation_enter_tip">Ekran kapanmak üzere…</string>
+  <string name="pref_camera_auto_hibernation">Ekran kapalıyken çekim yapın</string>
+  <string name="pref_camera_auto_hibernation_description">Güç tasarrufu için %d dakika çekim yaptıktan sonra ekranı kapatın</string>
+  <string name="accessibility_dual_video_merged">Birleşik video</string>
+  <string name="accessibility_dual_video_standalone">Ayrılmış videolar</string>
+  <string name="dual_video_record_merged">Birleşik</string>
+  <string name="dual_video_record_standalone">Ayrılmış</string>
+  <string name="dual_video_user_guide_main_content">Çoklu kamera videoları oluşturmak için cihazınızda iki kamera seçin ve aynı anda çekim yapın. Kayıtlar ayrı olarak saklanabilir veya bölünmüş görünümde veya resim içinde resim videoda birleştirilebilir.</string>
+  <string name="dual_video_user_guide_main_title">Çoklu kamera videosu</string>
+  <string name="dual_video_user_guide_merge_content">Aynı anda iki kamera ile çekim yapın ve kayıtları bölünmüş görünümde veya resim içinde resim videoda birleştirin.</string>
+  <string name="dual_video_user_guide_standalone_content">Aynı anda iki kamera ile çekim yapın ve her iki kaydı ayrı videolar olarak kaydedin.</string>
 </resources>

@@ -152,6 +152,7 @@
   <string name="no_avaliable_application">Kullanılabilir uygulama yok</string>
   <string name="noon">Öğlen</string>
   <string name="not_set">Ayarlanmadı</string>
+  <string name="notification_control_center">Bildirimler &amp; Kontrol merkezi</string>
   <string name="online">Çevrimiçi</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="quick_controls_subtitle">Bağlı cihazlarınız için kontroller ekleyin</string>
