@@ -1055,4 +1055,34 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="share_theme_content_text">"Harika bir tema \"%1$s\" buradan indirebilirsiniz.: %2$s. Kimden "</string>
   <string name="share_wallpaper_content_text">"Harika bir duvar kağıdı \"%1$s\" buradan indirebilirsiniz: %2$s. Kimden "</string>
   <string name="wallpaper_setting_library">Kütüphane</string>
+  <string name="already_newest_version">Mevcut sürüm güncel</string>
+  <string name="cancel_download">İndirme iptal edildi</string>
+  <string name="desk_loop_will_change">Dikkat</string>
+  <string name="install_failed">Yüklenemedi</string>
+  <string name="no_cta_agreed">GetApps için CTA izinleri yok</string>
+  <string name="no_install_permission">Bu öğeyi yükleme izniniz yok</string>
+  <string name="pref_lockscreen_magazine_summary">Duvar kağıdını çeşitli kategorilerdeki resimlerin slayt gösterileriyle değiştirin</string>
+  <string name="set_wallpaper_group_success">"%1$s uygulandı.
+Her saat yeni bir resim göreceksiniz."</string>
+  <string name="super_wallpaper_list_label">Süper duvar kağıtları</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Başarıyla uygulandı</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Konum seçin</string>
+  <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
+  <string name="super_wallpaper_setting_view_height_title">Rakım</string>
+  <string name="task_already_exist">Bu görev zaten var</string>
+  <string name="update">Güncelle</string>
+  <string name="wallpaper_group_set_loop">Benzer görüntülerle kilit ekranı slayt gösterisi</string>
+  <string name="wallpaper_set_as_loop_extra_msg">Herkes kullanıyor</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+  <string name="wallpaper_setting_find_more_text">Daha fazla çevrimiçi duvar kağıtları</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ana ekran</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Kilit ekranı</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Çevrimiçi duvar kağıtları</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Duvar kağıtlarını keşfedin</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Çevrimiçi duvar kağıtları</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Süper duvar kağıtları</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
+  <string name="wallpaper_setting_title">Duvar kağıdı</string>
+  <string name="warning_subscribe_wallpaper_group_content">Ana ekran slayt gösterisini açtınız. %1$s, Ana ekranınıza uygulanacak.</string>
 </resources>
