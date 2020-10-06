@@ -288,6 +288,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Sesler</string>
   <string name="allow">İzin Ver</string>
+  <string name="allow_all_rotations_title">Tüm döndürmelere izin ver</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Widget oluşturduktan sonra, %1$s görüntülenen tüm verilere erişebilir.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget oluşturma ve erişim izni vermek istiyor musunuz?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Daima Widget oluşturmak için %1$s izin ver ve verilere eriş</string>

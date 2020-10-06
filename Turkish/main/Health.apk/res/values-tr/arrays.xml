@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="HomePageTabTitle">
+    <item>Sağlık</item>
+    <item>Egzersiz</item>
+  </string-array>
+  <string-array name="SportTabTitle">
+    <item>Açık hava koşusu</item>
+    <item>Yürüyüş</item>
+    <item>Outdoor_riding</item>
+    <item>Koşu bandı</item>
+  </string-array>
   <string-array name="arr_prompt_label">
     <item>Makul</item>
     <item>Uzun</item>

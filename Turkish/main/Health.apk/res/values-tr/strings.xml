@@ -1157,7 +1157,7 @@
   <string name="tb_home_sleep_card_no_data">Uyku. Bugün veri yok.</string>
   <string name="tb_home_sleep_card_not_open_trace">Uyku. Uyku döngüsü analizi kapalı.</string>
   <string name="tb_home_tip_open_data_sync">Diğer cihazlardan erişmek için Xiaomi Sağlık öğelerini Xiaomi Bulut ile eşitleyin. Başlamak için iki kez dokunun.</string>
-  <string name="tb_home_weight_card">Ağırlık. %1$.1f kilogram. Tartım zamanı: %2$s. Durum: %3$s.</string>
+  <string name="tb_home_weight_card">Ağırlık. %1$.2f kilogram. Tartım zamanı: %2$s. Durum: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Ağırlık. Veri yok.</string>
   <string name="tb_manage_home">Buradan başlangıç ​​sayfasında görüntülenen kartları çıkarabilir veya yeniden düzenleyebilirsiniz.</string>
   <string name="tb_mens_month_date_selected">%1$s seçildi.</string>
@@ -1451,4 +1451,21 @@
   <string name="upgrade_suggestion">Xiaomi Sağlık en son sürüme güncelleyin ve tekrar deneyin.</string>
   <string name="user_center">Kullanıcı Merkezi</string>
   <string name="yoga">Yoga</string>
+  <string name="calories">kalori</string>
+  <string name="hr_fp_area">Parmak izi alanı</string>
+  <string name="hr_fp_detect_desc">Kalp atışı sırasında parmaklara kan akışı artar. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans, doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür.</string>
+  <string name="hr_fp_detect_principle_desc">"Kan ışığı emer. Her kalp atışı ile parmaklara daha fazla kan akar ve daha fazla ışık emilir; kalp atışı arasındaki aralıkta, daha az ışık emilir. Ekranın altındaki parmak izi alanında bulunan parlak ışık kaynağı sayesinde parmak kanının değişim frekansı elde edilebilir. Frekans, doğru kalp atış hızını hesaplamak için bir nabız sinyaline dönüştürülür.
+
+Çok sayıda deney sayesinde, ortalama kalp atış hızı hatası 3 BPM\'den azdır"</string>
+  <string name="hr_fp_detect_principle_desc_2">Not: Lütfen parmağınızın parmak izi alanını tamamen kapladığından emin olun; tespit sırasında hafifçe bastırın. Basınç çok yüksekse, parmağınızdaki kan akışı azalır ve bu da yanlış sonuçlara yol açar. Test verileri sadece referans içindir, tıbbi cihazlar için değildir.</string>
+  <string name="hr_fp_detect_start_desc">Lütfen parmağınızı hafifçe bastırın. Parmak izi alanını hareket ettirmeyin</string>
+  <string name="hr_fp_detecting">Algılanıyor…</string>
+  <string name="hr_fp_not_put_well">Parmak doğru yerde değil, tekrar deneyin</string>
+  <string name="hr_fp_report_common_desc">Normal kalp hızı dakikada 60 ile 100 arasında değişir. 60 BPM\'den düşük bir kalp hızı bradikardi belirtisidir, 100 BPM\'den yüksek bir kalp hızı ise yetişkinlerde taşikardi olarak kabul edilir.</string>
+  <string name="setting_cycling_goals">Bisiklet hedefleri belirleyin</string>
+  <string name="setting_running_goals">Koşu hedefleri belirleyin</string>
+  <string name="setting_walking_goals">Yürüme hedefleri belirleyin</string>
+  <string name="start_cycling">Bisiklete binmeye başla</string>
+  <string name="start_running">Koşmaya başla</string>
+  <string name="start_walking">Yürümeye başla</string>
 </resources>

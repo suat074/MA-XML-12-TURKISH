@@ -96,6 +96,10 @@
     <item quantity="other">%1$d saat</item>
     <item quantity="one">%1$d sa</item>
   </plurals>
+  <plurals name="hr_fp_detect_time_remainder">
+    <item quantity="one">%1$d saniye kaldı</item>
+    <item quantity="other">%1$d saniye kaldı</item>
+  </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">1 saat içinde</item>
   </plurals>
@@ -249,6 +253,26 @@
   <plurals name="unit_days">
     <item quantity="other">" gün"</item>
     <item quantity="one">" gün"</item>
+  </plurals>
+  <plurals name="unit_hours">
+    <item quantity="one">" saat "</item>
+    <item quantity="other">" saat "</item>
+  </plurals>
+  <plurals name="unit_hours2">
+    <item quantity="one">" saat "</item>
+    <item quantity="other">" saat "</item>
+  </plurals>
+  <plurals name="unit_mins">
+    <item quantity="one">" dak. "</item>
+    <item quantity="other">" dak. "</item>
+  </plurals>
+  <plurals name="unit_mins2">
+    <item quantity="one">" dakika "</item>
+    <item quantity="other">" dakika "</item>
+  </plurals>
+  <plurals name="unit_seconds">
+    <item quantity="one">" san. "</item>
+    <item quantity="other">" san. "</item>
   </plurals>
   <plurals name="unit_times">
     <item quantity="other">" kere"</item>
