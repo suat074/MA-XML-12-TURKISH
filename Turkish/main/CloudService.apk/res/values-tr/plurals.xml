@@ -87,5 +87,21 @@
   <plurals name="select_no_more_than">
     <item quantity="other">%d öğeden fazla seçilemiyor</item>
     <item quantity="one">%d öğeden fazla seçilemiyor</item>
+  </plurals>
+  <plurals name="share_sdk_invitation_some_people_accepted">
+    <item quantity="other">Davet %d kişi tarafından kabul edildi</item>
+    <item quantity="one">Davet %d kişi tarafından kabul edildi</item>
+  </plurals>
+  <plurals name="time_format_day">
+    <item quantity="other">%1$s gün</item>
+    <item quantity="one">%1$s gün</item>
+  </plurals>
+  <plurals name="time_format_hour">
+    <item quantity="other">%1$s saat</item>
+    <item quantity="one">%1$s saat</item>
+  </plurals>
+  <plurals name="time_format_min">
+    <item quantity="other">%1$s dak</item>
+    <item quantity="one">%1$s dak</item>
   </plurals>  
 </resources>

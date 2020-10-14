@@ -1157,7 +1157,7 @@
   <string name="tb_home_sleep_card_no_data">Uyku. Bugün veri yok.</string>
   <string name="tb_home_sleep_card_not_open_trace">Uyku. Uyku döngüsü analizi kapalı.</string>
   <string name="tb_home_tip_open_data_sync">Diğer cihazlardan erişmek için Xiaomi Sağlık öğelerini Xiaomi Bulut ile eşitleyin. Başlamak için iki kez dokunun.</string>
-  <string name="tb_home_weight_card">Ağırlık. %1$.2f kilogram. Tartım zamanı: %2$s. Durum: %3$s.</string>
+  <string name="tb_home_weight_card">Ağırlık. %1$.1f kilogram. Tartım zamanı: %2$s. Durum: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Ağırlık. Veri yok.</string>
   <string name="tb_manage_home">Buradan başlangıç ​​sayfasında görüntülenen kartları çıkarabilir veya yeniden düzenleyebilirsiniz.</string>
   <string name="tb_mens_month_date_selected">%1$s seçildi.</string>

@@ -466,8 +466,15 @@
   <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>
   <string name="passport_uplink_reg">Telefon numarasını kullan</string>
-  <string name="passport_uplink_slot1_reg">SIM 1 Kullan</string>
-  <string name="passport_uplink_slot2_reg">SIM 2 Kullan</string>
+  <string name="passport_uplink_send_sms_hint">Oluşturulmuş bir mesajla sayfaya yönlendirildikten sonra \"Gönder\" öğesine dokunun.</string>
+  <string name="passport_uplink_slot1_reg">SIM 1 kullan</string>
+  <string name="passport_uplink_slot2_reg">SIM 2 kullan</string>
+  <string name="passport_uplink_sms_send_cancel">Uplink SMS gönderimi iptal edildi</string>
+  <string name="passport_uplink_sms_send_confirm">Gönder</string>
+  <string name="passport_uplink_sms_send_failed">Uplink SMS\'i doğrulanamadı</string>
+  <string name="passport_uplink_sms_sending">Ücretli mesaj gönderiliyor…</string>
+  <string name="passport_uplink_suggest_dialog_msg">Kod alınamadı. Bunun yerine ücretli bir uplink SMS\'i kullanılsın mı?</string>
+  <string name="passport_uplink_suggest_dialog_title">Dikkat</string>
   <string name="passport_use_generated_pwd_message">Unutmayacağınız bir şifre kullanın. Diğer Mi Hizmetleri içinde aynı şifreyi kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi unutmayın!</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
