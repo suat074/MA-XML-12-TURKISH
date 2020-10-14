@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">Alan Kodunu Girin</string>
-  <string name="ACaddnumtitle">Telefon numarasının önekini izinlere ekleyin</string>
+  <string name="ACaddnumtitle">Telefon numarasının ön ekini izinlere ekleyin</string>
   <string name="AD_ALLOW">Reklamlara izin ver</string>
   <string name="AD_APPInfo">Uygulama Bilgisi</string>
   <string name="AD_AntiSpam">Reklam Engelleyici</string>
@@ -20,7 +20,7 @@
   <string name="Call_ADRESS">Yerel Engelli Listesi</string>
   <string name="Call_BLACKLIST">Çağrı Engelli Listesi</string>
   <string name="Call_DEFAULT">Akıllı Engelli Listesi</string>
-  <string name="Call_PREFIX">Engelli Listesi Öneki</string>
+  <string name="Call_PREFIX">Engelli Listesi Ön Eki</string>
   <string name="Call_PRIVATE_CALL">Özel Çağrılar</string>
   <string name="MALICIOUS_URL">Kötü Niyetli Bağlantı</string>
   <string name="NACaddnumcontent">Telefon numarasını girin</string>
@@ -31,7 +31,7 @@
   <string name="SMS_BLACKLIST">Mesaj Engelli Listesi</string>
   <string name="SMS_DEFAULT">Akıllı Engelli Listesi</string>
   <string name="SMS_KEYWORDS">Engelli Listesi Anahtar Kelimeleri</string>
-  <string name="SMS_PREFIX">Engelli Listesi Öneki</string>
+  <string name="SMS_PREFIX">Engelli Listesi Ön Eki</string>
   <string name="SMS_SERVICE">Şebekenin Engelli Listesi</string>
   <string name="SMSpass">Mesajlara izin ver</string>
   <string name="STRANGER_BLOCK">Yabancı Engelli Listesi</string>
@@ -56,14 +56,14 @@
   <string name="antispam_notification_setting_title">Bildirimler</string>
   <string name="antispam_xpace_text">Lütfen Anti-Spam Ayarlarını yapmak için kişisel alana geçin</string>
   <string name="app_name">Engelli Listesi</string>
-  <string name="backsound_set_hint">%s için dışarda mesajı ayarlansın mı?</string>
+  <string name="backsound_set_hint">%s için dışarıda mesajı ayarlansın mı?</string>
   <string name="baidu_thanks">Baidu tarafından güçlendirildi</string>
   <string name="birthday">Doğum Günü</string>
   <string name="bl_block_info" formatted="false">Çağrı: %d | SMS: %d</string>
   <string name="bl_no_blacklist">Engellenen numara yok</string>
   <string name="bl_no_block_call">Engellenen çağrı yok.</string>
   <string name="bl_no_block_sms">Engellenen mesaj yok.</string>
-  <string name="blacklist_prefix_add_hint">Bu önek ile başlayan tüm numaraları engelle</string>
+  <string name="blacklist_prefix_add_hint">Bu ön ek ile başlayan tüm numaraları engelle</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b>%d&lt;/font></string>
   <string name="block_phone_number">Çağrılar: &lt;font color=#5fab1b>%d&lt;/font></string>
   <string name="button_text_delete">Sil</string>
@@ -83,7 +83,7 @@
   <string name="dlg_add_keyword">Anahtar sözcük ekle</string>
   <string name="dlg_add_manual_hint">Telefon numarasını girin</string>
   <string name="dlg_add_manual_ok">Ekle</string>
-  <string name="dlg_antispam_mode_delete_message">"Sildikten sonra Engelli Listesideki kuralları kurtaramazsınız."</string>
+  <string name="dlg_antispam_mode_delete_message">"Sildikten sonra Engelli Listesindeki kuralları kurtaramazsınız."</string>
   <string name="dlg_antispam_mode_delete_title">Kurallar silinsin mi?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Kullanılan geçerli kurallar silindikten sonra varsayılan Engelli Listesi profiline dönülsün mü?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Kullanılan geçerli kurallar silindikten sonra varsayılan Engelli Listesi profiline dönülsün mü?"</string>
@@ -235,7 +235,7 @@
   <string name="st_antispam_black_adress_add">Konum ekle</string>
   <string name="st_antispam_bw_adress_add">Konum ekle</string>
   <string name="st_antispam_bw_choose_modes">Listeye ekle</string>
-  <string name="st_antispam_bw_head_add">Önek ekle</string>
+  <string name="st_antispam_bw_head_add">Ön Ek ekle</string>
   <string name="st_antispam_bw_man_add">Telefon numarası ekle</string>
   <string name="st_antispam_bw_pick_add">Kişi ekle</string>
   <string name="st_antispam_delete">Sil</string>
@@ -249,7 +249,7 @@
   <string name="st_antispam_mode_blacklist_sum">"Engelli Listesine elle eklediğim numaralardan gelen mesaj ve çağrıları engelle"</string>
   <string name="st_antispam_mode_customize_sum">Engelli Listesi kuralı oluştur</string>
   <string name="st_antispam_mode_denyownself_sum">Özel Kurallar</string>
-  <string name="st_antispam_mode_only_all_deny">Herşeyi engelle</string>
+  <string name="st_antispam_mode_only_all_deny">Her şeyi engelle</string>
   <string name="st_antispam_mode_only_all_deny_sum">Tüm çağrı ve mesajları engelle</string>
   <string name="st_antispam_mode_only_contacts">Sadece kişilere izin ver</string>
   <string name="st_antispam_mode_only_contacts_sum">Sadece kişilerin çağrı ve mesajlarına izin ver</string>
@@ -282,7 +282,7 @@
   <string name="st_filter_keywords_setting_title">Anahtar Sözcük Filtresini Yapılandır</string>
   <string name="st_filter_keywords_title">Anahtar Sözcük Filtresi</string>
   <string name="st_filter_sms_button">Mesajları filtrele</string>
-  <string name="st_hint_add_head_number">Önek Girişi</string>
+  <string name="st_hint_add_head_number">Ön Ek Girişi</string>
   <string name="st_hint_add_phonenumber">Telefon numarasını gir</string>
   <string name="st_message_SMS_AntiSpam">Mesajları engelle</string>
   <string name="st_message_SMSpass">Mesajlara izin ver</string>
@@ -299,7 +299,7 @@
   <string name="st_sms_group">Mesajlar</string>
   <string name="st_sub_title_customize_mode_name">Adı</string>
   <string name="st_sub_title_whiteblack_list_group">Engelli Listesi</string>
-  <string name="st_sum_call_wait">Dışarda olduğunuzda sizi arayanlara - Meşgul - sinyali çalınacaktır.</string>
+  <string name="st_sum_call_wait">Dışarıda olduğunuzda sizi arayanlara - Meşgul - sinyali çalınacaktır.</string>
   <string name="st_summary_blacklist_numbers">Çağrı ve mesajları numara ve alan kodu kullanarak engelle</string>
   <string name="st_summary_blacklist_numbers_international">Aramaları ve belirli numaralardan gelen mesajları engelle</string>
   <string name="st_summary_keywords_blacklist">Mesajları engellemek için anahtar sözcükler ekleyin</string>
@@ -315,11 +315,11 @@
   <string name="st_title_anticomintcall_backsound_setting">Engellenen numaralara çalınacak sesli mesaj</string>
   <string name="st_title_antispam_mode">Kurallar</string>
   <string name="st_title_back_sound_busy">Meşgul</string>
-  <string name="st_title_back_sound_choose">Dışarda Mesajı</string>
+  <string name="st_title_back_sound_choose">Dışarıda Mesajı</string>
   <string name="st_title_back_sound_closed">Telefon Kapalı</string>
   <string name="st_title_back_sound_none">"Numara kullanımda değil"</string>
   <string name="st_title_back_sound_stop">Numara Servis Dışı</string>
-  <string name="st_title_backsound_group">Dışarda Mesajı</string>
+  <string name="st_title_backsound_group">Dışarıda Mesajı</string>
   <string name="st_title_blacklist_numbers">Engellenen Numaralar</string>
   <string name="st_title_call_wait">Bekleyen Arama Bildirimi</string>
   <string name="st_title_call_wait_setting">Bekleyen Çağrı</string>
@@ -330,8 +330,8 @@
   <string name="st_title_man_addwhitelist">Telefon numarasını istisnalara ekle</string>
   <string name="st_title_man_editblacklist">Engelli Listesine eklemek için bir alan kodu seçin</string>
   <string name="st_title_man_editwhitelist">İstisnalara eklemek için bir alan kodu seçin</string>
-  <string name="st_title_man_head_addblacklist">Numara önekini Engelli Listesine ekle</string>
-  <string name="st_title_man_head_addwhitelist">Numara önekini istisnalara ekle</string>
+  <string name="st_title_man_head_addblacklist">Numara ön ekini Engelli Listesine ekle</string>
+  <string name="st_title_man_head_addwhitelist">Numara ön ekini istisnalara ekle</string>
   <string name="st_title_markednumber_group">Bildirilmiş numaraları engelle</string>
   <string name="st_title_mode_choose_group">Engelli Listesi Kuralları</string>
   <string name="st_title_not_sim">Boş</string>
@@ -355,6 +355,6 @@
   <string name="two_address_choose_hint">%1$s ve %2$s</string>
   <string name="user_define_title">Kural Ekle</string>
   <string name="website">Web Adresi</string>
-  <string name="whitelist_prefix_add_hint">Bu önek ile tüm sayıları istisnalara ekle</string>
+  <string name="whitelist_prefix_add_hint">Bu ön ek ile tüm sayıları istisnalara ekle</string>
   <string name="wl_no_whitelist">İstisna yok.</string>
 </resources>
