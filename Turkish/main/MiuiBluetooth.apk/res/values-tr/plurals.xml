@@ -8,6 +8,10 @@
     <item quantity="other">Kulaklıktaki dokunmaya duyarlı herhangi bir alana %1$d saniye basılı tutun</item>
     <item quantity="one">Kulaklıktaki dokunmaya duyarlı herhangi bir alana %1$d saniye basılı tutun</item>
   </plurals>
+  <plurals name="fast_connect_reset_common_seconds">
+    <item quantity="other">Sıfırlamak için %1$d saniye basılı tutun</item>
+    <item quantity="one">Sıfırlamak için %1$d saniye basılı tutun</item>
+  </plurals>
   <plurals name="fast_connect_reset_nzbt">
     <item quantity="other">Cihaz kapalıyken %1$s saniye boyunca düğmeye basılı tutun</item>
     <item quantity="one">Cihaz kapalıyken %1$s saniye boyunca düğmeye basılı tutun</item>

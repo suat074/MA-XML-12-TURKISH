@@ -839,7 +839,7 @@ Makro modunu kullanın"</string>
   <string name="module_name_fun_ar">Etiket avatarları</string>
   <string name="module_name_manual">Manuel</string>
   <string name="module_name_more">Daha fazla</string>
-  <string name="module_name_multi_camera">Ön &amp; arka</string>
+  <string name="module_name_multi_camera">Çoklu Kamera</string>
   <string name="module_name_new_slow_motion">Ağır çekim</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portre</string>
@@ -1515,4 +1515,10 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="dual_video_user_guide_main_title">Çoklu kamera videosu</string>
   <string name="dual_video_user_guide_merge_content">Aynı anda iki kamera ile çekim yapın ve kayıtları bölünmüş görünümde veya resim içinde resim videoda birleştirin.</string>
   <string name="dual_video_user_guide_standalone_content">Aynı anda iki kamera ile çekim yapın ve her iki kaydı ayrı videolar olarak kaydedin.</string>
+  <string name="download_cancel_hint">%1$s indirme iptal edilsin mi??</string>
+  <string name="download_confirm">İndir</string>
+  <string name="download_hint">Öğeleri indirmek için %1$s MB mobil veri kullanılacak. Yine de indirilsin mi?</string>
+  <string name="download_title">Veri kullanım uyarısı</string>
+  <string name="update_loading">%1$s indirildi</string>
+  <string name="update_start">%1$s güncelle</string>
 </resources>

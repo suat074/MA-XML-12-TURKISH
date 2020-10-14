@@ -7527,4 +7527,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="requires_modern_control_center">Kontrol merkezinin yeni sürümüyle çalışır</string>
   <string name="show_badge_notifications_short">Rozetler</string>
   <string name="switchNetworkToast">Mobil ağlara bağlanmak ek ücretler oluşturabilir</string>
+  <string name="dpp_qrcode_generator_summary">Bu QR kodunu Easy Connect destekleyen bir cihazla tarayın</string>
+  <string name="usb_reverse_charge">Ters şarj</string>
+  <string name="usb_use_file_transfers_miui12_5">Dosya aktarımı</string>
+  <string name="usb_use_miui12_5">USB\'yi kullan</string>
+  <string name="usb_use_photo_transfers_miui12_5">Fotoğraf aktarımı</string>
 </resources>

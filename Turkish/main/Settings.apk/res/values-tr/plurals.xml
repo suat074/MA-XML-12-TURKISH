@@ -38,11 +38,11 @@
   </plurals>
   <plurals name="auto_disable_screenbuttons_disabled_header_title">
     <item quantity="other">%d uygulama asla devre dışı olmasın</item>
-    <item quantity="one">1 uygulama asla devre dışı olmasın</item>
+    <item quantity="one">%d uygulama asla devre dışı olmasın</item>
   </plurals>
   <plurals name="auto_disable_screenbuttons_enabled_header_title">
     <item quantity="other">%d uygulama daima devre dışı</item>
-    <item quantity="one">1 uygulama daima devre dışı</item>
+    <item quantity="one">%d uygulama daima devre dışı</item>
   </plurals>
   <plurals name="auto_startup_count">
     <item quantity="other">%d uygulamaya otomatik başlatma izni verildi</item>
@@ -210,6 +210,10 @@
   </plurals>
   <plurals name="miui_sos_emergency_contacts_quantity">
     <item quantity="other">%d eklendi</item>
+  </plurals>
+  <plurals name="miui_wifi_wakeup_summary">
+    <item quantity="other">Cihazınız yakındaki kayıtlı ağları algıladığında WLAN otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapanacak</item>
+    <item quantity="one">Cihazınız yakındaki kayıtlı ağları algıladığında WLAN otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapanacak</item>
   </plurals>
   <plurals name="network_restrictions_summary">
     <item quantity="other">%1$d kısıtlama</item>
