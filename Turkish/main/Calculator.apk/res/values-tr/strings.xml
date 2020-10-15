@@ -91,7 +91,7 @@
   <string name="convertion_unit_time">Zaman çevirici</string>
   <string name="convertion_unit_velocity">Hız çevirici</string>
   <string name="convertion_unit_volume">Hacim çevirici</string>
-  <string name="convertion_unit_weight">Ağırlık çevirici</string>
+  <string name="convertion_unit_weight">Kütle çevirici</string>
   <string name="cosDesc">kosinüs</string>
   <string name="currency_update_connect_to_get_data">Döviz kurları Webull tarafından sağlanmaktadır. En son bilgileri almak için ağa bağlanın.</string>
   <string name="currency_update_support">Döviz kurları Webull tarafından sağlanmaktadır.</string>
@@ -173,7 +173,7 @@
   <string name="global_search_key_speed_convertion">Hız birimi dönüşümü;Hız dönüşümü;Hız dönüşümü;Hız dönüştürücü;Hız;Hız</string>
   <string name="global_search_key_temperature_convertion">Sıcaklık birimi dönüştürme;Sıcaklık dönüştürme;Sıcaklık dönüştürücü;Fahrenheit;Santigrat;Santigrat</string>
   <string name="global_search_key_volume_convertion">Hacim birimi dönüştürme;Hacim dönüşümü;Hacim dönüştürücü</string>
-  <string name="global_search_key_weight_convertion">Ağırlık birimi dönüştürme;Ağırlık dönüşüm;Ağırlık dönüştürücü;Kilo;Kg;Kilogram;Pound;Pound;lbs</string>
+  <string name="global_search_key_weight_convertion">Kütle birimi dönüştürme;Kütle dönüşüm;Kütle dönüştürücü;Kilo;Kg;Kilogram;Pound;Pound;lbs</string>
   <string name="global_search_key_word_figure">Finansal Karakterler</string>
   <string name="golbal_search_calculator_setting">Hesap Makinesi; Hesaplama Ayarları; Ayarlar</string>
   <string name="golbal_search_path_calculator_setting">Sistem Uygulamaları/Hesap Makinesi/Ayarlar</string>
@@ -220,7 +220,7 @@
   <string name="item_title_tip">İpucu</string>
   <string name="item_title_vel_conversion">Hız</string>
   <string name="item_title_volume_conversion">Hacim</string>
-  <string name="item_title_weight_conversion">Ağırlık</string>
+  <string name="item_title_weight_conversion">Kütle</string>
   <string name="label_about">Hakkında</string>
   <string name="label_clear_history">Tümünü temizle</string>
   <string name="label_date_difference">Fark</string>
@@ -910,7 +910,7 @@
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çar</string>
   <string name="wednesday_shortest">Ç</string>
-  <string name="weight_prompt">Ağırlık</string>
+  <string name="weight_prompt">Kütle</string>
   <string name="wf_word_figure">Finansal karakterler</string>
   <string name="word_figure_guide_text">Talepler arası dönüşüm için metne basılı tutun.</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme Yöneticisine bağlantı başarısız oldu, lütfen Uygulama Yönetimi\'ndeki İndirme Yöneticisinden durumunu kontrol edin.</string>
