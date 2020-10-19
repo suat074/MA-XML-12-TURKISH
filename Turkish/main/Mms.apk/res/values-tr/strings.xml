@@ -624,7 +624,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_show_photo_word_summary">Kişiler\'de olmayan birisine otomatik olarak bir resim atayın</string>
   <string name="pref_show_sms_template_entry_summary">Tek seferlik şifreleri algıla ve hızlı menüler göster</string>
   <string name="pref_show_sms_template_in_summary">SMS mesajlarında bir kerelik şifreleri otomatik olarak algıla</string>
-  <string name="pref_show_sms_template_summary">Mi Mesajın akıllı kodlarını (kod kopyalama, bakiyeyi kontrol etme vb.) kullanmak için açın.</string>
+  <string name="pref_show_sms_template_summary">Tek seferlik parolaları kopyalayın, teslimatı izleyin, telefon bakiyesini kontrol edin ve biletleri ve faturaları otomatik olarak kart olarak görüntüleyin</string>
   <string name="pref_smart_messages_settings">Akıllı Mesajlaşma</string>
   <string name="pref_sms_storage_title">Hafıza</string>
   <string name="pref_sms_theme_title">Görüntüle</string>
@@ -697,6 +697,12 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="privacy_password_title3">Parolanızı yükseltin</string>
   <string name="privacy_password_title4">Şifre yükseltildi</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="privacy_state_revoked_cancel">İptal</string>
+  <string name="privacy_state_revoked_content">Anahtarı kapatarak, Mesajlaşma Gizlilik Politikasına olan onayınızı geri çekmiş olursunuz. Kişisel bilgilerinizi toplamayı bırakacağız. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli bir süre içinde silinecektir. Mesajlaşma tarafından sağlanan Mi Mesaj ve Akıllı Mesajlaşma, size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Mesajlaşma Gizlilik Politikası\'na vermiş olduğunuz onayı geri çekmeniz, Mi Mesaj ve Akıllı Mesaj tarafından toplanan kişisel bilgilere dayalı hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir.</string>
+  <string name="privacy_state_revoked_dialog_title">Onayın geri çekilmesi</string>
+  <string name="privacy_state_revoked_revoked">Geri çek</string>
+  <string name="privacy_state_revoked_switch">Onayın geri çekilmesi</string>
+  <string name="privacy_state_revoked_synopsis">Anahtarı kapatarak, Mesajlaşma Gizlilik Politikasına olan onayınızı geri çekmiş olursunuz.</string>
   <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
   <string name="private_entry_default">Özel klasörü açmak için aşağı kaydırın</string>
   <string name="private_message">Özel mesajlar</string>
@@ -999,10 +1005,12 @@ Mobil veriyi açın ve bu sayfayı tekrar açın."</string>
   <string name="slide_up_to_cancel">İptal için yukarı kaydır</string>
   <string name="slideshow_activity">Slayt gösterisi</string>
   <string name="smart_message_title">Akıllı Mesajlaşma</string>
+  <string name="smart_message_upgrade_title">Akıllı Mesajlaşma Gizlilik Politikası güncellemesi</string>
   <string name="smart_messages_network_allow_message">Mi mesaj hizmetlerinin normal çalışması için internete bağlanması gerekiyor. Şimdi izin verilsin mi?</string>
   <string name="smart_messages_network_allow_title">İnternet bağlantısı gerekli</string>
   <string name="smart_msg_main_purpose">Akıllı Mesajlaşma, Gönderen Kimliğini tanıma ve akıllı menü hizmetleri sağlar.</string>
   <string name="smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
+  <string name="smart_msg_upgrade_main_purpose">Akıllı Mesajlaşma artık MMS ile çalışıyor. Göndericiler tarafından sağlanan daha fazla hizmeti kullanabilir, yeni biçimlerde mesajlar alabilirsiniz.</string>
   <string name="sms_card_partner_label">"SMS kartı ortağı: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">İçerik:</string>
@@ -1068,6 +1076,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın."</string>
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız."</string>
   <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri alması gerekir:</string>
   <string name="system_permission_declare_privacy_declare_new">Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması ve aşağıdaki izinlerin alması gerekir:</string>
+  <string name="system_permission_declare_privacy_link">Kullanıcı haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için %1s okuyun ve kabul edin.</string>
   <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarından izninizi iptal edebilir ve servisleri kapatabilirsiniz.</string>
   <string name="system_permission_declare_single_link">Bu özelliği kullanmadan önce %1s okuyun ve kabul edin.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Bu özellikleri kullanmadan önce %1s, %2s ve %3s okuyun ve kabul edin.</string>
@@ -1152,6 +1161,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="voice_report_wiredon">Kulaklık ile</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">%ds içinde gönder</string>
+  <string name="web_content_invalid_hint">Bu öğenin görüntülenmesi yerel yasa ve yönetmeliklerle kısıtlanmıştır.</string>
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
@@ -1167,10 +1177,10 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="banner_btn_open">Aç</string>
   <string name="default_google_message_promo_content">"Google Mesajlar\'ı varsayılan mesajlaşma uygulamanız olarak ayarladınız. Mesajlaşmaya başlamak için \"Aç\" öğesine dokunun."</string>
   <string name="enable_classify_tip_dialog_content">Bu işlem Mesajlaşma uygulamasını yeniden başlatır. Yine de devam edilsin mi?</string>
-  <string name="google_message_promo_content">Xiaomi, Google Mesajlar\'a geçmenizi önerir. Wi-Fi üzerinden metin yazmanıza, yüksek kaliteli medya paylaşmanıza ve daha fazlasını yapmanıza olanak tanır. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Ayrıntıları görüntüle</a></font>.</string>
+  <string name="google_message_promo_content">Xiaomi, Google Mesajlar\'a yükseltmenizi önerir. Yüksek kaliteli fotoğraf paylaşımı, Wi-Fi üzerinden sohbet ve daha fazlası için şimdi yükleyin. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Daha fazla bilgi edin</a></font></string>
   <string name="google_message_promo_title">Mesajlaşma uygulamanızı yükseltin</string>
-  <string name="installed_google_message_promo_content">Xiaomi, Google Mesajlar kullanılmasını önerir. Wi-Fi üzerinden metin yazmanıza, yüksek kaliteli medya paylaşmanıza ve daha fazlasını yapmanıza olanak tanır.</string>
-  <string name="installed_google_message_promo_title">Mesajları kullanmaya başlayın</string>
+  <string name="installed_google_message_promo_content">Xiaomi, Google Mesajlar kullanılmasını önerir. Yüksek kaliteli fotoğraf paylaşımı, Wi-Fi üzerinden sohbet ve daha fazlası için Mesajlar\'ı açın.</string>
+  <string name="installed_google_message_promo_title">Daha iyi sohbet için Mesajlar\'ı açın</string>
   <string name="permission_retry_deny">İptal</string>
   <string name="permission_retry_dialog_msg">Mesajlaşmanın normal çalışabilmesi için izinlere ihtiyacı var. Gerekli izinleri vermek için \"Ayarlar\" öğesine dokunun, \"Uygulama izinleri\" seçeneğini belirleyin ve uygulamanın telefon, SMS ve kişilere erişmesine izin verin.</string>
   <string name="permission_retry_setting">Ayarlar</string>

@@ -67,10 +67,10 @@
     <string name="aqi_alert_channel_name">HKE uyarıları</string>
     <string name="aqi_data_source">Colorful Clouds tarafından sağlanmaktadır</string>
     <string name="aqi_desc">Hava Kalite İndeksi</string>
-	<string name="aqi_15_days_desc">15 günlük HKİ tahmini</string>
-    <string name="aqi_24_hours_desc">24 saatlik HKİ tahmini</string>
-    <string name="aqi_48_hours_desc">48 saatlik HKİ tahmini</string>
-    <string name="aqi_5_days_desc">5 günlük HKİ tahmini</string>
+	<string name="aqi_15_days_desc">%d günlük HKİ tahmini</string>
+    <string name="aqi_24_hours_desc">%d saatlik HKİ tahmini</string>
+    <string name="aqi_48_hours_desc">%d saatlik HKİ tahmini</string>
+    <string name="aqi_5_days_desc">%d günlük HKİ tahmini</string>
     <string name="aqi_detail_24_hours">24-saatlik hava durumu</string>
     <string name="aqi_detail_5_days">5-günlük hava durumu</string>
     <string name="aqi_detail_co_unit">Birim: mg/m³</string>
@@ -377,7 +377,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="weather_alert_channel_name">Uyarılar</string>
     <string name="weather_introduce">Yağmurda veya çamurda daima sizinle.</string>
 	<string name="weather_main_aqi_desc">HKİ</string>
-    <string name="weather_main_minute_hour">2 saatlik yağış</string>
+    <string name="weather_main_minute_hour">%d saatlik yağış</string>
     <string name="weather_permission_agree">Kabul et</string>
     <string name="weather_service_channel_name">Arka plan hizmetleri</string>
     <string name="widget_cta_not_agree">Hava durumu bilgilerini almak için dokunun</string>
