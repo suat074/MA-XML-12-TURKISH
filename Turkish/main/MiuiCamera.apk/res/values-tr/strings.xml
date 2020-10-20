@@ -1521,4 +1521,10 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="download_title">Veri kullanım uyarısı</string>
   <string name="update_loading">%1$d%% indirildi</string>
   <string name="update_start">%1$s güncelle</string>
+  <string name="live_draft_continue">Devam et</string>
+  <string name="live_draft_empty">Burada öğe yok</string>
+  <string name="live_edit_exit_message_draft">Taslak olarak kaydet</string>
+  <string name="live_workspace_title">Taslaklar</string>
+  <string name="live_workspace_title_edit">Silinecek öğeleri seçin</string>
+  <string name="film_video_b_tip">Lütfen düşük ışıkta çekim yapın</string>
 </resources>
