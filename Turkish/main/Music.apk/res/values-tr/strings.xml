@@ -730,7 +730,7 @@
   <string name="preset_music_playlist">Mi Müzik Listesi</string>
   <string name="priority_storage">Harici SD kart kullan</string>
   <string name="priority_storage_summary">İndirmeler mevcutsa SD karta otomatik kaydedilir</string>
-  <string name="privacy_authorize_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="privacy_authorize_network_error">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="privacy_authorize_revoke_failed">Yetkilendirme iptal edilemedi</string>
   <string name="privacy_authorize_revoke_success">Yetkilendirme başarıyla iptal edildi</string>
   <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor…</string>
@@ -752,8 +752,8 @@
   <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantısı kullanılsın mı?</string>
   <string name="remove">Kaldır</string>
   <string name="remove_download">Kaldır</string>
-  <string name="remove_user_privacy_dialog_message">Yetkilendirmeyi iptal ettikten sonra, Mi Müzik veri toplamayı durdurur ve ilgili tüm veriler sunuculardan silinir. Bu, Mi Müzik uygulamasını neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi?</string>
-  <string name="remove_user_privacy_dialog_title">Yetkilendirmeyi iptal et</string>
+  <string name="remove_user_privacy_dialog_message">Anahtarı kapatarak, Mi Müzik Gizlilik Politikası\'na verdiğiniz izni geri çekmiş olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Mi Müzik size çevrimiçi akış hizmetleri sağlaması için gerekli kişisel bilgileri toplaması gerekir. Gizlilik Politikası\'na verdiğiniz onayı geri çekmeniz, toplanan kişisel bilgilere dayalı çevrimiçi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir.</string>
+  <string name="remove_user_privacy_dialog_title">Onayın geri çekilmesi</string>
   <string name="renew_dialog_title">Pro ol\nMutlu Ol</string>
   <string name="repeat_all_notif">Bütün şarkıları tekrarla</string>
   <string name="repeat_current_notif">Geçerli şarkıyı tekrarla.</string>
@@ -951,10 +951,10 @@
   <string name="upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilecek</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_privacy_dialog_negative_text">İptal</string>
-  <string name="user_privacy_dialog_positive_count_down_text">Geri al (%ss)</string>
-  <string name="user_privacy_dialog_positive_text">Geri al</string>
-  <string name="user_privacy_setting_group_title">Yetkilendirme</string>
-  <string name="user_privacy_setting_title">Yetkilendirmenizi vermek veya iptal etmek için anahtarı değiştirin</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Geri çek (%ss)</string>
+  <string name="user_privacy_dialog_positive_text">Geri çek</string>
+  <string name="user_privacy_setting_group_title">Onayın geri çekilmesi</string>
+  <string name="user_privacy_setting_title">Anahtarı kapatarak, Mi Müzik Gizlilik Politikası\'na verdiğiniz izni geri çekmiş olursunuz.</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="version_info">Sürüm</string>
@@ -976,4 +976,37 @@
   <string name="you_can_switch_mode_in_settings">Ayarlar\’da modlar arasında geçiş yapabilirsiniz.</string>
   <string name="you_may_like">Şunlar da hoşunuza gidebilir</string>
   <string name="youtube_play_history">Oynatma geçmişi</string>
+  <string name="develop_mode">Geliştirici modu</string>
+  <string name="discover_more_music">Daha fazla şarkı keşfedin</string>
+  <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
+  <string name="exo_media_action_repeat_off_description">Tekrar yok</string>
+  <string name="exo_media_action_repeat_one_description">Birini tekrarla</string>
+  <string name="feedback_send_email_body_extra_info">Aşağıdaki bilgileri silmeyin. Sorunu bulmamıza yardımcı olacaktır.</string>
+  <string name="info_app_package_name">Paket ismi:</string>
+  <string name="info_app_version">Uygulama sürümü:</string>
+  <string name="info_language">Dil:</string>
+  <string name="info_location">Bölge:</string>
+  <string name="info_product">Cihaz:</string>
+  <string name="info_system">Sistem:</string>
+  <string name="info_system_version">Sistem sürümü:</string>
+  <string name="network_disable">Ağa bağlanılamadı</string>
+  <string name="privacy_request_desc"><Data>"Mi Müzik size çevrimiçi akış hizmetleri sağlaması için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl işlediğimizi &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> üzerinden öğrenebilirsiniz. Mi Müzik Gizlilik Politikası\'na verdiğiniz izni istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.
+Mi Müzik uygulamamızı kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.
+Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak, temel işlevsellik yine de sizin için kullanılabilir olacaktır."</Data></string>
+  <string name="privacy_request_subtitle">"Mi Müzik uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlar:
+
+- Yerel bir müzik çalar
+
+- Çevrimiçi akış hizmetleri"</string>
+  <string name="privacy_request_title">Şartlar ve koşullar</string>
+  <string name="remove_user_privacy_dialog_message_canuse">Anahtarı kapatarak, Mi Müzik Gizlilik Politikası\'na verdiğiniz izni geri çekmiş olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Mi Müzik size çevrimiçi akış hizmetleri sağlaması için gerekli kişisel bilgileri toplaması gerekir. Gizlilik Politikası\'na verdiğiniz onayı geri çekmeniz, toplanan kişisel bilgilere dayalı yukarıda belirtilen çevrimiçi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir.</string>
+  <string name="request_privacy_permission_title">Tüm hizmetlerimize erişmek için aşağıdaki hüküm ve koşulları okuyun ve kabul edin.</string>
+  <string name="skip">Atla</string>
+  <string name="start_update">Yeni sürüm yükleniyor…</string>
+  <string name="summary_command_mode">Komut moduna girmek için açın</string>
+  <string name="title_command_mode">Komut modu</string>
+  <string name="toast_cant_commit_without_title">Şarkı adını girin</string>
+  <string name="toast_playmode_loop_playback">Mevcut çalma listesi döngülendi</string>
+  <string name="toast_playmode_shuffle_play">Oynatma karışık</string>
+  <string name="toast_playmode_single_cycle">Geçerli şarkı döngülendi</string>
 </resources>
