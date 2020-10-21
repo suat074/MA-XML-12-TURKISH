@@ -26,14 +26,14 @@
   <string name="device_status_success">Başarıyla gönderildi</string>
   <string name="device_status_waiting">Bekleniyor…</string>
   <string name="expand_button_title">Gelişmiş</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="purpose_v12">Mi Paylaşım\'a hoş geldiniz! Cihazlar arasında dosya aktarmak için bu uygulamayı kullanabilirsiniz.</string>
@@ -160,4 +160,12 @@ OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. 
   <string name="wait_remote_receive_tips">Bekleniyor…</string>
   <string name="wifi_is_not_enabled">Önce Wi-Fi\'ı aç</string>
   <string name="wifi_is_not_enabled_china">Önce WLAN\'ı aç</string>
+  <string name="guide_summary_1">Diğer kişi Bildirim alanındaki geçiş düğmesine dokunabilir</string>
+  <string name="guide_summary_2">"Öğeleri göndermek istediğiniz cihazı seçin ve simgesine dokunun."</string>
+  <string name="guide_title_1">Her iki cihazda da Mi Paylaşım\'ı açın</string>
+  <string name="guide_title_2">Paylaşılacak cihazı seçin</string>
+  <string name="menu_item_privacy_title">Gizlilik Politikası</string>
+  <string name="tile_state_active">Açık</string>
+  <string name="tile_state_inactive">Kapalı</string>
+  <string name="tile_state_unavailable">Mevcut değil</string>
 </resources>

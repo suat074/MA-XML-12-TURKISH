@@ -304,6 +304,7 @@
   <string name="from_pkg_name">Uygulama üzerinden:</string>
   <string name="ft_cfs_dialog_content">Dosyalar RCS kullanılarak teslim edilemedi. Bunun yerine kısa mesajla bağlantı gönderilsin mi?</string>
   <string name="ft_cfs_dialog_title">Alternatif dosya aktarımı</string>
+  <string name="go_to">"Aç "</string>
   <string name="group_already_kicked_hint">Mesaj gönderilemiyor. Bu grup sohbetinin bir üyesi değilsiniz.</string>
   <string name="group_member_is_composing">Yazıyor…</string>
   <string name="group_message">Grup mesajı</string>
