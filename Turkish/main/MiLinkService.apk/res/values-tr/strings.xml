@@ -307,4 +307,24 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="dialog_miplay_permission_message">Yansıtma\'nın ses kaydetmesine, dahili depolamadaki dosyalara erişmesine ve bu özelliği normal şekilde kullanabilmek için konumunuza erişmesine izin verin. Devam etmek için \"Ayarlar\" bölümüne dokunun ve \"Uygulama izinleri\" öğesini seçin.</string>
   <string name="dialog_miplay_permission_positive">Ayarlar</string>
   <string name="dialog_miplay_permission_title">Gerekli izinler</string>
+  <string name="normal_device_desc">Bağlandığınız, ancak güvenilir olarak işaretlemediğiniz cihazlar</string>
+  <string name="normal_device_desc_limit">Bağlandığınız, ancak güvenilir olarak işaretlemediğiniz cihazlar</string>
+  <string name="normal_device_none">Burada önceden bağlanmış cihaz yok</string>
+  <string name="normal_device_title">Güvenilir olmayan cihazlar</string>
+  <string name="notification_cast_desc">Yansıtılıyor…</string>
+  <string name="notification_desc_scanning">Yakındaki cihazlar aranıyor…</string>
+  <string name="path_setting_cast">Bağlantı &amp; paylaşım/Yansıt</string>
+  <string name="path_setting_cast_demo">Bağlantı &amp; paylaşım/Yansıt/Demolar</string>
+  <string name="path_setting_cast_demo_document">Bağlantı &amp; paylaşım/Yansıt/Demolar/Belgeler</string>
+  <string name="path_setting_cast_demo_gallery">Bağlantı &amp; paylaşım/Yansıt/Demolar/Fotoğraflar &amp; videolar</string>
+  <string name="path_setting_cast_demo_game">Bağlantı &amp; paylaşım/Yansıt/Demolar/Oyunlar</string>
+  <string name="path_setting_cast_feature">Bağlantı &amp; paylaşım/Yansıt/Ayrıcalıklı özellikler</string>
+  <string name="path_setting_cast_help">Bağlantı &amp; paylaşım/Yansıt/Yardım</string>
+  <string name="trust_device_desc">Bu cihazlar, yakınlarda olduklarında önce burada görünecek</string>
+  <string name="trust_device_dialog_desc"><Data>"%s için güvenilir olarak işaretlerseniz, yakınlarda mevcut cihazlar arasında ilk sırada görünecektir.&lt;br>&lt;br>Bu &lt;a href=milink://com.milink.service/trust>güvenilen cihazları yönet&lt;/a> bölümünü Ayarlar\'da bulabilirsiniz."</Data></string>
+  <string name="trust_device_dialog_pos">Güven</string>
+  <string name="trust_device_dialog_title">Bu cihaza güvenilsin mi?</string>
+  <string name="trust_device_manager">Güvenilen cihazları yönet</string>
+  <string name="trust_device_none">Burada güvenilen cihaz yok</string>
+  <string name="trust_device_title">Güvenilen cihazlar</string>
 </resources>

@@ -2,12 +2,12 @@
 <resources>
   <string-array name="HomePageTabTitle">
     <item>Sağlık</item>
-    <item>Egzersiz</item>
+    <item>Antrenman</item>
   </string-array>
   <string-array name="SportTabTitle">
-    <item>Açık hava koşusu</item>
+    <item>Koşu</item>
     <item>Yürüyüş</item>
-    <item>Outdoor_riding</item>
+    <item>Bisiklet sürme</item>
     <item>Koşu bandı</item>
   </string-array>
   <string-array name="arr_prompt_label">

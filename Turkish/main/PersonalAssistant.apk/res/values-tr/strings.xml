@@ -1281,7 +1281,7 @@
   <string name="search_setting_description">Sık kullanılan başlıklar</string>
   <string name="search_tip">Aranıyor…</string>
   <string name="security">Güvenlik</string>
-  <string name="selected_shortcuts_title">Özellikler</string>
+  <string name="selected_shortcuts_title">Başlangıç sayfası</string>
   <string name="send_action_title">Favorilere ekle</string>
   <string name="service_unavailiable">Ağ bağlantısını kontrol edin ve tekrar deneyin</string>
   <string name="setting_address">Sık kullanılan yerleri ekle</string>
@@ -1544,4 +1544,9 @@
   <string name="cta_dialog_desc_location">Günlük işe gidip gelme sürenizi hesaplamak için</string>
   <string name="cta_dialog_desc_phone_state">IMEI kullanarak cihazınızı tanımlamak için</string>
   <string name="cta_dialog_desc_storage">Öğeleri cihazınıza kaydetmek için</string>
+  <string name="app_pa_more">Daha fazla</string>
+  <string name="app_pa_search">Ara</string>
+  <string name="app_pa_setting_bugreport">Geri bildirim</string>
+  <string name="shortcuts_download_dialog_text_install">Yükle</string>
+  <string name="shortcuts_download_dialog_text_install_tip">\"%2$s\" kullanabilmek için önce %1$s yükleyin.</string>
 </resources>
