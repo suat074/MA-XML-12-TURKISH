@@ -459,6 +459,9 @@
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
   <string name="recents_incompatible_app_message">Bu uygulama Bölünmüş ekranı desteklemiyor</string>
+  <string name="recents_layout_style">Son Kullanılanlar bölümündeki öğeleri düzenle</string>
+  <string name="recents_layout_style_horizontal">Yatay olarak</string>
+  <string name="recents_layout_style_vertical">Dikey olarak</string>
   <string name="recents_smallwindow_text">Eklemek için bırakın</string>
   <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>

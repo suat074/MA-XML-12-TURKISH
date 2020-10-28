@@ -5398,7 +5398,7 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="status_bar_settings_show_lte_for_4g">4G yerine LTE simgesi göster</string>
   <string name="status_bar_settings_show_network_speed">Bağlantı hızını göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
-  <string name="status_bar_settings_show_weather">Bildirim alanında hava durumunu göster</string>
+  <string name="status_bar_settings_show_weather">Hava durumu bilgilerini göster</string>
   <string name="status_bar_settings_show_wifi_name">WLAN\'ı göster</string>
   <string name="status_bar_settings_status_bar">Durum çubuğu</string>
   <string name="status_bar_settings_style">Bildirimler &amp; düğme düzeni</string>
@@ -5686,7 +5686,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="sync_enable">Eşitle</string>
   <string name="sync_enabled">Eşitleme açık</string>
   <string name="sync_error">Eşitleme hatası</string>
-  <string name="sync_failed">Eşitleme başarısız</string>
+  <string name="sync_failed">Eşitlenemedi. Bir ya da iki dakika bekleyip tekrar deneyin.</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Şimdi eşitleniyor…</string>
   <string name="sync_is_failing">Eşitleme şu an problemli. Kısa süre sonra yeniden denenecek.</string>
@@ -7537,4 +7537,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="exterior">Renk uyumu</string>
   <string name="light_color_mode">Açık mod</string>
   <string name="more_dark_mode_settings">Daha fazla Koyu mod seçeneği</string>
+  <string name="enabled">Açık</string>
+  <string name="not_enabled">Kapalı</string>
+  <string name="other_input_method">Diğer klavyeler</string>
+  <string name="sync_success">Başarıyla eşitlendi</string>
+  <string name="xiaomi_custom_input_method">Xiaomi için özelleştirilmiş</string>
 </resources>

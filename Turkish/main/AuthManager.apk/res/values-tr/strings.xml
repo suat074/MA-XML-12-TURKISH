@@ -168,4 +168,26 @@
   <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişti</string>
   <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgilerine erişti</string>
   <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişti</string>
+  <string name="HIPS_ACTION_REJECT_CLEAR">Kısıtla ve panoyu temizle</string>
+  <string name="HIPS_Action_Accept_This">Bir kez izin ver</string>
+  <string name="HIPS_Action_Reject_This">Bir kez kısıtla</string>
+  <string name="HIPS_Perm_read_clipboard">Panodaki öğelere erişme</string>
+  <string name="HIPS_Perm_read_clipboard_Desc">Uygulamaların panodaki öğelere erişmesine izin verir</string>
+  <string name="HIPS_Perm_write_clipboard">Öğeleri panoya kaydetme</string>
+  <string name="HIPS_Perm_write_clipboard_Desc">Uygulamaların öğeleri panoya kaydetmesine izin verir</string>
+  <string name="HIPS_SecurityPrompt_Reject_Clear_This">Kısıtla ve panoyu temizle (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_This">Bir kez kısıtla (%d)</string>
+  <string name="clipboard_ai_allow_once">%1$s için panodaki öğelere otomatik olarak erişmesine izin verildi</string>
+  <string name="clipboard_data">Pano öğeleri</string>
+  <string name="clipboard_data_request">%1$s panodaki öğelere erişmeye çalışıyor</string>
+  <string name="clipboard_deny_notification_content">Bu girişim engellendi. İzinleri yönetmek için dokunun.</string>
+  <string name="clipboard_deny_notification_operation">Yönet</string>
+  <string name="clipboard_deny_notification_title">%1$s panodaki öğelere erişmeye çalışıyor</string>
+  <string name="clipboard_may_sensitive">Muhtemelen hassas bilgiler</string>
+  <string name="clipboard_read_allow_once">%1$s panodaki öğelere erişti</string>
+  <string name="go_perm_manager">İzinleri yönet</string>
+  <string name="no">Hayır</string>
+  <string name="perm_manager_suggest_operation">İzinleri yönet</string>
+  <string name="perm_manager_suggest_title">İzinler ayarlansın mı?</string>
+  <string name="yes">Evet</string>  
 </resources>

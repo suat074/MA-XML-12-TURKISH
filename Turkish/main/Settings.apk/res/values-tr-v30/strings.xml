@@ -796,4 +796,14 @@ Sesli arama sırasında interneti kullanamazsınız ve bazı uygulamalar çalı�
   <string name="wifi_wakeup_positive_button">AÇ</string>
   <string name="wifi_wakeup_scan_summary">Uygulamaların ve hizmetlerin WLAN\'ı otomatik olarak açabilmesi için WLAN ağlarını aramasına izin verin. Bu özelliği açmak, cihazınızın yakındaki kayıtlı ağlara otomatik olarak bağlanmasına izin verecektir.</string>
   <string name="wifi_wakeup_title">Ek özellikleri aç</string>
+  <string name="silent_mode_disable_media">Tümü sessiz</string>
+  <string name="silent_mode_enable_media">Medyayı oynat</string>
+  <string name="silent_mode_summary">Çağrıları, bildirimleri ve medyayı sessize alın</string>
+  <string name="silent_mode_toggle_title">Sessiz mod</string>
+  <string name="volume_adjustment">Ses düzeyini ayarla</string>
+  <string name="zen_mode_always">Her zaman</string>
+  <string name="zen_mode_auto_rule">Rahatsız etme oturumlarını planla</string>
+  <string name="zen_mode_lockscreen">Kilitlendiğinde</string>
+  <string name="zen_mode_more_actions">Daha fazla Rahatsız etme seçeneği</string>
+  <string name="zen_mode_summary2">Çağrıları ve bildirimleri sessize alın, titreşimi kapatın</string>
 </resources>

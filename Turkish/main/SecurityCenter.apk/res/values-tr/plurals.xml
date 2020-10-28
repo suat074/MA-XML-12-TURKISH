@@ -608,5 +608,31 @@
   <plurals name="privacy_pop_times">
     <item quantity="other">%s kez</item>
     <item quantity="one">%s kez</item>
+  </plurals>
+  <plurals name="gb_voice_changer_trial_gain_fail">
+    <item quantity="other">%d günlük ücretsiz deneme alınamadı</item>
+    <item quantity="one">%d günlük ücretsiz deneme alınamadı</item>
+  </plurals>
+  <plurals name="gb_voice_changer_trial_gain_success">
+    <item quantity="other">%d günlük ücretsiz deneme başarıyla alındı</item>
+    <item quantity="one">%d günlük ücretsiz deneme başarıyla alındı</item>
+  </plurals>
+  <plurals name="gb_voice_changer_user_status_get_trial_card">
+    <item quantity="other">%d günlük ücretsiz deneme edinin</item>
+    <item quantity="one">%d günlük ücretsiz deneme edinin</item>
+  </plurals>
+  <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+    <item quantity="other">"Aboneliklerinizin süresi doldu.
+Şimdi %d günlük ücretsiz deneme alabilirsiniz!"</item>
+    <item quantity="one">"Aboneliklerinizin süresi doldu.
+Şimdi %d günlük ücretsiz deneme alabilirsiniz!"</item>
+  </plurals>
+  <plurals name="gb_voice_changer_user_tips_info">
+    <item quantity="other">%d günlük ücretsiz deneme edinin</item>
+    <item quantity="one">%d günlük ücretsiz deneme edinin</item>
+  </plurals>
+  <plurals name="notification_checker_installed_apk_text">
+    <item quantity="other">%d yükleme paketini sil</item>
+    <item quantity="one">%d yükleme paketini sil</item>
   </plurals>  
 </resources>

@@ -123,6 +123,10 @@
     <item quantity="other">%1$d dakika</item>
     <item quantity="one">%1$d dakika</item>
   </plurals>
+  <plurals name="notification_checker_installed_apk_text">
+    <item quantity="other">%d yükleme paketini sil</item>
+    <item quantity="one">%d yükleme paketini sil</item>
+  </plurals>
   <plurals name="people">
     <item quantity="other">%1$d kişi tarafından indirildi</item>
   </plurals>
