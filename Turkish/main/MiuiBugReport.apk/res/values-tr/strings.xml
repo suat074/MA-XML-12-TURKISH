@@ -720,8 +720,5 @@ Boyut: %2$s"</string>
 Delta güncelleme boyutu: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncellemesi!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
-  <string name="open_settings">Ayarlara git</string>
-  <string name="passport_can_not_receive_verification_code">Doğrulama kodunu alamıyor musunuz?</string>
-  <string name="request_camera_permission_message">Bu hizmetin izninizi alması gerekiyor, kişisel bilgilerinizi korumak için ilgili yasalara kesinlikle uyacağız: &lt;br>&lt;br>&lt;b> Kamera\'ya erişim: Avatarı ayarlamak için gerçek zamanlı kayıt hizmetlerini deneyimleyin &lt;/b>&lt;br>&lt;br> Yukarıdaki izinleri vermeyi kabul etmezseniz, bu işlev düzgün çalışmaz, ancak bu uygulamanın temel işlevlerini kullanmanızı etkilemez. Onayınızı geri çekmek için sistem ayarlarından yukarıdaki izinleri kapatabilirsiniz.</string>
   <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
 </resources>
