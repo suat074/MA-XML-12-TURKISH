@@ -383,7 +383,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_account_hint_text">E-Posta adresi veya Mi Hesap Kimliği</string>
   <string name="passport_account_identity_title">Kimliğinizi doğrulayın</string>
   <string name="passport_account_label">Mi Hesabı</string>
-  <string name="passport_account_name">Hesap: %1$s</string>
+  <string name="passport_account_name">"Hesap: %1$s "</string>
   <string name="passport_account_not_activated">Hesap etkinleştirilmedi</string>
   <string name="passport_account_not_actived">Hesabınız etkinleştirilmedi</string>
   <string name="passport_activate_token_expired">Doğrulama kodu süresi doldu. Tekrar deneyin.</string>
@@ -550,8 +550,8 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_use_generated_pwd_message">Unutmayacağınız bir şifre kullanın. Diğer Mi Hizmetleri içinde aynı şifreyi kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi unutmayın!</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="passport_user_agreement_link">"<Data>Xiaomi\'nin &lt;a href=%1$s>Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data>"</string>
-  <string name="passport_user_agreement_link_more">"<Data>Aşağıdaki belgeleri okudum ve kabul ediyorum: Xiaomi\'nin &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.</Data>"</string>
+  <string name="passport_user_agreement_link">"<Data>Xiaomi\'nin &lt;a href=\"%1$s\">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data>"</string>
+  <string name="passport_user_agreement_link_more">"<Data>Aşağıdaki belgeleri okudum ve kabul ediyorum: Xiaomi\'nin &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%4$s\">Gizlilik Politikası&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.</Data>"</string>
   <string name="passport_user_agreement_p1">Kabul ediyorum</string>
   <string name="passport_user_agreement_p2">Kullanıcı Sözleşmesi</string>
   <string name="passport_user_agreement_p3">" ve"</string>
@@ -720,4 +720,8 @@ Boyut: %2$s"</string>
 Delta güncelleme boyutu: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncellemesi!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
+  <string name="open_settings">Ayarlara git</string>
+  <string name="passport_can_not_receive_verification_code">Doğrulama kodunu alamıyor musunuz?</string>
+  <string name="request_camera_permission_message">Bu hizmetin izninizi alması gerekiyor, kişisel bilgilerinizi korumak için ilgili yasalara kesinlikle uyacağız: &lt;br>&lt;br>&lt;b> Kamera\'ya erişim: Avatarı ayarlamak için gerçek zamanlı kayıt hizmetlerini deneyimleyin &lt;/b>&lt;br>&lt;br> Yukarıdaki izinleri vermeyi kabul etmezseniz, bu işlev düzgün çalışmaz, ancak bu uygulamanın temel işlevlerini kullanmanızı etkilemez. Onayınızı geri çekmek için sistem ayarlarından yukarıdaki izinleri kapatabilirsiniz.</string>
+  <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
 </resources>
