@@ -628,7 +628,8 @@
   <string name="set_lock_password_dialog_title">Yeni bir şifre belirleyin</string>
   <string name="unlock_password_dialog_msg">Gizlilik koruma şifresi kullanılacaktır. Fotoğraflar, notlar ve dosyalar için çalışır.</string>
   <string name="unlock_password_dialog_title">Gizlilik koruma şifresi</string>
-  <string name="ai_ppt_to_pdf">PDF\'ye dönüştürüldü</string>
+  <string name="ai_ppt_to_pdf">Slaytları PDF\'ye dönüştür</string>
+  <string name="ai_ppt_to_pdf_view_all">Tümünü görüntüle</string>
   <string name="ai_recommend_pdf">PDF\'ye dönüştürüldü</string>
   <string name="album">Galeri</string>
   <string name="all">Tümü</string>
