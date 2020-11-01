@@ -248,4 +248,8 @@ EEEE"</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Ç</string>
   <string name="yesterday">Dün</string>
+  <string name="add_custom_image">Özel görüntü</string>
+  <string name="share">Paylaş</string>
+  <string name="share_to_community">Mi Community\'de paylaş</string>
+  <string name="step_to_image_community">Mi Community\'de daha fazlasını bulun</string>
 </resources>

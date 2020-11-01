@@ -137,6 +137,7 @@
   <string name="new_record_name">Yeni kayıt</string>
   <string name="no_downloading_file">Şu anda yüklenmek üzere hiçbir dosya yok</string>
   <string name="no_file">Boş</string>
+  <string name="no_network">Ağa bağlanılamadı</string>
   <string name="notification_message_all_paused">WLAN bağlantısı bekleniyor.</string>
   <string name="notification_playback">Oynatılıyor...</string>
   <string name="notification_recording">Kaydediliyor...</string>

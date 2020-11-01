@@ -44,7 +44,7 @@
   <string name="ble_waiting_verify_code">Kod doğrulanıyor…</string>
   <string name="ble_waiting_verify_code_error">Girdiğiniz kod yanlış</string>
   <string name="btn_got_it">Anladım</string>
-  <string name="btn_install_complete">Yüklendi. Aktarmayı başlatın.</string>
+  <string name="btn_install_complete">Yüklendi</string>
   <string name="btn_mi_cloud_install_complete">Uygulamayı yükledim</string>
   <string name="btn_restore_data_to_device_complete">Oturum aç</string>
   <string name="btn_sync_data_to_mi_cloud_complete">Başarıyla eşitlendi</string>
@@ -508,7 +508,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="friday_shortest">C</string>
   <string name="get_known_tip">Tekrar deneyin</string>
   <string name="group_info_scanning">Hesaplanıyor…</string>
-  <string name="guest_hint_connect_new_device">Bağlanmak için yeni cihaza dokunun.</string>
+  <string name="guest_hint_connect_new_device">Yeni cihaz seçin</string>
   <string name="guest_install_app_hint_ensure">İndir</string>
   <string name="guest_install_app_hint_summary">Mi Transfer\'in yeni sürümü bu cihazda yüklü olan sürümle uyumlu değil. Yeni sürümü indirin ve yükleyin.</string>
   <string name="guest_install_app_hint_title">Mi Transfer\'in yeni sürümünü indirin</string>
@@ -826,13 +826,13 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="scanner_send_dialog_btn">Anladım</string>
   <string name="scanner_send_dialog_message">Aktarma sırasında Wi-Fi\'yi kapatmayın veya ağlar arasında geçiş yapmayın.</string>
   <string name="scanner_size_selected">Seçilen: %s</string>
-  <string name="scanner_time_remained">Tahmini süre: %s</string>
+  <string name="scanner_time_remained">Tahmini transfer süresi: %s</string>
   <string name="scanner_title_tip">Aktarılacak öğeleri seçin</string>
   <string name="scanner_wechat_overwrite_hit">Üçüncü taraf uygulama kısıtlamaları nedeniyle, yeni cihazınızdaki sohbet geçmişi ve diğer uygulama verileri, aktarım tamamlandıktan sonra eski cihazdakilerle değiştirilir.</string>
   <string name="search_action_mode_cancel">İptal</string>
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
-  <string name="searching_for_new_device">Yakındaki cihazlar aranıyor…</string>
+  <string name="searching_for_new_device">Yeni cihaz aranıyor…</string>
   <string name="select_all">Tümü</string>
   <string name="select_all_description">Seçimleri kaldır</string>
   <string name="select_empty">Alınacak öğeleri seçin</string>
@@ -869,7 +869,7 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_underline">Bu adımı atla</string>
-  <string name="soft_ap_create_failed">Bağlantı noktası oluşturulamadı</string>
+  <string name="soft_ap_create_failed">Bağlantı noktası oluşturulamadı. Tekrar deneyin.</string>
   <string name="soft_ap_creating">Bağlantı noktası oluşturuluyor…</string>
   <string name="solar_term_autumn_begins">Sonbahar Başlıyor</string>
   <string name="solar_term_autumn_equinox">Sonbahar Gündönümü</string>
@@ -975,11 +975,11 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
 2. Mi Transfer\'i indirin ve kurun.
 3. Kurulum tamamlandıktan sonra aşağıdaki düğmeye dokunun."</string>
   <string name="trans_intro_title">SSS</string>
-  <string name="trans_main_activity_tutor_first">Fotoğraflarınızı, kişilerinizi, mesajlarınızı, arama geçmişinizi,\nses, video, belge ve uygulamalarınızı yeni bir cihaza taşıyın</string>
+  <string name="trans_main_activity_tutor_first">Öğeleri yeni bir cihaza aktarın</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
   <string name="trans_receive_time_remained">Alınan: %1$s | Kalan: %2$s</string>
   <string name="trans_send_time_remained">Gönderilen: %1$s | Kalan: %2$s</string>
-  <string name="trans_show_qr_code_label">Gönderenin cihazına bağlantı kurun</string>
+  <string name="trans_show_qr_code_label">Eski cihazda Mi Mover\'ı açın</string>
   <string name="trans_sync_transfer_data_list">Eski cihazda aktarılacak öğeleri seçin</string>
   <string name="trans_time_format_second">Bir dakikadan az</string>
   <string name="trans_time_spent">Zaman: %s</string>
@@ -1074,4 +1074,23 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="open_photo_and_contacts_cloud_sync_content2">%d. \"Şimdi eşitle\" öğesine dokunun.</string>
   <string name="open_photo_and_contacts_cloud_sync_summary">Kişilerin ve Galeri öğelerinin bu cihazda görünmesini sağlamak için eşitlemeyi açın.</string>
   <string name="open_photo_and_contacts_cloud_sync_title">Kişileri ve Galeri öğelerini eşitleyin</string>
+  <string name="appname_app_data_suffix">%1$s uygulama verisi</string>
+  <string name="fail_list_tips">Aşağıdaki öğeler yeni cihaza aktarılamadı.</string>
+  <string name="guest_connect_dialog_ensure_text">Bağlan</string>
+  <string name="guest_connect_dialog_fail_message">Bağlanılamadı. Tekrar deneyin.</string>
+  <string name="host_install_hint">Mi Mover kurulu değil mi?</string>
+  <string name="main_receiver_summary">Öğeleri almak için dokunun</string>
+  <string name="main_receiver_title">Yeni</string>
+  <string name="main_sender_summary">Öğeleri göndermek için dokunun</string>
+  <string name="main_sender_title">Eski</string>
+  <string name="receiver_finish_detail_button">Raporu görüntüle</string>
+  <string name="receiver_finish_detail_fail">Transfer edilemedi</string>
+  <string name="receiver_finish_detail_success">Aktarılan öğeler</string>
+  <string name="receiver_finish_title">Hazırsınız!</string>
+  <string name="select_android_summary">Huawei, OPPO, vivo, ve daha fazlası</string>
+  <string name="select_mi_summary">Xiaomi ve Redmi</string>
+  <string name="select_old_device_title">Eski cihaz modelini seçin</string>
+  <string name="sender_finish_bottom_tips">Bu cihazdaki verileri silmeden önce tüm önemli öğeleri yedeklediğinizden emin olun.</string>
+  <string name="sender_finish_title">Başarıyla aktarıldı</string>
+  <string name="transfer_finish_summary">Aktarılan %1$s (%2$s)</string>
 </resources>

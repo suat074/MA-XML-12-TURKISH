@@ -338,4 +338,32 @@
     <item quantity="one">%1$d Kalori</item>
     <item quantity="other">%1$d Kalori</item>
   </plurals>
+  <plurals name="sporting_content_min">
+    <item quantity="one">%1$d dakika</item>
+    <item quantity="other">%1$d dakika</item>
+  </plurals>
+  <plurals name="sporting_content_sec">
+    <item quantity="one">%1$d saniye</item>
+    <item quantity="other">%1$d saniye</item>
+  </plurals>
+  <plurals name="sporting_content_calories">
+    <item quantity="one">Zaten %1$s Kalori yaktın</item>
+    <item quantity="other">Zaten %1$s Kalori yaktın</item>
+  </plurals>
+  <plurals name="sporting_content_riding_km">
+    <item quantity="one">Zaten %1$s kilometre bisiklet sürdün</item>
+    <item quantity="other">Zaten %1$s kilometre bisiklet sürdün</item>
+  </plurals>
+  <plurals name="sporting_content_running_km">
+    <item quantity="one">Zaten %1$s kilometre koştun</item>
+    <item quantity="other">Zaten %1$s kilometre koştun</item>
+  </plurals>
+  <plurals name="sporting_content_walking_km">
+    <item quantity="one">Zaten %1$s kilometre yürüdün</item>
+    <item quantity="other">Zaten %1$s kilometre yürüdün</item>
+  </plurals>
+  <plurals name="sporting_content_walking_stpe">
+    <item quantity="one">Zaten %1$s adım yürüdün</item>
+    <item quantity="other">Zaten %1$s adım yürüdün</item>
+  </plurals>
 </resources>

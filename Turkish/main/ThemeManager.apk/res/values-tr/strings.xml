@@ -1085,4 +1085,25 @@ Her saat yeni bir resim göreceksiniz."</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
   <string name="wallpaper_setting_title">Duvar kağıdı</string>
   <string name="warning_subscribe_wallpaper_group_content">Ana ekran slayt gösterisini açtınız. %1$s, Ana ekranınıza uygulanacak.</string>
+  <string name="de_mix_mode_superwallpaper">Süper duvar kağıdı</string>
+  <string name="de_mix_mode_superwallpaper_with_aod_desc">Her zaman açık ekran, Kilit ekranı ve Ana ekran</string>
+  <string name="de_mix_mode_superwallpaper_without_aod_desc">Kilit ekranı ve Ana ekran</string>
+  <string name="de_super_wp_apply_wallpaper_button_text">Uygula</string>
+  <string name="de_super_wp_dialog_tip_content">Süper duvar kağıtları Kilit ekranına, Ana ekrana ve diğer ilgili öğelere aynı anda uygulanır.</string>
+  <string name="de_super_wp_dialog_tip_title">Süper duvar kağıdı</string>
+  <string name="de_super_wp_land_position_default_des">İniş noktası</string>
+  <string name="personalize_alarm_ringtone_title">Alarmlar</string>
+  <string name="personalize_aod_title">AOD</string>
+  <string name="personalize_call_ringtone_title">Zil sesleri</string>
+  <string name="personalize_charge_style_title">Şarj</string>
+  <string name="personalize_default_font">Varsayılan yazı tipi</string>
+  <string name="personalize_fingerprint_style_title">Parmak izi</string>
+  <string name="personalize_icon_title">Simgeler</string>
+  <string name="personalize_notify_ringtone_title">Bildirimler</string>
+  <string name="personalize_notify_style_title">Efektler</string>
+  <string name="personalize_theme_entrance">Temalar</string>
+  <string name="personalize_third_font">Yazı tipleri</string>
+  <string name="personalize_title">Duvar kağıdı ve kişiselleştirme</string>
+  <string name="personalize_wallpaper_sub_title">Süper duvar kağıtları ve öne çıkan görüntüler</string>
+  <string name="personalize_wallpaper_title">Duvar kağıdı</string>
 </resources>

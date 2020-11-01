@@ -5283,6 +5283,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="slot_number">(Yuva %1$d)</string>
   <string name="slot_status_title">IMEI Bilgileri</string>
   <string name="smallwindow_smartcover_title">Küçük pencereli ön kapak</string>
+  <string name="smart_space_clock">Bir Bakışta</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı kılıf</string>
   <string name="smartcover_sensitive_summary">Akıllı kılıf kullanarak telefonu otomatik olarak kilitleyin veya açın</string>
   <string name="smartcover_sensitive_title">Akıllı kılıf modu</string>

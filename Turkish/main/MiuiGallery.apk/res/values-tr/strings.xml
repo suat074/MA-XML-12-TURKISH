@@ -1087,7 +1087,7 @@ mevcut"</string>
   <string name="movie_download">İndir</string>
   <string name="movie_download_failed">İndirilemedi</string>
   <string name="movie_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
-  <string name="movie_download_sdk_without_wifi_msg">Cihazınızın Wi-Fi\'ye bağlı olmadığı anlaşılıyor. Mobil veri kullanarak gerekli eklentiyi (3MB) indirin?</string>
+  <string name="movie_download_sdk_without_wifi_msg">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Mobil veri kullanarak gerekli eklenti (%2$d MB) indirilsin mi?</string>
   <string name="movie_download_sdk_without_wifi_title">Mobil veri kullanarak indir</string>
   <string name="movie_download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
   <string name="movie_download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
@@ -1282,7 +1282,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="photo_editor_miui_beauty_no_face">Yüz algılanamıyor</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">İptal</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">%s indirmek yaklaşık 4MB mobil veri gerektirir. Şimdi indir?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">%s indirilirken yaklaşık %2$d MB mobil veri gerekir. Şimdi indirilsin mi?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Veri kullanımı uyarısı</string>
   <string name="photo_editor_navigator_export">Kaydet</string>
   <string name="photo_editor_navigator_module_download_failed">"%s indirilemedi "</string>
@@ -1392,7 +1392,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="picker_image_need_download">%d seçili fotoğraf cihazda değil. Mobil veri kullanılarak indirilsin mi?</string>
   <string name="picker_image_will_download">%d seçili fotoğraf cihazda değil. Onlar indirilecek.</string>
   <string name="picker_no_network_message">İndirmek için ağa bağlanın</string>
-  <string name="picker_origin_need_download">%1$d seçili fotoğraf (%2$dMB) cihazda değil. Mobil veri kullanılarak indirilsin mi?</string>
+  <string name="picker_origin_need_download">%1$d seçili fotoğraf (%2$d MB) cihazda değil. Mobil veri kullanılarak indirilsin mi?</string>
   <string name="picker_origin_request_progress_fail">Bir ağ hatası nedeniyle orijinal resim indirilemedi.</string>
   <string name="picker_origin_request_progress_message">Orijinal dosyalar hazırlanıyor (%1$d/%2$d)…</string>
   <string name="picker_title_format">%1$d - %2$d fotoğraf seçin</string>
@@ -1663,10 +1663,10 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="slim_cost_time_minute">Kalan %dd</string>
   <string name="slim_cost_time_minute_and_second">Kalan %1$dd %2$ds</string>
   <string name="slim_cost_time_second">Kalan %ds</string>
-  <string name="slim_description_dialog_detail">Yerel fotoğrafların dosya boyutunu azaltın. Orijinal dosyalar Xiaomi Bulut\'ta saklanır.</string>
+  <string name="slim_description_dialog_detail">Fotoğrafları sıkıştırın ve orijinal dosyaları bulutta tutarak bu cihazda daha küçük yüksek kaliteli kopyalar bırakın.</string>
   <string name="slim_description_dialog_ok">Anladım</string>
   <string name="slim_description_dialog_slim_after">Sonra:  167KB</string>
-  <string name="slim_description_dialog_slim_before">Önce:  3.07MB</string>
+  <string name="slim_description_dialog_slim_before">Önce: %2$d MB</string>
   <string name="slim_exit_dialog_positive">Durdur</string>
   <string name="slim_exit_dialog_title">İyileştirmeyi durdur</string>
   <string name="slim_running">İyileştiriliyor...</string>
@@ -1908,7 +1908,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="video_compress_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="video_compress_encode_video">Video sıkıştırılıyor...</string>
   <string name="video_compress_lib_download">Video sıkıştırma eklentisini indir</string>
-  <string name="video_compress_lib_download_without_wifi">Cihazınızın kablosuz ağa bağlı olmadığı anlaşılıyor. Video sıkıştırma eklentisini (1.3MB) indirmek için mobil veri kullanabilirsiniz.</string>
+  <string name="video_compress_lib_download_without_wifi">Cihazınız Wi-Fi ağına bağlı değil gibi görünüyor. Video sıkıştırma eklentisini (%2$d MB) indirmek için mobil veri kullanabilirsiniz.</string>
   <string name="video_compress_not_with_8k">8K videolar sıkıştırılamıyor</string>
   <string name="video_compress_not_with_format">Bu format için video sıkıştırma desteklenmiyor</string>
   <string name="video_compress_not_with_low_quality">Mevcut çözünürlük en düşükte</string>
@@ -2334,4 +2334,16 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="toast_invalid_char">Dosya adları \"%s\" içeremez</string>
   <string name="toast_invalid_prefix">Dosya adları \".\" veya \"_\" ile başlayamaz</string>
   <string name="toast_rename_exit">Bu dosya zaten var</string>
+  <string name="download_type_origin_subtitle_china">Orijinal görüntüler daha fazla depolama alanı kaplar ve yalnızca Wi-Fi ile indirilebilir</string>
+  <string name="download_type_origin_title">Orijinal</string>
+  <string name="download_type_thumbnail_subtitle">Yüksek kaliteli görüntüler orijinalleriyle neredeyse aynı görünse de daha az depolama alanı kullanır</string>
+  <string name="download_type_thumbnail_title">Yüksek kalite</string>
+  <string name="new_album_invalid_byte">Bu ad çok uzun</string>
+  <string name="notice_click_lock_orientation">Yönü kilitlemek için dokunun</string>
+  <string name="operation_replace_album_cover">Albüm kapağını değiştir</string>
+  <string name="operation_replace_album_cover_custom_mode">Özel</string>
+  <string name="operation_replace_album_cover_default_mode">Varsayılan</string>
+  <string name="photo_page_lock_screen">Yönü kilitle</string>
+  <string name="toast_orientation_locked">Yön başarıyla kilitlendi</string>
+  <string name="watch_all_photo">Galeri</string>
 </resources>

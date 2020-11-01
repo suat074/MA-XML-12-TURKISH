@@ -146,7 +146,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d fotoğraf atlandı, resim oluşturulamadı.</item>
-        <item quantity="one">Bir fotoğraf atlanıldı, resmi oluşturulamadı.</item>
+        <item quantity="one">%1$d fotoğraf atlanıldı, resmi oluşturulamadı.</item>
     </plurals>
     <plurals name="file_count_format">
         <item quantity="other">Toplam %1$d öğe</item>
@@ -158,7 +158,7 @@
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotoğraf</item>
-        <item quantity="one">1 fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotoğraf eşitleme için bekliyor</item>
@@ -178,7 +178,7 @@
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d video</item>
-        <item quantity="one">1 video</item>
+        <item quantity="one">%1$d video</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d video eşitleme için bekliyor</item>
@@ -209,8 +209,8 @@
         <item quantity="one">Seçili fotoğraf cihazda değil. İndirilecek.</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Seçilen (%dMB) fotoğraflar cihazda değil. Mobil veri kullanılarak indirilsin mi?</item>
-        <item quantity="one">Seçilen (%dMB) fotoğraf cihazda değil. Mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="other">Seçilen (%d MB) fotoğraflar cihazda değil. Mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="one">Seçilen (%d MB) fotoğraf cihazda değil. Mobil veri kullanılarak indirilsin mi?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">%d dosya henüz indirilmedi. Yine de iptal edilsin mi?</item>
@@ -222,23 +222,23 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemedi, ağa bağlanın ve yeniden deneyin</item>
-        <item quantity="one">Fotoğraf indirilemedi, ağa bağlanın ve yeniden deneyin</item>
+        <item quantity="one">%1$d fotoğraf indirilemedi, ağa bağlanın ve yeniden deneyin</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">%1$d dosya indirilemedi (%2$dMB). Ağa bağlanın ve yeniden deneyin.</item>
-        <item quantity="one">%1$d dosya indirilemedi (%2$dMB). Ağa bağlanın ve yeniden deneyin.</item>
+        <item quantity="other">%1$d dosya indirilemedi (%2$d MB). Ağa bağlanın ve yeniden deneyin.</item>
+        <item quantity="one">%1$d dosya indirilemedi (%2$d MB). Ağa bağlanın ve yeniden deneyin.</item>
     </plurals>
 	<plurals name="picker_origin_need_to_download">
-        <item quantity="other">%1$d dosya (%2$dMB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
-        <item quantity="one">%1$d dosya (%2$dMB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="other">%1$d dosya (%2$d MB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="one">%1$d dosya (%2$d MB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemiyor, yeniden denensin mi?</item>
-        <item quantity="one">Fotoğraf indirilemiyor, yeniden denensin mi?</item>
+        <item quantity="one">%1$d fotoğraf indirilemiyor, yeniden denensin mi?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotoğraf indirilemiyor (%2$dMB), yeniden denensin mi?</item>
-        <item quantity="one">Fotoğraf indirilemiyor (%2$dMB), yeniden denensin mi?</item>
+        <item quantity="other">%1$d fotoğraf indirilemiyor (%2$d MB), yeniden denensin mi?</item>
+        <item quantity="one">Fotoğraf indirilemiyor (%2$d MB), yeniden denensin mi?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Cihazda olmayan %d fotoğraf atlandı.</item>
@@ -246,7 +246,7 @@
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d yeni fotoğraf bulundu</item>
-        <item quantity="one">Yeni bir fotoğraf bulundu</item>
+        <item quantity="one">%1$d yeni fotoğraf bulundu</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Toplam %d fotoğraf</item>
