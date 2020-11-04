@@ -214,7 +214,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_dspt_provision_china">Verileri eşitlemek, cihazınızı bulmak ve arkadaşlarınızla paylaşmak için Xiaomi Bulut\'u kullanın.</string>
   <string name="micloud_dspt_provision_xms">Verileri eşitlemek için Xiaomi Bulut kullanın.</string>
   <string name="micloud_dspt_provision_xms_china">Verileri eşitlemek için Xiaomi Bulut kullanın.</string>
-  <string name="micloud_find_device_close_alert_content">Bu özelliği kapatırsanız cihazınızın kaybolması durumunda cihazınızı bulamazsınız.</string>
+  <string name="micloud_find_device_close_alert_content">"Cihazı bul özelliğini kapatırsanız, bu özelliği kullanarak cihazınızı bulamazsınız. Cihazınız NFC'yi destekliyorsa, tüm banka kartlarınız ve kartvizitleriniz Mi Pay'den silinecek. Konumunuzu paylaştığınız kişiler de bulunduğunuz yerle ilgili güncellemeleri alamayacak."</string>
   <string name="micloud_find_device_close_alert_negtive">Yine de kapat</string>
   <string name="micloud_find_device_close_alert_positive">Devam et</string>
   <string name="micloud_find_device_close_alert_title">Cihazı bul özelliğini kapat?</string>
