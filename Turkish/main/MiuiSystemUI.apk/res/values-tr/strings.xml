@@ -2129,4 +2129,19 @@
   <string name="quick_settings_vowifi_label">WLAN Çağrısı</string>
   <string name="quick_settings_vowifi_sim1_label">WLAN Çağrısı SIM1</string>
   <string name="quick_settings_vowifi_sim2_label">WLAN Çağrısı SIM2</string>
+  <string name="touch_filtered_warning">Bir uygulama bir izin talebini engellediğinden Ayarlar yanıtınızı doğrulayamıyor.</string>
+  <string name="wifi_debugging_allow">İzin ver</string>
+  <string name="wifi_debugging_always">Bu ağda her zaman izin ver</string>
+  <string name="wifi_debugging_message">"Ağ Adı (SSID)
+%1$s
+
+WLAN Adresi (BSSID)
+%2$s"</string>
+  <string name="wifi_debugging_secondary_user_message">Şu anda bu cihazda oturum açmış olan kullanıcı kablosuz hata ayıklamayı açamaz. Bu özelliği kullanmak için birincil kullanıcıya geçin.</string>
+  <string name="wifi_debugging_secondary_user_title">Kablosuz hata ayıklamaya izin verilmiyor</string>
+  <string name="wifi_debugging_title">Bu ağda kablosuz hata ayıklamaya izin verilsin mi?</string>
+  <string name="miui_toast_zen_dnd_to_off_version_R">Rahatsız etme kapalı. Bildirim sesleri ve titreşim yeniden açıldı.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Sessiz mod kapalı. Bildirimler, medya sesleri ve titreşim yeniden açıldı.</string>
+  <string name="miui_toast_zen_to_dnd_version_R">Rahatsız etme açık. Bildirimler susturulacak ve titreşim kapatılacak.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Sessiz mod açık. Bildirimler, medya sesleri susturulacak ve titreşim kapatılacak.</string>
 </resources>

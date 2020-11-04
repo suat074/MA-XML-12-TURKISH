@@ -252,4 +252,11 @@ EEEE"</string>
   <string name="share">Paylaş</string>
   <string name="share_to_community">Mi Community\'de paylaş</string>
   <string name="step_to_image_community">Mi Community\'de daha fazlasını bulun</string>
+  <string name="always_style_symmary">Daha fazla güç tüketir</string>
+  <string name="ambient_display_screen_title">Her zaman açık ekran</string>
+  <string name="ambient_display_screen_title_sp">Ortam ekranı</string>
+  <string name="off">Kapalı</string>
+  <string name="on">Açık</string>
+  <string name="scheduled_style_summary">Özel zaman ayarla</string>
+  <string name="temporary_style_summary">Önerilen</string>
 </resources>

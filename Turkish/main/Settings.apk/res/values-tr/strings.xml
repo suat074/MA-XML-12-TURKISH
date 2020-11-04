@@ -2005,7 +2005,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
   <string name="dual_wifi_switching_summary">Çift bant WLAN hız artışı için iki farklı WLAN bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız, yardımcı bağlantı kaybolur.</string>
   <string name="dump_log">Sorunla ilgili günlükleri alın</string>
-  <string name="dump_log_summary">"Bu özellik, MIUI\'nin Alfa ve Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
+  <string name="dump_log_summary">"Bu özellik, MIUI\'nin Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
 Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
   <string name="dump_log_title">Bu özellik hakkında</string>
   <string name="easymode_hint">Basit modu kapatmak için dokunun</string>
@@ -7543,4 +7543,6 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="other_input_method">Diğer klavyeler</string>
   <string name="sync_success">Başarıyla eşitlendi</string>
   <string name="xiaomi_custom_input_method">Xiaomi için özelleştirilmiş</string>
+  <string name="gxzw_lowlight_open_summary">Düşük ışık koşullarında parmak izi simgesinin parlaklığını azaltın. Bu özellik açıkken cihazınızın kilidi daha yavaş açılabilir.</string>
+  <string name="gxzw_lowlight_open_title">Düşük ışıklı parmak iziyle kilit aç</string>
 </resources>

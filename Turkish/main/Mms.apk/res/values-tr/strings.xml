@@ -1201,4 +1201,21 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="rcs_chatbot_no_waring">Mesaj bildirimleri sessiz</string>
   <string name="rsc_chatbot_back">Geri</string>
   <string name="rsc_chatbot_detail">Satıcı bilgileri</string>
+  <string name="message_cannot_send_air_mode">"Mesaj gönderilemiyor.
+Önce Uçak modunu kapatın."</string>
+  <string name="message_cannot_send_sim_unavailable">"Mesaj gönderilemiyor.
+SIM kartınızı kontrol edin."</string>
+  <string name="message_failed_and_cotanct_operator">Bir hata oluştu. <font color="#1c86ee">Operatörünüzle iletişime geçin</font>.</string>
+  <string name="message_failed_and_feedback">Bir hata oluştu. <font color="#1c86ee">Sorunu bildirin</font>.</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
 </resources>

@@ -608,4 +608,11 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="theme_title_leaf">Yapraklar</string>
   <string name="theme_title_nightsky">Gece gökyüzü</string>
   <string name="theme_title_shadow">Gölgeler</string>
+  <string name="dlg_update_cancel">Şimdi değil</string>
+  <string name="dlg_update_checkbox_title">Bu sürümü yok say</string>
+  <string name="dlg_update_title">Bir güncelleme mevcut</string>
+  <string name="dlg_update_update_now">Güncelle</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
 </resources>

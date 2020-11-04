@@ -223,6 +223,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="miui_message_staging_3">Uygulama hazırlanıyor...</string>
   <string name="miui_no_perms">İzin gerekmiyor</string>
   <string name="miui_not_uninstall_system_app">Sistem uygulamaları kaldırılamıyor</string>
+  <string name="miui_other_permission">Diğer</string>
   <string name="miui_other_relative">Diğer</string>
   <string name="miui_permission_manage_title">%s ayrıntıları</string>
   <string name="miui_please_clear">Virüsleri sil</string>

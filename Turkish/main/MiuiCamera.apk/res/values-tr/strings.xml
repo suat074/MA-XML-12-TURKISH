@@ -1190,6 +1190,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Bozuk nesneleri otomatik olarak düzelt</string>
   <string name="pref_camera_ultra_wide_ldc_title">Ultra geniş çekimlerdeki bozulmayı düzeltin</string>
   <string name="pref_camera_ultra_wide_mode_title">Ultra geniş açı modu</string>
+  <string name="pref_camera_video_ai_scene_title">AI kamera</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh kapalı</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">10 dakika</string>

@@ -157,7 +157,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="err_type_xiaomi_service">Müşteri Hizmetleri</string>
   <string name="error_dup_binded_email">Bu e-posta adresi zaten başka bir Mi Hesabı ile ilişkilidir.</string>
   <string name="error_invalid_bind_address">Girdiğiniz e-posta adresi geçersiz.</string>
-  <string name="error_no_connection">Ağa bağlanamadı</string>
   <string name="exceed_binded_phone_times_notice">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
@@ -181,13 +180,11 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_contact_info_hint">Telefon numarası/Eposta</string>
   <string name="feedback_continue">Geribildirimle devam et</string>
   <string name="feedback_description">Açıklama</string>
-  <string name="feedback_description_bugreport_hint">Bazı işaretler (...) telefonumun bozulmasına neden oldu (...).</string>
   <string name="feedback_description_hint">"Burada, karşılaştığınız sorunu açıklayın.
 %1$d. Sorunla hangi uygulamada veya hangi sayfada karşılaştınız?
 %2$d. Yaptığınız hangi işlemlerden sonra sorun ortaya çıktı?
 %3$d. Sorunu çözmemize yardımcı olabilecek ek bilgileri bize verin."</string>
   <string name="feedback_description_hint_suggestion">MIUI\'yi nasıl geliştirmek istediğinizi bize söyleyin.</string>
-  <string name="feedback_description_label">Açıklama</string>
   <string name="feedback_description_suggest_hint">Yeni bir özellik eklemenizi istiyorum () çünkü şuna ihtiyacımız var ().</string>
   <string name="feedback_detail_copy_toast">Panoya kopyalandı</string>
   <string name="feedback_detail_feedback_attach">Ekler</string>
@@ -208,14 +205,11 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_edit_popup_window_related_title">Bu alakalı olabilir</string>
   <string name="feedback_empty_report_list">Henüz rapor yok</string>
   <string name="feedback_guess">Tahminimiz:</string>
-  <string name="feedback_hint_optional">Seçin</string>
   <string name="feedback_history_remind_login_desc">Mi Hesabıyla oturum açıp detayları görüntüleyin ve raporunuz durumunu takip edin</string>
   <string name="feedback_id">Kimlik: %d</string>
   <string name="feedback_jira_key">JIRA Anahtarı: %s</string>
   <string name="feedback_jira_key_place_holder">Jira oluşturuluyor…</string>
   <string name="feedback_package_log_failed">Sıkıştırma günlüğü başarısız oldu</string>
-  <string name="feedback_phone_model_label">Telefon Model</string>
-  <string name="feedback_probability_label">Olasılık</string>
   <string name="feedback_remind_login_btn">Oturum Aç</string>
   <string name="feedback_report_remind_login_desc">Mi Hesabıyla oturum açıp, mühendislerimizle iletişime geçebilirsiniz.</string>
   <string name="feedback_report_remind_login_desc2">Raporunuz durumunu \"Raporlarım\" altından takip edebilirsiniz.</string>
@@ -223,7 +217,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_reproductivity_occasionally">Bazen</string>
   <string name="feedback_reproductivity_often">Genellikle</string>
   <string name="feedback_reproductivity_once">Bir kez</string>
-  <string name="feedback_retest_label">İşlemin Adımları</string>
   <string name="feedback_select_images">Bir resim veya kısa video ekleyin</string>
   <string name="feedback_select_problem">Problemler</string>
   <string name="feedback_select_suggestion">Öneriler</string>
@@ -260,19 +253,16 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_submit_succ_button">Tamam</string>
   <string name="feedback_submitting">Gönderiliyor…</string>
   <string name="feedback_suggestion_status_change_notification_desc">\"%2$s\" %1$s tavsiyesi</string>
-  <string name="feedback_third_packagename_hint">Hangi üçüncü parti uygulama sorunlara neden oluyor?</string>
   <string name="feedback_title">Başlık</string>
   <string name="feedback_title_hint">Problemin özetini tanımlayın</string>
   <string name="feedback_title_occurrence_time">Zaman seçin</string>
   <string name="feedback_title_reproductivity">Tekrarlanabilir olanı seçin</string>
   <string name="feedback_tracking">Problemin izleri</string>
-  <string name="feedback_version_label">Sürüm</string>
   <string name="feesback_list">Raporlar</string>
   <string name="find_psw">Parolanızı mı unuttunuz</string>
   <string name="first_position">2#</string>
   <string name="floor">%1$s#</string>
   <string name="for_diagnosis_usage_only">Günlükler yalnızca tanılama için kullanılır.</string>
-  <string name="from">Şurdan: %1$s</string>
   <string name="get_back_pwd">Şifre sıfırlanıyor</string>
   <string name="get_ph_ticket">Kod alın</string>
   <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Mi Hesabını ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
@@ -378,7 +368,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Fazlası</string>
   <string name="open_settings">Ayarlara git</string>
-  <string name="packaging_dialog_content">Rapor oluşturuluyor...</string>
   <string name="passport_access_denied">Erişim engellendi</string>
   <string name="passport_account_hint_text">E-Posta adresi veya Mi Hesap Kimliği</string>
   <string name="passport_account_identity_title">Kimliğinizi doğrulayın</string>
@@ -550,8 +539,8 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="passport_use_generated_pwd_message">Unutmayacağınız bir şifre kullanın. Diğer Mi Hizmetleri içinde aynı şifreyi kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi unutmayın!</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="passport_user_agreement_link">"<Data>Xiaomi\'nin &lt;a href=\"%1$s\">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data>"</string>
-  <string name="passport_user_agreement_link_more">"<Data>Aşağıdaki belgeleri okudum ve kabul ediyorum: Xiaomi\'nin &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%4$s\">Gizlilik Politikası&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.</Data>"</string>
+  <string name="passport_user_agreement_link">"<Data>Xiaomi\'nin &lt;a href="%1$s">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href="%2$s">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum.</Data>"</string>
+  <string name="passport_user_agreement_link_more">"<Data>Aşağıdaki belgeleri okudum ve kabul ediyorum: Xiaomi\'nin &lt;a href="%1$s">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href="%4$s">Gizlilik Politikası&lt;/a>, &lt;a href="%2$s">"%3$s"&lt;/a>.</Data>"</string>
   <string name="passport_user_agreement_p1">Kabul ediyorum</string>
   <string name="passport_user_agreement_p2">Kullanıcı Sözleşmesi</string>
   <string name="passport_user_agreement_p3">" ve"</string>
@@ -574,8 +563,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="phone_number">Telefon numarası</string>
   <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok.</string>
   <string name="pic_not_exist">Bu resim yok</string>
-  <string name="plus_one_submit_dialog_content">Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir.</string>
-  <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
   <string name="post_miui_bbs_failed">MIUI Forumuna posta gönderilemedi</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacy_category_title">Gizlilik</string>
@@ -606,13 +593,10 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="save_pic">Kaydet</string>
   <string name="save_pic_fail">Kaydecek resim yok, SD kartı kontrol edin</string>
   <string name="save_pic_success">%s resim kaydedildi</string>
-  <string name="screen_lock">Kilit Ekranı</string>
   <string name="search_menu_title">Ara</string>
   <string name="second_position">3#</string>
   <string name="section_description">Açıklama</string>
-  <string name="section_err_type">Hatanın Türü</string>
   <string name="section_screenshot">Ekran Görüntüsü</string>
-  <string name="select_system_app_tag">Etiketleri seçin</string>
   <string name="send_diagnosis_log">Günlükleri gönder</string>
   <string name="send_email_activate_message">Doğrulama e-postası başarıyla gönderildi</string>
   <string name="sending">Gönderiliyor...</string>
@@ -645,7 +629,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="suggest_upload_log_dialog_title">İlgili günlükleri yükleyin</string>
   <string name="suggestion_description">Açıklamanızı buraya yazın</string>
   <string name="system_app_select">Yerleşik uygulamalar</string>
-  <string name="systemui">Bildirim Alanı</string>
   <string name="tab_title_chat">SSS</string>
   <string name="tab_title_my_reports">Raporlarım</string>
   <string name="tab_title_preferences">Ayarlar</string>
@@ -674,10 +657,8 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="toast_feedback_submitting">Gönderiliyor...</string>
   <string name="toast_feedbackservice_in_submit">Önceki geribildirim gönderiliyor...</string>
   <string name="toast_file_format_not_support">Bu dosya biçimi desteklenmiyor. Farklı bir dosya seçmeyi deneyin.</string>
-  <string name="toast_fill_brackets">Raporda bazı bilgiler eksik</string>
   <string name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="toast_log_not_exists">Gerekli günlük silindi veya mevcut değil</string>
-  <string name="toast_log_too_large">Yüklenemiyor. Günlük çok büyük.</string>
   <string name="toast_min_description_count">Açıklamanız daha uzun olmalıdır</string>
   <string name="toast_module_required">Öğe seç</string>
   <string name="toast_network_unavailable">Gönderilemedi. Ağa bağlanamıyor.</string>
@@ -690,7 +671,6 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="toast_report_sent_succeed">Rapor başarıyla gönderildi</string>
   <string name="toast_screenshot_too_large">100 MB\'den büyük resimler veya videolar yüklenemiyor.</string>
   <string name="toast_third_packagename_required">Uygulama adını girin</string>
-  <string name="toast_title_required">Problemi tanımlayın</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Tekrar deneyin</string>
   <string name="update_dialog_cancel">İptal</string>
@@ -721,4 +701,24 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncellemesi!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
+  <string name="error_no_connection">Ağa bağlanılamadı</string>
+  <string name="feedback_description_bugreport_hint">Bazı durumlarda (…) telefonum hatalı davranıyor (…).</string>
+  <string name="feedback_description_label">Açıklama</string>
+  <string name="feedback_hint_optional">Seç</string>
+  <string name="feedback_phone_model_label">Telefon modeli</string>
+  <string name="feedback_probability_label">Olasılık</string>
+  <string name="feedback_retest_label">Çoğaltılacak adımlar</string>
+  <string name="feedback_third_packagename_hint">Hangi üçüncü taraf uygulaması sorunlara neden oluyor?</string>
+  <string name="feedback_version_label">Sürüm</string>
+  <string name="from">%1$s itibaren</string>
+  <string name="packaging_dialog_content">Rapor oluşturuluyor…</string>
+  <string name="plus_one_submit_dialog_content">Hata günlükleriyle birlikte geri bildiriminiz Mi\'nin sunucularına gönderilecektir.</string>
+  <string name="plus_one_submit_dialog_not_show_again">Tercihi hatırla</string>
+  <string name="screen_lock">Ekran kilidi</string>
+  <string name="section_err_type">Hata türü</string>
+  <string name="select_system_app_tag">Bir sorun seçin</string>
+  <string name="systemui">Bildirim alanı</string>
+  <string name="toast_fill_brackets">Raporunuzda bazı bilgiler eksik</string>
+  <string name="toast_log_too_large">Karşıya yüklenemiyor. Günlük çok büyük.</string>
+  <string name="toast_title_required">Sorununuzu açıklayın</string>
 </resources>
