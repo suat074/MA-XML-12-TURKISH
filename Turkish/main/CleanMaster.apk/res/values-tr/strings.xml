@@ -794,3 +794,4 @@
   <string name="notification_wechat_clean_middle_level_hint">Gecikme olmadan bildirim almak için çöpleri temizleyin</string>
   <string name="notification_wechat_clean_middle_level_text_a">WeChat çöpleri çok fazla depolama alanı kaplıyor</string>
   <string name="notification_wechat_clean_middle_level_text_b">WeChat çöpleri uygulamayı yavaşlatıyor</string>
+</resources>
