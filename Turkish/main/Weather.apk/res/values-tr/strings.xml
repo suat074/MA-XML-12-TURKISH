@@ -386,7 +386,6 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
     <string name="yes_vote_ratio">Evet %%%1$s</string>
     <string name="your_location">Konumunuz</string>
-	<string name="content_desc_close_button">Kapat</string>
     <string name="dialog_internet_error_title">Bir hata oluştu</string>
     <string name="download_rsc_tips">Arka plan sesi yükleniyor…</string>
     <string name="dynamic_weather">Hava durumu</string>
@@ -400,7 +399,6 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="save_to_gallery_icon_name">Galeriye kaydet</string> 
     <string name="save_to_gallery_success_message">Galeriye başarıyla kaydedildi</string>
     <string name="weather_aqi_full_air_quality_forcast">Tam hava kalitesi tahmini</string>
-    <string name="weather_main_aqi_desc">HKİ</string>
     <string name="weather_more_air_quality">Hava kalitesi hakkında daha fazla bilgi</string>
     <string name="welcome_app_title">Hava Durumuna Hoş Geldiniz!</string>
 </resources>
