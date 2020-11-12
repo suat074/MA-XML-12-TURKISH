@@ -105,9 +105,9 @@
     <string name="button_exit">Reddet</string>
     <string name="button_not_allow">İptal</string>
     <string name="button_settings_cancel">İptal</string>
-    <string name="button_settings_confirm">Geri al</string>
-    <string name="button_settings_confirm_to_revoke_msg">Yetkiyi geri aldıktan sonra Hava durumu uygulamasını kullanamayacaksınız.</string>
-    <string name="button_settings_confirm_to_revoke_title">Yetki geri alınsın mı?</string>
+    <string name="button_settings_confirm">Geri çek</string>
+    <string name="button_settings_confirm_to_revoke_msg">Anahtarı kapatarak, Hava Durumunun Gizlilik Politikası için onayını geri çekmiş olursunuz. Kişisel bilgilerinizi toplamayı bırakacağız. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Hava Durumu, size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Gizlilik Politikasına verdiğiniz onayı geri çekmeniz, toplanan kişisel bilgilere dayalı hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir.</string>
+    <string name="button_settings_confirm_to_revoke_title">Yetki geri çekilsin mi?</string>
     <string name="button_sure_abandon">Değişiklikler yok sayılsın mı?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</string>
@@ -264,7 +264,7 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
 	<string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="privacy_grant_failed">Yetki verilemedi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="privacy_grant_or_revoke_settings">Yetki verme &amp; alma</string>
+    <string name="privacy_grant_or_revoke_settings">Onayın geri çekilmesi</string>
     <string name="privacy_grant_success">Yetki başarıyla verildi</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="privacy_revoke_failed">Yetki geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
@@ -386,4 +386,21 @@ Konumu elle değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
     <string name="yes_vote_ratio">Evet %%%1$s</string>
     <string name="your_location">Konumunuz</string>
+	<string name="content_desc_close_button">Kapat</string>
+    <string name="dialog_internet_error_title">Bir hata oluştu</string>
+    <string name="download_rsc_tips">Arka plan sesi yükleniyor…</string>
+    <string name="dynamic_weather">Hava durumu</string>
+    <string name="no_internet_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="non_wifi_environment">Ses efektlerini indirmek için Wi-Fi\'ye bağlanın</string>
+    <string name="privacy_policy_msg"><Data>Bu uygulama aşağıdaki özellikleri içerir:&lt;br/>• Konumunuza özel hava durumu bilgileri&lt;br/>• Hava durumu tahminleri&lt;br/>• Hava durumu uyarıları&lt;br/>&lt;br/>Hava Durumu, size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Topladığımız bilgileri nasıl işlediğimizi &lt;a href=\"%1$s\">Gizlilik Politikamız&lt;/a> üzerinden öğrenebilirsiniz. Hava Durumu\'nu kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Hava Durumu Gizlilik Politikası\'na verdiğiniz onayı istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Bu uygulama aşağıdaki özellikleri içerir:&lt;br/>• Konumunuza özel hava durumu bilgileri&lt;br/>• Hava durumu tahminleri&lt;br/>• Hava durumu uyarıları&lt;br/>&lt;br/>Hava durumu, uygulama kapalıyken veya kullanımda değilken bile bu özellikleri kullanabilmesi için konum verileri dahil olmak üzere gerekli kişisel bilgileri toplamalıdır. Topladığımız bilgileri nasıl işlediğimizi &lt;a href=\"%1$s\">Gizlilik Politikamız&lt;/a> üzerinden öğrenebilirsiniz. Hava Durumu\'nu kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Hava Durumu Gizlilik Politikası\'na verdiğiniz onayı istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.</Data></string>
+    <string name="revoke_fail">Ağa bağlanılamıyor</string>
+    <string name="revoke_privacy_policy_title">Onayın geri çekilmesi</string>
+    <string name="save_to_gallery_failure_message">Galeri\'ye kaydedilemedi</string>
+    <string name="save_to_gallery_icon_name">Galeriye kaydet</string> 
+    <string name="save_to_gallery_success_message">Galeriye başarıyla kaydedildi</string>
+    <string name="weather_aqi_full_air_quality_forcast">Tam hava kalitesi tahmini</string>
+    <string name="weather_main_aqi_desc">HKİ</string>
+    <string name="weather_more_air_quality">Hava kalitesi hakkında daha fazla bilgi</string>
+    <string name="welcome_app_title">Hava Durumuna Hoş Geldiniz!</string>
 </resources>

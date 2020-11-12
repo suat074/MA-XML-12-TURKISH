@@ -800,6 +800,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="prompt_before_transmission_message4_title">Aktarım boyunca bağlantıda kalın</string>
   <string name="prompt_before_transmission_message5_summary">Büyük miktarda veriyi kablosuz olarak aktarmak anormal olmayan hafif aşırı ısınmaya neden olabilir. Aktarım tamamlandıktan hemen sonra cihazınız soğuyacaktır.</string>
   <string name="prompt_before_transmission_message5_title">Aktarım sırasında cihazınız ısınabilir.</string>
+  <string name="provision_receiver_finish_button">Sonraki</string>
   <string name="quit_now">Çık</string>
   <string name="reconnect">Tekrar bağlan</string>
   <string name="recovery_progress">Öğeler geri yükleniyor (%1$d/%2$d)…</string>

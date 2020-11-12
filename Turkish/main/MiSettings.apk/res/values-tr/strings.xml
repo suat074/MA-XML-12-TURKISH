@@ -490,4 +490,11 @@ Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağı
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="usage_new_home_week_average_count">Ort. %s</string>
+  <string name="usage_new_home_week_compare_text1_new">(%s%% geçen haftadan daha fazla)</string>
+  <string name="usage_new_home_week_compare_text2_new">(%s%% geçen haftadan daha az)</string>
+  <string name="usage_new_home_week_unlock_compare_decrease">(%.2f geçen haftadan daha az)</string>
+  <string name="usage_new_home_week_unlock_compare_increase">(%.2f geçen haftadan daha fazla)</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary_new">Dakikaya kadar doğru (daha fazla güç tüketir)</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary_new">Kalan %d saat içinde dakikaya kadar doğru (güç tasarrufu sağlar)</string>
 </resources>

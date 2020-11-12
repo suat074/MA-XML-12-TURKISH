@@ -7233,7 +7233,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="bluetooth_device_nearby_title">Yakındaki cihazlar</string>
     <string name="bottom_function_settings">Ek düğmelerin işlevleri</string>
     <string name="change_lock_screen_password_title">Ekran kilidini değiştir</string>
-    <string name="clear_data_alert_info">"Bu cihazda depolanan tüm yedeklemeler kalıcı olarak silinecek. Devam etmeden önce önemli öğeleri bilgisayarınıza ve Xiaomi Bulut'a yedekleyin."</string>
+    <string name="clear_data_alert_info">Bu cihazda depolanan tüm yedeklemeler kalıcı olarak silinecek. Fabrika ayarlarına sıfırlama yapmadan önce önemli öğeleri bilgisayarınıza ve Xiaomi Bulut\'a yedekleyin.</string>
     <string name="cloud_category_text">Bulut</string>
     <string name="computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
     <string name="computer_backup_title">Bilgisayar</string>
@@ -7247,7 +7247,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="device_oaid_desc">MiUI, benzersiz tanımlayıcınız yerine, yüklü uygulamalar için sanal bir kimlik (OAID) sağlar. Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur.</string>
     <string name="device_oaid_title">Sanal Kimlik</string>
     <string name="device_of_someone">%1$s %2$s</string>
-    <string name="dialog_backup_title">Fabrika ayarlarına sıfırlama yapmadan önce yedeklemeler güncellensin mi?</string>
+    <string name="dialog_backup_title">Önce öğeler yedeklensin mi?</string>
     <string name="dialog_speaker_auto_clean_title">Dikkat</string>
     <string name="face_data_apply_for_category_title">Yüz verilerini kullanarak kilidi aç</string>
     <string name="face_data_apply_for_keyguard_title">Kilit ekranı</string>
@@ -7477,7 +7477,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="bt_absVolume_pre_title">Mutlak ses</string>
   <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun. Medya arka planda oynatılmadığında bu özelliği açıp kapatabilirsiniz.</string>
   <string name="custom_gesture_title">Özel hareketler</string>
-  <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
+  <string name="device_opcust_version">Operatör sürümü</string>
   <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
   <string name="launch_alipay_scanner">Alipay tarayıcı</string>
   <string name="launch_calculator">Hesap makinesi</string>

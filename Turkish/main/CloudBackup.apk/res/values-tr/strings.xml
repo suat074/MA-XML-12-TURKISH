@@ -120,7 +120,9 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="cloud_back_up_task">Yedekleniyor…</string>
   <string name="cloud_backup">Bulut yedekleri</string>
   <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
-  <string name="cloud_backup_detail_frequence">Yedekleme Planı</string>
+  <string name="cloud_backup_detail_frequence">Yedekleme planı</string>
+  <string name="cloud_backup_detail_frequence_every_7_day">Her %d günde bir yedekle</string>
+  <string name="cloud_backup_detail_frequence_every_day">Her gün yedekle</string>
   <string name="cloud_backup_detail_manage">Yedekleri Yönet</string>
   <string name="cloud_backup_detail_state">Otomatik yedekleme</string>
   <string name="cloud_backup_detail_state_summary">Wi-Fi\'a bağlandığında Xiaomi Bulut yedeklemelerini otomatik olarak oluşturun.</string>

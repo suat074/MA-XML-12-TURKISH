@@ -20,6 +20,8 @@
   <string name="application_permissions">Uygulama izinleri</string>
   <string name="back">Geri</string>
   <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="boot_video_replay">Tekrar oynat</string>
+  <string name="boot_video_skip">Atla</string>
   <string name="calculator_introduction">Bu uygulamayı hesaplama, birimler ve para birimleri dönüştürme ve ipotek geri ödemelerinizi tahmin etmek için kullanabilirsiniz.</string>
   <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için Kamera\'yı kullanabilirsiniz.</string>
   <string name="carrier_introduction">Size daha iyi hizmet verebilmek için, cihazınız periyodik olarak cihaz sürüm bilgilerini, cihaz tanımlama verilerini (IMEI/IMSI/MSISDN/MAC adresi, MEID/ICCID dahil) ve yaklaşık konum bilgilerini (baz istasyonu kimliği dahil) WLAN, mobil veri ağı veya ücretsiz SMS yoluyla operatöre gönderebilir. Operatör, yalnızca hizmetlerin kalitesini artırmak veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için ilgili bilgileri analiz etmeyi vaat eder ve ilgili bilgileri sizi kişisel olarak tanımlayan herhangi bir biçimde üçüncü taraflara açıklamaz. Özel operatör beyanı geçerli olacaktır. Bu servisi kullanmanın maliyeti konusunda operatörünüze danışın.</string>

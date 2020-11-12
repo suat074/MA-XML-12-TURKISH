@@ -157,6 +157,10 @@
     <item quantity="other">%d defa</item>
     <item quantity="one">%d defa</item>
   </plurals>
+  <plurals name="usage_state_unlock_count_new">
+    <item quantity="other">Ort. %.2f kez</item>
+    <item quantity="one">Ort. %.2f kez</item>
+  </plurals>
   <plurals name="usage_state_week_day_hour">
     <item quantity="other">Hafta sonu: %d saat</item>
     <item quantity="one">Hafta sonu: %d saat</item>

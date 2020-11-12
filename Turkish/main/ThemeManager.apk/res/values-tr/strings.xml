@@ -1106,4 +1106,8 @@ Her saat yeni bir resim göreceksiniz."</string>
   <string name="personalize_title">Duvar kağıdı ve kişiselleştirme</string>
   <string name="personalize_wallpaper_sub_title">Süper duvar kağıtları ve öne çıkan görüntüler</string>
   <string name="personalize_wallpaper_title">Duvar kağıdı</string>
+  <string name="boot_audio_dialog_cancel">İptal</string>
+  <string name="boot_audio_dialog_confirm">Tamam</string>
+  <string name="boot_audio_dialog_content">Önyükleme sesi şimdi kapalı. Tekrar açıp bu sesi uygulamak istiyor musunuz?</string>
+  <string name="boot_audio_dialog_title">Dikkat</string>
 </resources>

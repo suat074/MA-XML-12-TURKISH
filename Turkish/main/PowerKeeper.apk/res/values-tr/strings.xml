@@ -2,6 +2,7 @@
 <resources>
   <string name="about_extreme_mode">Aşırı pil tasarrufu</string>
   <string name="about_hide_mode">Uygulama pil tasarrufu hakkında</string>
+  <string name="accessibility_service_description">Akıllı güç tasarrufu</string>
   <string name="active_classify">Etkinlik durumuna göre sırala</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
   <string name="adaptive_battery_title">Adaptif Pil kullanımı</string>

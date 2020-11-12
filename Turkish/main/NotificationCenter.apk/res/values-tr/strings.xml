@@ -153,4 +153,23 @@ Bu sorunu bildirin &gt;"</string>
   <string name="float_notifications_short">Yüzer</string>
   <string name="lockscreen_notifications_short">Kilit ekranı</string>
   <string name="show_badge_notifications_short">Rozetler</string>
+  <string name="aggregate_title">Bildirimleri gruplama kuralları</string>
+  <string name="channel_keyguard_hide_content">Tüm bildirimleri göster ancak içeriği gizle</string>
+  <string name="channel_keyguard_show_content">Tüm bildirimleri ve içeriklerini göster</string>
+  <string name="channel_keyguard_show_nothing">Hiç bildirim gösterme</string>
+  <string name="fold_importance_default">Önerilen</string>
+  <string name="fold_importance_important">Önemli</string>
+  <string name="fold_importance_unimportant">Önemsiz</string>
+  <string name="fold_title">Gruplanmış bildirimler için kurallar</string>
+  <string name="notification_keyguard_hide_content">Bildirimleri göster ama içeriği gizle</string>
+  <string name="notification_keyguard_show_content">Bildirim ve içeriği göster</string>
+  <string name="notification_keyguard_show_nothing">Kilit ekranı bildirimlerini gösterme</string>
+  <string name="rule_keyguard_display">Biçim</string>
+  <string name="summary_aggregate_default">Promosyon ve içerikle ilgili anlık bildirimler gruplanacak</string>
+  <string name="summary_aggregate_home">Anlık bildirimler gruplanmayacak</string>
+  <string name="summary_fold_importance_default">MIUI, hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecek</string>
+  <string name="summary_fold_importance_important">Bildirim, Bildirim alanında görünecek</string>
+  <string name="summary_fold_importance_unimportant">Bildirim ayrı bir klasörde görünecek</string>
+  <string name="title_aggregate_default">Grup bildirimleri</string>
+  <string name="title_aggregate_home">Bildirimleri gruplandırma</string>
 </resources>

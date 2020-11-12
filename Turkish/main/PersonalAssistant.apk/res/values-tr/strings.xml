@@ -444,6 +444,7 @@
   <string name="card_expand_note_dialog_title">Kaydet</string>
   <string name="card_expand_note_sure_clear_all">Temizle</string>
   <string name="card_expand_note_toast_clear_null">Başarıyla temizlendi</string>
+  <string name="card_expand_note_toast_install">Bu özelliği kullanabilmek için Notlar\'ı yükleyin</string>
   <string name="card_expand_note_toast_save_done">Notlara kaydedildi</string>
   <string name="card_expand_note_toast_save_dup">Başarıyla kaydedildi</string>
   <string name="card_expand_note_toast_share_null">Bu not boş</string>

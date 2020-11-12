@@ -33,4 +33,13 @@
   <string name="notification_title_message_shell">%s bir iç hata nedeniyle kapatıldı</string>
   <string name="notification_title_message_unknown">%s kapatıldı</string>
   <string name="search_menu_title">Ara</string>
+  <string name="dialog_content_message2_auto_update">Gelecekte bu tür sorunları önlemek için uygulamaları otomatik olarak güncelleyin.</string>
+  <string name="dialog_content_message_auto_update_path">GetApps ayarlarından otomatik güncellemeleri açabilirsiniz.</string>
+  <string name="dialog_content_message_oom_update_low_bit">"Yeni sürüm GetApps\'de kullanılabilir olur olmaz uygulamayı güncelleyin.
+"</string>
+  <string name="dialog_content_message_update_low_bit">"%s zorla kapatıldı. Bu sorunu çözmek için uygulamayı güncellemeyi deneyin.
+"</string>
+  <string name="dialog_title_message_auto_update">Uygulamaları otomatik olarak güncelle</string>
+  <string name="go_open">Aç</string>
+  <string name="open_success">Başarıyla açıldı</string>
 </resources>

@@ -759,7 +759,8 @@
   <string name="mail_login_help_details2">2. POP3/IMAP/SMTP hizmetleri etkinleştirildiğinde üçüncü taraf e-posta istemcilerinde oturum açmak için üçüncü taraf yetkilendirme kodları kullanılabilir.</string>
   <string name="mail_login_help_title">E-posta şifresi/Üçüncü taraf istemcisi:</string>
   <string name="mail_outlook_login_tips">Şifre girmek için Microsoft\'a yönlendirileceksiniz</string>
-  <string name="mail_outlook_oauth_login">OAuth ile giriş yap</string>
+  <string name="mail_outlook_oauth_login">"OAuth ile oturum aç
+(Kişisel Outlook kullanıcıları OAuth ile oturum açarken takvimlerini eşitleyemez)"</string>
   <string name="mail_outlook_psw_login">Şifre kullanarak giriş yap</string>
   <string name="mailbox_list_account_selector_combined_view">Birleştirilmiş hesap</string>
   <string name="mailbox_name_display_ad">Reklamlar</string>
@@ -1431,4 +1432,38 @@ Postayı bir kez eşitlemek için "<b>Şimdi Eşitle</b>ye veya bu hesaptaki pos
   <string name="you_are_in_mobile_network">Günlükleri yüklemek için mobil veri kullanılsın mı?</string>
   <string name="youfuli">Tanıtım</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
+  <string name="bottom_bar_more_pdf">PDF\'ye aktar</string>
+  <string name="bottom_bar_more_pdf_exporting">Dışa aktarılıyor…</string>
+  <string name="contain_view_all_body">Mesajın tam metnini görüntüle</string>
+  <string name="copy">Kopyala</string>
+  <string name="drive_card_button_tips">Ayıklanan kodu kopyala ve paylaşılan içeriği al</string>
+  <string name="drive_card_code">ayıklama kodu</string>
+  <string name="drive_card_tips">%s kaynağından paylaşım bağlantısı bulundu</string>
+  <string name="drive_card_title">Disk bağlantısı</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="invoice_card_amount">miktar</string>
+  <string name="invoice_card_buyer">alıcı</string>
+  <string name="invoice_card_date">tarih</string>
+  <string name="invoice_card_open">faturayı aç</string>
+  <string name="invoice_card_save">faturayı kaydet</string> 
+  <string name="invoice_card_seller">satıcı</string> 
+  <string name="invoice_card_title">e-fatura</string> 
+  <string name="login_err_outlook_msg">"%s
+Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer açıksa, lütfen uygulama parolasını sıfırlamak için Microsoft web sitesine gidin"</string>
+  <string name="message_all_body">Tam Metin</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="pdf_save_error">Gövde çok büyük, PDF dosyası olarak dışa aktarılamaz</string>
+  <string name="pdf_save_no_body">Metnin başarıyla yüklenmesini bekleyin ve tekrar deneyin</string>
+  <string name="pdf_save_to">Kaydedildi</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="train_card_title">Tren bileti başarıyla satın alındı</string>
+  <string name="train_card_title_alternate">Tren bileti için başarıyla bekleniyor</string>
+  <string name="train_card_title_change">Tren bileti başarıyla değiştirildi</string>
+  <string name="train_card_title_change_arrival">Tren bileti başarıyla değiştirildi</string>
+  <string name="train_card_title_refund">Tren bileti başarıyla iade edildi</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
+  <string name="wps_card_button_tips">Kingsoft Belgesini aç</string> 
+  <string name="wps_card_tips">\"%s\" adresinden paylaşım bağlantısı bulundu</string>
+  <string name="wps_card_title">Kingsoft Belgesi</string>
 </resources>

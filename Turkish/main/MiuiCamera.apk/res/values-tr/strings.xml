@@ -1300,7 +1300,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_video_encoder_title">Video kodlayıcı</string>
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
   <string name="pref_video_focusmode_title">Odak modu</string>
-  <string name="pref_video_hfr_title">Video HFR</string>
+  <string name="pref_video_hfr_title">Kare hızı</string>
   <string name="pref_video_quality_summary">4k video 120fps modunda desteklenmez</string>
   <string name="pref_video_quality_title">Video kalitesi</string>
   <string name="pref_video_speed_entry_fast">Hızlı</string>
@@ -1507,7 +1507,7 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="wideselfie_rotate_to_right_slowly">Telefonu sağa döndür</string>
   <string name="auto_hibernation_enter_tip">Ekran kapanmak üzere…</string>
   <string name="pref_camera_auto_hibernation">Ekran kapalıyken çekim yapın</string>
-  <string name="pref_camera_auto_hibernation_description">Güç tasarrufu için %d dakika çekim yaptıktan sonra ekranı kapatın</string>
+  <string name="pref_camera_auto_hibernation_description">Çekim yaparken, güç tasarrufu yapmak için %d dakika hareketsizlikten sonra ekranı kapat</string>
   <string name="accessibility_dual_video_merged">Birleşik video</string>
   <string name="accessibility_dual_video_standalone">Ayrılmış videolar</string>
   <string name="dual_video_record_merged">Birleşik</string>
@@ -1528,4 +1528,6 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="live_workspace_title">Taslaklar</string>
   <string name="live_workspace_title_edit">Silinecek öğeleri seçin</string>
   <string name="film_video_b_tip">Lütfen düşük ışıkta çekim yapın</string>
+  <string name="pref_video_quality_hfr_title">Kare hızı &amp; görüntü kalitesi</string>
+  <string name="confirm_fastmotion_reset_manually_parameter_message">Parametreler şimdi sıfırlansın mı?</string>
 </resources>
