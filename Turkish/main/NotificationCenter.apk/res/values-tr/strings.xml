@@ -137,6 +137,7 @@ Bu sorunu bildirin &gt;"</string>
   <string name="settings_guide_title">Diğer ayarlara ihtiyacınız var mı?</string>
   <string name="setting_menu_success">Başarıyla ayarlandı</string>
   <string name="show_badge_notifications">Bildirim rozetleri</string>
+  <string name="show_weather">Hava durumu bilgilerini göster</string>
   <string name="status_bar_setting">Durum çubuğu</string>
   <string name="summary_disable_float_notification">Kayan bildirimlere izin verilmiyor</string>
   <string name="summary_disable_lockscreen_notification">Kilit ekranı bildirimlerine izin verilmiyor</string>

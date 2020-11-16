@@ -9,6 +9,7 @@
     <item>Yürüyüş</item>
     <item>Bisiklet sürme</item>
     <item>Koşu bandı</item>
+	<item>Egzersiz</item>
   </string-array>
   <string-array name="arr_prompt_label">
     <item>Makul</item>

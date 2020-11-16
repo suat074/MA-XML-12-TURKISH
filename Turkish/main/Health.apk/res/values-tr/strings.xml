@@ -792,7 +792,7 @@
   <string name="recorded_menstruation">Kaydedilen adet dönemi</string>
   <string name="reference">Referans malzemeleri</string>
   <string name="relationship_with_contact">İlişki</string>
-  <string name="rem_duration">HGH uyku süresi</string>
+  <string name="rem_duration">HGH</string>
   <string name="rem_duration_decrease_description">HGH uykunuz çok kısa</string>
   <string name="rem_duration_description">HGH, hızlı göz hareketini ifade eder. Uyku, hızlı göz hareketi (HGH) uykusu ve hızlı olmayan göz hareketi (HOGH) uykusu olarak ikiye ayrılır. Hızlı göz hareketi uykusu, toplam uyku süresinin yaklaşık 20%% ila 25\'ini oluşturur. İnsanlar bu aşamada uyandığında, 74%%-95\'i rüya gördüğünü ve rüyalarını hatırladığını söylüyor. Beyin çok aktiftir ve HGH uykusu sırasında vücut tamamen gevşer, bu da bu uyku aşamasını bilişsel işlevlerin korunması için gerekli kılar.</string>
   <string name="rem_Duration_increase_description">HGH uykunuz çok uzun</string>
@@ -869,7 +869,7 @@
   <string name="sleep_deep">Derin uyku</string>
   <string name="sleep_deep_light_analysis">Hafif uyku ve derin uyku</string>
   <string name="sleep_deep_light_close_tip">Derin uyku analizi kapalı</string>
-  <string name="sleep_deep_light_no_data">Burada henüz veri yok</string>
+  <string name="sleep_deep_light_no_data">Mobil cihazınızı yastığın yanına yerleştirmek uyku verilerini daha doğru hale getirecektir</string>
   <string name="sleep_deep_light_no_data_improvement">Uyku aşamaları algılanamadı. Algoritmalarımızı geliştiriyoruz. Bizi izlemeye devam edin!</string>
   <string name="sleep_detection_enable">Uyku döngüsünü analiz edin</string>
   <string name="sleep_detection_feedback">Geri bildirim</string>
@@ -900,8 +900,8 @@
   <string name="sleep_detector_content">Mi Sağlık, arka planda uykunuzu takip ediyor</string>
   <string name="sleep_detector_title">Uyku izleniyor</string>
   <string name="sleep_detector_unopened">Uykunuzu takip etmeye henüz başlamadınız.</string>
-  <string name="sleep_duration">Uyku Süresi</string>
-  <string name="sleep_duration_description">Uyku süresi, yatmaya gitmenle kalkman arasındaki zamandır. Uyanıp sonra tekrar uykuya geri döndüğünüz dönemler çıkarılır.</string>
+  <string name="sleep_duration">Uyku süresi</string>
+  <string name="sleep_duration_description">Uyku süresi, gün içinde uyanık olmadığınız zamandır. Genellikle yetişkinler 7-9 saat uyumalıdır, gençlerin ise yetişkinlere göre daha uzun uyuması gerekir. İyi bir sağlık ve esenlik için yeterince uyumak çok önemlidir.</string>
   <string name="sleep_duration_enough_description">Yeterince uyudun.</string>
   <string name="sleep_duration_everyday">Günlük uyku süresi</string>
   <string name="sleep_duration_fewer_description">7 saatten az uyudun. Daha fazla uyumak senin için daha iyi olurdu.</string>
@@ -1153,7 +1153,7 @@
   <string name="tb_home_exercise_card_not_set_goal">Egzersiz. %1$s. Tamamlandı: %2$s. Açık hedef.</string>
   <string name="tb_home_exercise_card_not_supported_step">Egzersiz. Bu cihaz adım saymıyor.</string>
   <string name="tb_home_exercise_card_speed_of_progress">Egzersiz. %1$s. Tamamlandı: %2$s. Hedef: %3$s. İlerleme: %4$s.</string>
-  <string name="tb_home_sleep_card">Uyku. Bugün %1$s. Yatmaya gittin: %2$s. Uyandın: %3$s. %4$s.</string>
+  <string name="tb_home_sleep_card">"Bugünün uykusu: %1$s, %2$s"</string>
   <string name="tb_home_sleep_card_no_data">Uyku. Bugün veri yok.</string>
   <string name="tb_home_sleep_card_not_open_trace">Uyku. Uyku döngüsü analizi kapalı.</string>
   <string name="tb_home_tip_open_data_sync">Diğer cihazlardan erişmek için Xiaomi Sağlık öğelerini Xiaomi Bulut ile eşitleyin. Başlamak için iki kez dokunun.</string>
@@ -1454,9 +1454,7 @@
   <string name="calories">kalori</string>
   <string name="hr_fp_area">Parmak izi tarayıcı</string>
   <string name="hr_fp_detect_desc">Her kalp atışında kan parmaklarınıza akar. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır.</string>
-  <string name="hr_fp_detect_principle_desc">"Kan tamamen opak değildir; bu nedenle ışık içinden geçebilir. Her kalp atışı ile kan parmaklarınıza akar ve kalp atışlarında daha fazla ışığı bloke eder. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır.
-
-Testlerimiz, bu yöntemin kalp atış hızınızı yalnızca ≤3 BPM bir hata ile ölçtüğünü göstermektedir."</string>
+  <string name="hr_fp_detect_principle_desc">Kan tamamen opak değildir; bu nedenle ışık içinden geçebilir. Her kalp atışı ile kan parmaklarınıza akar ve kalp atışlarında daha fazla ışığı bloke eder. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır.</string>
   <string name="hr_fp_detect_principle_desc_2">Not: Ölçüm sırasında parmağınızın parmak izi simgesini tamamen kapladığından emin olun. Parmak ucunuzdaki kan akışını engelleyebileceği ve sonuçları yanlış hale getirebileceği için kuvvet uygulamayın. Bu ölçüm yalnızca referans içindir. Tıbbi testlerin yerini alamaz.</string>
   <string name="hr_fp_detect_start_desc">"Parmak izi simgesine hafifçe basın.
 Parmağınızı hareket ettirmeyin."</string>
@@ -1555,4 +1553,35 @@ Baştan başlayın."</string>
   <string name="sport_tts_goal_finish_half">Yolun yarısındasın! Devam et!</string>
   <string name="sport_tts_pause_by_user">Antrenman duraklatıldı</string>
   <string name="sporting_location">Bul</string>
+  <string name="auth_dialog_description">"Öneriler açılsın mı?
+
+Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sağlayıcıyla paylaşacağız. Paylaşacağımız öğeler arasında kişisel bilgiler (yaş, cinsiyet), sağlık istatistikleri (boy, kilo, egzersiz rutini), davranış verileri (başlangıç ve bitiş zamanı ile egzersizlerinizin süresi) yer alır.
+
+Üçüncü taraf hizmet sağlayıcıların aldıkları verilere dayanarak sizi kişisel olarak tanımlamasını önlemek için bu öğeleri paylaşmadan önce işleyeceğiz.
+
+Önerilen sınıflara erişmek istemiyorsanız, yine de normal egzersizleri kullanmaya devam edebilirsiniz."</string>
+  <string name="auth_dialog_link">Kullanıcı olarak haklarınızı ve verilerinizi kullanma şeklimizi tam olarak anlamak için &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a>&lt;/font> ve &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Gizlilik Politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin.</string>
+  <string name="auth_dialog_title">Önerilen sınıflar</string>
+  <string name="hr_fp_detect_principle_desc_3">Testlerimiz, bu yöntemin kalp atış hızınızı yalnızca ≤3 BPM bir hata ile ölçtüğünü göstermektedir.</string>
+  <string name="loading">Sadece bir saniye…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="network_not_available2">Ağa bağlanılamadı</string>
+  <string name="personal_course_recommend_subtitle">Kişisel bilgilerinize, sağlık durumlarınıza ve tercihlerinize göre size tavsiye edilen sınıflara erişin</string>
+  <string name="personal_course_recommend_title">Önerilen sınıflar</string>
+  <string name="privacy_setting">Gizlilik</string>
+  <string name="sleep_day_multi_short_title">Uyuklama %1$d</string>
+  <string name="sleep_day_single_short_title">Uyuklama</string>
+  <string name="sleep_day_title">Gündüz uykusu</string>
+  <string name="sleep_night_title">Gece uykusu</string>
+  <string name="sleep_state_this_month">Bu ayın uykusu</string>
+  <string name="sleep_state_this_week">"Bu haftanın uykusu</string>
 </resources>
