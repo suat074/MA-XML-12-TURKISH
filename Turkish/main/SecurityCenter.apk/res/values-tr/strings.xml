@@ -3207,7 +3207,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="virus_update_tips_title">Uyarı</string>
   <string name="virus_wait_network_dialog_message">Telefonunuz WLAN\'a bağlı değil. Mobil veri bağlantısını kullan?</string>
   <string name="vtb_func_desc">Bu özellik hakkında</string>
-  <string name="vtb_func_display_style_desc1">Seçilen efektler HDR videolara uygulanamaz.</string>
+  <string name="vtb_func_display_style_desc1">Seçilen efektler, seçilen cihazlardaki HDR videolara uygulanmayacak.</string>
   <string name="vtb_func_display_style_desc2">Bu efektler ekran görüntülerine uygulanamaz.</string>
   <string name="vtb_func_frc_desc0">Hareket yumuşatma bulanıklığı azaltır ve hareketli nesnelere ayrıntı ekler. Bu özelliğin kullanılması güç tüketimini artırır.</string>
   <string name="vtb_func_frc_desc1">Hareket yumuşatma aşağıdaki koşullarda çalışmaz:</string>

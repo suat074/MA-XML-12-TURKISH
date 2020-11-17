@@ -233,6 +233,7 @@
   <string name="security_share_text">Gizlilik koruması</string>
   <string name="select">Seç</string>
   <string name="select_all">Tümünü seç</string>
+  <string name="send_files_by">Dosyaları paylaş</string>
   <string name="send_files_to">Öğeleri şuraya gönder</string>
   <string name="serviceEnabled">Hizmet etkinleştirildi.</string>
   <string name="set_password_action">Şifreyi ayarla</string>
@@ -294,7 +295,7 @@
   <string name="talk_back_water_mark_string2">Kapatmak için \"Ses+\" ve \"Ses-\" tuşlarına 3 saniye boyunca basılı tutun</string>
   <string name="throwing_print">Yazdır</string>
   <string name="throwing_screen">Yansıt</string>
-  <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
+  <string name="tips_prompt_enable_midrop">Mi Paylaşım</string>
   <string name="total">Rahatsız etme</string>
   <string name="total_description">Alarm saati haricindeki tüm öğeler için sesler ve titreşim kapalı</string>
   <string name="total_title">Rahatsız etme</string>

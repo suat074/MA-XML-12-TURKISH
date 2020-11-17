@@ -634,5 +634,65 @@
   <plurals name="notification_checker_installed_apk_text">
     <item quantity="other">%d yükleme paketini sil</item>
     <item quantity="one">%d yükleme paketini sil</item>
+  </plurals>
+  <plurals name="image_protect_del_tips">
+    <item quantity="other">%d resim kalıcı olarak silinsin mi?</item>
+    <item quantity="one">%d resim kalıcı olarak silinsin mi?</item>
+  </plurals>
+  <plurals name="image_protect_exit_del_tips">
+    <item quantity="other">Bu sayfadan ayrıldıktan sonra %d resim kalıcı olarak silinecek. Yine de silinsin mi?</item>
+    <item quantity="one">Bu sayfadan ayrıldıktan sonra %d resim kalıcı olarak silinecek. Yine de silinsin mi?</item>
+  </plurals>
+  <plurals name="image_protect_try_del_tips">
+    <item quantity="other">%d resmi sil</item>
+    <item quantity="one">%d resmi sil</item>
+  </plurals>
+  <plurals name="pp_times">
+    <item quantity="other">%s kez</item>
+    <item quantity="one">%s kez</item>
+  </plurals>
+  <plurals name="privacy_risk_app_count">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
+  </plurals>
+  <plurals name="privacy_risk_dangerous_permissions_tip">
+    <item quantity="other">%d yüksek riskli izin verildi</item>
+    <item quantity="one">%d yüksek riskli izin verildi</item>
+  </plurals>
+  <plurals name="privacy_risk_install_app_tip">
+    <item quantity="other">%d riskli uygulama bulundu</item>
+    <item quantity="one">%d riskli uygulama bulundu</item>
+  </plurals>
+  <plurals name="privacy_risk_photo_location_tip">
+    <item quantity="other">%d konum bilgisini ifşa etme riski tespit edildi</item>
+    <item quantity="one">%d konum bilgisini ifşa etme riski tespit edildi</item>
+  </plurals>
+  <plurals name="privacy_risk_result_item_error">
+    <item quantity="other">%d risk algılandı</item>
+    <item quantity="one">%d risk algılandı</item>
+  </plurals>
+  <plurals name="privacy_risk_result_msg">
+    <item quantity="other">%d olası risk bulundu</item>
+    <item quantity="one">%d olası risk bulundu</item>
+  </plurals>
+  <plurals name="privacy_risk_result_photo_sensitive_msg">
+    <item quantity="other">%d fotoğraf, özel veya hassas bilgiler içerebilir</item>
+    <item quantity="one">%d fotoğraf, özel veya hassas bilgiler içerebilir</item>
+  </plurals>
+  <plurals name="privacy_risk_result_protection_tip">
+    <item quantity="other">Gizliliğinizi koruyan %d özellik kapatıldı</item>
+    <item quantity="one">Gizliliğinizi koruyan %d özellik kapatıldı</item>
+  </plurals>
+  <plurals name="privacy_risk_sensitive_permissions_tip">
+    <item quantity="other">%d hassas izin verildi</item>
+    <item quantity="one">%d hassas izin verildi</item>
+  </plurals>
+  <plurals name="privacy_risk_uninstall_btn">
+    <item quantity="other">%d uygulamayı kaldır</item>
+    <item quantity="one">%d uygulamayı kaldır</item>
+  </plurals>
+  <plurals name="privacy_risk_work_encryption_msg">
+    <item quantity="other">%d öğe için ek koruma gerekiyor</item>
+    <item quantity="one">%d öğe için ek koruma gerekiyor</item>
   </plurals>  
 </resources>

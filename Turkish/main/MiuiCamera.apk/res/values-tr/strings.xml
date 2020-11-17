@@ -544,6 +544,7 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="document_mode_use_hint_text_title">Belgeleri tara</string>
   <string name="document_origin">Orijinal</string>
   <string name="document_strengthen">Geliştirilmiş</string>
+  <string name="download_in_progress">İndiriliyor…</string>
   <string name="dual_camera_lens_covered_toast">Lens kaplıdır.</string>
   <string name="dual_camera_lowlight_toast">Çok karanlık gibi görünüyor.</string>
   <string name="dual_camera_too_close_toast">Kamera nesneye çok yakın.</string>

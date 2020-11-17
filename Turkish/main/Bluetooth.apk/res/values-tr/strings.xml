@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="a2dp_sink_mbs_label">Bluetooth Ses</string>
   <string name="ack_record">Onay kaydı</string>
@@ -34,6 +34,8 @@
   <string name="bluetooth_sap_notif_message">İstemci bağlantısı kesilsin mı?</string>
   <string name="bluetooth_sap_notif_ticker">Bluetooth SIM erişimi</string>
   <string name="bluetooth_sap_notif_title">Bluetooth SIM erişimi</string>
+  <string name="bt_audio_share_notification_content">Seçenekleri görmek için dokunun</string>
+  <string name="bt_audio_share_notification_title">Ses paylaşımı</string>
   <string name="bt_enable_cancel">İptal</string>
   <string name="bt_enable_line1">Bluetooth servislerini kullanmak için önce Bluetooth\'u açmalısınız.</string>
   <string name="bt_enable_line2">Bluetooth şimdi açılsın mı?</string>
@@ -92,6 +94,7 @@
   <string name="no_transfers">Transfer geçmişi boş</string>
   <string name="not_exist_file">Dosya yok</string>
   <string name="not_exist_file_desc">Dosya mevcut değil. \n</string>
+  <string name="notice_audio_share_disconnected">Kesilen bağlantı nedeniyle artık ses paylaşılmıyor</string>
   <string name="notification_received">Bluetooth paylaşımı: %1$s alındı</string>
   <string name="notification_received_fail">Bluetooth paylaşımı: %1$s alınamadı</string>
   <string name="notification_receiving">Bluetooth paylaşımı: %1$s alınıyor</string>
@@ -133,9 +136,18 @@
   <string name="status_running">Dosya transferi devam ediyor</string>
   <string name="status_success">Dosya transferi başarıyla tamamlandı</string>
   <string name="status_unknown_error">Bilinmeyen hata!</string>
-  <string name="switch_audio_device_bt">Bluetooth</string>
+  <string name="switch_audio_device_bt_a2dp">Bluetooth (Medya sesi)</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Bağlı bir cihazda medya sesini çal</string>
+  <string name="switch_audio_device_bt_hfp">Bluetooth (Çağrılar)</string>
+  <string name="switch_audio_device_bt_hfp_summary">Bağlı bir cihazda çağrı sesini çal. Bu özelliğin manuel olarak kapatılması gerekir.</string>
+  <string name="switch_audio_device_default">Varsayılan</string>
+  <string name="switch_audio_device_default_summary">Şu anda kullanılan cihaz</string>
+  <string name="switch_audio_device_hfp_hint">Varsayılan çıkışa geri dönme</string>
+  <string name="switch_audio_device_hfp_toast_hint">Bu cihazda tekrar ses çalmaya başlamak için varsayılan ses çıkışını seçin.</string>
   <string name="switch_audio_device_phone">Bu cihaz</string>
+  <string name="switch_audio_device_phone_summary">Bu cihazda ses çal</string>
   <string name="switch_audio_device_switch_hint">Bağlı cihazlarla ilgili bildirimleri Ayarlar &gt; Bluetooth &gt; Ek ayarlar\'dan kapatabilirsiniz.</string>
+  <string name="switch_audio_dialog_title">Ses çıkışını seçin</string>
   <string name="switch_audio_notification_content">"Geçerli ses çıkış aygıtı: "</string>
   <string name="switch_audio_notification_title">Cihaz bağlantısı</string>
   <string name="transfer_clear_dlg_msg">Tüm öğeler listeden silinecek.</string>

@@ -189,5 +189,18 @@
   <string name="no">Hayır</string>
   <string name="perm_manager_suggest_operation">İzinleri yönet</string>
   <string name="perm_manager_suggest_title">İzinler ayarlansın mı?</string>
-  <string name="yes">Evet</string>  
+  <string name="yes">Evet</string>
+  <string name="HIPS_Perm_Access_Gallery">Galeriye erişim</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Bu uygulamanın Galerinizdeki öğelere erişmesine izin verir</string>
+  <string name="HIPS_Perm_tencentControl">Sosyal medya uygulamalarındaki mesajlara erişim</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Bu uygulamanın WeChat ve QQ mesajlarınıza erişmesine izin verir</string>
+  <string name="HIPS_SecurityPrompt_Reject_Never">Reddet ve bir daha sorma (%d)</string>
+  <string name="grant_dialog_storage_category_title">Bu uygulamanın, sosyal medya uygulamalarındaki Galeri ve mesajlara erişmesi için izinlere ihtiyacı var</string>
+  <string name="grant_dialog_storage_gallery_title">Galeri</string>
+  <string name="grant_dialog_storage_sociality_title">Sosyal medya uygulamalarındaki mesajlar</string>
+  <string name="storage_policy_notify_both_title">%1$s için sosyal medya uygulamalarındaki Galeriye ve mesajlara erişmesine izin verilmiyor</string>
+  <string name="storage_policy_notify_content">İzinleri ayarlamak için dokunun</string>
+  <string name="storage_policy_notify_gallery_title">%1$s için Galeri\'ye erişmesine izin verilmiyor</string>
+  <string name="storage_policy_notify_sociality_title">%1$s için sosyal medya uygulamalarındaki mesajlara erişmesine izin verilmiyor</string>
+  <string name="storage_policy_notify_title">%1$s için Galeri\'ye erişmesine izin verilmiyor</string>
 </resources>

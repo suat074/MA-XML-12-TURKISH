@@ -199,4 +199,12 @@
   <string name="third_note">Sessiz bir yer bulun.</string>
   <string name="ringtone_output_device_summary">Aksesuarlar (kablolu kulaklıklar veya Bluetooth cihazları) bağlandığında gelen çağrılar ve bildirimler için sese izin verin</string>
   <string name="ringtone_output_device_title">Hoparlör sesine izin ver</string>
+  <string name="choose_bluetooth_device">Cihaz seç</string>
+  <string name="end_wireless_transmission">Durdur</string>
+  <string name="switch_bluetooth_device">Cihazı değiştir</string>
+  <string name="wireless_transmission">Kablosuz hoparlör</string>
+  <string name="wireless_transmission_cancel">İptal</string>
+  <string name="wireless_transmission_confirm">Aç</string>
+  <string name="wireless_transmission_definition">Telefonunuzun mikrofon beslemesini harici bir Bluetooth cihazına aktarın</string>
+  <string name="wireless_transmission_prompt">Sesi iletmek için kablosuz hoparlörün Bluetooth\'u açması gerekir. Şimdi açılsın mı?</string>
 </resources>
