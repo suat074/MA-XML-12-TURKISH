@@ -3,8 +3,6 @@
   <string name="HIPS_Perm_CallLog_Desc">Çağrı geçmişini yazar ve siler</string>
   <string name="HIPS_Perm_Call_Desc">Doğrudan telefon numaralarını arar</string>
   <string name="HIPS_Perm_Contact_Desc">Kişileri değiştirir ve siler</string>
-  <string name="HIPS_Perm_External_Storage">Harici depolama alanındaki dosyalara erişir ve bunları değiştirir</string>
-  <string name="HIPS_Perm_External_Storage_Desc">cihazın harici depolama birimine dosya ekler ve siler</string>
   <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI\'ye erişir</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişir</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Çağrı geçmişini okur</string>
