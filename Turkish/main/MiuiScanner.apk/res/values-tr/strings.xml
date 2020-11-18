@@ -485,4 +485,6 @@
   <string name="ucrop_menu_crop">Kırp</string>
   <string name="ucrop_rotate">Döndür</string>
   <string name="ucrop_scale">Ölçek</string>
+  <string name="identify_the_results">Sonuçları tanımla</string>
+  <string name="picture_is_being_saved">Resim kaydediliyor</string>
 </resources>

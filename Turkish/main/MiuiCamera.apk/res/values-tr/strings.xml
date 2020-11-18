@@ -19,6 +19,12 @@
   <string name="accessibility_pano_moving_right">Cihazı sağa taşıyın</string>
   <string name="accessibility_preview_button">Önizleme</string>
   <string name="accessibility_preview_effect_button">Önizleme efekti</string>
+  <string name="accessibility_preview_expand">Yakınlaştır</string>
+  <string name="accessibility_preview_front">Ön kamera önizlemesi</string>
+  <string name="accessibility_preview_select_tip">Konum %1$d</string>
+  <string name="accessibility_preview_selected">Seçili</string>
+  <string name="accessibility_preview_shrink">Uzaklaştır</string>
+  <string name="accessibility_preview_zoom_tip">%1$.1fX yakınlaştırma önizlemesi</string>
   <string name="accessibility_pro_video_simple_mode">Basit mod</string>
   <string name="accessibility_reduce">Uzaklaştır</string>
   <string name="accessibility_select_all">Tümünü seç</string>
@@ -1404,6 +1410,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="timbre_normal">Orijinal</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
+  <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timer_burst">Zamanlı çekim</string>
   <string name="timer_burst_manu_param_interval">Pozlama olmadan aralık</string>
   <string name="timer_burst_param_interval">Aralık</string>
