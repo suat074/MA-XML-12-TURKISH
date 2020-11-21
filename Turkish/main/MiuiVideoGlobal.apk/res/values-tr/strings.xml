@@ -302,6 +302,8 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="feedback_success_toast">Başarıyla gönderildi. Geri bildiriminiz için teşekkürler!</string>
   <string name="feedback_tag_title">Kategori</string>
   <string name="feedback_text_empty_toast">Önce geri bildiriminizi girin.</string>
+  <string name="file_cant_rename">%1$s adlı dosya zaten var. Lütfen yeniden adlandırın</string>
+  <string name="file_space_not_enough_tip">Yeterli depolama alanı yok. En az %d MB yer açın ve uygulamayı tekrar başlatın.</string>
   <string name="find_psw">Şifremi unuttum</string>
   <string name="finish">Tamamlandı</string>
   <string name="for_diagnosis_usage_only">Kayıtlar yalnızca tanımlama işlemleri için kullanılır.</string>
@@ -328,6 +330,11 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="gallery_folder_alias_youku_video">Youku</string>
   <string name="gallery_tab_all">Tümü</string>
   <string name="gallery_tab_videos">Videolar</string>
+  <string name="galleryplus_already_cloud_member">Oynatmak için VIP üyeliğini kullan</string>
+  <string name="galleryplus_check_network">Ayarlar</string>
+  <string name="galleryplus_chose_play_speed">%1$.1fX hızında oynatılıyor</string>
+  <string name="galleryplus_chose_play_speed_2">%1$.2fX hızında oynatılıyor</string>
+  <string name="galleryplus_chose_play_speed_failure">Oynatma hızı ayarlanamadı</string>
   <string name="galleryplus_click_to_higher_definition">HD önizlemeyi açmak için iki kez dokunun</string>
   <string name="galleryplus_copyright_unsported_audio">Telif hakkı kısıtlamaları nedeniyle ses parçası videosu oynatılamıyor</string>
   <string name="galleryplus_copyright_unsported_video">Telif hakkı kısıtlamaları nedeniyle bu video oynatılamıyor</string>
@@ -371,7 +378,8 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="galleryplus_subtitle_edit_edit">Altyazıları düzenle</string>
   <string name="galleryplus_subtitle_edit_hide">Altyazıları gizle</string>
   <string name="galleryplus_subtitle_edit_literal_edit">Metni düzenle</string>
-  <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt sırasında konuşmayı tanıyamadın</string>
+  <string name="galleryplus_subtitle_edit_reminder">Girdiğiniz metin çok uzun</string>
+  <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt yaparken konuşma tanınamadı</string>
   <string name="galleryplus_v_agree">Kabul</string>
   <string name="galleryplus_v_cancel">İptal</string>
   <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikler iptal edilsin ve altyazıyı düzenlemeye son verilsin mi?</string>
@@ -1099,6 +1107,8 @@ Hesap güvenliğinizin artırılması."</string>
   <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="Today">Bugün</string>
   <string name="today">Bugün</string>
+  <string name="tool_bar_notification_setting_sub_title">Araç çubuğunu Bildirim alanında göster</string>
+  <string name="tool_bar_notification_setting_title">Bildirim alanı araç çubuğu</string>
   <string name="top_bar_game_desc">Burada birçok yeni oyunu keşfedin</string>
   <string name="top_bar_game_title">Oyun kanalı</string>
   <string name="tuesday">Salı</string>

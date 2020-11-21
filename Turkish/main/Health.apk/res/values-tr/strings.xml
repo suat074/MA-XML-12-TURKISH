@@ -485,6 +485,7 @@
   <string name="hr_detect_state_regular_desc">Her zamanki gibi çalışıyorsun.</string>
   <string name="hr_detect_state_reseting">Dinlenme</string>
   <string name="hr_detect_state_reseting_desc">Tamamen rahatladınız veya yeni uyandınız.</string>
+  <string name="hr_disable_in_split_screen">Ekran bölme kullanılırken kalp atış hızı ölçülemiyor</string>
   <string name="hr_disturb_detect">Ölçüm kesintiye uğradı</string>
   <string name="hr_disturb_detect_desc">Baştan başlayın. Ölçüm sırasında parmağınızı hareket ettirmemeye çalışın.</string>
   <string name="hr_in_detect">Kalp atış hızı ölçülüyor. Parmağınızı hareket ettirmeyin.</string>
