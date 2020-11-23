@@ -343,6 +343,8 @@
   <string name="trash_box">Son silinen öğeler</string>
   <string name="trash_box_close_tip">İstemi kapat</string>
   <string name="trash_box_delete_all">Çöp kutusundaki tüm öğeler kalıcı olarak silinsin mi?</string>
+  <string name="uninstall_warning_content">Ses kaydedici bir sistem uygulamasıdır. Kaldırdıktan sonra ses ve sesli çağrıları kaydedemez ve metne dönüştüremezsiniz.</string>
+  <string name="uninstall_warning_title">Ses kaydedici kaldırılsın mı?</string>
   <string name="usage_description">Ses aktarma ve öğeleri bulutla eşitleme</string>
   <string name="user_feedback">Geri bildirim</string>
   <string name="webview_check_network">Ağ ayarları</string>
