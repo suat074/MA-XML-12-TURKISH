@@ -65,8 +65,8 @@
     <item quantity="one">%1$d s %2$d d kaldı</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
-    <item quantity="other">SIM PIN kodunu girin, kalan %d denemeniz var.</item>
-    <item quantity="one">SIM PIN kodunu girin, cihazınızın kilidini açmak için operatörünüze başvurmadan önce %d kez deneme hakkınız kaldı.</item>
+    <item quantity="other">SIM PIN kodunu girin. %d deneme hakkınız kaldı.</item>
+    <item quantity="one">SIM PIN kodunu girin. Cihazınızın kilidini açmak için operatörünüze başvurmadan önce %d kez deneme hakkınız kaldı.</item>
   </plurals>
   <plurals name="kg_password_default_puk_message">
     <item quantity="other">SIM şimdi devre dışı. Devam etmek için PUK kodunu girin. SIM\'in kalıcı olarak kullanılamaz hale gelmesinden önce %d deneme hakkınız kaldı. Ayrıntılar için operatörünüz ile iletişime geçin.</item>
@@ -139,5 +139,52 @@
   <plurals name="auto_disconnect_timer_tip">
     <item quantity="other">%1$d saniye içinde kapatılıyor</item>
     <item quantity="one">%1$d saniye içinde kapatılıyor</item>
+  </plurals>
+  <plurals name="abc_slice_duration_days">
+    <item quantity="other">%d gün önce</item>
+    <item quantity="one">%d gün önce</item>
+  </plurals>
+  <plurals name="abc_slice_duration_min">
+    <item quantity="other">%d dk. önce</item>
+    <item quantity="one">%d dk. önce</item>
+  </plurals>
+  <plurals name="abc_slice_duration_years">
+    <item quantity="other">%d yıl önce</item>
+    <item quantity="one">%d yıl önce</item>
+  </plurals>
+  <plurals name="controls_number_of_favorites">
+    <item quantity="other">%s kontrol eklendi.</item>
+    <item quantity="one">%s kontrol eklendi.</item>
+  </plurals>
+  <plurals name="kg_password_default_pin_message_multi_sim">
+    <item quantity="other">SIM%1$d PIN girin, %2$d deneme hakkınız kaldı.</item>
+    <item quantity="one">SIM%1$d PIN girin, cihazınızın kilidini açmak için operatörünüze başvurmadan önce %2$d deneme hakkınız kaldı.</item>
+  </plurals>
+  <plurals name="kg_password_wrong_pin_code_multi_sim">
+    <item quantity="other">Yanlış SIM%1$d PIN kodu, %2$d deneme hakkınız kaldı.</item>
+    <item quantity="one">Yanlış SIM%1$d PIN kodu, cihazınızın kilidini açmak için operatörünüze başvurmadan önce %2$d deneme hakkınız kaldı.</item>
+  </plurals>
+  <plurals name="kg_too_many_failed_attempts_countdown">
+    <item quantity="other">%d saniye içinde tekrar deneyin.</item>
+    <item quantity="one">1 saniye içinde tekrar deneyin.</item>
+  </plurals>
+  <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+    <item quantity="other">%d cihaz</item>
+    <item quantity="one">%d cihaz</item>
+  </plurals>
+  <plurals name="snoozeHourOptions">
+    <item quantity="other">%d saat</item>
+    <item quantity="one">%d saat</item>
+    <item quantity="two" />
+    <item quantity="few" />
+  </plurals>
+  <plurals name="snoozeMinuteOptions">
+    <item quantity="other">%d dakika</item>
+    <item quantity="one">%d dakika</item>
+    <item quantity="few" />
+  </plurals>
+  <plurals name="user_limit_reached_message">
+    <item quantity="other">En fazla %d kullanıcı ekleyebilirsiniz.</item>
+    <item quantity="one">Yalnızca bir kullanıcı oluşturulabilir.</item>
   </plurals>
 </resources>
