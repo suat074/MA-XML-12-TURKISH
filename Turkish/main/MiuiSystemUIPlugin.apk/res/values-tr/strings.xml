@@ -292,7 +292,7 @@
   <string name="volume_dialog_accessibility_dismissed_message">Ses kontrolleri gizlendi</string>
   <string name="volume_dialog_accessibility_shown_message">%s ses kontrolleri gösteriliyor. Kapatmak için yukarı kaydırın.</string>
   <string name="wireless_charging_connected_message">Cihazınız kablosuz olarak şarj olurken ters kablosuz şarj kullanılamaz.</string>
-  <string name="wireless_charging_low_battery_level_message">Pil 30%\'dan az şarj olduğunda ters kablosuz şarj kullanılamaz.</string>
+  <string name="wireless_charging_low_battery_level_message">Pil %%%d değerinden az şarj olduğunda ters kablosuz şarj kullanılamaz.</string>
   <string name="wireless_charging_ok">Anladım</string>
   <string name="wireless_charging_saver_cancel">Kapat</string>
   <string name="wireless_charging_saver_message">Pil tasarrufu şimdi açık. Ters kablosuz şarj kullanılabilir durumda tutulsun mu?</string>

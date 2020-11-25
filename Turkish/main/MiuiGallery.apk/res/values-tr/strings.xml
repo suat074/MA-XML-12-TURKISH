@@ -1609,6 +1609,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="select_item_face">\'%s\' bu mu?</string>
   <string name="select_origin_tip">Orjinal Dosya (%s)</string>
   <string name="send_file_beautify_failed">Paylaşılamadı</string>
+  <string name="send_files_by">Dosyaları paylaş</string>
   <string name="send_files_to">Öğeleri gönder</string>
   <string name="send_heif_summary">Uyumluluğu sağlamak için HEIF görüntüleri JPEG\'e dönüştürün</string>
   <string name="send_heif_title">Göndermeden önce HEIF\'i JPEG\'e dönüştür</string>
@@ -1848,7 +1849,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="tip_file_path">Kayıt Yeri:</string>
   <string name="tip_not_download">Cihazda değil. Oynatmaya başlayınca Xiaomi Bulut\'tan indirilecek.</string>
   <string name="tip_screenshot_package_info">Uygulama Adı:</string>
-  <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
+  <string name="tips_prompt_enable_midrop">Mi paylaşım</string>
   <string name="title_set_name">Adı Girin</string>
   <string name="title_tip">İpucu</string>
   <string name="title_warn">Uyarı</string>

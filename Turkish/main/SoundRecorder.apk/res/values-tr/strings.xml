@@ -347,6 +347,9 @@
   <string name="uninstall_warning_title">Ses kaydedici kaldırılsın mı?</string>
   <string name="usage_description">Ses aktarma ve öğeleri bulutla eşitleme</string>
   <string name="user_feedback">Geri bildirim</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Güncelleme</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="webview_check_network">Ağ ayarları</string>
   <string name="webview_data_error">Bir hata oluştu</string>
   <string name="webview_locating_fail">Konumunuz bulunamadı</string>

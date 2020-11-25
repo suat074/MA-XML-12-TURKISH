@@ -393,6 +393,8 @@ Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağı
   <string name="usage_state_focus_weak_summary">Telefonunu uzaklaştır</string>
   <string name="usage_state_friday">Cum</string>
   <string name="usage_state_go_more">Daha fazla uygulama</string>
+  <string name="usage_state_holiday_day_hour_minute">İzin günleri: %1$s %2$s</string>
+  <string name="usage_state_holiday_time">İzin günleri: %s</string>
   <string name="usage_state_hour_minute">%1$ds %2$dd</string>
   <string name="usage_state_less_one_minute">&lt; 1 dakika</string>
   <string name="usage_state_monday">Pzt</string>
