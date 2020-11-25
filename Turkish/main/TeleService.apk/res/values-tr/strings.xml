@@ -1867,6 +1867,8 @@
   <string name="volte_switch_title">VoLTE kullan</string>
   <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Çin Telecom VoLTE servisleri sadece VoLTE şebeke kapsama alanı olan alanlarda sağlanmaktadır. VoLTE hizmetleri operatör tarafından sağlanmaktadır.</string>
+  <string name="vonr_switch_summary">Sesli çağrıların kalitesini artırmak için VoNR kullanın</string>
+  <string name="vonr_switch_title">VoNR kullan</string>
   <string name="vowifi_emergency_notification_channel">WLAN Acil çağrı uyarısı</string>
   <string name="vowifi_emergency_notification_content">Sadece hücresel kapsama alanı olan bölgelerde acil durum çağrıları</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wifi Araması</string>

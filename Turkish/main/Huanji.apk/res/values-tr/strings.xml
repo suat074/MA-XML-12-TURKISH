@@ -1032,7 +1032,8 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="user_name_null">Kullanıcı adı boş olamaz</string>
   <string name="video">Video</string>
   <string name="view_password_description">Şifreyi göster</string>
-  <string name="waiting_restore_desktop">Ana ekran düzenini geri yüklemek için üçüncü taraf uygulamalar aktarılıyor…</string>
+  <string name="waiting_restore_aod">Her zaman açık ekran geri yükleniyor…</string>
+  <string name="waiting_restore_desktop">Ana ekran düzeni geri yükleniyor…</string>
   <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor.</string>
   <string name="web_sso_login_message">Oturum açılıyor…</string>
   <string name="website">Websitesi</string>
