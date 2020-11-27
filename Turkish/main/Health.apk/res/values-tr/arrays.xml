@@ -8,7 +8,7 @@
     <item>Koşu</item>
     <item>Yürüyüş</item>
     <item>Bisiklet sürme</item>
-    <item>Koşu bandı</item>
+    <item>İp atlama</item>
 	<item>Egzersiz</item>
   </string-array>
   <string-array name="arr_prompt_label">
@@ -96,9 +96,18 @@
     <item>Paz</item>
     <item>Pts</item>
     <item>Sal</item>
-    <item>Çrş</item>
-    <item>Prş</item>
+    <item>Çar</item>
+    <item>Per</item>
     <item>Cum</item>
     <item>Cts</item>
+  </string-array>
+  <string-array name="week_short">
+    <item>Paz</item>
+    <item>Pzt</item>
+    <item>Sal</item>
+    <item>Çar</item>
+    <item>Per</item>
+    <item>Cum</item>
+    <item>Cmt</item>
   </string-array>
 </resources>

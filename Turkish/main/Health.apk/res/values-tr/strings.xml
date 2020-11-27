@@ -1457,9 +1457,8 @@
   <string name="hr_fp_detect_desc">Her kalp atışında kan parmaklarınıza akar. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır.</string>
   <string name="hr_fp_detect_principle_desc">Kan tamamen opak değildir; bu nedenle ışık içinden geçebilir. Her kalp atışı ile kan parmaklarınıza akar ve kalp atışlarında daha fazla ışığı bloke eder. Ekranın altındaki parmak izi tarayıcı alanındaki parlak ışık, kan akışınızdaki değişiklikleri izlememize, modelleri analiz etmemize ve bunları kalp atış hızı değerlerine dönüştürmemize olanak tanır.</string>
   <string name="hr_fp_detect_principle_desc_2">Not: Ölçüm sırasında parmağınızın parmak izi simgesini tamamen kapladığından emin olun. Parmak ucunuzdaki kan akışını engelleyebileceği ve sonuçları yanlış hale getirebileceği için kuvvet uygulamayın. Bu ölçüm yalnızca referans içindir. Tıbbi testlerin yerini alamaz.</string>
-  <string name="hr_fp_detect_start_desc">"Parmak izi simgesine hafifçe basın.
-Parmağınızı hareket ettirmeyin."</string>
-  <string name="hr_fp_detecting">Ölçülüyor…</string>
+  <string name="hr_fp_detect_start_desc">Simgeyi parmağınızla kapatın</string>
+  <string name="hr_fp_detecting">Parmağını hareket ettirme</string>
   <string name="hr_fp_not_put_well">"Parmağınız hareket etti.
 Baştan başlayın."</string>
   <string name="hr_fp_report_common_desc">Normal kalp hızı dakikada 60 ile 100 arasında değişir. 60 BPM\'den düşük bir kalp hızı bradikardi belirtisidir, 100 BPM\'den yüksek bir kalp hızı ise yetişkinlerde taşikardi olarak kabul edilir.</string>
@@ -1558,7 +1557,7 @@ Baştan başlayın."</string>
 
 Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sağlayıcıyla paylaşacağız. Paylaşacağımız öğeler arasında kişisel bilgiler (yaş, cinsiyet), sağlık istatistikleri (boy, kilo, egzersiz rutini), davranış verileri (başlangıç ve bitiş zamanı ile egzersizlerinizin süresi) yer alır.
 
-Üçüncü taraf hizmet sağlayıcıların aldıkları verilere dayanarak sizi kişisel olarak tanımlamasını önlemek için bu öğeleri paylaşmadan önce işleyeceğiz.
+Üçüncü taraf hizmet sağlayıcılarının aldıkları verilere dayanarak sizi kişisel olarak tanımlamalarını önlemek için bu öğeleri paylaşmadan önce anonimleştireceğiz.
 
 Önerilen sınıflara erişmek istemiyorsanız, yine de normal egzersizleri kullanmaya devam edebilirsiniz."</string>
   <string name="auth_dialog_link">Kullanıcı olarak haklarınızı ve verilerinizi kullanma şeklimizi tam olarak anlamak için &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a>&lt;/font> ve &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Gizlilik Politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin.</string>
@@ -1585,4 +1584,97 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="sleep_night_title">Gece uykusu</string>
   <string name="sleep_state_this_month">Bu ayın uykusu</string>
   <string name="sleep_state_this_week">"Bu haftanın uykusu</string>
+  <string name="altitude_pressure_hint">*Hava basıncı ile hesaplanır, bazı hatalar var</string>
+  <string name="default_notification_channel_name">Şimdi oynuyor</string>
+  <string name="environment_detection_again">Tekrar dene</string>
+  <string name="environment_detection_fail">Burası çok gürültülü görünüyor</string>
+  <string name="environment_detection_fail_hint">Sessiz bir yere gidin ve tekrar deneyin.</string>
+  <string name="environment_detection_hint_one">İstatistikleri daha doğru hale getirmek için gürültülü yerlerden kaçının.</string>
+  <string name="environment_detection_hint_two">Egzersiziniz, ürettiğiniz seslere bağlı olarak duraklatılacak ve otomatik olarak tekrar başlatılacaktır.</string>
+  <string name="environment_detection_ing">Egzersiz ortamı kontrol ediliyor…</string>
+  <string name="health_uninstall_dialog_content">Xiaomi Sağlık bir sistem uygulamasıdır. Bu uygulamayı, adımları saymak, uyku, regl ve ağırlığı takip etmek ve istatistiklerinizi bulut ile eşitlemek için kullanabilirsiniz. Kaldırdıktan sonra bu uygulamayı kullanamayacaksınız.</string>
+  <string name="health_uninstall_dialog_title">Xiaomi Sağlık kaldırılsın mı?</string>
+  <string name="hr_report_active_high_desc">Mevcut kalp atış hızınız, yüksek yoğunluklu egzersiz kalp atış hızıdır. Kardiyopulmoner fonksiyon uyarılacaktır.</string>
+  <string name="hr_report_active_higher_desc">Mevcut kalp atış hızınız, yüksek yoğunluklu egzersiz kalp atış hızıdır. Kalp ve akciğer fonksiyonu kuvvetli uyarım alırken, aynı zamanda fiziksel duruma da dikkat edin, rahatsızlık varsa egzersizi bir an önce bırakmalısınız.</string>
+  <string name="hr_report_active_lower_mid_desc">Mevcut kalp atış hızınız, daha düşük yoğunluklu egzersiz kalp atış hızıdır. Isınma olabilir. Sağlığı kötü olan kişilerin düşük ila orta yoğunlukta egzersiz yapması önerilir.</string>
+  <string name="hr_report_active_lowest_desc">Mevcut kalp atış hızınız, düşük yoğunluklu egzersiz kalp atış hızıdır. Vücuda belirli bir uyarı verebilir, ancak egzersizin yoğunluğu düşüktür.</string>
+  <string name="hr_report_active_mid_desc">Mevcut kalp atış hızınız orta düzeyde bir egzersiz hızıdır. Çoğu sağlıklı yetişkinin haftada 150 dakika orta ila yüksek yoğunluklu egzersiz yapması önerilir.</string>
+  <string name="hr_report_regular_fast_desc">Mevcut taşikardiniz. Şiddetli spor, alkol, ağır fiziksel emek, gerginlik, anksiyete veya bazı ilaçların alınması fizyolojik taşikardiye neden olurken, kardiyovasküler hastalıklar, anemi, hipertiroidizm, hipoksi, kalp yetmezliği ve diğer hastalıklar patolojik taşikardiye neden olabilir. Kendinizi iyi hissetmiyorsanız lütfen doktorunuza danışınız.</string>
+  <string name="hr_report_regular_normal_desc">Kalp atış hızınız normal aralıkta. Kalbiniz stresle baş etmede iyidir ve vücudunuz dış strese direnebilir. Kalp atış hızı değişikliği, kalp hastalığı ile yakından ilgilidir. Lütfen herhangi bir zamanda, özellikle egzersiz sırasında kalp atış hızı değişikliğine dikkat edin.</string>
+  <string name="hr_report_regular_slow_desc">Mevcut kalp atış hızınız çok yavaş. Bradikardi oranı normal kalp hızından daha düşüktü (yaklaşık %60). Bradikardi baş dönmesi, amoroz, bayılma ve diğer semptomlara neden olmazsa, müdahale edilmese bile düzenli takip yapılabilir. Ancak göğüste sıkışma, baş dönmesi ve diğer semptomlarınız varsa lütfen zamanında doktorunuza danışınız.</string>
+  <string name="hr_report_resting_fast_desc">Dinlenirken kalp atış hızınız normal aralıktan yüksektir ve bu da yorgunluğa veya taşikardiye neden olabilir. Düşük tuzlu ve daha az yağlı beslenme, kilo kaybı, sigara ve alkolü bırakma, psikolojik ve duygusal uyum, özellikle de yavaş yavaş artan fiziksel egzersiz gibi yaşam tarzınızı iyileştirmeniz önerilir, bu da dinlenme kalp atış hızını yavaşlatmaya yardımcı olabilir.</string>
+  <string name="hr_report_resting_normal_desc">Dinlenme kalp atış hızınız normal aralıkta. Dinlenme kalp atış hızı, sakin bir durumda normal insanların dakikadaki kalp atışlarının sayısını ifade eder. Dinlenme nabzını ölçmek için en iyi zaman sabah uyanma, hala yatakta yatma ve herhangi bir fiziksel aktivite yapmadan öncedir. Dinlenme kalp atış hızını ölçmeden önce, vücudu tamamen rahatlatmak için derin bir nefes alın.</string>
+  <string name="hr_report_resting_slow_desc">Dinlenirken kalp atış hızınız normal aralığın altında ve bu bradikardi sebebi olabilir. Kalp atış hızı uzun süre çok yavaşsa, iskemi ve organlarda, özellikle kardiyo serebral damarlarda hipoksiye neden olması kolaylaşır. Dinlenme kalp hızı diyet, egzersiz, stres, uyku ve fiziksel durumla yakından ilişkilidir. Sağlıklı ve iyi bir yaşam tarzı sürdürmeniz ve zamanla fiziksel reaksiyonlara dikkat etmeniz önerilir. Baş dönmesi, yorgunluk, bayılma ve göğüste sıkışma gibi belirtileriniz varsa, lütfen zamanında tıbbi yardım alın.</string>
+  <string name="lowest_freq">En düşük frekans</string>
+  <string name="mcv2_back_button_desc">Geri</string>
+  <string name="mcv2_cc_is_off">Altyazı kapalı. Göstermek için tıklayın.</string>
+  <string name="mcv2_cc_is_on">Altyazı açık. Gizlemek için tıklayın.</string>
+  <string name="mcv2_error_dialog_button">Tamam</string>
+  <string name="mcv2_ffwd_button_desc">30 saniye ileri git</string>
+  <string name="mcv2_full_screen_button_desc">Tam ekran</string>
+  <string name="mcv2_launch_button_desc">Bağlantıyı başlat</string>
+  <string name="mcv2_music_artist_unknown_text">Sanatçı bilinmiyor</string>
+  <string name="mcv2_music_title_unknown_text">Şarkı adı bilinmiyor</string>
+  <string name="mcv2_next_button_desc">Sonraki medya</string>
+  <string name="mcv2_non_music_title_unknown_text">Video başlığı bilinmiyor</string>
+  <string name="mcv2_overflow_left_button_desc">Önceki düğme listesine dön</string>
+  <string name="mcv2_overflow_right_button_desc">Daha fazla düğme gör</string>
+  <string name="mcv2_pause_button_desc">Duraklat</string>
+  <string name="mcv2_play_button_desc">Oynat</string>
+  <string name="mcv2_playback_error_text">İstediğiniz öğe oynatılamadı</string>
+  <string name="mcv2_previous_button_desc">Önceki medya</string>
+  <string name="mcv2_replay_button_desc">Tekrar oynat</string>
+  <string name="mcv2_rewind_button_desc">10 saniye geri sar</string>
+  <string name="mcv2_seek_bar_desc">Oynatma ilerlemesi</string>
+  <string name="mcv2_settings_button_desc">Ayarlar</string>
+  <string name="mcv2_video_quality_button_desc">Video Kalite Seçimi</string>
+  <string name="MediaControlView_ad_remaining_time">Reklam · %1$s kaldı</string>
+  <string name="MediaControlView_ad_skip_wait_time">Reklamı %1$ds içinde atlayabilirsiniz</string>
+  <string name="MediaControlView_ad_text">Reklam vereni ziyaret edin</string>
+  <string name="MediaControlView_audio_track_none_text">Hiçbiri</string>
+  <string name="MediaControlView_audio_track_number_text">Parça %1$d</string>
+  <string name="MediaControlView_audio_track_text">Ses parçası</string>
+  <string name="MediaControlView_playback_speed_normal">Normal</string>
+  <string name="MediaControlView_playback_speed_text">Oynatma hızı</string>
+  <string name="MediaControlView_subtitle_off_text">Kapalı</string>
+  <string name="MediaControlView_subtitle_track_number_and_lang_text">Parça %1$d - %2$s</string>
+  <string name="MediaControlView_subtitle_track_number_text">Parça %1$d</string>
+  <string name="MediaControlView_video_quality_auto_text">Otomatik</string>
+  <string name="miuix_search_action_mode_cancel">İptal</string>
+  <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
+  <string name="miuix_search_history_default_title">Arama geçmişi</string>
+  <string name="miuix_search_recommendation_default_title">Bunlar ilginizi çekebilir</string>
+  <string name="miuix_search_recommendation_item_del_des">Sil</string>
+  <string name="pause_button_content_description">Duraklat</string>
+  <string name="play_button_content_description">Oynat</string>
+  <string name="rope_skipping_environment_warning">Lütfen gürültülü ortamlardan kaçının</string>
+  <string name="rope_skipping_ways">İp atlamayı sesle tanımlayın</string>
+  <string name="skip_to_next_item_button_content_description">Sonraki öğeye atla</string>
+  <string name="skip_to_previous_item_button_content_description">Önceki öğeye atla</string>
+  <string name="skipping_count">Atlamalar</string>
+  <string name="skipping_detection_no">Egzersiziniz algılanamadı.</string>
+  <string name="skipping_detection_no_hint">Gürültülü yerlerden kaçının ve bu cihazı yakınınızda tutun.</string>
+  <string name="skipping_kcal">Kalori</string>
+  <string name="skipping_pause">Zaman aşımı atlanıyor</string>
+  <string name="skipping_pause_tips">Duraklatıldı | Otomatik olarak izlemeye devam etmek için egzersize devam edin</string>
+  <string name="skipping_ready">Egzersize şimdi başlayabilirsiniz</string>
+  <string name="skipping_ready_hint_one">Bu cihazı sizden en fazla 1 metre uzakta tutun.</string>
+  <string name="skipping_ready_hint_two">Egzersiziniz, ürettiğiniz seslere bağlı olarak duraklatılacak ve otomatik olarak tekrar başlatılacaktır.</string>
+  <string name="skipping_ready_toast">Talimatları daha iyi duyabilmeniz için sesi yükselttik.</string>
+  <string name="skipping_reset_time">Sıfırla</string>
+  <string name="skipping_start_counting">Başlat</string>
+  <string name="skipping_time">Süre</string>
+  <string name="skipping_upload_dialog_agree_and_upload">Kabul et ve yükle</string>
+  <string name="skipping_upload_dialog_msg">Daha doğru bir atlama sayma deneyimi sağlamak için Xiaomi Sağlık, ip atlama tanıma efektini optimize etmek adına atlama ipinizin kayıt dosyasını Wi-Fi koşulları altında yükleyecektir. Gizliliğinizi korumak için, kayıt dosyalarının yüklenmesi ve depolanması kesinlikle şifrelenecektir.</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Reddet ve tekrar sorma</string>
+  <string name="skipping_upload_dialog_title">Tanımayı optimize etmek için ip atlama kaydını yükleyin</string>
+  <string name="skipping_upload_tips">Tanıma efektini iyileştirmeye yardımcı olması için bu ip atlama kaydını yükleyin</string>
+  <string name="sport_audio_permission_dialog_content">Bu uygulamanın, ürettiğiniz seslere göre egzersizleri takip edebilmesi için ses kaydı yapma iznine ihtiyacı var.</string>
+  <string name="sport_audio_permission_dialog_desc">Ürettiğiniz seslere göre egzersizleri takip etmek için</string>
+  <string name="sport_audio_permission_dialog_title">Gerekli izinler</string>
+  <string name="sport_outdoor_running">Koşu</string>
+  <string name="swipe_right_to_end">Sağdan sona kadar kaydır</string>
+  <string name="swipe_up_to_end">Yukarıya kadar kaydır</string>
+  <string name="try_again">Tekrar dene</string>
+  <string name="voice_remind">Talimatları daha iyi duyabilmeniz için sesi yükselttik.</string>
 </resources>
