@@ -924,6 +924,16 @@
   <string name="item_title_data_conversion">Veri</string>
   <string name="label_powered_by">Mi Hesap Makinesi tarafından desteklenir</string>
   <string name="privacy_disagree">Gizlilik politikası hüküm ve koşullarımıza katılmadığınızda, Mi Hesap Makinesi veri toplamayı durduracak ve ilgili tüm veriler sunuculardan silinecektir. Uygulamadaki bazı özellikleri kullanamayabilirsiniz. Yine de reddedilsin mi?</string>
-  <string name="privacy_switch">Gizlilik politikasını kabul edin</string>
+  <string name="privacy_switch">Onayın geri çekilmesi</string>
   <string name="privacy_switch_disagree">Reddet</string>
+  <string name="date_format">dd MMM, yyyy</string>
+  <string name="dialog_privacy_disagree_msg">Anahtarı kapatırsanız, Hesap Makinesi Gizlilik Politikasına olan onayınızı geri çekmiş olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli bir süre içinde silinecektir. Hesap Makinesinin size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplaması gerekir. Gizlilik Politikasına verdiğiniz onayı geri çekmeniz, toplanan kişisel bilgilere dayalı hizmetleri reddetmeniz olarak kabul edilecektir.</string>
+  <string name="dialog_privacy_revoke_btn_ok">Geri çek</string>
+  <string name="dialog_privacy_revoke_title">Onayın geri çekilmesi</string>
+  <string name="new_privacy_string"><Data>"Hesap Makinesi'ne hoş geldiniz!&lt;br/>Bu uygulama aşağıdaki özellikleri içerir:&lt;br/>• Temel hesap makinesi&lt;br/>• Bilimsel hesap makinesi&lt;br/>• Evrensel dönüştürücü (ör. Para birimi, ölçü birimleri vb.)&lt;br/>• Krediler, yatırım, EMI ve daha fazlası için hesaplama şablonları&lt;br/>Hesap Makinesinin size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl işlediğimizi &lt;a href= \"%1$s\">Gizlilik Politikası&lt;/a> üzerinden öğrenebilirsiniz. Hesap Makinesini kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Hesap Makinesi Gizlilik Politikası\'na verdiğiniz izni dilediğiniz zaman Ayarlar\'dan geri çekebilirsiniz. Gizlilik Politikamızı kabul etmiyorsanız, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak, temel işlevselliği yine de sizin için kullanılabilir olacaktır."</Data></string>
+  <string name="privacy_dialog_title">Gizlilik</string>
+  <string name="privacy_revoke_error">Geri çekilemedi. Tekrar deneyin.</string>
+  <string name="privacy_revoke_progress">Geri çekiliyor…</string>
+  <string name="user_experience_program_title">Kullanıcı Deneyimi Programı</string>
+  <string name="withdraw_network_error">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
 </resources>

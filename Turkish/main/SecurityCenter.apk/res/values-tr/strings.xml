@@ -1317,7 +1317,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_advance_settings_edge_gear4">Büyük</string>
   <string name="gb_advance_settings_edge_suppression">Dokunmaya dayanıklı alan</string>
   <string name="gb_advance_settings_edge_suppression_summary">Dokunmatik kontrolleri tetiklemekten kaçınmak için kenarlara yakın yerlerde dokunmatik hassasiyetini azaltın. Hoparlörleri açık tutmak için cihazınızı vurgulanan alanlara göre tutun.</string>
-  <string name="gb_advance_settings_finger_up">Tekrarlanan dokunuş duyarlılığı</string>
+  <string name="gb_advance_settings_finger_up">Sürekli dokunmalara duyarlılık</string>
   <string name="gb_advance_settings_follow_up">Dokunma tepkisi</string>
   <string name="gb_advance_settings_reset">Varsayılan ayarları geri yükle</string>
   <string name="gb_advance_settings_reset_dialog_content">Varsayılan ayarları şimdi geri yükle?</string>
@@ -3970,7 +3970,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="power_optimize_enable_now_button">Aç</string>
   <string name="power_optimize_gps_summary">Tüm uygulamalar için konum erişimini kısıtla</string>
   <string name="power_optimize_power_save_extend_time">%s ekle</string>
-  <string name="power_optimize_power_save_summary">Karanlık moda geçin ve arka plan etkinliğini sınırlandıran ve pilden tasarruf sağlayan birden fazla sistem optimizasyonunu uygulayın</string>
+  <string name="power_optimize_power_save_summary">Arka plan etkinliğini sınırlayan birden çok sistem optimizasyonunu uygulamak için Pil tasarrufunu açın</string>
   <string name="power_optimize_prohibit_app_autostart">Uygulamaların otomatik olarak başlatılmasına izin verme</string>
   <string name="power_optimize_reduce_fps">Ekran yenileme hızını %d HZ değerine düşürün</string>
   <string name="power_optimize_reduce_fps_summary">Çoğu senaryo için daha düşük yenileme hızı işe yarar</string>

@@ -7576,10 +7576,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="gxzw_anim_dialog_message">Parmak izi animasyonunu görebilmek için parmak izinizi ekleyin. Şimdi eklensin mi?</string>
   <string name="gxzw_anim_dialog_title">Parmak izi ekle</string>
   <string name="resolution_fhd">FHD+ (Full HD)</string>
-  <string name="resolution_fhd_summary">2400×1080</string>
+  <string name="resolution_fhd_summary">2400×1080 (pil tasarrufu)</string>
   <string name="resolution_qhd">QHD+ (Quad HD)</string>
-  <string name="resolution_qhd_summary">3200×1440 (daha fazla güç tüketir)</string>
-  <string name="save_battery_mode">QHD+ ile güç tasarrufu</string>
+  <string name="resolution_qhd_summary">3200×1440 (netlik katar)</string>
+  <string name="save_battery_mode">WQHD+ ile pil tasarrufu</string>
   <string name="save_battery_mode_summary">Güç tasarrufu için çözünürlüğü otomatik olarak değiştirin</string>
   <string name="headset_connectiong">Bağlanıyor...</string>
   <string name="headset_remove_message">Bu cihazı hesabınızdan kaldırmak istiyor musunuz?</string>
@@ -7617,4 +7617,15 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_rename_device">Yeniden adlandır</string>
   <string name="miheadset_RightEar">Sağ</string>
   <string name="miheadset_transparent">Şeffaf</string>
+  <string name="adjust_font_size_answer_cn">Aşağıdaki kaydırıcıları kullanarak metin boyutunu ve yazı tipi kalınlığını ayarlamayı deneyin!</string>
+  <string name="adjust_font_size_answer_global">Aşağıdaki kaydırıcıyı kullanarak metin boyutunu ayarlamayı deneyin!</string>
+  <string name="font_settings_jump">Erişilebilirlik > Ekran boyutu</string>
+  <string name="font_settings_recommend_title">Metin boyutu yeterince büyük değil mi?</string>
+  <string name="font_settings_summary_cn">Yazı tipleri ve metin boyutu</string>
+  <string name="how_adjust_font_size">Metin boyutunu nasıl ayarlarım?</string>
+  <string name="miheadset_local_ota">yerel ota</string>
+  <string name="personalize_title">Duvar kağıdı &amp; kişiselleştirme</string>
+  <string name="title_font_settings">Yazı tipi ayarları</string>
+  <string name="toast_apply_font_fail">Yazı tipi ayarlanamıyor</string>
+  <string name="resolution_sub_title">MIUI, çözünürlüğü değiştirirken arka planda çalışan uygulamaları kapatabilir</string>
 </resources>

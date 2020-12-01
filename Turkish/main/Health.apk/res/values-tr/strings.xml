@@ -1304,6 +1304,7 @@
   <string name="total_consumption_label">Toplam kalori</string>
   <string name="total_distance_label">Toplam mesafe</string>
   <string name="total_time_label">Toplam süre</string>
+  <string name="treadmill">Koşu bandı</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">Sal</string>
@@ -1655,7 +1656,7 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="skipping_detection_no">Egzersiziniz algılanamadı.</string>
   <string name="skipping_detection_no_hint">Gürültülü yerlerden kaçının ve bu cihazı yakınınızda tutun.</string>
   <string name="skipping_kcal">Kalori</string>
-  <string name="skipping_pause">Zaman aşımı atlanıyor</string>
+  <string name="skipping_pause">Atlama duraklatıldı</string>
   <string name="skipping_pause_tips">Duraklatıldı | Otomatik olarak izlemeye devam etmek için egzersize devam edin</string>
   <string name="skipping_ready">Egzersize şimdi başlayabilirsiniz</string>
   <string name="skipping_ready_hint_one">Bu cihazı sizden en fazla 1 metre uzakta tutun.</string>
@@ -1665,7 +1666,7 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="skipping_start_counting">Başlat</string>
   <string name="skipping_time">Süre</string>
   <string name="skipping_upload_dialog_agree_and_upload">Kabul et ve yükle</string>
-  <string name="skipping_upload_dialog_msg">Daha doğru bir atlama sayma deneyimi sağlamak için Xiaomi Sağlık, ip atlama tanıma efektini optimize etmek adına atlama ipinizin kayıt dosyasını Wi-Fi koşulları altında yükleyecektir. Gizliliğinizi korumak için, kayıt dosyalarının yüklenmesi ve depolanması kesinlikle şifrelenecektir.</string>
+  <string name="skipping_upload_dialog_msg">In order to provide a more accurate skipping counting experience, Xiaomi Health will upload the recording file of your skipping rope under %s conditions to optimize the rope skipping recognition effect. To protect your privacy, the upload and storage of recording files will be strictly encrypted.</string>
   <string name="skipping_upload_dialog_reject_not_remind">Reddet ve tekrar sorma</string>
   <string name="skipping_upload_dialog_title">Tanımayı optimize etmek için ip atlama kaydını yükleyin</string>
   <string name="skipping_upload_tips">Tanıma efektini iyileştirmeye yardımcı olması için bu ip atlama kaydını yükleyin</string>
