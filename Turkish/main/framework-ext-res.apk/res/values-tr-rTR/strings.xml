@@ -142,6 +142,7 @@
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="magic_window_toast">Uygulama Çarpanı etkin.</string>
   <string name="maml_component_customization_title">Ayarlar</string>
   <string name="memory_clear_nothing_result">Önbellekte temizlemek için bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi</string>

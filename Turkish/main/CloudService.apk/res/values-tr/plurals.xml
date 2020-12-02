@@ -60,6 +60,10 @@
     <item quantity="other">%d WLAN ağı</item>
     <item quantity="one">%d WLAN ağı</item>
   </plurals>
+  <plurals name="error_screen_pwd_next_retry_time">
+    <item quantity="other">%d saniye içinde tekrar deneyin</item>
+    <item quantity="one">%d saniye içinde tekrar deneyin</item>
+  </plurals>
   <plurals name="items_unsynced">
     <item quantity="other">Eşitlenmeyi bekleyen öğeler: %d</item>
     <item quantity="one">Eşitlenmeyi bekleyen öğe: %d</item>

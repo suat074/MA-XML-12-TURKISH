@@ -128,7 +128,9 @@
   <string name="download">İndirilenler</string>
   <string name="download_auth">Yetki alınıyor…</string>
   <string name="download_complete">Tamam</string>
-  <string name="download_detail">Detaylar</string>
+  <string name="download_detail">Ayrıntılar</string>
+  <string name="download_description_content">"İndirilenler bir sistem uygulamasıdır. Kaldırdıktan sonra indirmelerinizi yönetemezsiniz."</string>
+  <string name="download_description_title">\"İndirilenler\" Ana ekrandan kaldırılsın mı?</string>
   <string name="download_error">İndirilemedi</string>
   <string name="download_error_download_file_not_exists">"Dosya yok"</string>
   <string name="download_error_insufficient_space">Yeterli depolama alanı yok</string>
