@@ -39,7 +39,7 @@
   <string name="dialog_connecting">Bağlanıyor…</string>
   <string name="dialog_nfc_cast_wifi_off">"NFC'yi kullanabilmek için Wi-Fi\'yı açın. Şimdi açılsın mı?"</string>
   <string name="dialog_no_device_message"><Data>1. Telefonunuzu ve TV\'nizi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> sayfasını görüntüleyin.</Data></string>
-  <string name="dialog_no_device_message_china"><Data>1. Telefonunuzu ve TV'nizi aynı WLAN ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> sayfasını görüntüleyin.</Data></string>
+  <string name="dialog_no_device_message_china"><Data>1. Telefonunuzu ve TV\'nizi aynı WLAN ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> sayfasını görüntüleyin.</Data></string>
   <string name="dialog_ok">Tamam</string>
   <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
   <string name="dialog_open_wifi_bt">Aç</string>
