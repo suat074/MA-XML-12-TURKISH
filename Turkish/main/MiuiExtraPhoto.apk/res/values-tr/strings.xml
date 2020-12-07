@@ -69,4 +69,8 @@
   <string name="refocus_type_relighting_small_face">Stüdyo aydınlatması, yüzlerin buradan daha fazla yer kapladığı fotoğraflar üzerinde çalışır.</string>
   <string name="refocus_type_static">Bulanıklık</string>
   <string name="refocus_type_video">Işık izleri</string>
+  <string name="cancel">İptal</string>
+  <string name="exit_alert_msg">Kaydedilmemiş tüm değişiklikler kaybolacak.</string>
+  <string name="exit_alert_title">Değişiklikleri gözardı et?</string>
+  <string name="ok">Tamam</string>
 </resources>

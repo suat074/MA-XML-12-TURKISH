@@ -101,6 +101,14 @@
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">%d dakika önce</item>
   </plurals>
+  <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="other">%d saniye ileri</item>
+    <item quantity="one">%d saniye ileri</item>
+  </plurals>
+  <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="other">%d saniyeyi geri</item>
+    <item quantity="one">%d saniyeyi geri</item>
+  </plurals>
   <plurals name="guide_used_number">
     <item quantity="other">%1$d cihazda uygulandı</item>
     <item quantity="one">%1$d cihazda uygulandı</item>

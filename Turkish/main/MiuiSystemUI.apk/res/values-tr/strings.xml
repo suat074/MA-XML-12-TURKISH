@@ -287,7 +287,7 @@
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için kullanılamıyor</string>
   <string name="app_info">Uygulama bilgisi</string>
   <string name="app_label">Sistem Arayüzü</string>
-  <string name="app_name">Kilit ekranı</string>
+  <string name="app_name">Tuş kilidi</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
   <string name="as_important">Önemli</string>
   <string name="as_unimportant">Önemsiz</string>

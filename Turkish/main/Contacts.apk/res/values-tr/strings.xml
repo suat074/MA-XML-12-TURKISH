@@ -1436,4 +1436,14 @@ Favori listenize kişi eklemek için:
   <string name="undefined">Ayarlanmadı</string>
   <string name="webview_btn_retry">Tekrar deneyin</string>
   <string name="webview_network_failure">Ağa bağlanılamadı</string>
+  <string name="hide_app_description_content">Kişiler bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra, Telefon uygulaması aracılığıyla kullanmaya devam edebilirsin.</string>
+  <string name="hide_app_description_title">\"Kişiler\" Ana ekrandan kaldırılsın mı?</string>
+  <string name="restore_app_btn_cancel">İptal</string>
+  <string name="restore_app_btn_restore">Tamam</string>
+  <string name="restore_app_description_content">Kişilerinize daha hızlı erişebilmek için bir Ana ekran kısayolu ekleyin.</string>
+  <string name="restore_app_description_title">\"Kişiler\" Ana ekrana eklensin mi?</string>
+  <string name="call_record_user_notice_all_purpose">Belirli kelimelerin geçtiği çağrıları bul</string>
+  <string name="call_record_user_notice_permission_desc_microphone">Çağrıları kaydetmek için</string>
+  <string name="call_record_user_notice_permission_desc_storage">Kayıtları kaydetmek için</string>
+  <string name="call_record_user_notice_title">Sesli çağrı araması</string>
 </resources>

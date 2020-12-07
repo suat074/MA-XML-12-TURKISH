@@ -1266,6 +1266,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_groupshot_with_primitive_title">Orijinal fotoğrafları da kaydet</string>
   <string name="pref_hdr10_video_mode_description">4K ve 8K videolar için renkleri ve kontrastı otomatik olarak optimize edin. Optimize edilmiş videolar yalnızca HDR10 uyumlu cihazlarda oynatılabilir.</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">4K (HDR10+) ve 8K (HDR10) videolar için renkleri optimize edin. Bu özellik yalnızca HDR10+/HDR10 uyumlu cihazlarda çalışır.</string>
   <string name="pref_hdr10plus_video_mode_description">4K ve 8K videolar için renkleri optimize edin ve kontrastı ayarlayın. Bu özellik yalnızca HDR10+ uyumlu cihazlarda çalışır.</string>
   <string name="pref_lens_dirty_detect_summary">Lens kirli olduğunda bir bildirim alın</string>
   <string name="pref_lens_dirty_detect_title">Kirli lens hakkında bilgi edinin</string>

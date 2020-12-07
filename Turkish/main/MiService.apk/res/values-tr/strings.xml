@@ -178,4 +178,8 @@
   <string name="share_success">Başarıyla paylaşıldı</string>
   <string name="share_title">Paylaş</string>
   <string name="title_settings_dialog">Gerekli izinler</string>
+  <string name="icon_add_description">Ana ekran kısayolu ekleyin</string>
+  <string name="icon_remove_confirm">Kaldır</string>
+  <string name="icon_remove_description_content">"\"Hizmetler &amp; geri bildirim\" bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra da Ayarlar üzerinden kullanmaya devam edebilirsiniz.</string>
+  <string name="icon_remove_description_title">\"Hizmetler &amp; geri bildirim\" Ana ekrandan kaldırılsın mı?</string>
 </resources>

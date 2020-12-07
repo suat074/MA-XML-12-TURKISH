@@ -26,6 +26,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
+	<plurals name="hint_account_contacts">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içinde</item>
     </plurals>

@@ -181,4 +181,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
   <string name="usb_accessory_permission_prompt">%1$s uygulamasının %2$s aksesuarına erişmesine izin verilsin mi?</string>
   <string name="usb_device_confirm_prompt">%2$s cihazını işlemek için %1$s uygulaması açılsın mı?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının %2$s cihazına erişmesine izin verilsin mi?</string>
+  <string name="keyguard_plugged_in">%s • Şarj oluyor</string>
+  <string name="keyguard_plugged_in_charging_fast">%s • Hızlı şarj</string>
+  <string name="keyguard_plugged_in_charging_slowly">%s • Yavaş şarj</string>
 </resources>

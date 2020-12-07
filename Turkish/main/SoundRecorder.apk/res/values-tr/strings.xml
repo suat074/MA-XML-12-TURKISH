@@ -359,4 +359,7 @@
   <string name="webview_try_again">Tekrar deneyin</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string>
+  <string name="clear_data_dialog_content">Önbelleğe alınan öğelerde, uygulama verileri ve özelleştirilmiş ayarlar silinecek, ancak kayıtlarınız yerinde kalacak.</string>
+  <string name="clear_data_dialog_title">Veriler şimdi temizlensin mi?</string>
+  <string name="preference_clear_data">Verileri temizle</string>
 </resources>

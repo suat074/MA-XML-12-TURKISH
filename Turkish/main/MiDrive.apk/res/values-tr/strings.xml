@@ -604,7 +604,7 @@
   <string name="update_progress_dialog_content">İndiriliyor…</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="confirm_know">Geri</string>
   <string name="file_info_created">"Yüklendi: "</string>
   <string name="file_info_local_created">"Oluşturuldu: "</string>

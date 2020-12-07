@@ -3880,7 +3880,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="privacy_risk_result_uninstall_btn">Kaldır</string>
   <string name="privacy_risk_sensitive">Hassas izinler</string>
   <string name="privacy_risk_sensitive_bar_title">Hassas izinler</string>
-  <string name="privacy_risk_sensitive_call_records">Uygulamaların çağrı geçmişine erişmesine izin verin</string>
+  <string name="privacy_risk_sensitive_call_records">Uygulamaların çağrı geçmişine erişmesine veya bunları düzenlemesine izin verin</string>
   <string name="privacy_risk_sensitive_contact">Uygulamaların kişilere erişmesine veya düzenlemesine izin verin</string>
   <string name="privacy_risk_sensitive_location">Uygulamaların, mevcut ağları veya uyduları kullanarak cihazınızı bulmasına izin verin</string>
   <string name="privacy_risk_sensitive_permissions">Hassas izinler</string>
@@ -4044,4 +4044,10 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="special_perm_vr_title">VR asistanını kullan</string>
   <string name="special_perm_window_msg">Uygulamaların PiP modunda öğeleri göstermesine izin verin</string>
   <string name="special_perm_window_title">PiP modunda öğeleri göster</string>
+  <string name="allow_all">Tümüne izin ver</string>
+  <string name="confirm_allow_all_permission">Tüm uygulamaların bu özelliği kullanmasına izin verilsin mi?</string>
+  <string name="app_behavior_link_start">Başlangıç tetikleme</string>
+  <string name="app_behavior_share_file">Dosya paylaşımı</string>
+  <string name="app_behavior_share_picture">Resim paylaşımı</string>
+  <string name="ai_allow_all">İzin herkes için kullanıldığında bildir</string>
 </resources>

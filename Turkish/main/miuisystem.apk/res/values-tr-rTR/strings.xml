@@ -123,6 +123,7 @@ EEE"</string>
   <string name="vip_not_login">Oturum açılamadı</string>
   <string name="vip_sign">İmza:</string>
   <string name="wallpaper_group_black_white_title">Siyah ve beyaz</string>
+  <string name="wallpaper_group_color_move_title">Sıvı renkler</string>
   <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
   <string name="wallpaper_group_dynamic_nebula_title">Dinamik bulutsu</string>
   <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
@@ -133,6 +134,7 @@ EEE"</string>
   <string name="wallpaper_group_natural_texture_title">Doğa desenleri</string>
   <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona Üniversitesi</string>
   <string name="wallpaper_group_red_mars_title">Mars</string>
+  <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
   <string name="waterdrop_preview">Doğa - Damlacıklar</string>
   <string name="windchime">Rüzgar çanları</string>
   <string name="yellow_page_module_sms_sent">SMS gönder</string>

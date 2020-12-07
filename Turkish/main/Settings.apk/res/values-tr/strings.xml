@@ -7576,9 +7576,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="gxzw_anim_dialog_message">Parmak izi animasyonunu görebilmek için parmak izinizi ekleyin. Şimdi eklensin mi?</string>
   <string name="gxzw_anim_dialog_title">Parmak izi ekle</string>
   <string name="resolution_fhd">FHD+ (Full HD)</string>
-  <string name="resolution_fhd_summary">2400×1080 (pil tasarrufu)</string>
+  <string name="resolution_fhd_summary" formatted="false">%d×%d (pil tasarrufu)</string>
   <string name="resolution_qhd">QHD+ (Quad HD)</string>
-  <string name="resolution_qhd_summary">3200×1440 (netlik katar)</string>
+  <string name="resolution_qhd_summary" formatted="false">%d×%d (netlik katar)</string>
   <string name="save_battery_mode">WQHD+ ile pil tasarrufu</string>
   <string name="save_battery_mode_summary">Güç tasarrufu için çözünürlüğü otomatik olarak değiştirin</string>
   <string name="headset_connectiong">Bağlanıyor...</string>
@@ -7628,4 +7628,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="title_font_settings">Yazı tipi ayarları</string>
   <string name="toast_apply_font_fail">Yazı tipi ayarlanamıyor</string>
   <string name="resolution_sub_title">MIUI, çözünürlüğü değiştirirken arka planda çalışan uygulamaları kapatabilir</string>
+  <string name="font_setting_weight_toast">Mevcut yazı tipi, yazı tipi kalınlığının ayarlanmasını desteklemiyor</string>
+  <string name="face_unlock_prompt">Yüz ile kilit açma istemi</string>
+  <string name="intelligence_suppression_title">Otomatik (Önerilen)</string>
+  <string name="screen_enhance_engine_memc_note">Süper çözünürlük açıkken videolar geliştirilemez. Gelişmiş videoları açarak süper çözünürlüğü kapatabilirsiniz.</string>
+  <string name="screen_enhance_engine_sr_for_video_note">Süper çözünürlük, gelişmiş videolarda çalışmaz. Süper çözünürlüğü açarak, gelişmiş videoları kapatmış olursunuz.</string>
+  <string name="screen_enhance_engine_sr_pic_summary_video_only">Videoların çözünürlüğünü 1440p\'ye kadar yükseltin. Bu özellik, belirli uygulamalar tarafından desteklenir ve güç tüketimini biraz artırır.</string>
 </resources>
