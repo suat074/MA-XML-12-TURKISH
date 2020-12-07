@@ -134,10 +134,6 @@
         <item quantity="other">%1$d mail</item>
         <item quantity="one">%1$d mail</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d öğe bulundu</item>
-        <item quantity="one">%1$d öğe bulundu</item>
-    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favori</item>
         <item quantity="one">%1$d favori</item>
