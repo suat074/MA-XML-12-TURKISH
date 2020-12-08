@@ -178,7 +178,6 @@
   <string name="HIPS_SecurityPrompt_Reject_Clear_This">Kısıtla ve panoyu temizle (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_This">Bir kez kısıtla (%d)</string>
   <string name="clipboard_ai_allow_once">%1$s için panodaki öğelere otomatik olarak erişmesine izin verildi</string>
-  <string name="clipboard_data">Pano öğeleri</string>
   <string name="clipboard_data_request">%1$s panodaki öğelere erişmeye çalışıyor</string>
   <string name="clipboard_deny_notification_content">Bu girişim engellendi. İzinleri yönetmek için dokunun.</string>
   <string name="clipboard_deny_notification_operation">Yönet</string>
