@@ -8,6 +8,10 @@
     <item quantity="other">%1$s, %2$d kez panodaki öğelere erişti</item>
     <item quantity="one">%1$s, %2$d kez panodaki öğelere erişti</item>
   </plurals>
+  <plurals name="clipboard_read_ai_deny_more">
+    <item quantity="other">%1$s için panoya erişmeye çalışan %2$d engellendi</item>
+    <item quantity="one">%1$s için panoya erişmeye çalışan %2$d engellendi</item>
+  </plurals>
   <plurals name="perm_manager_suggest_allow_content">
     <item quantity="other">%2$s için %1$d kez panoya erişmesine izin verdiniz. %3$s için panoya her zaman erişmesine izin vermek ister misiniz?</item>
     <item quantity="one">%2$s için %1$d kez panoya erişmesine izin verdiniz. %3$s için panoya her zaman erişmesine izin vermek ister misiniz?</item>

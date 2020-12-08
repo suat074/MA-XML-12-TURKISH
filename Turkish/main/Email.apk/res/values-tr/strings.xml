@@ -957,6 +957,7 @@ Farklı bir gelen kutusu deneyin."</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Postanın Ayarlardaki depolamaya, kişilere ve takvim bilgilerine erişmesine izin ver</string>
   <string name="open_external_storage_and_contacts_permission">Postanın Ayarlardaki depolamaya ve kayıtlara erişmesine izin ver</string>
   <string name="open_notification_kingagent">Mezar noktasının bildirimini açın</string>
+  <string name="open_pdf_error">Pdf dosyası açılamadı. Lütfen diğer PDF açma araçlarını indirin ve daha sonra tekrar deneyin.</string>
   <string name="optimization_suggestion">Optimizasyon önerisi</string>
   <string name="others_mail">Diğerleri</string>
   <string name="others_mail_des">Diğer özel veya şirket e-posta hizmetleri</string>

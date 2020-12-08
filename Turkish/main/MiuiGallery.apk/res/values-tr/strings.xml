@@ -521,8 +521,8 @@
   <string name="document_provider_guide_step_3">3. Yandaki menü düğmesine dokunun.</string>
   <string name="document_provider_guide_step_4">4. \"SD kart\" öğesini seçin.</string>
   <string name="document_provider_guide_step_5">5. \"Seç\"e dokunun.</string>
-  <string name="double_tap_for_hr_preview_108m">108MP önizlemeye geçmek için tekrar çift dokunun</string>
-  <string name="double_tap_to_higher_definition">HD önizlemesi için tekrar iki kez dokunun</string>
+  <string name="double_tap_for_hr_preview_108m">108MP önizlemeye geçmek için tekrar iki kez dokunun</string>
+  <string name="double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar iki kez dokunun</string>
   <string name="download_canceled">İndirme iptal edildi</string>
   <string name="download_error_format">%s indirilemedi</string>
   <string name="download_error_tip">Yüklemeler kesildi.</string>
@@ -2347,4 +2347,20 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="photo_page_lock_screen">Yönü kilitle</string>
   <string name="toast_orientation_locked">Yön başarıyla kilitlendi</string>
   <string name="watch_all_photo">Galeri</string>
+  <string name="album_homepage_show_all_photos">Tüm fotoğrafları göster</string>
+  <string name="album_lockscreen_wallpapers">Kilit ekranı duvar kağıtları</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="pic_to_pdf_saved_in_fileexplorer">Başarıyla kaydedildi.  Öğeyi Dosya Yöneticisi\'nde görüntüle.</string>
+  <string name="toast_orientation_unlock">Ekran yönünün kilidi açıldı</string>
+  <string name="unsupport_type">Bu format desteklenmiyor</string>
 </resources>

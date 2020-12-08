@@ -198,12 +198,13 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="miui_failed_solution_3">Yükleme paketini farklı bir yere kaydetmeyi deneyin.</string>
   <string name="miui_failed_solution_4">Güvenlik &gt; Temizleyici bölümünden depolama alanı boşaltın ve tekrar deneyin.</string>
   <string name="miui_failed_solution_5">Uyumlu bir yükleme paketi kullanmayı deneyin.</string>
-  <string name="miui_failed_solution_6">Bu uygulamayı İkinci alandan kaldırın ve tekrar deneyin.</string>
+  <string name="miui_failed_solution_6">Mevcut yüklü olan sürümü kaldırın ve tekrar yüklemeyi deneyin.</string>
   <string name="miui_failed_solution_7">GetApps\'tan bu uygulamanın en son sürümünü indirin.</string>
+  <string name="miui_failed_solution_8">Uygulamayı GetApps\'ten indirin.</string>
   <string name="miui_failed_system_incompatible">Uyumsuz kurulum paketi</string>
   <string name="miui_failed_update_incompatible">Çelişkili uygulama imzası</string>
   <string name="miui_failed_version_downgrade">Uygulama alt sürüme indirilemiyor</string>
-  <string name="miui_failed_version_downgrade_space">İkinci alanda bu uygulamanın daha yeni bir sürümü var.</string>
+  <string name="miui_failed_version_downgrade_space">İkinci alana veya Çocuk alanına yüklenmiş bu uygulamanın daha yeni bir sürümü var.</string>
   <string name="miui_help_feedback_label">Yardım &amp; geri bildirim</string>
   <string name="miui_install_confirm_question">Bu uygulama yüklensin mi?</string>
   <string name="miui_install_confirm_question_update">Uygulamamanın üstüne kurulsun mu?</string>
@@ -362,7 +363,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="wear_app_channel">Android Wear\'da uygulamaları yükleme/kaldırma</string>
   <string name="wear_not_allowed_dlg_text">Wear\'da yükleme/kaldırma işlemleri desteklenmiyor.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
-  <string name="install_continue">Kuruluma devam et</string>
+  <string name="install_continue">Yükle</string>
   <string name="action_bar_report_link_des">Uygulama uyarısı</string>
   <string name="exit_install_button">Yükleme</string>
   <string name="install_confirm_dialog_message">Bu uygulama Google tarafından yapılmıştır. Bu uygulamayı normal şekilde kullanabilmek için Google Play hizmetlerini yüklemelisiniz. Bu uygulamayı şimdi yüklemek, cihazınızın hatalı çalışmasına neden olabilir. Yine de yüklensin mi?</string>

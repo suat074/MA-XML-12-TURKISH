@@ -203,4 +203,11 @@
   <string name="storage_policy_notify_gallery_title">%1$s için Galeri\'ye erişmesine izin verilmiyor</string>
   <string name="storage_policy_notify_sociality_title">%1$s için sosyal medya uygulamalarındaki mesajlara erişmesine izin verilmiyor</string>
   <string name="storage_policy_notify_title">%1$s için Galeri\'ye erişmesine izin verilmiyor</string>
+  <string name="clipboard_data">"İçerik: "</string>
+  <string name="clipboard_read_ai_deny_once">%1$s için panoya erişim kısıtlanmış</string>
+  <string name="clipboard_read_deny_dialog_title">%1$s için panoya erişim kısıtlanmış</string>
+  <string name="forbid_notice_me">Bildirimi durdur</string>
+  <string name="go_behavior_record">Uygulama davranışı geçmişi</string>
+  <string name="keep_notice_me">Bildirime devam et</string>
+  <string name="notification_click_tip">Ayrıntıları görüntülemek için dokunun</string>
 </resources>
