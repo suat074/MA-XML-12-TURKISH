@@ -209,4 +209,8 @@
   <string name="go_behavior_record">Uygulama davranışı geçmişi</string>
   <string name="keep_notice_me">Bildirime devam et</string>
   <string name="notification_click_tip">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="blur_location_now_tip">Yaklaşık konum açık</string>
+  <string name="go_setting">Ayarlar</string>
+  <string name="real_location_off">Yaklaşık konum açık</string>
+  <string name="real_location_on">Yaklaşık konum kapalı</string>
 </resources>
