@@ -1540,4 +1540,13 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="film_video_b_tip">Lütfen düşük ışıkta çekim yapın</string>
   <string name="pref_video_quality_hfr_title">Kare hızı &amp; görüntü kalitesi</string>
   <string name="confirm_fastmotion_reset_manually_parameter_message">Parametreler şimdi sıfırlansın mı?</string>
+  <string name="capture_shortcut_long">Selfie</string>
+  <string name="capture_shortcut_short">Selfie</string>
+  <string name="doc_shortcut_long">Belgeler</string>
+  <string name="doc_shortcut_short">Belgeler</string>
+  <string name="document_blur_warn">Metin bulanık</string>
+  <string name="professional_shortcut_long">Pro</string>
+  <string name="professional_shortcut_short">Pro</string>
+  <string name="video_shortcut_long">Video</string>
+  <string name="video_shortcut_short">Video</string>
 </resources>

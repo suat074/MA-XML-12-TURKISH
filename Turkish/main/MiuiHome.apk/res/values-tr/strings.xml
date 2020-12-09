@@ -482,8 +482,8 @@
   <string name="recommend_loading">Yükleniyor</string>
   <string name="recommend_refresh">Yenile</string>
   <string name="recommend_xout">Gösterme</string>
-  <string name="remove_dialog_message">Uygulama, sistem için gerekli işlevleri içerir ve yalnızca masaüstü simgelerinin kaldırılmasını destekler.</string>
-  <string name="remove_dialog_title_format">%s kaldırılsın mı?</string>
+  <string name="remove_dialog_message">Seçilen uygulamalar temel sistem özelliklerini içerir. Yalnızca Ana ekran kısayollarını kaldırabilirsiniz.</string>
+  <string name="remove_dialog_title_format">>\"%s\" Ana ekrandan kaldırılsın mı?</string>
   <string name="remove_invalidate_gadget_tips">Kullandığınız widget\'lardan biri artık kullanılabilir değil. Başka bir tane ekleyebilirsin.</string>
   <string name="reset_cate_tip_content">Devam ederseniz, varsayılan uygulama grupları geri yüklenir. Yine de devam edilsin mi?</string>
   <string name="reset_cate_tip_title">Varsayılan grupları geri yükle</string>

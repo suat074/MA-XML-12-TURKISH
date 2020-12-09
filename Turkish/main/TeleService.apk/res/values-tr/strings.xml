@@ -794,7 +794,7 @@
   <string name="fiveg_bearer_status1">5G taşıyıcı durumu :</string>
   <string name="fiveg_endc_available1">Kullanılabilir NR ENDC :</string>
   <string name="fiveg_endc_status1">Endc Durumu :</string>
-  <string name="fiveg_hosted_mode_summary">5G bağlantısı zayıf olduğunda otomatik olarak kullanılabilir en iyi ağlara geçin</string>
+  <string name="fiveg_hosted_mode_summary">Pil tasarrufu için en iyi ağı otomatik olarak seçin</string>
   <string name="fiveg_hosted_mode_title">5G Akıllı Geçiş</string>
   <string name="fiveg_icon_type1">Nr Simge Türü :</string>
   <string name="fiveg_infos">5G bilgileri</string>

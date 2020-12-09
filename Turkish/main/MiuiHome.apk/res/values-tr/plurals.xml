@@ -16,8 +16,8 @@
     <item quantity="one">%1$d öğe seçildi</item>
   </plurals>
   <plurals name="remove_dialog_title_multi_format">
-    <item quantity="one">%1$d uygulama kaldırılsın mı?</item>
-    <item quantity="other">%1$d uygulama kaldırılsın mı?</item>
+    <item quantity="one">%1$d uygulama Ana ekrandan kaldırılsın mı?</item>
+    <item quantity="other">%1$d uygulama Ana ekrandan kaldırılsın mı?</item>
   </plurals>
   <plurals name="scroll_tip_format_when_announce_accessibility">
     <item quantity="other">%1$d sayfa, %2$d uygulama.</item>

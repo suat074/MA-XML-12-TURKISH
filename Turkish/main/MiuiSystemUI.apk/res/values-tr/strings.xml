@@ -2515,4 +2515,10 @@ WLAN Adresi (BSSID)
   <string name="volume_ringer_status_normal">Zili çaldır</string>
   <string name="volume_ringer_status_silent">Sesi kapat</string>
   <string name="volume_ringer_status_vibrate">Titreşim</string>
+  <string name="face_unlock_password_and_fingerprint">Kilidi açmak için şifre girin veya parmak izini kullanın</string>
+  <string name="face_unlock_pattern_and_fingerprint">Kilidi açmak için deseni çizin veya parmak izini kullanın</string>
+  <string name="face_unlock_pin_and_fingerprint">Kilidi açmak için PIN girin veya parmak izini kullanın</string>
+  <string name="input_lockscreen_password_hint_text">Şifre girin</string>
+  <string name="input_lockscreen_pattern_hint_text">Deseni çizin</string>
+  <string name="input_lockscreen_pin_hint_text">PIN girin</string>
 </resources>

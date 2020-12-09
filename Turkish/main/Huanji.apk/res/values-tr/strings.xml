@@ -615,7 +615,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="main_chooser_item_android_others">Başka bir Android telefondan içe aktar</string>
   <string name="main_chooser_item_ios">iPhone\'dan içe aktar</string>
   <string name="main_chooser_title">Eski cihazı seç</string>
-  <string name="message_request_package_stats_perm">Ayarları açmak ve Mi Transfer\'e gerekli izinleri vermek için \"Devam\" seçeneğine dokunun.</string>
+  <string name="message_request_package_stats_perm">Mi Mover\'ın, bir cihazda hangi uygulamaların yüklü olduğunu öğrenmesi ve bu uygulamaları başka bir cihaza aktarması için bu izne ihtiyacı var.</string>
   <string name="midnight">GY</string>
   <string name="miui_need_location_permission_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
   <string name="miui_need_location_permission_title">Konuma erişime izin ver</string>
@@ -964,7 +964,7 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="time_picker_label_minute">D</string>
   <string name="time_spent">Zaman: &lt;g id="time">%1$s&lt;/g></string>
   <string name="title_request_package_stats_perm">Gerekli izinler</string>
-  <string name="title_request_write_settings_perm">Sistem ayarlarını değiştirme izni gerekiyor</string>
+  <string name="title_request_write_settings_perm">Sistem ayarlarının değiştirilmesine izin ver</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>
@@ -1095,4 +1095,10 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="sender_finish_bottom_tips">Bu cihazdaki verileri silmeden önce tüm önemli öğeleri yedeklediğinizden emin olun.</string>
   <string name="sender_finish_title">Başarıyla aktarıldı</string>
   <string name="transfer_finish_summary">Aktarılan %1$s (%2$s)</string>
+  <string name="location_permission_request">Yakındaki diğer cihazlara bağlanmak için</string>
+  <string name="summary_open_wlan">Transfer işleminin istikrarını sağlamak için Mi Mover\'ın bu izne ihtiyacı var.</string>
+  <string name="summary_request_alert_window_prem">Transfer işleminin istikrarını sağlamak için Mi Mover\'ın bu izne ihtiyacı var.</string>
+  <string name="summary_request_write_settings_prem">Mi Mover\'ın WLAN\'ı açması ve dosyaları aktarmak için bir bağlantı noktası oluşturması için bu izne ihtiyacı var.</string>
+  <string name="title_open_wlan">WLAN\'ı aç</string>
+  <string name="title_request_alert_window_perm">Yüzer pencerelere izin ver</string> 
 </resources>

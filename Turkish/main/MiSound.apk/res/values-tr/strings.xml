@@ -149,6 +149,8 @@
   <string name="music_headset_calibrate_volume_up">Sesi arttır</string>
   <string name="music_headset_calibrate_wrong_key">Bu yanlış düğme</string>
   <string name="music_headset_control_setting">Kulaklık kontrolleri</string>
+  <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+  <string name="music_headset_effect_harman_kardon_summary">Sertifikalı profesyonel ses</string>
   <string name="music_headset_effect_settings">Ses efektleri</string>
   <string name="music_headset_improve_sound">Sesi kulaklıklara göre ayarla</string>
   <string name="music_headset_is_open">Açık</string>

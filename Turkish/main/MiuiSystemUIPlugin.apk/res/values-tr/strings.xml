@@ -284,7 +284,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="power_off">Kapat</string>
   <string name="quick_settings_pcmode_dialog_description">PC modu, çoklu pencere görevlerini destekler ve klavye ve fare ile kullanılabilir. Bu moda geçmek için başlatılan tüm uygulamalar kapatılır. Bazı uygulamalar PC modunu desteklemeyebilir.</string>
   <string name="quick_settings_wireless_label">Ters kablosuz şarj</string>
-  <string name="reboot_info_auto_boot">Cihaz saat %s olunca açılması planlandı</string>
+  <string name="reboot_info_auto_boot">Yaklaşan alarm: %s</string>
   <string name="reboot_info_shutdown_alarm">Kapatma alarmı: %s</string>
   <string name="restart">Yeniden başlat</string>
   <string name="timer_1_hour">%d saat</string>
@@ -303,4 +303,6 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="wireless_charging_tips_disable">Tekrar gösterme</string>
   <string name="wireless_charging_tips_message">Qi kablosuz şarjı destekleyen cihazları (telefonlar, aksesuarlar vb.) bu cihazın arkasına yerleştirin.</string>
   <string name="wireless_charging_tips_title">Ters kablosuz şarj</string>
+  <string name="accessibility_back">Geri</string>
+  <string name="slider_view_content_description">Kapatmak için yukarı kaydırın veya yeniden başlatmak için aşağı kaydırın</string>
 </resources>
