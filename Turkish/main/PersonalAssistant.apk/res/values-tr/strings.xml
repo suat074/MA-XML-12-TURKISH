@@ -1550,4 +1550,11 @@
   <string name="app_pa_setting_bugreport">Geri bildirim</string>
   <string name="shortcuts_download_dialog_text_install">Yükle</string>
   <string name="shortcuts_download_dialog_text_install_tip">\"%2$s\" kullanabilmek için önce %1$s yükleyin.</string>
+  <string name="card_expand_note_dialog_message_new">Uygulama kasasında \"Kaydet\" düğmesine her dokunduğunuzda yeni bir not oluşturulur.</string>
+  <string name="card_expand_note_dialog_title_new">Notları kaydetme</string>
+  <string name="card_expand_note_toast_install_new">Bu özelliği kullanabilmek için Notlar\'ı yükleyin</string>
+  <string name="card_expand_note_toast_save_done_new">Notlar\'a kaydedildi</string>
+  <string name="save_to_note_new">Notlar\'a kaydet</string>
+  <string name="toast_reach_text_limit_truncate_new">Notunuz çok uzun.  Fazla içerik kesildi.</string>
+  <string name="save_to_note">Notlar\'a kaydet</string>
 </resources>
