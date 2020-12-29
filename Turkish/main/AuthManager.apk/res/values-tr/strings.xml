@@ -213,4 +213,13 @@
   <string name="go_setting">Ayarlar</string>
   <string name="real_location_off">Yaklaşık konum açık</string>
   <string name="real_location_on">Yaklaşık konum kapalı</string>
+  <string name="blur_location_is_on_tip">%1$s yaklaşık konum hizmetini başlattı. Yaklaşık konum hizmeti açık tutulsun mu?</string>
+  <string name="blur_location_title">Yaklaşık konum</string>
+  <string name="gold_master_dialog_reject">Reddet (%d)</string>
+  <string name="gold_master_dialog_title">%1$s panoyu okumak istiyor</string>
+  <string name="keep_blur_location">Devam et</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="stop_blur_location">Kapat</string>
 </resources>

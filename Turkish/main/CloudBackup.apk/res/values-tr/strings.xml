@@ -228,6 +228,9 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="provision_error_connect_msg">Ağı test edebilir ve tekrar deneyebilirsiniz. Geçerli bir ağ olmadan yedekleme işlevi kullanılamaz.</string>
   <string name="provision_error_connect_title">Bağlanamıyor</string>
   <string name="provision_restore_data">Öğeler geri yükleniyor</string>
+  <string name="provision_back">Geri</string>
+  <string name="provision_next">Sonraki</string>
+  <string name="provision_skip_underline">Atla</string>
   <string name="query_restore_description">Bu yedeği kullanarak Ana Ekran uygulamalarını ve ayarları geri yükleyin. Cihazda yüklü uygulamaların üstüne aynı uygulamanın verileri yazılır. En son yüklenen uygulamalar bu işleme tabi değildir.</string>
   <string name="query_restore_summary">Bu cihaz için Xiaomi Bulut yedeklemesi bulundu. Ana ekran uygulamaları ve ayarları geri yüklemek veya yeni bir cihaz olarak kullanmak için önce önceki Xiaomi Bulut yedeklerini silmek ister misiniz?</string>
   <string name="recover_from_micloud">Xiaomi Bulut yedeğinden geri yükle</string>

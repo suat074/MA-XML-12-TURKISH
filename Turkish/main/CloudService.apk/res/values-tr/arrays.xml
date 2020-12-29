@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="micloud_entrance_subtitleArray_china_v2">
+    <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını eşitleyin</item>
+    <item>Uygulamaları, Ana ekran düzenini ve duvar kağıdını yedekleyin</item>
+    <item>WLAN ve ekran gibi önemli ayarları yedekleyin</item>
+    <item>Kaybolursa cihazınızı uzaktan kilitleyin</item>
+  </string-array>
+  <string-array name="micloud_entrance_subtitleArray_v2">
+    <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını eşitleyin</item>
+    <item>Uygulamaları, Ana ekran düzenini ve duvar kağıdını yedekleyin</item>
+    <item>Wi-Fi ve ekran gibi önemli ayarları yedekleyin</item>
+    <item>Kaybolursa cihazınızı uzaktan kilitleyin</item>
+  </string-array>
+  <string-array name="settings_search_notes_v2">
+    <item>Notları Xiaomi Bulut ile eşitleyin</item>
+    <item>Eşitlemeyi aç</item>
+    <item>Notlar;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut</item>
+  </string-array>
   <string-array name="micloud_entrance_titleArray">
     <item>Uygulama verilerini eşitle</item>
     <item>Ana ekran düzenini yedekle</item>

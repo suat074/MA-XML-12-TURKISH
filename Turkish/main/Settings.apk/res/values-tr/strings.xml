@@ -7645,4 +7645,16 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="truetone_summary">Renkleri ortam ışığına göre ayarlayın</string>
   <string name="truetone_title">Uyarlanabilir renkler</string>
   <string name="user_experience_open_url">Kullanıcı Deneyimi Programı hakkında daha fazla bilgi edinin</string>
+  <string name="dpp_before_share_summary">\"%1$s\" WLAN ağı başka bir kişiyle paylaşılsın mı?</string>
+  <string name="dpp_cannot_connect_target">Hedef ağa bağlanılamıyor</string>
+  <string name="dpp_connect_success">Başarıyla bağlandı</string>
+  <string name="dpp_not_support">Bu ağ paylaşılamıyor</string>
+  <string name="dpp_qr_code_summary">Bu QR kodunu tarayarak bir WLAN ağına bağlanın.</string>
+  <string name="dpp_scanner_summary">QR kodunu çerçevenin içine yerleştirin</string>
+  <string name="dpp_shared_fail">WLAN paylaşılamadı</string>
+  <string name="dpp_shared_success">WLAN başarıyla paylaşıldı</string>
+  <string name="dpp_sharing_wifi_summary">WLAN paylaşılıyor…</string>
+  <string name="dpp_theme_title">Paylaşılan WLAN</string>
+  <string name="show_charging_in_non_lockscreen_animation">Cihazın kilidi açıldıktan sonra şarj animasyonunu göster</string>
+  <string name="show_charging_in_non_lockscreen_animation_summary">Cihazınızın kilidi açıldıktan sonra şarj animasyonunu göstermeye devam edin, yalnızca video oynatma ve diğer benzer tam ekran sahneler için gizleyin</string>
 </resources>

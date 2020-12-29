@@ -1401,10 +1401,10 @@
   <string name="quick_settings_cellular_detail_data_usage">Veri kullanımı</string>
   <string name="quick_settings_cellular_detail_data_used">%s kullanıldı</string>
   <string name="quick_settings_cellular_detail_data_warning">%s uyarısı</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veriyi kapatırsanız, WLAN\'a bağlanmadıkça interneti kullanamazsınız. Yine de MMS gönderebileceksiniz. Mobil veri yine de kapatılsın mı?</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri kullanılması, ödeme planınıza bağlı olarak ek ücretler oluşturabilir. Yine de mobil veri kullanımına izin verilsin mi?</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) kapatılacak. WLAN kullanmadığınız sürece, veri bağlantısı gerektiren uygulamaları kullanamazsınız. Multimedya mesajlarının gönderilmesi veya alınması kısıtlanacak.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak, ödeme planınıza bağlı olarak ek ücretlere neden olabilir.</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal</string>
-  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">İzin ver</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
   <string name="quick_settings_cellular_detail_over_limit">Sınır aşıldı</string>
   <string name="quick_settings_cellular_detail_remaining_data">Kalan veri</string>
@@ -1798,7 +1798,7 @@
   <string name="torch_activity_hint">Kilit ekranında [icon] tuşuna basılı tutarak el fenerini açabilirsiniz</string>
   <string name="torch_activity_name">El feneri</string>
   <string name="torch_closed">El feneri kapalı</string>
-  <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi fener kullanamazsınız.</string>
+  <string name="torch_high_temperature_warning">Cihazınız aşırı ısındı. Şimdi fener kullanamazsınız.</string>
   <string name="torch_opened">El feneri açık</string>
   <string name="track_frame_time">Profil GPU oluşturma</string>
   <string name="transition_animation_scale_title">Geçiş animasyonu ölçeği</string>

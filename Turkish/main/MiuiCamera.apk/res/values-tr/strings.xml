@@ -1549,4 +1549,12 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="video_shortcut_long">Video</string>
   <string name="video_shortcut_short">Video</string>
+  <string name="accessibility_reference_line_text">Referans hattı ayar paneli</string>
+  <string name="camcorder_tip_current_max_video_duration">Mevcut çözünürlükte %d dakikaya kadar kayıt yapabilirsiniz</string>
+  <string name="center_mark">Merkez işareti</string>
+  <string name="pref_camera_reference_capture_title">Referans çizgisi</string>
+  <string name="pref_camera_reference_capture_title_golden_section">Altın bölüm</string>
+  <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
+  <string name="pref_camera_reference_capture_title_left_golden_spiral">Sol altın spiral</string>
+  <string name="pref_camera_reference_capture_title_right_golden_spiral">Sağ altın spiral</string>
 </resources>

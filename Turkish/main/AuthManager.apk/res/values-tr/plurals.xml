@@ -12,6 +12,10 @@
     <item quantity="other">%1$s için panoya erişmeye çalışan %2$d engellendi</item>
     <item quantity="one">%1$s için panoya erişmeye çalışan %2$d engellendi</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d öğe seçildi</item>
+    <item quantity="one">%d öğe seçildi</item>
+  </plurals>
   <plurals name="perm_manager_suggest_allow_content">
     <item quantity="other">%2$s için %1$d kez panoya erişmesine izin verdiniz. %3$s için panoya her zaman erişmesine izin vermek ister misiniz?</item>
     <item quantity="one">%2$s için %1$d kez panoya erişmesine izin verdiniz. %3$s için panoya her zaman erişmesine izin vermek ister misiniz?</item>
