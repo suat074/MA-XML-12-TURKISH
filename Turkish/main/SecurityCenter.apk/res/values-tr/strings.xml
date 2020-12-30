@@ -4055,14 +4055,12 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="provision_skip_underline">Atla</string>
   <string name="view_traffic_detail">Ayrıntıları görüntüle</string>
   <string name="ac_notification_action_text">Aç</string>
-  <string name="allow_all">Tümüne izin ver</string>
   <string name="app_behavior_access_gallery">%1s galeriye erişti</string>
   <string name="app_behavior_access_gallery_single">Bu uygulama galeriye erişti</string>
   <string name="app_behavior_access_sociality">%1s sosyal medya uygulamalarındaki mesajlara erişti</string>
   <string name="app_behavior_access_sociality_single">Bu uygulama sosyal medya uygulamalarındaki mesajlara erişti</string>
   <string name="app_behavior_delete_pic">%1s Galeri\'den öğe sildi</string>
   <string name="app_behavior_delete_pic_single">Bu uygulama Galeri\'den öğe sildi</string>
-  <string name="confirm_allow_all_permission">Tüm uygulamaların bu özelliği kullanmasına izin verilsin mi?</string>
   <string name="file_confirm_start_activity">%s için Galerinize ve sosyal medya uygulamalarınıza erişmesine izin verilmiyor. Bu uygulama, öğeleri paylaşmak için bu cihazda depolanan dosyalara erişmek istiyor.  İzin verilsin mi?</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
   <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>

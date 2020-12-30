@@ -827,10 +827,6 @@ Ses değiştiriciyi şimdi deneyin!"</item>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Şu anda</item>
   </plurals>
-  <plurals name="miuix_appcompat_items_selected">
-    <item quantity="other">%d öğe seçildi</item>
-    <item quantity="one">%d öğe seçildi</item>
-  </plurals>
   <plurals name="mtrl_badge_content_description">
     <item quantity="other">%d yeni bildirim</item>
     <item quantity="one">%d yeni bildirim</item>
