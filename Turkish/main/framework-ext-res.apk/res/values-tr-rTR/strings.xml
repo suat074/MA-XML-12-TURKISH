@@ -91,6 +91,8 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hızlıca dokunup aç</string>
+  <string name="freeform_exchange_tip">Uygulamayı açmak için bırakın</string>
+  <string name="freeform_exchange_tip2">İptal etmek için köşeye sürükleyin</string>
   <string name="frequent_email">Sık kullanılan e-posta</string>
   <string name="frequent_phrases">Sık kullanılan ifadeler</string>
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>

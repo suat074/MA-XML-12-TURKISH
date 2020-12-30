@@ -811,8 +811,8 @@
   <string name="fiveg_sa_switch_open_dialog_title">Dikkat</string>
   <string name="fiveg_sa_switch_summary">Bağımsız modda 5G ağlarına bağlanmaya izin ver</string>
   <string name="fiveg_sa_switch_title">SA modu</string>
-  <string name="fiveg_sa_switch_title_slot0">SIM 1 SA modu</string>
-  <string name="fiveg_sa_switch_title_slot1">SIM 2 SA modu</string>
+  <string name="fiveg_sa_switch_title_slot0">SIM %d SA modu</string>
+  <string name="fiveg_sa_switch_title_slot1">SIM %d SA modu</string>
   <string name="fiveg_sa_switch_warning_toast">Efektleri uygulamak için lütfen telefonu yeniden başlatın</string>
   <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="fiveg_signal_strength1">5G Sinyal gücü :</string>
@@ -1648,6 +1648,7 @@
   <string name="stk_cc_ss_to_dial_video_error">SS isteği görüntülü aramaya değiştirildi</string>
   <string name="stk_cc_ss_to_ss_error">SS isteği yeni SS isteği olarak değiştirildi.</string>
   <string name="stk_cc_ss_to_ussd_error">SS isteği USSD isteği olarak değiştirildi.</string>
+  <string name="stk_name">USIM araç seti</string>
   <string name="stock_quotes_disable">Hisse Senedi Fiyatları devre dışı</string>
   <string name="stock_quotes_enable">Hisse Senedi Fiyatları etkin</string>
   <string name="strict_mode">Sıkı mod etkin</string>

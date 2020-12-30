@@ -2,7 +2,7 @@
 <resources>
   <string name="about_extreme_mode">Aşırı pil tasarrufu</string>
   <string name="about_hide_mode">Uygulama pil tasarrufu hakkında</string>
-  <string name="accessibility_service_description">Akıllı güç tasarrufu</string>
+  <string name="accessibility_service_description">Pil tasarrufu</string>
   <string name="active_classify">Etkinlik durumuna göre sırala</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
   <string name="adaptive_battery_title">Adaptif Pil kullanımı</string>
@@ -25,7 +25,7 @@
   <string name="config_mode_title">Arka plan ayarları</string>
   <string name="config_no_restrict_description">Pil tasarrufu uygulamanın etkinliğini kısıtlamaz</string>
   <string name="config_no_restrict_title">Kısıtlama yok</string>
-  <string name="config_restrict_function_description">Bazı özellikler (örneğin, push bildirimleri) etkilenebilir, ancak uygulama kapatılmayacak</string>
+  <string name="config_restrict_function_description">10 dakikalık arka plan etkinliğinden sonra uygulamaları kapatın</string>
   <string name="config_restrict_function_title">Arka planda uygulamayı kısıtla</string>
   <string name="config_restrict_running_description">Güç tasarrufu için uygulama kapatılacak</string>
   <string name="config_restrict_running_title">Arka plan etkinliğini kısıtla</string>

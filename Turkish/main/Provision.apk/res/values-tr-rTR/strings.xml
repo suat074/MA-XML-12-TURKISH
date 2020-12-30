@@ -213,7 +213,7 @@
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
   <string name="sim_card_detecting_check">SIM kart bulunamadı. SIM kartın doğru takıldığından ve bakiyenizde yeterli para olduğundan emin olun.</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Mobil veri ağlarına bağlanmaya izin verilsin mi? Bunu yaparsanız, taktığınız SIM kart mobil veri şebekelerine bağlanmak için kullanılır.</string>
-  <string name="sim_card_detecting_title">SIM kartı kontrol et</string>
+  <string name="sim_card_detecting_title">SIM kart kontrol ediliyor…</string>
   <string name="sim_card_detection">SIM kartı takın</string>
   <string name="sim_card_detection_info">SIM kartınızı takmak için cihazınızla birlikte verilen talimatları okuyun.</string>
   <string name="sim_card_detection_mobile_not_available">SIM kart ağa bağlanamadı</string>
@@ -278,4 +278,10 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="wc_notice_link_privacy_index">Gizlilik Politikası</string>
   <string name="wc_notice_link_announcement_summary">"Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının  &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin."</string>
   <string name="wc_notice_link_summary">Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının %1$s ve %2$s belgelerini okuyun ve kabul edin</string>
+  <string name="item_lock_screen_password_only">Ekran kilidi</string>
+  <string name="msim_setting_default_data">Veri SIM</string>
+  <string name="msim_setting_default_voice">Çağrılar için varsayılan SIM</string>
+  <string name="provision_back">Geri</string>
+  <string name="provision_next">Sonraki</string>
+  <string name="provision_skip_underline">Atla</string>
 </resources>

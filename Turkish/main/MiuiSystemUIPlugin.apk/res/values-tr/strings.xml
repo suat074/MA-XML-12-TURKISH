@@ -167,6 +167,8 @@
   <string name="quick_settings_pcmode_dialog_remember_text">Tekrar gösterme</string>
   <string name="quick_settings_pcmode_label">PC modu</string>
   <string name="quick_settings_pcmode_ok_button">Tamam</string>
+  <string name="quick_settings_pcmode_turn_off_description">PC modundan çıktıktan sonra, daha büyük ekranda Mi masaüstünü kullanacaksınız. Çıkmak istediğinizden emin misiniz?</string>
+  <string name="quick_settings_pcmode_turn_on_description">PC moduna girdikten sonra, daha büyük ekranda PC masaüstünü kullanacaksınız. Girmek istediğinizden emin misiniz?</string>
   <string name="quick_settings_scanner_label">Tarayıcı</string>
   <string name="reset">Sıfırla</string>
   <string name="safe_media_volume_warning">"Ses seviyesi önerilen düzeyin üzerine yükseltilsin mi?

@@ -15,4 +15,19 @@
     <item>Duvar kağıdı/Süper duvar kağıtları</item>
     <item>Süper duvar kağıtları;Duvar kağıdı;Hareketli duvar kağıdı;3D duvar kağıdı</item>
   </string-array>
+  <string-array name="settings_search_geometry">
+    <item>Geometri</item>
+    <item>Duvar kağıdı/Süper duvar kağıtları/Geometri</item>
+    <item>Geometri;Soyut;Süper duvar kağıtları;Duvar kağıdı</item>
+  </string-array>
+  <string-array name="settings_search_snowmountain">
+    <item>Siguniang Dağı</item>
+    <item>Duvar kağıdı/Süper duvar kağıtları/Siguniang Dağı</item>
+    <item>Dünya;Dağlar;Süper duvar kağıtları;Duvar kağıdı</item>
+  </string-array>
+  <string-array name="settings_search_weather">
+    <item>Hava durumu</item>
+    <item>Duvar kağıdı/Süper duvar kağıtları/Hava durumu</item>
+    <item>Hava durumu;Hava durumu bilgisi;Süper duvar kağıtları;Duvar kağıdı</item>
+  </string-array>
 </resources>

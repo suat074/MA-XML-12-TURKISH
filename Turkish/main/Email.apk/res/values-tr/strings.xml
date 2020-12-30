@@ -1470,4 +1470,6 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="wps_card_button_tips">Kingsoft Belgesini aç</string> 
   <string name="wps_card_tips">\"%s\" adresinden paylaşım bağlantısı bulundu</string>
   <string name="wps_card_title">Kingsoft Belgesi</string>
+  <string name="sms_not_found_tip">Sistem SMS uygulaması başlatılamıyor, lütfen SMS uygulamasını manuel olarak başlatın ve bir doğrulama SMS\'i gönderin.</string>
+  <string name="webview_not_found">WebView bileşeni bulunamadığından sayfa açılamıyor.</string>
 </resources>

@@ -145,7 +145,7 @@ OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. 
   <string name="support_device_type">Desteklenen cihazlar</string>
   <string name="throwing_print">Yazdır</string>
   <string name="throwing_screen">Yansıt</string>
-  <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
+  <string name="tips_prompt_enable_midrop">Mi Paylaşım</string>
   <string name="to_feedback">Rapor</string>
   <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
   <string name="transfer_to_pc_summary">Mi Dizüstü bilgisayarlarda yüklü olan AIoT yazılımının en son sürümü Mi Paylaşım ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI web sitesinde kontrol edebilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak AIoT yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve AIoT yazılımını indirin.</string>
@@ -168,4 +168,7 @@ OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. 
   <string name="tile_state_active">Açık</string>
   <string name="tile_state_inactive">Kapalı</string>
   <string name="tile_state_unavailable">Mevcut değil</string>
+  <string name="error_mirror_working">Ekranı paylaşırken öğeler paylaşılamaz</string>
+  <string name="error_remote_mirror_working">Diğer cihaz, ekran paylaşılırken öğe kabul edemez</string>
+  <string name="send_files_by">Dosyaları paylaşın</string>
 </resources>

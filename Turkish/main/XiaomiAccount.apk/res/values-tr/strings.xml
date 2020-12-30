@@ -616,4 +616,12 @@
   <string name="state_loading">Sadece bir saniye…</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="download_file">%s indiriliyor…</string>
+  <string name="passport_login_other_phone">Başka bir hesap kullan</string>
+  <string name="passport_provision_input_email_register_prompt">Kişisel verileriniz, seçtiğiniz bölgenin kanun ve yönetmeliklerine uygun olarak saklanacaktır.</string>
+  <string name="passport_provision_password_req_notice">Aşağıdaki türlerden en az %3$d, %1$d-%2$d karakter: harfler, rakamlar, özel semboller</string>
+  <string name="passport_registered_phone_num_v2">Telefon numarası</string>
+  <string name="provision_back">Geri</string>
+  <string name="provision_next">Sonraki</string>
+  <string name="provision_skip_underline">Atla</string>
 </resources>

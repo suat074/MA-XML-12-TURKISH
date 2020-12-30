@@ -6,7 +6,7 @@
   <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
   <string name="frequent_phrases_des">Metin düzenlerken yalnızca bir kaç dokunuşla sık kullanılan ifadeleri girin</string>
   <string name="frequent_phrases_size_exceeded">En fazla %1$d sık kullanılan ifade ekleyebilirsiniz. Daha fazla eklemek için gereksiz olanları silin.</string>
-  <string name="input_method_clipboard_add_to_phrase_success">Sık kullanılan ifadelere ekle</string>
+  <string name="input_method_clipboard_add_to_phrase_success">Sık kullanılan ifadelere eklendi</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Sık kullanılan ifadelere ekle</string>
   <string name="input_method_clipboard_check_more_copy">Kopyala</string>
   <string name="input_method_clipboard_check_more_delete">Sil</string>

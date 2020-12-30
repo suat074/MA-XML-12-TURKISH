@@ -242,4 +242,27 @@ EEE"</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="geometry_summary">Şekiller, ışık ve renkler</string>
+  <string name="geometry_super_wallpaper_label">Geometri</string>
+  <string name="geometry_title">Geometri</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="snowmountain_summary">Güneşli dağ yamaçları</string>
+  <string name="snowmountain_super_wallpaper_label">Siguniang Dağı</string>
+  <string name="snowmountain_title">Siguniang Dağı</string>
+  <string name="weather_summary">Yerel hava durumu bilgisi</string>
+  <string name="weather_super_wallpaper_label">Hava durumu</string>
+  <string name="weather_title">Hava durumu</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
 </resources>

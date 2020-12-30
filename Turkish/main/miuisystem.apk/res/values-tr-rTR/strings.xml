@@ -9,7 +9,7 @@
   <string name="atlantis">Atlantis (stereo)</string>
   <string name="beep">Bip</string>
   <string name="bells">Çanlar</string>
-  <string name="birdcicada_preview">Doğa - Kuşlar &amp; ateşböcekleri</string>
+  <string name="birdcicada_preview">Kuşlar &amp; ateşböcekleri</string>
   <string name="blues">Hüzün</string>
   <string name="bottle">Şişe</string>
   <string name="breeze">Esinti</string>
@@ -135,11 +135,18 @@ EEE"</string>
   <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona Üniversitesi</string>
   <string name="wallpaper_group_red_mars_title">Mars</string>
   <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
-  <string name="waterdrop_preview">Doğa - Damlacıklar</string>
+  <string name="waterdrop_preview">Damlacıklar</string>
   <string name="windchime">Rüzgar çanları</string>
   <string name="yellow_page_module_sms_sent">SMS gönder</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Misafir Modunda iken mesaj gönderilemez</string>
   <string name="yellow_page_sms_send_failed">SMS gönderilemedi</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
   <string name="yellow_page_unable_send_sms">SMS gönderilemedi</string>
+  <string name="africaanimals_preview">Savana</string>
+  <string name="amazonanimals_preview">Yağmur ormanı</string>
+  <string name="miui_clock_city_name_second">İkinci saat</string>
+  <string name="australiaanimals_preview">Avustralya</string>
+  <string name="southwestmountain_preview">Dağlar</string>
+  <string name="stoneskimming_preview">Hafif adımlar</string>
+  <string name="wallpaper_group_color_move_title">Sıvı renkler</string>
 </resources>

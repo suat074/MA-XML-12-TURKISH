@@ -209,4 +209,22 @@
   <string name="wireless_transmission_confirm">Aç</string>
   <string name="wireless_transmission_definition">Telefonunuzun mikrofon beslemesini harici bir Bluetooth cihazına aktarın</string>
   <string name="wireless_transmission_prompt">Sesi iletmek için kablosuz hoparlörün Bluetooth\'u açması gerekir. Şimdi açılsın mı?</string>
+  <string name="sound_effect_hall">Salon</string>
+  <string name="sound_effect_original">Orijinal</string>
+  <string name="sound_effect_room">Oda</string>
+  <string name="sound_effect_theater">Tiyatro</string>
+  <string name="sound_transmission_cancel">Hayır teşekkürler</string>
+  <string name="sound_transmission_confirm">İzin ver</string>
+  <string name="sound_transmission_continue">Devam et</string>
+  <string name="sound_transmission_device">Cihaz</string>
+  <string name="sound_transmission_dialog_message">Ses asistanı</string>
+  <string name="sound_transmission_dialog_title">Bluetooth\'u aç</string>
+  <string name="sound_transmission_end">Dur</string>
+  <string name="sound_transmission_processing">Mikrofon</string>
+  <string name="sound_transmission_prompt">Kablosuz mikrofonu kullanmak için bu özelliğin Bluetooth\' u açmasına izin verin.</string>
+  <string name="sound_transmission_scenes">Sahne</string>
+  <string name="sound_transmission_start">Başlat</string>
+  <string name="sound_transmission_stop">Duraklat</string>
+  <string name="sound_transmission_title">Kablosuz mikrofon</string> 
+  <string name="transmission_volume_option_title">Mikrofon sesi</string>
 </resources>

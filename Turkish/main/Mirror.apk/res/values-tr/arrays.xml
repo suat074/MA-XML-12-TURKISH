@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="settings_search_mirror">
-    <item>Ekran Kombo</item>
-    <item>Bağlantı &amp; paylaş/Ekran Kombo</item>
-    <item>Ekran Combo;Çoklu Ekran;Ekran yansıtma;PC;Bilgisayar</item>
+    <item>MIUI+ Beta</item>
+    <item>Bağlantı &amp; paylaş/MIUI+ Beta</item>
+    <item>Ekran Combo;Çift;Çoklu Ekran;Duo;Bilgisayar;Aynalama;MIUI+</item>
   </string-array>
   <string-array name="settings_tips_message">
-    <item>1. Ekran Kombo\'yu kullanmadan önce mobil cihazınızdaki paylaşım noktasını, Mi Paylaşım\'ı veya yansıtmayı kapatın.\n2. Hem mobil cihazınızda hem de bilgisayarınızda Wi-Fi\'ı kapatın.\n3. Mobil cihazınızın bilgisayarınıza yakın olduğundan emin olun.</item>
-    <item>Bilgisayarınız, daha önce bağlanmış olan mobil cihazları algılamak için Bluetooth kullanır. Mobil cihazınızda Bluetooth\'un açık olup olmadığını kontrol edin.</item>
-    <item>Mobil cihazlar, ekran kilitliyken verileri bilgisayarlarla eşitleyemez. Varsayılan olarak Ekran Kombo, mobil cihazınız bir bilgisayara bağlıyken ekranın kilitlenmesine izin vermez. Bunu Ayarlar\'dan değiştirebilirsiniz.</item>
-    <item>1. Android Q veya sonraki bir sürümünü çalıştıran belirli Xiaomi telefonları Ekran Kombo\'yu destekler. QR kodunu taradıktan sonra MIUI web sitesini görürseniz, cihazınız henüz desteklenmiyordur.\n2. Bilgisayarınızda Ekran Kombo kullanmak için önce Mi Akıllı Paylaşım\'ın en son sürümünü yükleyin.</item>
+    <item>1. Bu özelliği kullanmadan önce mobil cihazınızdaki paylaşım noktasını, Mi Paylaşım\'ı veya yansıtmayı kapatın.
+2. Hem mobil cihazınızda hem de bilgisayarınızda Wi-Fi\'ı kapatın.
+3. Mobil cihazınızın bilgisayarınıza yakın olduğundan emin olun. Farklı yerlerdeyse cihazları bağlayamazsınız."</item>
+    <item>Bilgisayarınız, daha önce bağlanmış olan yakındaki mobil cihazları algılamak için Bluetooth kullanır. Mobil cihazınızda Bluetooth\'un açık olup olmadığını kontrol edin.</item>
+    <item>Mobil cihazlar, ekran kilitliyken verileri bilgisayarlarla eşitleyemez. Varsayılan olarak, bu uygulama, mobil cihazınız bir bilgisayara bağlıyken ekranın kilitlenmesine izin vermez. Bunu Ayarlar\'dan değiştirebilirsiniz.</item>
+    <item>"1. Uyumlu mobil cihazlar: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. QR kodunu taradıktan sonra resmi web sitemize yönlendirilirseniz cihazınız henüz desteklenmiyordur.
+2. Uyumlu bilgisayarlar: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Bilgisayarınız için MIUI+ Beta\'yı buradan indirin: https://pc.mi.com/aiot."</item>
   </string-array>
   <string-array name="settings_tips_title">
     <item>QR kodunu kullanarak bağlanamıyor musunuz?</item>
