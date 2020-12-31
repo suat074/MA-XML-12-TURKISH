@@ -931,7 +931,7 @@ mevcut"</string>
   <string name="loading_gif_thumbnail">GIF küçük resmi indiriliyor…</string>
   <string name="loading_image">Resim indiriliyor...</string>
   <string name="loading_image_thumbnail">Küçük resim indiriliyor…</string>
-  <string name="loading_members">Üyeler yükleniyor</string>
+  <string name="loading_members">Üyeler yükleniyor…</string>
   <string name="loading_processing_tip">Fotoğraf işleniyor…</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
   <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgiler kaldırılıyor (%d/%d)…</string>
@@ -1102,7 +1102,7 @@ mevcut"</string>
   <string name="movie_save_successfully">Yapıcılığa kaydedildi</string>
   <string name="movie_saving">Klip oluşturuluyor…</string>
   <string name="movie_tab_edit">Düzenle</string>
-  <string name="movie_tab_music">Müzik</string>
+  <string name="movie_tab_music">Ses</string>
   <string name="movie_tab_template">Şablon</string>
   <string name="movie_template_baby">Kutu</string>
   <string name="movie_template_cool">Işıklar</string>
@@ -1120,7 +1120,7 @@ mevcut"</string>
   <string name="movie_template_travel">Seyahat</string>
   <string name="movie_template_xmas">Noel</string>
   <string name="movie_video_long">Uzun video</string>
-  <string name="movie_video_short">10sn. video</string>
+  <string name="movie_video_short">%ds</string>
   <string name="multi_view_tip_button_text">Anladım</string>
   <string name="multi_view_tip_sub_title">Görüntülenen öğelerin boyutunu ayarlamak için iki parmağınızı birbirinden ayırın veya birbirine doğru hareket ettirin.</string>
   <string name="multi_view_tip_title">Yakınlaştırma ve uzaklaştırma</string>
@@ -1322,7 +1322,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="photo_editor_talkback_recently">Son zamanlarda kullanılmış</string>
   <string name="photo_editor_talkback_redo">Yinele</string>
   <string name="photo_editor_talkback_undo">Geri al</string>
-  <string name="photo_editor_text">Filigran</string>
+  <string name="photo_editor_text">Metin</string>
   <string name="photo_font_cancel_download">İptal</string>
   <string name="photo_font_download">İndir</string>
   <string name="photo_font_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
@@ -1775,9 +1775,9 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="text_edit_dialog_font_default">Varsayılan</string>
   <string name="text_edit_dialog_keyboard">Klavye</string>
   <string name="text_edit_dialog_style">Stil</string>
-  <string name="text_edit_dialog_style_align_center">Merkez</string>
-  <string name="text_edit_dialog_style_align_left">Sol</string>
-  <string name="text_edit_dialog_style_align_right">Sağ</string>
+  <string name="text_edit_dialog_style_align_center">Ortaya hizala</string>
+  <string name="text_edit_dialog_style_align_left">Sola hizala</string>
+  <string name="text_edit_dialog_style_align_right">Sağa hizala</string>
   <string name="text_edit_dialog_style_bold">Kalın</string>
   <string name="text_edit_dialog_style_color">"Renk  "</string>
   <string name="text_edit_dialog_style_shadow">Gölge</string>
