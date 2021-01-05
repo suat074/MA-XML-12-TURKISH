@@ -558,6 +558,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="no_block_button_msg">Engeli kaldır</string>
   <string name="no_conversations">Konuşma yok</string>
   <string name="no_delivery_report">Teslim raporu yok</string>
+  <string name="no_dialogue_yet">Bir konuşma seçin</string>
   <string name="no_longer_recommend">Tekrar gösterme</string>
   <string name="no_network_description">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="no_subject">(Konu yok)</string>

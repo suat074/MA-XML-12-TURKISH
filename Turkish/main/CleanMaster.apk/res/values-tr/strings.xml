@@ -796,4 +796,41 @@
   <string name="notification_wechat_clean_middle_level_hint">Gecikme olmadan bildirim almak için çöpleri temizleyin</string>
   <string name="notification_wechat_clean_middle_level_text_a">WeChat çöpleri çok fazla depolama alanı kaplıyor</string>
   <string name="notification_wechat_clean_middle_level_text_b">WeChat çöpleri uygulamayı yavaşlatıyor</string>
+  <string name="hints_quick_deep_clean2">%s yer açın</string>
+  <string name="powerful_acceleration">Birleştirme</string>
+  <string name="powerful_acceleration_after">Sonra</string>
+  <string name="powerful_acceleration_before">Önce</string>
+  <string name="powerful_acceleration_enable_summary">Cihazı kullanmadığınız zamanlarda birleştirme otomatik olarak gerçekleştirilecektir</string>
+  <string name="powerful_acceleration_enable_title">Arka planda birleştirme gerçekleştir</string>
+  <string name="powerful_acceleration_item_button">Aç</string>
+  <string name="powerful_acceleration_item_tip_normal">Depolamanız iyi görünüyor!</string>
+  <string name="powerful_acceleration_notification_summary">Daha fazla yer açmak için dokunun</string>
+  <string name="powerful_acceleration_notification_title">Birleştirme tamamlandı</string>
+  <string name="powerful_acceleration_tip">Dahili depolamada parçalanma var ve bu da cihazınızı önemli ölçüde yavaşlatabilir. Birleştirme, dosyalarınızı en küçük parça sayısına göre düzenler ve bu da gecikmeyi azaltır.</string>
+  <string name="powerful_acceleration_tip_high"><Data>Depolamanız &lt;font color=#ff0000 >ciddi şekilde&lt;/font> parçalanmıș. Birleştirme sorunu çözebilir.</Data></string>
+  <string name="powerful_acceleration_tip_middle"><Data>Depolamanız &lt;font color=#ff0000 >biraz&lt;/font> parçalanmıș. Birleştirme sorunu çözebilir.</Data></string>
+  <string name="powerful_acceleration_toast">Cihazı kullanmadığınızda birleştirme gerçekleştirilecek</string>
+  <string name="rs_clean_size_free_space">%s yer açın</string>
+  <string name="rs_clean_size_storage_size">%1$s/%2$s dolu</string>
+  <string name="rs_clean_size_storage_title">Depolama</string>
+  <string name="video_clean">Önbelleğe alınmış videoları temizle</string>
+  <string name="video_clean_auto_clean">Otomatik temizle</string>
+  <string name="video_clean_auto_clean_summary">Taradıktan sonra önbelleğe alınmış videoları otomatik olarak temizleyin</string>
+  <string name="video_clean_cache_tip">Temizlenmiş videolar daha sonra tekrar yüklenebilir</string>
+  <string name="video_clean_create_desktop_icon">Ana ekran kısayolu</string>
+  <string name="video_clean_create_desktop_icon_summary">Önbelleğe alınmış videoları tek dokunuşla temizlemek için bir Ana ekran kısayolu ekleyin</string>
+  <string name="video_clean_desktop_icon_created">Ana ekran kısayolu başarıyla eklendi</string>
+  <string name="video_clean_garbage">Önbelleğe alınan videolar</string>
+  <string name="video_clean_garbage_cleared">Önbelleğe alınmış videolar başarıyla temizlendi</string>
+  <string name="video_clean_notification_summary">Uygulamalar tarafından önbelleğe alınmış videoları temizleyin</string>
+  <string name="video_clean_notification_title">%s yer açın</string>
+  <string name="video_clean_personal_settings_title">Ek ayarlar</string>
+  <string name="video_clean_qq_clean_summary">Depolama alanını boşaltmak için çöpleri temizleyin</string>
+  <string name="video_clean_qq_clean_title">QQ temizleyici</string>
+  <string name="video_clean_remind_settings_title">Temizlemeyi hatırlat</string>
+  <string name="video_clean_scan_app_tip">%1$d/%2$d uygulamalar taranıyor</string>
+  <string name="video_clean_video_manager_summary">Cihazınızda depolanan tüm videoları yönetin</string>
+  <string name="video_clean_video_manager_title">Video yöneticisi</string>
+  <string name="video_clean_wechat_clean_summary">Hızı artırmak için çöpleri temizleyin</string>
+  <string name="video_clean_wechat_clean_title">WeChat temizleyici</string>
 </resources>

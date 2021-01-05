@@ -1438,4 +1438,9 @@
     <item>Dokun</item>
     <item>İki kez dokun</item>
   </string-array>
+  <string-array name="tabs_taptic_detail">
+    <item>Net</item>
+    <item>Baz</item>
+    <item>Pop</item>
+  </string-array>
 </resources>

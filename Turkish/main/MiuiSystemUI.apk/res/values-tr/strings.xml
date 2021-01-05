@@ -799,6 +799,7 @@
   <string name="gxzw_use_password_to_unlock">Şifreyi girin</string>
   <string name="hdcp_checking_dialog_title">HDCP denetimini ayarla</string>
   <string name="hdcp_checking_title">HDCP denetimi</string>
+  <string name="heads_up_snooze_toast">Cihazınızın kilidini tekrar açana kadar bu uygulamadan gelen bildirimler görünmeyecek</string>
   <string name="headset">Kulaklık</string>
   <string name="help_feedback_label">Yardım ve geri bildirim</string>
   <string name="hidden_notifications_cancel">Hayır teşekkürler</string>

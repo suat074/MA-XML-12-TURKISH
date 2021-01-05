@@ -20,6 +20,7 @@
   <string name="application_permissions">Uygulama izinleri</string>
   <string name="back">Geri</string>
   <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="boot_video_desc">Dünyayı 2K\'da görün</string>
   <string name="boot_video_replay">Tekrar oynat</string>
   <string name="boot_video_skip">Atla</string>
   <string name="calculator_introduction">Bu uygulamayı hesaplama, birimler ve para birimleri dönüştürme ve ipotek geri ödemelerinizi tahmin etmek için kullanabilirsiniz.</string>

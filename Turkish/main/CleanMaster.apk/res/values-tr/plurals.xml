@@ -185,4 +185,16 @@
     <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz</item>
     <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz</item>
   </plurals>
+  <plurals name="rs_clean_size_hint_image">
+    <item quantity="other">%d fotoğraf için yeterli</item>
+    <item quantity="one">%d fotoğraf için yeterli</item>
+  </plurals>
+  <plurals name="rs_clean_size_hint_song">
+    <item quantity="other">%d şarkı için yeterli</item>
+    <item quantity="one">%d şarkı için yeterli</item>
+  </plurals>
+  <plurals name="video_clean_scan_app_result">
+    <item quantity="other">Önbelleğe alınmış videoları olan %d uygulama</item>
+    <item quantity="one">Önbelleğe alınmış videoları olan %d uygulama</item>
+  </plurals>
 </resources>

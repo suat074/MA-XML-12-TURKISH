@@ -1557,4 +1557,17 @@
   <string name="save_to_note_new">Notlar\'a kaydet</string>
   <string name="toast_reach_text_limit_truncate_new">Notunuz çok uzun.  Fazla içerik kesildi.</string>
   <string name="save_to_note">Notlar\'a kaydet</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_option">Kart arka planlarını bulanıklaştır</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_summary">Kart arka planlarına Gauss bulanıklığı uygulayın. Bu özellik, kaydırma yanıtını yavaşlatabilir.</string>
+  <string name="app_sports_all_club">Kulüp</string>
+  <string name="app_sports_all_league">Lig</string>
+  <string name="app_sports_all_title">Sorunu seçin</string>
+  <string name="app_sports_card_settings">Ayarlar</string>
+  <string name="app_sports_dialog_msg_install_douyu">Bu özelliği kullanabilmek için Douyu\'yu yükleyin. Şimdi yüklensin mi?</string>
+  <string name="app_sports_dialog_msg_install_hupu">Bu özelliği kullanabilmek için Hupu\'yu yükleyin. Şimdi yüklensin mi?</string>
+  <string name="app_sports_fav_cancel_club">Bu kulübü kaldır</string>
+  <string name="app_sports_fav_cancel_league">Bu ligi kaldır</string>
+  <string name="app_sports_fav_club">İlgili kulüp</string>
+  <string name="app_sports_fav_league">İlgili lig</string>
+  <string name="app_sports_fav_title">İlgilendiklerim</string>
 </resources>

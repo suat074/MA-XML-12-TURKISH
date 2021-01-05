@@ -718,4 +718,8 @@ Bu uygulamanın normal çalışabilmesi için internete bağlanması ve aşağı
   <string name="white_bellied_sea_eagle">Beyaz kuyruklu kartal</string>
   <string name="willow_grouse">Willow ptarmigan</string>
   <string name="wombat">Wombat</string>
+  <string name="animal_select_alert_info">En fazla 5 öğe seçebilirsiniz</string>
+  <string name="random_play_sound_alert">Bildirimler aldığınızda bu bölgedeki hayvanların seslerini duyarsınız</string>
+  <string name="branch_ramphastos">Tukan</string>
+  <string name="item_liebird">Ağaçkakansılar</string>
 </resources>
