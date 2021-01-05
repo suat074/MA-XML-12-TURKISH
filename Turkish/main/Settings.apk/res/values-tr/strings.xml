@@ -7730,7 +7730,6 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="button_normal_text">Normal düğme</string>
   <string name="checkbox_text">Değiştir</string>
   <string name="customize_knock_gesture">Özel parmak eklem hareketleri</string>
-  <string name="double_knock">Parmak eklemi çift dokunma</string>
   <string name="general_text">Metin alanı</string>
   <string name="general_time">"Zaman: %1$d:%2$d. Uzun titreşimler saatleri, kısa titreşimler dakikaları temsil eder. Saatler ve dakikalardan önce kısa bir duraklama olacaktır. Denemek için iki kez dokunun.</string>
   <string name="haptic_experience">Demo</string>
@@ -7747,10 +7746,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="knock_guide_set_screenshot">Ekran görüntüsü</string>
   <string name="knock_guide_set_voiceassist">Mi AI</string>
   <string name="knock_guide_sub_title">Parmak ekleminizle ekrana dokunarak Mi AI tetikleyebilir veya ekran görüntüsü alabilirsiniz.</string>
-  <string name="knock_guide_title">Parmak eklemi çift dokunma</string>
+  <string name="knock_guide_title">Eklemli çift dokunma</string>
   <string name="knock_long_press_horizontal_slid">Bir parmak eklemiyle yatay olarak bastırın ve kaydırın</string>
-  <string name="knock_slide_shape">Parmak eylemiyle bir daire çizin</string>
-  <string name="knock_slide_v">Parmak eylemiyle bir V çizin</string>
+  <string name="knock_slide_shape">Parmak eklemiyle bir daire çizin</string>
+  <string name="knock_slide_v">Parmak eklemiyle bir V çizin</string>
   <string name="miheadset_fitness_check">fitness kontrolü</string>
   <string name="miheadset_fitness_check_result_not_ok">fitness kötü</string>
   <string name="miheadset_fitness_check_result_ok">fitness tamam</string>
