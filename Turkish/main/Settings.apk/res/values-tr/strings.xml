@@ -7731,7 +7731,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="checkbox_text">Değiştir</string>
   <string name="customize_knock_gesture">Özel parmak eklem hareketleri</string>
   <string name="general_text">Metin alanı</string>
-  <string name="general_time">"Zaman: %1$d:%2$d. Uzun titreşimler saatleri, kısa titreşimler dakikaları temsil eder. Saatler ve dakikalardan önce kısa bir duraklama olacaktır. Denemek için iki kez dokunun.</string>
+  <string name="general_time">"Zaman: %1$d:%2$d. Uzun titreşimler saatleri, kısa titreşimler dakikaları temsil eder. Saatler ve dakikalar arasında kısa bir duraklama olacak. Denemek için iki kez dokunun.</string>
   <string name="haptic_experience">Demo</string>
   <string name="haptic_experience_details">Dokunsal geribildirim &amp; erişilebilirlik</string>
   <string name="haptic_switch_summary">Ekran okuyucu açıkken seçili öğelere özgü dokunsal geribildirim alın</string>
@@ -7761,4 +7761,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="seekbar_text">Kaydırıcı</string>
   <string name="tab_text">Sekme</string>
   <string name="wallet_header_title">Cüzdan &amp; ödemeler</string>
+  <string name="recommend_text_wakeup_xiaoai">Ayarlar</string>
+  <string name="recommend_tip_wakeup_xiaoai">Mi AI ile etkileşim için düğmeleri kullanmak, tam ekran hareketlerini kapatmanızı ve gezinme yönteminiz olarak düğmeleri seçmenizi gerektirir.</string>
+  <string name="xiaoai_global_shortcut">Genel</string>
+  <string name="xiaoai_key_shortcut">Düğmeler</string>
+  <string name="xiaoai_other_shortcut">Diğer yöntemler</string>
+  <string name="xiaoai_shortcut_settings_title">Düğmeleri ve hareketleri kullanarak Mi AI\'yi tetikleyin</string>
 </resources>

@@ -1575,4 +1575,9 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="makeup_effect_entry_palm">Palmiye</string>
   <string name="makeup_effect_entry_taro">Taro</string>
   <string name="makeup_effect_entry_vitality">Canlılık</string>
+  <string name="pref_camera_tip_doc">Belge tarayıcı</string>
+  <string name="pref_camera_tip_id_card">Kimlik tarayıcı</string>
+  <string name="pref_smart_guide_title">Akıllı öneriler</string>
+  <string name="settings_camera_detect_card_description">AI kamera bir kimlik kartı algıladığında bir kısayol görüntüle</string>
+  <string name="settings_camera_detect_description_doc">AI kamera bir belge veya sunum slaytı algıladığında bir kısayol görüntüle</string>
 </resources>
