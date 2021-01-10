@@ -34,23 +34,24 @@
   <string name="expand_button_title">Gelişmiş</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">dd/MM</string>
-  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>
   <string name="game_view_content_description">Oyun görünümü</string>
+  <string name="geometry_summary">Şekiller, ışık ve renkler</string>
+  <string name="geometry_super_wallpaper_label">Geometri</string>
+  <string name="geometry_title">Geometri</string>
   <string name="install_failed">Yüklenemedi</string>
-  <string name="mars_position_content_0">"Bu bölge, enkaz kaplı buzulların neden olduğuna inanılan uçurumlar, kesikler ve geniş düz vadiler içeriyor. Burada, eski Mars\'ta yaşam kanıtı aramaya büyük ilgi duyan kil mineralleri de tespit edilmiştir.
-  
+  <string name="mars_position_content_0">"Bu bölge, enkaz kaplı buzulların neden olduğuna inanılan uçurumlar, kesikler ve geniş düz vadiler içeriyor. Burada, eski Mars\'ta yaşam kanıtı aramaya büyük ilgi duyan kil mineralleri de tespit edilmiştir.
 NASA/JPL/Arizona Üniversitesi"</string>
-  <string name="mars_position_content_1">"Yinelenen eğim hatları (RSL), sıcak Mars eğimlerinden sızan suyun neden olabileceği aktif akışlardır. Gale Krateri\'ndeki RSL, belki de pas gibi oksitlenmiş demir bileşikleri nedeniyle çoğu RSL\'ye kıyasla alışılmadık şekilde \"kırmızımsı\" bir renge sahiptir.
-  
+  <string name="mars_position_content_1">"Yinelenen eğim hatları (RSL), sıcak Mars eğimlerinden sızan suyun neden olabileceği aktif akışlardır. Gale Krateri\'ndeki RSL, belki de pas gibi oksitlenmiş demir bileşikleri nedeniyle çoğu RSL\'ye kıyasla alışılmadık şekilde \"kırmızımsı\" bir renge sahiptir.
 NASA/JPL/Arizona Üniversitesi"</string>
   <string name="mars_position_content_2">"Mawrth Vallis açık renkli kil açısından zengin kayalara sahip eski bir su çıkış kanalıdır. Kil mineralleri Dünya\'daki mikroskobik hayatı kolayca korur, bu yüzden belki de Mawrth\'de eski yaşam izleri bulunabilir.
- 
+  
 NASA/JPL/Arizona Üniversitesi"</string>
   <string name="mars_position_title_0">"Nilosyrtis
 Mensae Bölgesi"</string>
@@ -73,9 +74,17 @@ EEEE"</string>
 EEE"</string>
   <string name="miui_lock_screen_large_date_12">"dd/M
 EEE"</string>
-  <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
-  <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -139,6 +148,9 @@ EEE"</string>
   <string name="saturn_summary">Satürn halkaları Güneş sistemindeki en inanılmaz gösteriyi yapar</string>
   <string name="saturn_title">Uzak halkalar</string>
   <string name="search_menu_title">Ara</string>
+  <string name="snowmountain_summary">Güneşli dağ yamaçları</string>
+  <string name="snowmountain_super_wallpaper_label">Siguniang Dağı</string>
+  <string name="snowmountain_title">Siguniang Dağı</string>
   <string name="solar_term_autumn_begins">Sonbahar Başlıyor</string>
   <string name="solar_term_autumn_equinox">Sonbahar Gündönümü</string>
   <string name="solar_term_clear_and_bright">Açık ve Parlak</string>
@@ -238,31 +250,14 @@ EEE"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Süper duvar kağıtları</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha fazla</string>
   <string name="wallpaper_setting_title">Duvar kağıdı</string>
-  <string name="wednesday">Çarşamba</string>
-  <string name="wednesday_short">Çrş</string>
-  <string name="wednesday_shortest">Çrş</string>
-  <string name="yesterday">Dün</string>
-  <string name="geometry_summary">Şekiller, ışık ve renkler</string>
-  <string name="geometry_super_wallpaper_label">Geometri</string>
-  <string name="geometry_title">Geometri</string>
-  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
-  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-  <string name="miuix_appcompat_cancel_description">İptal</string>
-  <string name="miuix_appcompat_confirm_description">Onayla</string>
-  <string name="miuix_appcompat_delete_description">Sil</string>
-  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
-  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
-  <string name="miuix_appcompat_search_input_description">Ara</string>
-  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-  <string name="snowmountain_summary">Güneşli dağ yamaçları</string>
-  <string name="snowmountain_super_wallpaper_label">Siguniang Dağı</string>
-  <string name="snowmountain_title">Siguniang Dağı</string>
   <string name="weather_summary">Yerel hava durumu bilgisi</string>
   <string name="weather_super_wallpaper_label">Hava durumu</string>
   <string name="weather_title">Hava durumu</string>
+  <string name="wednesday">Çarşamba</string>
+  <string name="wednesday_short">Çrş</string>
+  <string name="wednesday_shortest">Çrş</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
+  <string name="yesterday">Dün</string>
 </resources>
