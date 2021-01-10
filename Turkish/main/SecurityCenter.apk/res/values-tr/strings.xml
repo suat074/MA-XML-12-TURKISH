@@ -3458,7 +3458,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
     <string name="privacy_show_password_summary">Kısa bir süre için şifreleri görünür tut</string>
     <string name="privacy_special_permission_summary">Uygulamaların hassas izinleri nasıl kullandığını izle</string>
     <string name="privacy_special_permission_title">Özel izinler</string>
-    <string name="privacy_summary">"MIUI 12'de gizlilik koruması hakkında bilgi edinin"</string>
+    <string name="privacy_summary">MIUI gizlilik koruması hakkında bilgi edinin</string>
     <string name="privacy_type_open">Açık</string>
     <string name="privacy_using_camera">Kamerayı kullanma</string>
     <string name="privacy_using_location">Konuma erişme</string>
@@ -4096,4 +4096,12 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="version_can_update">Yeni özelliklere önce erişmek için %s ürününü en son Beta sürümüne güncelleyebilirsiniz.</string>
   <string name="version_check_update">Güncellemeleri kontrol et</string>
   <string name="version_update_title">%s güncelle</string>
+  <string name="ad_floating_window_title">Kilidi açmak için yüzer pencereyi kapatın</string>
+  <string name="dlg_onlie_service_summary">Çevrimiçi hizmetleri kapatmak, uygulamanın bazı özelliklerini kullanılamaz hale getirir. Yine de kapatılsın mı?</string>
+  <string name="dlg_open_online_service_pos_text">Aç</string>
+  <string name="dlg_open_online_service_summary">Çevrimiçi hizmetler kapalıyken bazı özellikler kullanılamaz. Çevrimiçi hizmetler şimdi açılsın mı?</string>
+  <string name="dlg_open_online_service_title">Çevrimiçi hizmetler</string>
+  <string name="in_delete">Siliniyor…</string>
+  <string name="in_recover">Geri yükleniyor…</string>
+  <string name="setting_online_service">Çevrimiçi hizmetler</string>
 </resources>

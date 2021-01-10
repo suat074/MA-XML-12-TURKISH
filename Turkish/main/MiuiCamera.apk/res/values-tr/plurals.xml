@@ -36,6 +36,10 @@
     <item quantity="other">%1$s dak.</item>
     <item quantity="one">%1$s dak</item>
   </plurals>
+  <plurals name="timefreeze_guide_tip1">
+    <item quantity="one">En fazla %d konu ile zaman dondurma videoları çekebilirsiniz.</item>
+    <item quantity="other">En fazla %d konu ile zaman dondurma videoları çekebilirsiniz.</item>
+  </plurals>
   <plurals name="timer_burst_setting_total_count">
     <item quantity="other">%1$s fotoğraf</item>
     <item quantity="one">%1$s fotoğraf</item>

@@ -657,4 +657,6 @@
   <string name="not_support_upload_file_for_overseas_users">Yükleme, Çin Anakarası dışında kullanılamaz</string>
   <string name="stay_tuned">Bizi izlemeye devam edin</string>
   <string name="stay_tuned_sub_desc">Bu hizmet şu anda yalnızca Çin Halk Cumhuriyeti\'nde mevcuttur.</string>
+  <string name="detail_download_path">"Konum: "</string>
+  <string name="detail_download_time">"İndirildi: "</string>
 </resources>

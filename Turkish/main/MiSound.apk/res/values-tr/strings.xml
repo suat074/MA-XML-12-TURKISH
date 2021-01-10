@@ -220,6 +220,7 @@
   <string name="sound_transmission_dialog_message">Ses asistanı</string>
   <string name="sound_transmission_dialog_title">Bluetooth\'u aç</string>
   <string name="sound_transmission_end">Dur</string>
+  <string name="sound_transmission_function_generalize">Telefonunuzun mikrofonundan harici bir Bluetooth cihazına ses aktarın</string>
   <string name="sound_transmission_processing">Mikrofon</string>
   <string name="sound_transmission_prompt">Kablosuz mikrofonu kullanmak için bu özelliğin Bluetooth\' u açmasına izin verin.</string>
   <string name="sound_transmission_scenes">Sahne</string>

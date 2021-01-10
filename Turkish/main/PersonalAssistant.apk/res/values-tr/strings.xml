@@ -162,6 +162,7 @@
   <string name="app_pa_setting_service_timetable_summary">Sınıfları zamanlamak için dokunun</string>
   <string name="app_pa_setting_title">Ayarlar</string>
   <string name="app_pa_setting_version">Sürüm: %1$s</string>
+  <string name="app_screen_time_auth">Ekran süresi</string>
   <string name="app_sports_title_all_leagues">Tüm maçlar</string>
   <string name="app_stock_more_add_stock">Ekle</string>
   <string name="app_stock_title">Hisse senetleri</string>
