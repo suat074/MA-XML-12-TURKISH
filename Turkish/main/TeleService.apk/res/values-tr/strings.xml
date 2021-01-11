@@ -1851,7 +1851,7 @@
   <string name="voicemail_provider">Hizmet</string>
   <string name="voicemail_provider_summary">Sesli mesaj hizmetini seçin</string>
   <string name="voicemail_set_pin_dialog_title">PIN ayarla</string>
-  <string name="voicemail_settings">Sesli Mesaj Kurulumu</string>
+  <string name="voicemail_settings">Sesli mesaj ayarları</string>
   <string name="voicemail_settings_number_hint">Sesli mesaj kutusunun numarasını girin</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="voicemail_settings_number_title">Sesli mesaj numarası</string>

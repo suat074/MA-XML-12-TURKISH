@@ -2855,6 +2855,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="launch_recents">Son uygulamalar</string>
   <string name="launch_voice_assistant">Ses asistanı başlat</string>
   <string name="launcher_icon">Simgeler</string>
+  <string name="launcher_icon_management">Ana ekran kısayollarını yönet</string>
   <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>

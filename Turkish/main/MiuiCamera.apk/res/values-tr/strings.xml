@@ -637,7 +637,6 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="fastmotion_pro_save_time_min_and_sec">Süre: %1$s %2$s</string>
   <string name="fastmotion_pro_save_time_min_or_sec">Süre: %1$s</string>
   <string name="film_video_e_tip">Yalnızca manzara çekimini destekler</string>
-  <string name="film_video_tip">Çekim için tripod kullanın</string>
   <string name="fps960_toast">Ağır çekim yakalama, kaydın son çeyreğinde başlayacaktır</string>
   <string name="fragment_tab_name_bokeh">Bokeh</string>
   <string name="front_camera_hint_text_place">Telefonunuzu döndürdüğünüz zaman \nözçekim yapmak daha kolay olacak</string>
@@ -1537,7 +1536,6 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="live_edit_exit_message_draft">Taslak olarak kaydet</string>
   <string name="live_workspace_title">Taslaklar</string>
   <string name="live_workspace_title_edit">Silinecek öğeleri seçin</string>
-  <string name="film_video_b_tip">Lütfen düşük ışıkta çekim yapın</string>
   <string name="pref_video_quality_hfr_title">Kare hızı &amp; görüntü kalitesi</string>
   <string name="confirm_fastmotion_reset_manually_parameter_message">Parametreler şimdi sıfırlansın mı?</string>
   <string name="capture_shortcut_long">Selfie</string>

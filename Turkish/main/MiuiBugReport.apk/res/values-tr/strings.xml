@@ -721,4 +721,10 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="toast_fill_brackets">Raporunuzda bazı bilgiler eksik</string>
   <string name="toast_log_too_large">Karşıya yüklenemiyor. Günlük çok büyük.</string>
   <string name="toast_title_required">Sorununuzu açıklayın</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="send">Gönder</string>
 </resources>

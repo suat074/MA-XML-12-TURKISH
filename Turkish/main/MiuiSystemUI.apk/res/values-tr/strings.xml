@@ -2526,4 +2526,6 @@ WLAN Adresi (BSSID)
   <string name="zen_mode_warnings_keyguard_content">Cihaz kilitlendiğinde bildirimler ve çağrılar sessize alınacak</string>
   <string name="zen_mode_warnings_quit_immediately">Kapat</string>
   <string name="zen_mode_warnings_title">Rahatsız etme açık</string>
+  <string name="garbage_count">%1$s eski örnek var</string>
+  <string name="memory_leak">Bellek sızıntısı</string>
 </resources>
