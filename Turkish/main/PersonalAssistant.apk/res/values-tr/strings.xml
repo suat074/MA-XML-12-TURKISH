@@ -86,6 +86,8 @@
   <string name="app_express_empty_title">Burada teslimat bilgisi yok</string>
   <string name="app_express_send">Gönder</string>
   <string name="app_express_tail_number">Sipariş: %1$s</string>
+  <string name="app_health_card_completion">Hedef</string>
+  <string name="app_health_card_step">Bugünkü adım:</string>
   <string name="app_memory_free">Mevcut</string>
   <string name="app_memory_title">Hafıza</string>
   <string name="app_miot">Mi Home</string>
@@ -163,6 +165,11 @@
   <string name="app_pa_setting_title">Ayarlar</string>
   <string name="app_pa_setting_version">Sürüm: %1$s</string>
   <string name="app_screen_time_auth">Ekran süresi</string>
+  <string name="app_screen_time_no_time_title">&lt;1 dak</string>
+  <string name="app_screen_time_support_false">Ekran süresi şu anda desteklenmiyor</string>
+  <string name="app_screen_time_time">%1$d sa %2$d dak</string>
+  <string name="app_screen_time_time_minute">%1$d dak</string>
+  <string name="app_screen_time_title">Ekran süresi</string>
   <string name="app_sports_title_all_leagues">Tüm maçlar</string>
   <string name="app_stock_more_add_stock">Ekle</string>
   <string name="app_stock_title">Hisse senetleri</string>

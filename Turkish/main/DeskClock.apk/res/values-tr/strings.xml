@@ -45,7 +45,7 @@
   <string name="auto_silence_never">Asla</string>
   <string name="auto_silence_summary">Alarmların ve zamanlayıcıların susturulacağı zamanı ayarla</string>
   <string name="auto_silence_title">Otomatik susma</string>
-  <string name="back">Çıkış</string>
+  <string name="back">Çık</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="bedtime">Yatma zamanı</string>
   <string name="bedtime_analysis_more">Daha fazla veri</string>

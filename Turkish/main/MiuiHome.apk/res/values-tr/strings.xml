@@ -314,8 +314,11 @@
   <string name="home_screen_settings">Ana ekran</string>
   <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
   <string name="home_switch_personal_assistant">Yardımcı ekran</string>
+  <string name="icon_customize_summary">Stili seçin ve boyutu ayarlayın</string>
+  <string name="icon_form">Simgeler</string>
   <string name="icon_reorganize_channel">Simgeleri düzenle</string>
   <string name="icon_size">Simge boyutu</string>
+  <string name="icon_style">Stil</string>
   <string name="image_too_small_message">Orijinal görüntü yeterince büyük değil</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi</string>
@@ -460,7 +463,7 @@
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
   <string name="recents_incompatible_app_message">Bu uygulama Bölünmüş ekranı desteklemiyor</string>
-  <string name="recents_layout_style">Son Kullanılanlar bölümündeki öğeleri düzenle</string>
+  <string name="recents_layout_style">Son Kullanılanlar bölümü düzeni</string>
   <string name="recents_layout_style_horizontal">Yatay olarak</string>
   <string name="recents_layout_style_vertical">Dikey olarak</string>
   <string name="recents_smallwindow_text">Eklemek için bırakın</string>
