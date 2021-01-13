@@ -110,7 +110,7 @@
   <string name="gb_advance_settings_edge_gear4">Büyük</string>
   <string name="gb_advance_settings_edge_suppression">Dokunmaya dayanıklı alan</string>
   <string name="gb_advance_settings_edge_suppression_summary">Dokunmatik kontrolleri tetiklemekten kaçınmak için kenarlara yakın yerlerde dokunmatik hassasiyetini azaltın. Hoparlörleri açık tutmak için cihazınızı vurgulanan alanlara göre tutun.</string>
-  <string name="gb_advance_settings_finger_up">Tekrarlanan dokunuş duyarlılığı</string>
+  <string name="gb_advance_settings_finger_up">Sürekli dokunmalara duyarlılık</string>
   <string name="gb_advance_settings_follow_up">Dokunma tepkisi</string>
   <string name="gb_advance_settings_reset">Varsayılan ayarları geri yükle</string>
   <string name="gb_advance_settings_reset_button">Geri yükle</string>

@@ -659,4 +659,21 @@
   <string name="stay_tuned_sub_desc">Bu hizmet şu anda yalnızca Çin Halk Cumhuriyeti\'nde mevcuttur.</string>
   <string name="detail_download_path">"Konum: "</string>
   <string name="detail_download_time">"İndirildi: "</string>
+  <string name="channel_pc_edit">Bilgisayarda düzenlendi</string>
+  <string name="channel_pc_upload">Bilgisayardan yüklendi</string>
+  <string name="channel_pc_view">Bilgisayarda görüntülendi</string>
+  <string name="channel_phone_edit">Telefonda düzenlendi</string>
+  <string name="channel_phone_upload">Telefondan yüklendi</string>
+  <string name="channel_phone_view">Telefonda görüntülendi</string>
+  <string name="channel_web_edit">Tarayıcıda düzenlendi</string>
+  <string name="channel_web_upload">Tarayıcıdan yüklendi</string>
+  <string name="channel_web_view">Tarayıcıda görüntülendi</string>
+  <string name="delete_operation_record">Bu kayıt silinsin mi?</string>
+  <string name="delete_operation_record_timeout">Kayıt silinemedi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="jump_to_directory">Klasörü aç</string>
+  <string name="no_recent_activity">Son kullanılan öğe yok</string>
+  <string name="operation_dialog_jump_message">Klasör açılıyor…</string>
+  <string name="operation_will_not_show_after_delete">Silerseniz kayıt artık burada görüntülenmez.</string> 
+  <string name="recent_file">Son kullanılan</string>
+  <string name="recent_jump_to_privacy_fail_notice">Bu dosya özeldir. Başlangıç ​​sayfasına geri dönün ve görüntülemek için aşağı çekin.</string>
 </resources>

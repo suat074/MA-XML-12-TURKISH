@@ -277,11 +277,11 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="miui_ringer_status_open">Açık</string>
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Çalar saat dışındaki tüm öğeler için sesler sessiz ve titreşim kapalı</string>
-  <string name="miui_toast_zen_dnd_to_off">Rahatsız etme şimdi kapalı. Sesler ve titreşim normale döndü.</string>
-  <string name="miui_toast_zen_standard_to_off">Sessiz mod şimdi kapalı. Zil sesleri normale döndü.</string>
+  <string name="miui_toast_zen_dnd_to_off">Çağrılar ve bildirimler artık sessize alınmayacak</string>
+  <string name="miui_toast_zen_standard_to_off">Sessiz mod kapalı</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Sessiz mod şimdi kapalı. Zil sesleri, bildirim ve medya sesleri çalacak.</string>
-  <string name="miui_toast_zen_to_dnd">Rahatsız etme moduna geçildi. Sesler susturuldu ve titreşim artık kapalı.</string>
-  <string name="miui_toast_zen_to_standard">Sessiz moda geçildi. Çağrılar ve bildirimler için zil sesleri susturuldu.</string>
+  <string name="miui_toast_zen_to_dnd">Çağrılar ve bildirimler susturulacak</string>
+  <string name="miui_toast_zen_to_standard">Sessiz mod açık</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Sessiz moda geçildi. Zil sesleri, bildirim ve medya sesleri susturuldu.</string>
   <string name="power_off">Kapat</string>
   <string name="quick_settings_pcmode_dialog_description">PC modu, çoklu pencere görevlerini destekler ve klavye ve fare ile kullanılabilir. Bu moda geçmek için başlatılan tüm uygulamalar kapatılır. Bazı uygulamalar PC modunu desteklemeyebilir.</string>
@@ -303,7 +303,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="wireless_charging_saver_message">Pil tasarrufu şimdi açık. Ters kablosuz şarj kullanılabilir durumda tutulsun mu?</string>
   <string name="wireless_charging_saver_ok">Tut</string>
   <string name="wireless_charging_tips_disable">Tekrar gösterme</string>
-  <string name="wireless_charging_tips_message">Qi kablosuz şarjı destekleyen cihazları (telefonlar, aksesuarlar vb.) bu cihazın arkasına yerleştirin.</string>
+  <string name="wireless_charging_tips_message">Kablosuz olarak şarj etmek istediğiniz cihazı (ör. Telefon, akıllı saat, kulaklık) bu telefonun arkasına yerleştirin. Ters kablosuz şarjı kullanmadan önce bu telefonun şarjının en az %d%% olduğundan emin olun.</string>
   <string name="wireless_charging_tips_title">Ters kablosuz şarj</string>
   <string name="accessibility_back">Geri</string>
   <string name="slider_view_content_description">Kapatmak için yukarı kaydırın veya yeniden başlatmak için aşağı kaydırın</string>
@@ -344,4 +344,8 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
   <string name="mtrl_picker_toggle_to_year_selection">Yıl seçimine geçmek için dokunun</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
+  <string name="dnd_popup_close_message">Anladım</string>
+  <string name="dnd_popup_message">Medya seslerini kapatmadan çağrıları ve bildirimleri sessize almak için Rahatız etme modunu açabilirsiniz.</string>
+  <string name="miui_toast_zen_to_dnd_when_lock">Cihaz kilitlendiğinde çağrılar ve bildirimler sessize alınacak</string>
+  <string name="wireless_charging_tips_sub_message">Diğer cihaz, Qi kablosuz şarj standardını desteklemelidir.</string>
 </resources>

@@ -57,6 +57,7 @@ dd/MM"</string>
   <string name="aod_show_date_and_time">Tarih ve saati göster</string>
   <string name="aod_show_style_title">Öğeleri görüntüle</string>
   <string name="aod_style">Tema</string>
+  <string name="aod_theme_store">Her zaman açık ekran temaları</string>
   <string name="aod_to_close">Kapat</string>
   <string name="apply">Uygula</string>
   <string name="apply_succeed">Başarıyla uygulandı</string>

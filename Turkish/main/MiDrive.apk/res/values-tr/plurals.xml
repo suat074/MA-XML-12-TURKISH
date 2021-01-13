@@ -176,4 +176,8 @@
     <item quantity="other">Yükleniyor... %1$d öğe kaldı (%2$s%%)</item>
     <item quantity="one">Yükleniyor... %1$d öğe kaldı (%2$s%%)</item>
   </plurals>
+  <plurals name="view_all">
+    <item quantity="other">1$d öğe</item>
+    <item quantity="one">%1$d öğe</item>
+  </plurals>
 </resources>
