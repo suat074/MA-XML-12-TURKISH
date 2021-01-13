@@ -7768,4 +7768,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="xiaoai_key_shortcut">Düğmeler</string>
   <string name="xiaoai_other_shortcut">Diğer yöntemler</string>
   <string name="xiaoai_shortcut_settings_title">Düğmeleri ve hareketleri kullanarak Mi AI\'yi tetikleyin</string>
+  <string name="switch_headset_anti_lost">Eksik kulaklık uyarısı</string>
+  <string name="switch_headset_anti_lost_summary">Kulaklıklarınızdan biri, kulağınızdan veya şarj çantanızdan bir dakikadan daha uzun süre uzakta olduğunda bir uyarı alın</string>
+  <string name="switch_headset_anti_lost_title">Eksik kulaklık uyarısı</string>
+  <string name="wifi_enhanced_handover">Gelişmiş Geçiş</string>
+  <string name="wifi_enhanced_handover_summary">Aynı şifreleme yöntemine sahip AP\'ler arasında hızlı geçiş yapın</string>
 </resources>

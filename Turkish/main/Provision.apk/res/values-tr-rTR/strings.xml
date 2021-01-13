@@ -175,7 +175,7 @@
   <string name="pref_title_voice_slot">Tercih edilen Ses SIM kartı</string>
   <string name="privacy_policy">"Gizlilik Politikası "</string>
   <string name="protect_persoanl_info_statement">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
-  <string name="provision_inputmethod_policy_description">\nSeçilen klavyenin Gizlilik Politikasını görüntüleyin.</string>
+  <string name="provision_inputmethod_policy_description"><Data>Seçtiğiniz klavyenin &lt;a href=%1$s>Gizlilik Politikasını&lt;/a > görüntüleyin.</Data></string>
   <string name="provision_inputmethod_policy_description1">"Gizlilik Politikası "</string>
   <string name="recorder_introduction">Ses kaydı yapmak ve kayıtları buluta yedeklemek için bu uygulamayı kullanabilirsiniz.</string>
   <string name="require_authority_statement">Size temel hizmetleri sunmamız ve kişisel bilgilerinizi toplamamız için aşağıdaki izinleri vermeniz gerekir:</string>

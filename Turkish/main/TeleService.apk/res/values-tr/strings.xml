@@ -877,7 +877,7 @@
   <string name="incall_error_out_of_service">Mobil ağ kullanılamıyor.</string>
   <string name="incall_error_out_of_service_kr">Sadece acil durum çağrısı yapılabilir.</string>
   <string name="incall_error_out_of_service_wfc">Mobil ağ kullanılamıyor. Çağrı yapmak için kablosuz ağa bağlanın.</string>
-  <string name="incall_error_outgoing_call_failed">Çağrı yapılamadı</string>
+  <string name="incall_error_outgoing_call_failed">Giden çağrı başarısız oldu.</string>
   <string name="incall_error_power_off">Çağrı yapmak için uçak modunu kapatın.</string>
   <string name="incall_error_power_off_wfc">Çağrı yapmak için uçak modunu kapatın veya kablosuz ağa bağlanın.</string>
   <string name="incall_error_promote_wfc">Çağrı yapmak için WLAN çağrısını etkinleştir.</string>

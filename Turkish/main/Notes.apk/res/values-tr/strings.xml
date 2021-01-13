@@ -716,4 +716,8 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="toast_excerpt_open_note">Not alıntı ile açıldı</string>
   <string name="toast_excerpt_saved">Alıntı Notlar\'a kaydediliyor…</string>
   <string name="view_all_notes">Tümünü görüntüle</string>
+  <string name="blackboard_note">Akıllı yazı tahtası</string>
+  <string name="default_update_documents">Bir güncelleme mevcut. Şimdi güncellensin mi?</string>
+  <string name="note_mindnote_entrance_hint_newversion">"Yazmaya başla "</string>
+  <string name="note_mindnote_entrance_icon_text_newversion">Bir zihin haritası oluştur</string>
 </resources>

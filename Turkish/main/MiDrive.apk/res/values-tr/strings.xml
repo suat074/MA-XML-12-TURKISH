@@ -444,7 +444,7 @@
   <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
   <string name="user_avatar_uploading">Sadece bir saniye…</string>
   <string name="user_id_hint">E-posta/Telefon/Mi Hesap Kimliği</string>
-  <string name="user_protocol_and_privacy_protocol">Kullanıcı Sözleşmesi ve Gizlilik Politikası\'nı okudum ve kabul ediyorum.</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"&lt;a href=\"%1$s\">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ettim."</Data></string>
   <string name="v_code_title">Dogrulama kodunu giriniz</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>

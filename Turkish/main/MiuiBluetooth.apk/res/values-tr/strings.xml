@@ -64,6 +64,8 @@
   <string name="fast_connect_wbs_name">Mi kablosuz şarj hoparlörü</string>
   <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
   <string name="goto_package">%1$s aç</string>
+  <string name="headset_loss_notify_summary">Görünüşe göre kulaklığınızdan en az biri şarj çantasında değil. Etrafına bir göz at!</string>
+  <string name="headset_loss_notify_title">Eksik kulaklık uyarısı</string>
   <string name="install_package">Daha fazla fonksiyon için %1$s yükleyin</string>
   <string name="mi_audio_relay_cancel">Tamam</string>
   <string name="mi_audio_relay_connect_failed">Tekrar dene</string>

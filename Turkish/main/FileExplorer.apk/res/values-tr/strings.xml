@@ -22,7 +22,7 @@
   <string name="action_mode_select_all">Tümü</string>
   <string name="activity_parse_video_title">Video bağlantısını yapıştır</string>
   <string name="ad_download">İndir</string>
-  <string name="ad_downloading">Biraz bekleyin...</string>
+  <string name="ad_downloading">Biraz bekleyin…</string>
   <string name="add_private">Dosyaları şimdi gizle</string>
   <string name="add_private_files">Dosyaları ekle</string>
   <string name="aggree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin.</string>
@@ -164,7 +164,7 @@
   <string name="decompress_to_here">Buraya ayrıştır</string>
   <string name="decrypt">Görünsün</string>
   <string name="decrypt_error">Çözülemedi</string>
-  <string name="decrypt_to">Çöz ve farklı kaydet...</string>
+  <string name="decrypt_to">Çöz ve farklı kaydet…</string>
   <string name="decrypting">Çözülüyor…</string>
   <string name="default_prize_text">Bu benim hazineye doğru gidiyor!</string>
   <string name="default_user_desc">Bu kişi henüz açıklama eklemedi</string>
@@ -197,7 +197,7 @@
   <string name="download">İndir</string>
   <string name="download_fail">İndirilemedi</string>
   <string name="downloaded_sticker_str">İndirildi</string>
-  <string name="downloading">İndiriliyor...</string>
+  <string name="downloading">İndiriliyor…</string>
   <string name="drag_not_support_with_dir">Klasörler yeniden düzenlenemiyor veya gönderilemiyor</string>
   <string name="editor_commend">Düzenle</string>
   <string name="empty_comment">Yorumlar boş olamaz</string>
@@ -244,7 +244,7 @@
   <string name="file_info_location">Konum: </string>
   <string name="file_info_modified">Son düzenleme:</string>
   <string name="file_info_size">Boyut: </string>
-  <string name="file_loading">Biraz bekleyin...</string>
+  <string name="file_loading">Biraz bekleyin…</string>
   <string name="file_name_existed">Dosya adı alındı</string>
   <string name="file_name_invalid">Dosya adları şu karakterleri içeremez: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">Dosya mevcut değil</string>
@@ -314,7 +314,7 @@
   <string name="instruction_pre_pad">FTP sunucusunu başlatmak için dokunun</string>
   <string name="instruction_pre_phone">FTP sunucusunu başlatmak için dokunun</string>
   <string name="interest_recommend">Tavsiyeli Videolar</string>
-  <string name="is_playing">Oynatılıyor...</string>
+  <string name="is_playing">Oynatılıyor…</string>
   <string name="just_now">Şimdi</string>
   <string name="kilobyteShort">KB</string>
   <string name="kuaipan_label">Kuaipan</string>
@@ -323,7 +323,7 @@
   <string name="like_toast_3">Oturum açılarak hoşlandığınız videoları görüntüle.</string>
   <string name="load_more">Fazlasına Görüntüle</string>
   <string name="load_sticker_fail">Etiketi yüklenemiyor, tekrar deneyin</string>
-  <string name="loading">Biraz bekleyin...</string>
+  <string name="loading">Biraz bekleyin…</string>
   <string name="local_image">Resimler</string>
   <string name="local_music">Ses Dosyaları</string>
   <string name="local_video">Video Dosyaları</string>
@@ -423,12 +423,11 @@
   <string name="not_installed_documentsui">DocumentsUI yüklenmedi</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="not_support_documentui">Belge arayüzü bu aygıtta desteklenmiyor</string>
-  <string name="notif_server_starting">FTP Sunucusu başlıyor...</string>
+  <string name="notif_server_starting">FTP Sunucusu başlıyor…</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
   <string name="notification_dialog_confirm">Tamam</string>
   <string name="notification_dialog_content">%1$s değiştirildiğinde veya dosya eklendiğinde otomatik düzenle ve bildir.</string>
   <string name="notification_dialog_title">Bildirimler</string>
-  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_wechat_expired_empty">WeChat zaten bu video klipleri sildi.</string>
   <string name="oauth_failed_tip">Yetkilendirme tamamlanamadı</string>
   <string name="one_account_bind_needed">En az bir hesap ekleyin</string>
@@ -436,11 +435,11 @@
   <string name="open_app">Aç</string>
   <string name="open_chest">Bir hediye almak için aç</string>
   <string name="open_chest_failed">Açılamadı, ağ ayarlarınızı denetleyip tekrar deneyin</string>
-  <string name="open_private_folder">Gizli klasörleri görüntülemek için bırakın...</string>
-  <string name="operation_add_fav">Favorilere ekleniyor...</string>
+  <string name="open_private_folder">Gizli klasörleri görüntülemek için bırakın…</string>
+  <string name="operation_add_fav">Favorilere ekleniyor…</string>
   <string name="operation_cancel">İptal</string>
   <string name="operation_compress">Sıkıştır</string>
-  <string name="operation_compressing">Sıkıştırılıyor...</string>
+  <string name="operation_compressing">Sıkıştırılıyor…</string>
   <string name="operation_copy">Kopyala</string>
   <string name="operation_create_folder">Yeni klasör oluştur</string>
   <string name="operation_create_folder_message">Klasör adı</string>
@@ -449,16 +448,16 @@
   <string name="operation_delete">Sil</string>
   <string name="operation_delete_confirm_message">Silinsin mi?</string>
   <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecek. "</string>
-  <string name="operation_deleting">Siliniyor...</string>
-  <string name="operation_favorite">Favoriler</string>
+  <string name="operation_deleting">Siliniyor…</string>
+  <string name="operation_favorite">Favori</string>
   <string name="operation_hide_sys">Gizli dosyaları gösterme</string>
   <string name="operation_info">Ayrıntılar</string>
   <string name="operation_like">Favoriler</string>
   <string name="operation_move">Taşı</string>
-  <string name="operation_moving">Taşınıyor...</string>
+  <string name="operation_moving">Taşınıyor…</string>
   <string name="operation_other_apps">Başka bir uygulamada aç</string>
   <string name="operation_paste">Yapıştır</string>
-  <string name="operation_pasting">Kopyalanıyor...</string>
+  <string name="operation_pasting">Kopyalanıyor…</string>
   <string name="operation_refresh">Yenile</string>
   <string name="operation_rename">Adlandır</string>
   <string name="operation_rename_message">Dizini Adlandır</string>
@@ -467,7 +466,7 @@
   <string name="operation_share">Paylaş</string>
   <string name="operation_show_privacy_policy">Gizlilik Politikasını göster</string>
   <string name="operation_show_sys">Gizli dosyaları göster</string>
-  <string name="operation_unfavorite">Favoriden Çıkart</string>
+  <string name="operation_unfavorite">Favoriler\'den kaldır</string>
   <string name="optional_change_wifi">Wi-Fi ile dosyaları uzaktan yönetmek için</string>
   <string name="original_user_desc">İçerik Oluşturucu statüsünü elde etmek için orijinal videoları düzenli olarak yükleyin</string>
   <string name="original_user_qq_group">Yetenek ekibi QQ grubuna katılın</string>
@@ -540,7 +539,7 @@
   <string name="private_files">Gizli</string>
   <string name="private_folder">Gizli Klasörler</string>
   <string name="private_folder_no_file_hints">Dosyaları veya klasörleri özel klasöre eklemek için basılı tutun</string>
-  <string name="private_folder_update">Gizli dosyalar güncelleniyor...</string>
+  <string name="private_folder_update">Gizli dosyalar güncelleniyor…</string>
   <string name="private_toast_hint2">Bir dosyayı gizlemek için basılı tutun ve gizli dizine ekleyin.</string>
   <string name="prize_result_tip">Değiştir</string>
   <string name="prize_result_tip2">Mücevher hazinesine git</string>
@@ -678,7 +677,7 @@
   <string name="shortcut_msg">Popüler videoların kısayolunu Ana Ekrana ekle</string>
   <string name="skip">Atla</string>
   <string name="skip_file">Atla</string>
-  <string name="smb_loading">Biraz bekleyin...</string>
+  <string name="smb_loading">Biraz bekleyin…</string>
   <string name="sort_hint_name">Ada göre sıralandı</string>
   <string name="sort_hint_time">Zamana göre sıralandı</string>
   <string name="sort_hint_type">Türe göre sıralandı</string>
@@ -699,7 +698,7 @@
   <string name="storage_usb">USB Depolama</string>
   <string name="storage_warning">Harici depolama kullanılamıyor</string>
   <string name="swap_tip_1">Sola veya sağa kaydırın</string>
-  <string name="swap_tip_2">Diğer videoları izlemek için...</string>
+  <string name="swap_tip_2">Diğer videoları izlemek için…</string>
   <string name="sys_size_enable">" mevcut"</string>
   <string name="tab_app">Daha fazla</string>
   <string name="tab_category">Kategoriler</string>
@@ -735,12 +734,12 @@
   <string name="topic_followed">Takipte:</string>
   <string name="topic_title">Konular</string>
   <string name="transfer_done">Dosyalar başarıyla taşındı.</string>
-  <string name="transfer_private_data">SD karttan gizli klasörlere taşınıyor...</string>
+  <string name="transfer_private_data">SD karttan gizli klasörlere taşınıyor…</string>
   <string name="transition_image">geçiş resmi</string>
   <string name="type_not_support">Bu dosya biçimi desteklenmiyor. Bu dosyayı paketten çıkartın ve tekrar deneyin.</string>
-  <string name="ui_main_toast_favorite_added">Favorilere eklendi</string>
-  <string name="ui_main_toast_favorite_removed">Favoriden çıkartıldı</string>
-  <string name="ui_main_toast_operation_failed">Favoriden %1$s çıkartılamadı</string>
+  <string name="ui_main_toast_favorite_added">Favoriler\'e eklendi</string>
+  <string name="ui_main_toast_favorite_removed">Favoriler\'den kaldırıldı</string>
+  <string name="ui_main_toast_operation_failed">%1$s favorilerden kaldırılamaz</string>
   <string name="unbind">Sil</string>
   <string name="unbind_account">%s silinsin mi?</string>
   <string name="unbind_fail">Silinemedi</string>

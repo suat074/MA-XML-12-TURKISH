@@ -440,6 +440,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
   <string name="reading_status">Durum yükleniyor…</string>
   <string name="reading_status_failure">Durum yüklenemedi.</string>
+  <string name="retain_data_high_quality_photo_waring_message">Oturumu kapattıktan sonra yüksek kaliteli resimler Galerinizden silinecek. İlgili orijinal dosyalar yine de bulutta saklanacak. Ayrıca çıkış yapmadan önce orijinal dosyaları da indirebilirsiniz.</string>
+  <string name="retain_data_high_quality_photo_waring_title">Yüksek kaliteli resimler kullanılamayacak</string>
   <string name="search_cloudbackup_pref">Bulut Yedekleme</string>
   <string name="search_cloudbackup_pref_desc">Bulut Yedeklemeyi aç/kapat</string>
   <string name="search_cloudbackup_pref_key_words">bulut yedeklemesi, yedekle buluta</string>
@@ -452,6 +454,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="send_last_location_title">Kapatmadan önce bulun</string>
   <string name="share_cancel">Paylaşım iptal edildi</string>
   <string name="share_failed">Paylaşılamıyor</string>
+  <string name="share_location_menu_create_shortcut">Ana ekran kısayolu</string>
   <string name="share_miliao_not_installed">Mi Talk yüklenmedi.</string>
   <string name="share_sdk_btn_already_shared_text">Davet teslim edildi</string>
   <string name="share_sdk_btn_quit_share_text">Paylaşmayı durdur</string>

@@ -691,6 +691,8 @@
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="video_clean_image_clean_summary">Depolama alanını boşaltmak için yinelenen fotoğrafları silin</string>
+  <string name="video_clean_image_clean_title">Yinelenen fotoğrafları sil</string>
   <string name="virus_scan">Güvenlik taraması</string>
   <string name="wechat_chat_data_type_cache">WeChat önbelleği</string>
   <string name="wechat_chat_data_type_cache_desc">İnternet\'e bağlandıktan sonra bu dosyaları geri yükleyebileceksiniz.</string>
