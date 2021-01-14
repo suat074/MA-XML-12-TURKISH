@@ -230,6 +230,7 @@
 Kimlik:%s
 Bu kodu yöneticiye gönderin."</string>
   <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okuyup kabul etmiş sayılırsınız.</string>
+  <string name="dialog_privacy_info_new3">Bu hizmeti kullanabilmek için, %1$s\'nun kişisel bilgilerinizi Gizlilik Politikası\'na uygun olarak toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıda \"Kabul et\" seçeneğine dokunarak Xiaomi\'nin &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> ve &lt;a href=%3$s>Kullanıcı Sözleşmesini&lt;/a> kabul etmiş olursunuz. &lt;br/>&lt;br/>\"Kabul et\" seçeneğine dokunmak, Mi Video\'nun cihazınızda yüklü uygulamaların listesine erişmesine de izin verir. Bu izinle Mi Video, öğeleri paylaşabilir, cihazınızda bir uygulamanın yüklü olup olmadığını, bir uygulamanın hangi sürümünün yüklü olduğunu ve bir uygulamanın güvenli olup olmadığını anlayabilir.</string>
   <string name="dialog_privacy_title">Yetkilendirme</string>
   <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra, uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem, uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
   <string name="dialog_revoke_privacy_title">Yetki geri alınıyor</string>
@@ -358,6 +359,17 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="galleryplus_gallery_video_slow_edit">Ağır çekim</string>
   <string name="galleryplus_gallery_view_tags">İşaretleri göster</string>
   <string name="galleryplus_is_higher_definition">HD önizleme açıldı</string>
+  <string name="galleryplus_network_connect_check">Ağa bağlanılamadı</string>
+  <string name="galleryplus_network_connect_confirm">Wi-Fi ağına bağlanın veya ağ ayarlarında mobil veriyi açın.</string>
+  <string name="galleryplus_network_error">Ağa bağlanılamadı</string>
+  <string name="galleryplus_network_not_wifi">Video oynatmak için mobil veri kullanmak ek operatör ücretleri oluşturabilir</string>
+  <string name="galleryplus_online_cta">Mi Video\'nun normal çalışması için internete bağlanması gerekir. Kabul ediyor musunuz?</string>
+  <string name="galleryplus_online_cta_agree">Kabul et</string>
+  <string name="galleryplus_online_cta_disagree">Reddet</string>
+  <string name="galleryplus_online_cta_title">Şartlar ve koşullar</string>
+  <string name="galleryplus_online_video_loading">Sadece bir saniye…</string>
+  <string name="galleryplus_orientation_lock">Yön başarıyla kilitlendi</string>
+  <string name="galleryplus_orientation_unlock">Ekran yönünün kilidi açıldı</string>
   <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için Mi Video\'ya gerekli izinleri verin.</string>
   <string name="galleryplus_permission_content2">"Bu özelliği kullanabilmek için Ayarlar &gt; Uygulamalar &gt; Mi Video &gt; Uygulama izinleri bölümüne gidin ve Mi Video için aşağıdakileri izinleri verin:
   
@@ -620,6 +632,8 @@ seçin"</string>
   <string name="notice_message_title">Bildirimler</string>
   <string name="notice_title">Mesajlar</string>
   <string name="notification_bar">Bildirim alanı</string>
+  <string name="notification_bar_player_subtitle">Bildirim alanında simge durumuna küçültülmüş oynatıcı gösterilir</string>
+  <string name="notification_bar_player_title">Oynatıcıyı küçült</string>
   <string name="notification_open_tip">Bildirim almak için açın</string>
   <string name="notify_apk_installed">Başarıyla indirildi</string>
   <string name="ok">Tamam</string>
@@ -703,6 +717,7 @@ seçin"</string>
   <string name="ovp_setting_privacy_policy_title">Gizlilik Politikası</string>
   <string name="ovp_setting_privacy_switch_tips">Bazı şarkılar, yetkilendirmeyi kaldırdığınız durumda kullanılamaz hale gelecektir</string>
   <string name="ovp_setting_privacy_switch_title">Yetkilendirme &amp; iptal etme</string>
+  <string name="ovp_setting_user_agreement_title">Kullanıcı Sözleşmesi</string>
   <string name="ovp_setting_version_info_title">Sürüm</string>
   <string name="ovp_start_error_msg">Video oynatılamıyor</string>
   <string name="ovp_video_bad_network_condition">Ağa bağlanamadı.</string>
