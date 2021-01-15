@@ -68,6 +68,7 @@
   <string name="ad_more">Daha fazla</string>
   <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
   <string name="agree">Kabul et</string>
+  <string name="agree_and_continue">Kabul et</string>
   <string name="ai_animation_music_text">AI film müziği</string>
   <string name="ai_music_save_cancel">İptal et</string>
   <string name="ai_music_save_dialog_title">Kaydet</string>
@@ -86,6 +87,7 @@
   <string name="alert_dialog_download_progress">"Uygulama indiriliyor: "</string>
   <string name="all">Tümünü göster</string>
   <string name="app_name">Mi Video</string>
+  <string name="auth_again">Kabul et</string>
   <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın.</string>
   <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
   <string name="auto_play_next_on">Otomatik oynatma açık</string>
@@ -392,7 +394,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="galleryplus_subtitle_edit_literal_edit">Metni düzenle</string>
   <string name="galleryplus_subtitle_edit_reminder">Girdiğiniz metin çok uzun</string>
   <string name="galleryplus_subtitle_recognized_empty_subtitles">Kayıt yaparken konuşma tanınamadı</string>
-  <string name="galleryplus_v_agree">Kabul</string>
+  <string name="galleryplus_v_agree">Kabul et</string>
   <string name="galleryplus_v_cancel">İptal</string>
   <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikler iptal edilsin ve altyazıyı düzenlemeye son verilsin mi?</string>
   <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">Şimdi çıkarsanız bu videoyu kaydedemezsiniz. Yine de çıkılsın mı?</string>
