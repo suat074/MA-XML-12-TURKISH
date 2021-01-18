@@ -27,8 +27,8 @@
   <string name="all_ringtone_summary">Çevrimiçi zil sesleri seçin</string>
   <string name="amazon_introduction">Gezegenimizdeki en biyolojik çeşitliliğe sahip bölge genellikle \"Dünya\'nın akciğerleri\" olarak anılır.</string>
   <string name="animal_branch">Aile</string>
-  <string name="animal_class">Sınıf</string>
-  <string name="animal_item">Sipariş</string>
+  <string name="animal_class">Tür</string>
+  <string name="animal_item">Sınıf</string>
   <string name="animal_select_alert_info">En fazla 5 öğe seçebilirsiniz</string>
   <string name="anti_flicker_mode">Titreşim önleme</string>
   <string name="anti_flicker_mode_categroy">Modlar</string>

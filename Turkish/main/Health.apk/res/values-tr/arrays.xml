@@ -2,7 +2,7 @@
 <resources>
   <string-array name="HomePageTabTitle">
     <item>Sağlık</item>
-    <item>Antrenman</item>
+    <item>Egzersiz</item>
   </string-array>
   <string-array name="SportTabTitle">
     <item>Koşu</item>
