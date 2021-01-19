@@ -3145,7 +3145,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>
   <string name="long_press_volume_down">Sesi kısma tuşuna uzun basın</string>
   <string name="lost_internet_access_cancel">Kablosuz bağlantıda kal</string>
-  <string name="lost_internet_access_persist">Bir daha gösterme</string>
+  <string name="lost_internet_access_persist">Tekrar gösterme</string>
   <string name="lost_internet_access_switch">Mobil veriye geç</string>
   <string name="lost_internet_access_text">Kablosuz ağın internet bağlantısı sorunlu olduğunda mobil ağa geçiş yapabilirsiniz. Veri kullanımı ücretleri geçerli olabilir.</string>
   <string name="lost_internet_access_title">Kablosuz ağ İnternet\'e bağlı değil</string>
@@ -5165,20 +5165,20 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="shuting_down_find_device">Telefonu Bul kapatılıyor…</string>
   <string name="silent_duration">Süre</string>
   <string name="silent_mode">Sessiz mod</string>
-  <string name="silent_mode_title">Sessiz Mod</string>
+  <string name="silent_mode_title">Sessiz mod</string>
   <string name="silent_off">Kapat</string>
-  <string name="silent_settings">Sessiz/Rahatsız Etme</string>
+  <string name="silent_settings">Sessiz/Rahatsız etme</string>
   <string name="silent_standard">Sessiz</string>
-  <string name="silent_time">Sessizlik Süresi</string>
-  <string name="silent_total">Rahatsız Etme</string>
+  <string name="silent_time">Sessiz mod süresi</string>
+  <string name="silent_total">Rahatsız etme</string>
   <string name="sim_bad_pin">PIN kodu 4-8 rakam uzunluğunda olmalı</string>
   <string name="sim_call_back_title">Varsayılan SIM\'den geri ara</string>
   <string name="sim_calls_always_use">Çağrılar için herzaman bunu kullan</string>
   <string name="sim_calls_ask_first_prefs_title">Önce sor</string>
   <string name="sim_card_number_title">SIM %1$d</string>
-  <string name="sim_card_select_title">SIM Kartı seç</string>
+  <string name="sim_card_select_title">SIM kartı seçin</string>
   <string name="sim_cards_changed_message">SIM kartlar değişti</string>
-  <string name="sim_cards_changed_message_summary">Faaliyetleri ayarlamak için dokunun</string>
+  <string name="sim_cards_changed_message_summary">Etkinlikleri ayarlamak için dokunun</string>
   <string name="sim_cellular_data_unavailable">Hücresel veri kullanılamaz</string>
   <string name="sim_cellular_data_unavailable_summary">Bir veri SIM kartı seçmek için dokunun</string>
   <string name="sim_change_data_message">%1$s yerine %2$s hücresel verisi kullanılsın mı?</string>
@@ -5645,7 +5645,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="support_account_picker_add_account">Hesap ekle</string>
   <string name="support_account_request_prefix">İstekte bulunan hesap:</string>
   <string name="support_country_list_title">Şu ülke için destek:</string>
-  <string name="support_disclaimer_do_not_show">Bir daha gösterme</string>
+  <string name="support_disclaimer_do_not_show">Tekrar gösterme</string>
   <string name="support_disclaimer_title">Sistem bilgilerini gönder</string>
   <string name="support_escalation_24_7_content_description">Sizin için 7/24 buradayız</string>
   <string name="support_escalation_24_7_summary">Destek ekibimiz her gün, tüm gün boyunca yanınızda</string>
