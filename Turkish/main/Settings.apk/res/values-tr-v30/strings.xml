@@ -499,7 +499,7 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
   <string name="reset_dashboard_summary_onlyApps">Uygulamalar sıfırlanabilir</string>
   <string name="right_edge">Sağ kenar</string>
   <string name="ring_volume_title">Zil ve bildirim ses düzeyi</string>
-  <string name="ringer_mode_setting_summary">Gelen çağrılar ve bildirimler sessiz</string>
+  <string name="ringer_mode_setting_summary">Çağrıları ve bildirimleri sessize alın</string>
   <string name="ringer_mode_setting_title">Sessiz mod</string>
   <string name="roaming_warning">Dolaşım ücretleri alınabilir.</string>
   <string name="roaming_warning_multiuser">"Veri dolaşımına izin verirseniz dolaşım ücretleri alınabilir.
@@ -805,5 +805,10 @@ Sesli arama sırasında interneti kullanamazsınız ve bazı uygulamalar çalı�
   <string name="zen_mode_auto_rule">Rahatsız etme oturumlarını planla</string>
   <string name="zen_mode_lockscreen">Kilitlendiğinde</string>
   <string name="zen_mode_more_actions">Daha fazla Rahatsız etme seçeneği</string>
-  <string name="zen_mode_summary2">Çağrıları ve bildirimleri sessize alın, titreşimi kapatın</string>
+  <string name="zen_mode_summary2">Gelen çağrılar ve bildirimler için hatırlatıcı olmayacak</string>
+  <string name="alarm_volume_option_title">Alarm</string>
+  <string name="media_volume_option_title">Medya</string>
+  <string name="repeat_call_info">%d dakika içinde aynı telefon numarasından ikinci çağrıyı alınca zili çaldır veya titret</string>
+  <string name="ring_volume_option_title">Zil sesi</string>
+  <string name="vip_list">Çağrıları bildir</string>
 </resources>

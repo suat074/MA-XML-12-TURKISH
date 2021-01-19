@@ -327,4 +327,29 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="trust_device_manager">Güvenilen cihazları yönet</string>
   <string name="trust_device_none">Burada güvenilen cihaz yok</string>
   <string name="trust_device_title">Güvenilen cihazlar</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
+  <string name="global_privacy">Şartlar ve koşullar</string>
+  <string name="global_privacy_detail"><Data>"Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak temel işlevler yine de sizin için kullanılabilir olacaktır."</Data></string>
+  <string name="global_privacy_explain">Yansıtma\'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlar:</string>
+  <string name="global_privacy_feature">Simge durumuna küçültülmüş pencereleri kullanma, ekran kapalıyken yansıtma ve özel öğeleri gizleme.</string>
+  <string name="global_privacy_main">Telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtma.</string>
+  <string name="global_privacy_negative">Reddet</string>
+  <string name="global_privacy_positive">Kabul et</string>
+  <string name="global_privacy_tip"><Data>Size temel hizmetleri sağlamak ve yansıtma sürecini optimize etmek için gerekli kişisel bilgileri toplamamız gerekiyor. Topladığımız bilgileri nasıl işlediğimizi &lt;a href=%1$s>Gizlilik Politikamız&lt;/a> üzerinden öğrenebilirsiniz. Gizlilik Politikası için verdiğiniz onayı istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.</Data></string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Devam et</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="send">Gönder</string>
 </resources>

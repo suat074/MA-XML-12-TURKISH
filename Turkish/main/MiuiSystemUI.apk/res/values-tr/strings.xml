@@ -1488,9 +1488,9 @@
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Hız artırma</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">İptal</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Onayla</string>
-  <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Bir daha gösterme</string>
-  <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Ağlar arasında geçiş</string>
-  <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bant WLAN hız artırma için iki farklı WLAN bandı kullanmalıdır. Farklı bir ana ağa bağlanırsanız, yardımcı bağlantı kesilir.</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Tekrar gösterme</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Ağlar arasında geçiş yapma</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bantlı WLAN hız artışının iki farklı WLAN bandı kullanması gerekir. Farklı bir ana ağa bağlanırsanız, yardımcı bağlantı kaybolacaktır.</string>
   <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir WLAN ağı yok</string>
   <string name="quick_settings_wifi_nearby">Yakınlardaki bir ağı seçin</string>
   <string name="quick_settings_wifi_no_network">Ağ yok</string>

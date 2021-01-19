@@ -316,6 +316,7 @@
   <string name="trial_mode_dialog_message">\"%s\" deneme modunda çalışıyor. Cihazınızı yeniden başlatmak veya Işık hızı moduna geçmek bu oyunu silecektir. Oyun dahili depolamaya kaydedilsin mi?</string>
   <string name="trial_mode_dialog_title">Deneme modu</string>
   <string name="turn_off">Kapat</string>
+  <string name="turn_on_work_profile">Aç</string>
   <string name="twohours">1 saat</string>
   <string name="unknown_caller">Bilinmeyen numara</string>
   <string name="unrecognized_manufacture">Bilinmiyor</string>
