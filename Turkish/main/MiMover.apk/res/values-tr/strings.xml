@@ -549,6 +549,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="host_memory_insuff_confirm">Tekrar seç</string>
   <string name="host_memory_insuff_summary">Yeni cihazda bir aktarmayı başlatmak için yeterli depolama alanı yok.</string>
   <string name="host_memory_insuff_title">Yeterli depolama alanı yok</string>
+  <string name="host_new_device_hint">Bu cihaz</string>
   <string name="hsa_code_null">Doğrulama kodu boş olamaz</string>
   <string name="hsa_input_tip">Apple kimliğiniz iki faktörlü kimlik doğrulaması kullanıyor. Dogrulama kodunu giriniz.</string>
   <string name="hsa_send_again">Tekrar gönderin</string>
