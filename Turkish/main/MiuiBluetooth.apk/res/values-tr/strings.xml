@@ -161,7 +161,8 @@
   <string name="play_decode_audio">ses çal</string>
   <string name="start_speech">Konuşmayı başlat</string>
   <string name="stop_speech">Konuşmayı durdur</string>
-  <string name="fast_connect_anti_lost_content">Kulaklıklarınızdan biri eksik olduğunda alınacak bir uyarı ayarlayın.Ayrıntılar için Ayarlar\'a bakın.</string>
+  <string name="fast_connect_anti_lost_content">"Kulaklıklarınızdan biri eksik olduğunda alınacak bir uyarı ayarlayın.
+Ayrıntılar için Ayarlar\'a bakın."</string>
   <string name="fast_connect_new_feture_anti_lost">Eksik kulaklık uyarısı</string>
   <string name="fast_connect_new_feture_same_account">Eşitlenen cihazları bağla</string>
   <string name="fast_connect_new_feture_sound_normalizer">Daha iyi ses</string>
@@ -169,5 +170,6 @@
   <string name="fast_connect_same_account_content">Bluetooth cihazları, Mi Hesabınızla eşitlenebilir ve diğer cihazlarda eşleştirilmeden bağlanabilir.</string>
   <string name="fast_connect_same_accout_devices_connecting">Xiaomi Bulut ile bağlanılıyor…</string>
   <string name="fast_connect_same_accout_devices_title">%1$s aygıtını diğer cihazlara bağladınız</string>
-  <string name="fast_connect_sound_normalizer_content">Sesli çağrılarda daha iyi ses. Daha hızlı bağlantı protokolü.</string>
+  <string name="fast_connect_sound_normalizer_content">"Sesli çağrılarda daha iyi ses.
+Daha hızlı bağlantı protokolü."</string>
 </resources>
