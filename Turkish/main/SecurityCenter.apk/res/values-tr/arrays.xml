@@ -62,6 +62,13 @@
     <item>"Bugün: "</item>
     <item>"Bu ay: "</item>
   </string-array>
+  <string-array name="gb_adv_touch_custom_level">
+    <item>En düşük</item>
+    <item>Düşük</item>
+    <item>Normal</item>
+    <item>Yüksek</item>
+    <item>En yüksek</item>
+  </string-array>
   <string-array name="lock_mode">
     <item>Cihaz kilitlendiğinde</item>
     <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>

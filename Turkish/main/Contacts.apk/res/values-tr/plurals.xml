@@ -23,6 +23,14 @@
         <item quantity="other">%d dak önce</item>
         <item quantity="one">1 dak önce</item>
     </plurals>
+	<plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d kişi kalıcı olarak silindi</item>
+        <item quantity="one">%d kişi kalıcı olarak silindi</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d kişi başarıyla geri yüklendi</item>
+        <item quantity="one">%d kişi başarıyla geri yüklendi</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

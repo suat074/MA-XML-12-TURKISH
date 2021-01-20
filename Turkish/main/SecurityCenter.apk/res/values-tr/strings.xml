@@ -3591,7 +3591,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="exit_dialog_release_memory_positive_button">Kapat</string>
   <string name="exit_dialog_release_memory_title"><Data>Cihazınızı &lt;font color=#0099ff>%d%%&lt;/font> hızlandırın</Data></string>
   <string name="menu_item_notification_optimize_text">%d%% dolu</string>
-  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s dolu</string>
+  <string name="menu_text_deepclean_summary">%1$s/%2$s dolu</string>
   <string name="stranger_call_dialog_add_block_list">Engelle</string>
   <string name="stranger_call_dialog_add_contacts">Yeni kişi</string>
   <string name="stranger_call_dialog_notification_body">Kişilere ekle veya bu numarayı engelle</string>
@@ -3799,8 +3799,8 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="pp_hide_app_form_desktop">Ana ekrandan uygulama simgelerini kaldırın</string>
   <string name="pp_icon_layout_status_bg_content_enable">Korumalı</string>
   <string name="pp_icon_layout_status_bg_content_unable">Kapalı</string>
-  <string name="pp_interception_net_visit_content_manager">Galeriyi ve sosyal medya uygulamalarını koru</string>
-  <string name="pp_interception_net_visit_content_manager_detail">Fotoğraflarınıza, videolarınıza ve sohbet geçmişinize erişmesine izin verilen uygulamaları seçin</string>
+  <string name="pp_interception_net_visit_content_manager">Galeri ve dosyaları sosyal medya uygulamalarından koruyun</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Sosyal medya uygulamalarınızdan Galeri ve dosyalara hangi uygulamaların erişebileceğini seçin</string>
   <string name="pp_local_msg">Konum bilgisi</string>
   <string name="pp_manage_apps_location_information">Uygulamaların konumunuza erişmesine izin verin</string>
   <string name="pp_one_app_two_use">Oturumu kapatmadan iki hesap kullanın</string>
@@ -3823,7 +3823,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="pp_prohibit_use_camera_in_background_detail">Uygulamalar, varsayılan olarak arka planda kamerayı kullanamaz</string>
   <string name="pp_record_msg">Ses kaydetme</string>
   <string name="pp_safe_box">Özel alan</string>
-  <string name="pp_safe_box_detail">Gizliliğinizi korumak için MIUI, uygulamaların fotoğraflarınıza ve sosyal medya sohbet geçmişinize nasıl eriştiğini denetlemenize olanak tanır.</string>
+  <string name="pp_safe_box_detail">Özel öğeler şifrelenir ve yalnızca bu cihazda saklanır. Başka insanlar bu cihazı kullanırken onlara erişemeyecekler ve cihazın kendisinin şifrelenmiş öğelere erişmesine ve bunları herhangi bir şekilde kullanmasına izin verilmeyecek.</string>
   <string name="pp_safe_box_summary">Gizlilik koruması</string>
   <string name="pp_safe_input_pwd">Parolalarınızı koruyun</string>
   <string name="pp_safe_keyboard">Güvenli klavye</string>
@@ -4057,8 +4057,8 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="ac_notification_action_text">Aç</string>
   <string name="app_behavior_access_gallery">%1s galeriye erişti</string>
   <string name="app_behavior_access_gallery_single">Bu uygulama galeriye erişti</string>
-  <string name="app_behavior_access_sociality">%1s sosyal medya uygulamalarındaki mesajlara erişti</string>
-  <string name="app_behavior_access_sociality_single">Bu uygulama sosyal medya uygulamalarındaki mesajlara erişti</string>
+  <string name="app_behavior_access_sociality">%1s sosyal medya uygulamalarına erişti</string>
+  <string name="app_behavior_access_sociality_single">Bu uygulama sosyal medya uygulamalarına erişti</string>
   <string name="app_behavior_delete_pic">%1s Galeri\'den öğe sildi</string>
   <string name="app_behavior_delete_pic_single">Bu uygulama Galeri\'den öğe sildi</string>
   <string name="file_confirm_start_activity">%s için Galerinize ve sosyal medya uygulamalarınıza erişmesine izin verilmiyor. Bu uygulama, öğeleri paylaşmak için bu cihazda depolanan dosyalara erişmek istiyor.  İzin verilsin mi?</string>
@@ -4183,4 +4183,32 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="gb_adv_touch_adv_title">Klasik mod (varsayılan)</string>
+  <string name="gb_adv_touch_custom1">Kaydırma yanıtı</string>
+  <string name="gb_adv_touch_custom2">Sürekli dokunmalara duyarlılık</string>
+  <string name="gb_adv_touch_custom3">Hedefleme doğruluğu</string>
+  <string name="gb_adv_touch_custom4">Dokunma kararlılığı</string>
+  <string name="gb_adv_touch_custom_tip1">Daha yüksek kaydırma tepkisi bu harekete tepki hızını artırırken, daha düşük kaydırma tepkisi hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip2">Kesintisiz dokunmalara karşı daha yüksek hassasiyet, bu harekete tepki hızını arttırırken, daha düşük hassasiyet, hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip3">Daha yüksek hedefleme doğruluğu, daha küçük kaydırmaları daha hassas hale getirirken, daha düşük hedefleme doğruluğu bu hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip4">Daha yüksek dokunma kararlılığı, dokunmaları daha kararlı hale getirirken, daha düşük dokunma kararlılığı daha küçük kaydırmaların doğruluğunu artırır.</string>
+  <string name="gb_adv_touch_custom_title">Özelleştirme</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Bu mod profesyonel oyuncular için tasarlanmıştır. Normal oyuncular için uygunsuz bulunabilir.</string>
+  <string name="gb_adv_touch_mode_select_title">Hareketler</string>
+  <string name="gb_adv_touch_pro_title">Pro modu</string>
+  <string name="gtb_spring_festival_back_game">Oyuna geri dön</string>
+  <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
+  <string name="summary_password_manager">Şifre yöneticisi, parolalarınızı şifrelemenize ve bulutta depolamanıza olanak tanır</string>
+  <string name="title_password_manager">Şifre yöneticisini etkinleştirin</string>
+  <string name="vb_video_super_division">Yükselt</string>
+  <string name="vb_video_super_division_desc">"≤720p olduğunda çözünürlüğü otomatik olarak yükseltin.
+
+Bu özelliği kullanmak güç tüketimini artırır.
+
+Bu özellik hareket düzgünleştirme ile çalışmaz.
+Özelliklerden birini açmak diğerini kapatır."</string>
+  <string name="vb_video_super_division_tips">"Yeterince net değil mi?
+Çözünürlüğü yükseltmeyi deneyin!"</string>
+  <string name="videobox_settings_timing">Aşırılık uyarısı</string>
+  <string name="videobox_settings_timing_desc">Mola vermenizi hatırlatan saatlik bir aşırılık uyarısı alın</string>
 </resources>

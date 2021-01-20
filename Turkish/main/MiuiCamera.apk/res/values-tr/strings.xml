@@ -1080,7 +1080,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_heic_image_format_description2">Yüksek verimli görüntü dosyası biçimi depolama alanından tasarruf sağlar, ancak bazı üçüncü taraf uygulamalar tarafından desteklenmez. HEIF ile canlı fotoğraf çekemez ve filigranları kaldıramazsınız.</string>
   <string name="pref_camera_heic_image_format_title">HEIF Formatı</string>
   <string name="pref_camera_hfr_entry_off">Kapalı</string>
-  <string name="pref_camera_high_quality_preferred_description">Algoritmalar ile görüntüleme etkisini artırın, fotoğraf çekme süresi daha uzun olacaktır. Karanlık bir ışık ortamı tanınırsa, gece çekimi tetiklenir</string>
+  <string name="pref_camera_high_quality_preferred_description">Akıllı algoritmayı kullanarak görüntü kalitesini iyileştirin. Bu özellik açıkken görüntü yakalama hızı düşebilir. Düşük ışık koşulları algılandığında gece modu otomatik olarak açılacaktır.</string>
   <string name="pref_camera_high_quality_preferred_title">Görüntü kalitesini artır</string>
   <string name="pref_camera_histogram_entry_disable">Kapat</string>
   <string name="pref_camera_histogram_entry_enable">Aç</string>
@@ -1666,6 +1666,6 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="video_effect_entry_summer_day_describe">Cilt tonlarını korumanız gerektiğinde düşük kontrast ve parlak tonlar iyi iş çıkarır. Bu filtre güneşli dış mekan sahneler için uygundur.</string>
   <string name="close_night_algo_toast_low_power">Pozlamayı ayarlayabilmek için cihazınızı şarj edin</string>
   <string name="close_night_algo_toast_thermal">Pozlamayı ayarlayabilmek için cihazınızı soğutun</string>
-  <string name="pref_super_night_se_summary">Karanlık bir ışık ortamının tespiti, otomatik olarak gece çekimini tetikleyecek ve algoritmalar aracılığıyla görüntüleme etkisini iyileştirecektir.</string>
-  <string name="pref_super_night_se_title">Otomatik gece tanıma</string>
+  <string name="pref_super_night_se_summary">Düşük ışık koşullarını tespit edin ve görüntü kalitesini otomatik olarak iyileştirin</string>
+  <string name="pref_super_night_se_title">Otomatik gece modu</string>
 </resources>

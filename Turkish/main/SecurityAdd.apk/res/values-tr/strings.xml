@@ -382,4 +382,16 @@
   <string name="wednesday_shortest">Çrş</string>
   <string name="xunyou_pay_webview">Xunyou hizmetleri</string>
   <string name="yesterday">Dün</string>
+  <string name="gb_adv_touch_adv_title">Klasik mod (varsayılan)</string>
+  <string name="gb_adv_touch_custom1">Kaydırma yanıtı</string>
+  <string name="gb_adv_touch_custom2">Sürekli dokunmalara duyarlılık</string>
+  <string name="gb_adv_touch_custom3">Hedefleme doğruluğu</string>
+  <string name="gb_adv_touch_custom4">Dokunma kararlılığı</string>
+  <string name="gb_adv_touch_custom_tip1">Daha yüksek kaydırma tepkisi bu harekete tepki hızını artırırken, daha düşük kaydırma tepkisi hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip2">Kesintisiz dokunmalara karşı daha yüksek hassasiyet, bu harekete tepki hızını arttırırken, daha düşük hassasiyet, hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip3">Daha yüksek hedefleme doğruluğu, daha küçük kaydırmaları daha hassas hale getirirken, daha düşük hedefleme doğruluğu bu hareketi daha kararlı hale getirir.</string>
+  <string name="gb_adv_touch_custom_tip4">Daha yüksek dokunma kararlılığı, dokunmaları daha kararlı hale getirirken, daha düşük dokunma kararlılığı daha küçük kaydırmaların doğruluğunu artırır.</string>
+  <string name="gb_adv_touch_custom_title">Özelleştirme</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Bu mod profesyonel oyuncular için tasarlanmıştır. Normal oyuncular için uygunsuz bulunabilir.</string>
+  <string name="gb_adv_touch_pro_title">Pro modu</string>
 </resources>

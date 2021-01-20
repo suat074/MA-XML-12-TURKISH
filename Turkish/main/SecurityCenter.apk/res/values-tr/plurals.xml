@@ -834,5 +834,15 @@ Ses değiştiriciyi şimdi deneyin!"</item>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">1 dakika önce</item>
+  </plurals>
+  <plurals name="gtb_spring_festival_colored_egg">
+    <item quantity="other">Tebrikler! %s Paskalya yumurtasının kilidini açtınız.</item>
+    <item quantity="one">Tebrikler! %s Paskalya yumurtasının kilidini açtınız.</item>
+  </plurals>
+  <plurals name="videobox_settings_timing_bubble">
+    <item quantity="other">"Zaten %d saattir video izliyorsunuz.
+Biraz ara verin!"</item>
+    <item quantity="one">"Zaten %d saattir video izliyorsunuz.
+Biraz ara verin!"</item>
   </plurals>  
 </resources>

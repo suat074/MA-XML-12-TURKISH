@@ -174,6 +174,10 @@
   <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
   <string name="pref_title_voice_slot">Tercih edilen Ses SIM kartı</string>
   <string name="privacy_policy">"Gizlilik Politikası "</string>
+  <string name="privacy_provision_more">Gizlilik koruması hakkında daha fazla bilgi edinin</string>
+  <string name="privacy_provision_summary">Gizlilik koruması, ürünlerimizin tasarımının arkasındaki taahhüttür</string>
+  <string name="privacy_provision_text">Gizliliğinize saygı duymayı ve korumayı taahhüt ediyoruz. Bilgi güvenliği alanında araştırma ve geliştirmeye öncelik veren Xiaomi, verilerinizi koruyan yöntemleri, uygulamaları ve teknik çözümleri iyileştirmek için sürekli olarak çalışmaktadır. Ayrıca, gizliliğinizi sağlamak için en son gelişmeleri ortaklarımızla paylaşıyoruz.</string>
+  <string name="privacy_provision_title">Gizlilik</string>
   <string name="protect_persoanl_info_statement">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
   <string name="provision_inputmethod_policy_description"><Data>Seçtiğiniz klavyenin &lt;a href=%1$s>Gizlilik Politikasını&lt;/a > görüntüleyin.</Data></string>
   <string name="provision_inputmethod_policy_description1">"Gizlilik Politikası "</string>

@@ -1692,7 +1692,7 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="share_card_title_free_training">Serbest stil egzersiz</string>
   <string name="share_card_title_high_interval_training">HIIT</string>
   <string name="share_card_title_indoor_rinding">Sabit bisiklet %s</string>
-  <string name="share_card_title_indoor_running">Koşu %s</string>
+  <string name="share_card_title_indoor_running">İç mekan koşusu %s</string>
   <string name="share_card_title_open_swimming">Açık suda yüzme %s</string>
   <string name="share_card_title_outdoor_hiking">Doğa yürüyüşü %s</string>
   <string name="share_card_title_outdoor_riding">Bisiklet sürme %s</string>   
@@ -1711,4 +1711,9 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="sport_tts_1">Bir</string>
   <string name="sport_tts_2">İki</string>
   <string name="sport_tts_3">Üç</string>
+  <string name="dialog_new_version_title">Bir güncelleme mevcut</string>
+  <string name="discard_update">Hayır teşekkürler</string>
+  <string name="find_new_verision">%s sürümü şimdi kullanılabilir</string>
+  <string name="immediately_experience">Güncelle</string>
+  <string name="location_perm_description">Dış mekan egzersizlerini izlemek ve rotaları kaydetmek için</string>
 </resources>
