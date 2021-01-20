@@ -1427,7 +1427,6 @@ Favori listenize kişi eklemek için:
   <string name="call_recording_notification_title">Kaydedilen çağrıları bildir</string>
   <string name="call_recording_notification_title_error">Çağrı kaydedilemedi</string>
   <string name="call_recording_setting">Çağrı kayıtları</string>
-  <string name="cancel">İptal</string>
   <string name="feedback">Geri bildirim</string>
   <string name="privacy_password_message1">Gizlilik koruması şifresi fotoğraflar, notlar ve gizli klasörler için çalışır.</string>
   <string name="privacy_password_message2">Gizlilik koruma şifresini kullanın. Fotoğraflar, notlar ve gizli klasörler için çalışır.</string>
