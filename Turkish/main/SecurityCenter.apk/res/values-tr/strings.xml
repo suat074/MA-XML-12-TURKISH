@@ -380,6 +380,7 @@
   <string name="app_manager_not_allow">Hayır</string>
   <string name="app_manager_open_show_all_apps_immediate">Tüm sonuçları göster</string>
   <string name="app_manager_perm">İzinler</string>
+  <string name="app_manager_permission_dcimcontrol_title">Galeriye erişim</string>
   <string name="app_manager_permission_manager_title">İzinler</string>
   <string name="app_manager_permission_notify_title">Bildirimler</string>
   <string name="app_manager_permission_power_saving_title">Pil tasarrufu</string>
@@ -407,17 +408,24 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_manager_show_detail_infos">Tümünü gör</string>
   <string name="app_manager_start_by">%s tarafından başlatıldı</string>
   <string name="app_manager_system_mobile_disable">Veriyi kapat</string>
+  <string name="app_manager_tab_app">Uygulamalar</string>
+  <string name="app_manager_tab_manager">Yönet</string>
   <string name="app_manager_thumbnail_blur_summary">Son Kullanılanlar bölümünde uygulamanın önizlemesini bulanıklaştır</string>
   <string name="app_manager_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
   <string name="app_manager_title">Uygulamaları yönet</string>
+  <string name="app_manager_to_appstore">Daha fazla uygulama keşfedin</string>
   <string name="app_manager_total_size">Toplam</string>
   <string name="app_manager_uninstall">Kaldır</string>
+  <string name="app_manager_uninstall_button_text">Kaldır</string>
+  <string name="app_manager_uninstall_notify_title">Nadiren kullanılan uygulamaları kaldırın</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak, bazı MIUI bileşenlerinin düzgün şekilde çalışmasını engelleyebilir. Yine de kaldırılsın mı?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Sistem uygulamalarını kaldırma</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Karşılık gelen ikili uygulamalar, uygulama verileri ile birlikte kaldırılacaktır.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Klonlu uygulamayı kaldırmak, tüm uygulama verilerini kaldırır.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Klonlu uygulama kaldırılsın mı?</string>
   <string name="app_manager_unstall_application">Kaldır</string>
+  <string name="app_manager_update">Güncelle</string>  
+  <string name="app_manager_updater_notify_message">Yeni özelliklere erişmek için uygulamaları güncelleyin</string>
   <string name="app_managere_not_have_app">Boş</string>
   <string name="app_manger_des_separator">", "</string>
   <string name="app_mobile">Mobil veri</string>
@@ -788,6 +796,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="card_main_xspace_summary">Herhangi bir uygulama için çift hesap oluştur</string>
   <string name="card_main_xspace_title">Klonlu uygulamalar</string>
   <string name="card_tc_failed">Kalibre edilemedi</string>
+  <string name="card_uninstall_button_text">Yönet</string>
+  <string name="card_uninstall_summary">Depolama alanını boşaltmak için nadiren kullanılan uygulamaları kaldırın</string>
+  <string name="card_uninstall_title_1">Nadiren kullanılan uygulamaları kaldır</string>
   <string name="charging_text_battery_full_time">"Son şarj "</string>
   <string name="charging_text_battery_nearly_full">Tam doluma az kaldı</string>
   <string name="charging_text_battery_perfect">Tam şarj oldu</string>
@@ -1592,7 +1603,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
   <string name="loading">Sadece bir saniye…</string>
-  <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgiler kaldırılıyor (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Fotoğraflardaki özel bilgiler kontrol ediliyor (%d/%d)…</string>
   <string name="local_ip_exception_summary">Yerel IP adresi alınamadı. Bu sorunu MIUI\'ye bildirmek için Geri Bildirim uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
   <string name="lock_all_title">Tüm uygulamaları kilitle</string>
   <string name="lock_mode_title">Kilit ayarları</string>
@@ -2168,6 +2179,8 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_center_5g_save_title_text">5G pil tasarrufu</string>
   <string name="power_center_auto_shutdown">Güç açma/kapama zamanlaması</string>
   <string name="power_center_back">Geri</string>
+  <string name="power_center_battery_health_poor_tip">Görünüşe göre pil sağlığı düşük. Pilinizi yetkili bir servis merkezinde kontrol ettirin</string>
+  <string name="power_center_battery_health_summary">Pil durumu istatistiklerinin doğruluğunu artırmak için cihazınızı %1$d-%2$d kez tamamen şarj edin ve boşaltın</string>
   <string name="power_center_battery_last">%s kaldı</string>
   <string name="power_center_charge_time">Tam doluma %1$s</string>
   <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$ds %2$dd kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
@@ -2765,6 +2778,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
   <string name="suggest_scan_again">Güvenlik risklerini önlemek için taramayı tamamlayın.</string>
   <string name="summary_app_lock_disable">Verilerinizi Uygulama kilidiyle koruyun</string>
+  <string name="summary_app_update_new">Yeni özelliklere erişmek için uygulamaları güncelleyin</string>
   <string name="summary_auto_update">MIUI güncellemeleri indirmek ve yüklemek için en uygun zamanı seçecektir.</string>
   <string name="summary_background_connection">Bu uygulama için arka plan bağlantısını kısıtladınız.</string>
   <string name="summary_block_calls_from_cantacts">Kişilerinizden gelen çağrılar engellenir.</string>
@@ -3745,7 +3759,6 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="privacy_dialog_content_part3"><Data>"Güvenliği kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin. Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız;  ancak, temel işlevsellik yine de sizin için kullanılabilir olacak."</Data></string>
   <string name="privacy_dialog_revoking">Onay geri çekiliyor…</string>
   <string name="privacy_dialog_title">Şartlar ve koşullar</string>
-  <string name="app_manager_permission_dcimcontrol_title">Galeriye erişim</string>
   <string name="comprehensive_protection_measures">Kapsamlı koruma</string>
   <string name="fully_informed_privacy">Gizlilik bilinci</string>
   <string name="gallery_confirm_start_activity">%s için Galerinize ve sosyal medya uygulamalarınıza erişmesine izin verilmiyor. Bu uygulama, öğeleri paylaşmak için bu cihazda depolanan resimlere erişmek istiyor. İzin verilsin mi?</string>

@@ -625,4 +625,7 @@
   <string name="provision_next">Sonraki</string>
   <string name="provision_skip_underline">Atla</string>
   <string name="passport_login_other_way">Oturum açmanın diğer yolları</string>
+  <string name="password_view_hide_password">Şifreyi gizle</string>
+  <string name="password_view_show_password">Şifreyi göster</string>
+  <string name="weixin_login">WeChat ile oturum açın</string>
 </resources>

@@ -170,6 +170,7 @@
   <string name="get_phone_bind_exceed_limit">En fazla 3 Mi Hesabını bir telefon numarasıyla ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
   <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="goto_sign_up">Hesap oluştur</string>
+  <string name="home_action_up">Geri</string>
   <string name="i_know">Anladım</string>
   <string name="identity">Kimlik</string>
   <string name="image_picker_title">Resimleri seçin</string>

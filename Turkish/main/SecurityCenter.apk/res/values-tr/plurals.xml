@@ -844,5 +844,21 @@ Ses değiştiriciyi şimdi deneyin!"</item>
 Biraz ara verin!"</item>
     <item quantity="one">"Zaten %d saattir video izliyorsunuz.
 Biraz ara verin!"</item>
+  </plurals>
+  <plurals name="app_manager_uninstall_notify_summary">
+    <item quantity="one">%d uygulamayı kaldır</item>
+    <item quantity="other">%d uygulamayı kaldır</item>
+  </plurals>
+  <plurals name="app_manager_updater_notify_title">
+    <item quantity="one">%d uygulama için güncelleme var</item>
+    <item quantity="other">%d uygulama için güncelleme var</item>
+  </plurals>
+  <plurals name="card_uninstall_title">
+    <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+  </plurals>
+  <plurals name="title_app_update_cn">
+    <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle&lt;/Data></item>
   </plurals>  
 </resources>

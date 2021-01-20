@@ -92,6 +92,7 @@
   <string name="accessibility_divider">Ekran ayırıcı</string>
   <string name="accessibility_drag_hint_message">Ögeleri ekranın üst kısmına sürükleyin</string>
   <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
+  <string name="accessibility_enter_lock_setting">Duvar Kağıdı Döngüsü ayarlarını açmak için dokunun</string>
   <string name="accessibility_ethernet_connected">Ethernet bağlı.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kesildi.</string>
   <string name="accessibility_expand_button">Daha göster</string>
@@ -104,6 +105,14 @@
   <string name="accessibility_home">Ana ekran</string>
   <string name="accessibility_ime_switch_button">Giriş yöntemini değiştir tuşu.</string>
   <string name="accessibility_key">Özel navigasyon düğmesi</string>
+  <string name="accessibility_keyboard_delete_button">Sil</string>
+  <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+  <string name="accessibility_keyboard_letter_board_shift2number_button">Sayılar</string>
+  <string name="accessibility_keyboard_letter_board_shift2symbol_button">Semboller</string>
+  <string name="accessibility_keyboard_ok_button">Enter</string>
+  <string name="accessibility_keyboard_symbol_board_shift2letter_button">Mektuplar</string>
+  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Sembol kilidi</string>
+  <string name="accessibility_keyguard_face_unlock_view">Yüz tanıma kilidi</string>
   <string name="accessibility_left_control_center_button">Kısayol</string>
   <string name="accessibility_left_lock_screen_magazine_button">Müzik</string>
   <string name="accessibility_location_active">Konum istekleri etkin</string>

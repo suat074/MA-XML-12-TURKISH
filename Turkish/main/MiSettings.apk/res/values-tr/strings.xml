@@ -193,10 +193,10 @@
   <string name="focus_mode_timer_pick_dialog_title">Süreyi girin</string>
   <string name="focus_time_exception_tip">Sistem saati değişmiş gibi görünüyor. Odak modu kapatıldı.</string>
   <string name="follow_sim1">SIM 1 ayarlarını uygula</string>
-  <string name="fps_nature_summary">Yüksek yenileme hızı, her şeyin canlı ve net olmasını sağlar</string>
-  <string name="fps_nature_title">Yüksek</string>
-  <string name="fps_smooth_summary">Orta yenileme hızı ayrıntılara daha fazla netlik katar</string>
-  <string name="fps_smooth_title">Orta</string>
+  <string name="fps_nature_summary">Maksimum yenileme hızı her şeyin canlı ve net olmasını sağlar</string>
+  <string name="fps_nature_title">Maksimum</string>
+  <string name="fps_smooth_summary">Yüksek yenileme hızı ayrıntılara daha fazla netlik katar</string>
+  <string name="fps_smooth_title">Yüksek</string>
   <string name="fps_standard_summary">Standart yenileme hızı pil tasarrufu sağlar</string>
   <string name="fps_standard_title">Standart</string>
   <string name="fps_user_tip">Bu demo animasyonlar, referansınız için düşük hızda oynatılır. Gerçek performans, değişen faktörlere bağlı olarak farklı görünebilir.</string>

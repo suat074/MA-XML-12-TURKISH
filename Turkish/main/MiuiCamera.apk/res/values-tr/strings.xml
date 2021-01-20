@@ -1028,8 +1028,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_device_watermark_title">Cihaz filigranı</string>
   <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Video kalitesini artırmak için düşük ışık koşullarında %1$d olan kare hızını %2$d FPS\'ye düşürün</string>
-  <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarlayın</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Düşük ışık koşullarında video kalitesini iyileştirmek için kare hızı otomatik olarak düşürülür</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarla</string>
   <string name="pref_camera_eis_entry_normal">Sabit video</string>
   <string name="pref_camera_eis_entry_off">Kapalı</string>
   <string name="pref_camera_eis_entry_pro">Sabit video Pro</string>
@@ -1139,6 +1139,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_quick_settings">Hızlı ayarlar</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Hızlı çekim animasyonunu aç</string>
   <string name="pref_camera_quick_shot_enable_title">Hızlı çekimi aç</string>
+  <string name="pref_camera_predictive_shutter_description">Çocukların, evcil hayvanların ve diğer aktif nesnelerin fotoğraflarında bulanıklığı en aza indirmek için hareketi izleyin</string>
+  <string name="pref_camera_predictive_shutter_title">Hareketi izle</string>
   <string name="pref_camera_rec_type_3d_record">3D ses</string>
   <string name="pref_camera_rec_type_audio_zoom">Ses yakınlaştırma</string>
   <string name="pref_camera_rec_type_normal">Normal</string>

@@ -72,9 +72,11 @@
   <string name="accessibility_autoclick_delay_preference_title">Tıklamadan önceki gecikme</string>
   <string name="accessibility_autoclick_description">Bir fare kullanıyorsanız, imleci belirli bir süre hareket etmeyi bıraktığında otomatik olarak hareket etmesi için ayarlayabilirsiniz.</string>
   <string name="accessibility_autoclick_preference_title">Bekleme zamanlaması</string>
+  <string name="accessibility_back">Geri</string>
   <string name="accessibility_captioning_title">Altyazılar</string>
   <string name="accessibility_category_personal">Kişisel profil hesapları</string>
   <string name="accessibility_category_work">İş profili hesapları - %s</string>
+  <string name="accessibility_clear">Temizle</string>
   <string name="accessibility_close_tab">Mevcut sekmeyi kapat</string>
   <string name="accessibility_daltonizer_master_switch_title">Renk düzeltme kullanın</string>
   <string name="accessibility_description_state_stopped">Bu servis arızalı.</string>
