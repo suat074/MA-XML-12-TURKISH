@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 dak</item>
+        <item>20 dak</item>
+        <item>30 dak</item>
+        <item>60 dak</item>
+    </string-array>
     <string-array name="day_time_space">
         <item>Gece</item>
         <item>Sabah erkenden</item>
@@ -58,24 +64,24 @@
     <string-array name="sms_exclude_category">
         <item>ödeme</item>
     </string-array>
-  <string-array name="agenda_weeks_of_year">
-    <item>1. hafta</item>
-    <item>2. hafta</item>
-    <item>3. hafta</item>
-    <item>%1$d. hafta</item>
-  </string-array>
-  <string-array name="app_commute_tab_array">
-    <item>Sürücü</item>
-    <item>Toplu taşıma</item>
-    <item>Taksi</item>
-  </string-array>
-  <string-array name="base_day_time_space">
-    <item>Gece</item>
-    <item>Gece</item>
-    <item>Sabah</item>
-    <item>Öğleden sonra</item>
-    <item>Öğleden sonra</item>
-    <item>Akşam</item>
-    <item>Akşam</item>
-  </string-array>
+        <string-array name="agenda_weeks_of_year">
+        <item>1. hafta</item>
+        <item>2. hafta</item>
+        <item>3. hafta</item>
+        <item>%1$d. hafta</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Sürücü</item>
+        <item>Toplu taşıma</item>
+        <item>Taksi</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Gece</item>
+        <item>Gece</item>
+        <item>Sabah</item>
+        <item>Öğleden sonra</item>
+        <item>Öğleden sonra</item>
+        <item>Akşam</item>
+        <item>Akşam</item>
+    </string-array>
 </resources>

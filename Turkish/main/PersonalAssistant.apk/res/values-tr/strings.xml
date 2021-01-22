@@ -1578,4 +1578,16 @@
   <string name="app_sports_fav_club">İlgili kulüp</string>
   <string name="app_sports_fav_league">İlgili lig</string>
   <string name="app_sports_fav_title">İlgilendiklerim</string>
+  <string name="app_sports_fav_cancel_multi_league_content" formatted="false">Kulübün %s ve %s arasındaki programı artık size gönderilmeyecek</string>
+  <string name="app_sports_title_tip">Maç ile ilgili veriler üçüncü tarafça sağlanır</string>
+  <string name="app_health_setting_music_name_fire">Soba</string>
+  <string name="app_health_setting_music_name_forest">Orman</string>
+  <string name="app_health_setting_music_name_night">Yaz gecesi</string>
+  <string name="app_health_setting_music_name_ocean">Plaj</string>
+  <string name="app_health_setting_music_name_rain">Yağmur</string>
+  <string name="app_health_setting_text_default_duration">Süre</string>
+  <string name="app_health_setting_text_download_alert_message">Görünüşe göre WLAN bağlantısı yok. Öğeleri indirmek için %1$s mobil veri kullanılsın mı?</string>
+  <string name="app_health_setting_text_sleep_aid_settings">Uyku</string>
+  <string name="app_health_setting_text_title">Sağlık</string>
+  <string name="app_travel_card_none">Veri yok</string>
 </resources>

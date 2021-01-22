@@ -231,7 +231,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="exit_extreme_mode_dialog_title">Aşırı modunu kapat</string>
   <string name="exo_controls_fastforward_description">Hızlı ileri</string>
   <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
-  <string name="exo_controls_next_description">Sonraki</string>
+  <string name="exo_controls_next_description">Sonraki parça</string>
   <string name="exo_controls_pause_description">Duraklat</string>
   <string name="exo_controls_play_description">Oynat</string>
   <string name="exo_controls_previous_description">Önceki</string>
@@ -1141,4 +1141,19 @@ Her saat yeni bir resim göreceksiniz."</string>
   <string name="restore_icon_later">Ana ekran kısayolunu Ayarlar\'dan tekrar ekleyebilirsiniz</string>
   <string name="uninstall_theme">\"Temalar\" Ana ekrandan kaldırılsın mı?</string>
   <string name="uninstall_theme_description">Temalar bir sistem uygulamasıdır. Duvar kağıtları ve çoklu kişiselleştirme seçenekleri sunar. Ana ekran kısayolunu kaldırdıktan sonra, Ayarlar aracılığıyla Temalar\'ı kullanmaya devam edebilirsiniz.</string>
+  <string name="can_not_apply_error">Bu video formatı desteklenmiyor</string>
+  <string name="can_not_apply_size_invalid">Bu video çok büyük</string>
+  <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
+  <string name="font_compat_dialog_buy_confirm">Satın al</string>
+  <string name="font_compat_dialog_buy_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu, yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipi satın alınsın mı?</string>
+  <string name="font_compat_dialog_cancel">İptal</string>
+  <string name="font_compat_dialog_download_confirm">İndir</string>
+  <string name="font_compat_dialog_download_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu, yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipi indirilsin mi?</string>
+  <string name="font_compat_dialog_title">Uyumluluk sorunları</string>
+  <string name="font_compat_dialog_trial_confirm">Dene</string>
+  <string name="font_compat_dialog_trial_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu, yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipi denensin mi?</string>
+  <string name="hide_retract_button">Gizle</string>
+  <string name="scrollable_wallpaper_close">Kaydırma kapatıldı</string>
+  <string name="scrollable_wallpaper_open">Kaydırma açıldı</string>
+  <string name="set_as_colorring">Özel zil sesi olarak ayarla</string>
 </resources>
