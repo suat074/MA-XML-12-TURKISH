@@ -1143,7 +1143,6 @@ Her saat yeni bir resim göreceksiniz."</string>
   <string name="uninstall_theme_description">Temalar bir sistem uygulamasıdır. Duvar kağıtları ve çoklu kişiselleştirme seçenekleri sunar. Ana ekran kısayolunu kaldırdıktan sonra, Ayarlar aracılığıyla Temalar\'ı kullanmaya devam edebilirsiniz.</string>
   <string name="can_not_apply_error">Bu video formatı desteklenmiyor</string>
   <string name="can_not_apply_size_invalid">Bu video çok büyük</string>
-  <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
   <string name="font_compat_dialog_buy_confirm">Satın al</string>
   <string name="font_compat_dialog_buy_content">Üçüncü taraf yazı tipleri bazı uygulamalar tarafından desteklenmeyebilir. Bu uyumluluk sorunu, yakında çıkacak bir sistem güncellemesiyle giderilecektir. Yine de bu yazı tipi satın alınsın mı?</string>
   <string name="font_compat_dialog_cancel">İptal</string>
