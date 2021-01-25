@@ -406,6 +406,7 @@
   <string name="item_title_process_mode">Bir eylem seçin</string>
   <string name="junk_tag_RF_EmptyFolders">Boş klasörler</string>
   <string name="junk_tag_RF_ImageThumbnails">Galeri küçük resimleri</string>
+  <string name="junk_temporary_file">Geçici dosyalar</string>
   <string name="just_now">Şu anda</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Yok</string>

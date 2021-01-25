@@ -629,4 +629,17 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>
+  <string name="access_limit">Erişim kısıtlamaları</string>
+  <string name="access_tips">Öğelere erişilemiyor. Bunun yerine Android Depolama Erişim Çerçevesini kullanmayı deneyin.</string>
+  <string name="close">Kapat</string>
+  <string name="go_ahead">Aç</string>
+  <string name="mirror_no_recommended_app">Önerilen uygulama yok</string>
+  <string name="mirror_open_mode_error">Öğeler yüklenemedi</string>
+  <string name="mirror_open_mode_loading">Sadece bir saniye…</string>
+  <string name="operation_open_mode">Şununla aç</string>
+  <string name="qq_msg">Android 11 kısıtlamaları nedeniyle, Dosya Yöneticisi QQ belgelerine erişemez ve görüntüleyemez.</string>
+  <string name="qq_title">QQ belgelerine erişilemiyor</string>
+  <string name="send">Gönder</string>
+  <string name="wechat_msg">Android 11 kısıtlamaları nedeniyle, Dosya Yöneticisi, WeChat\'te önizlenen belgelere erişemez ve görüntüleyemez. Belgeleri, burada görünmelerini sağlamak için WeChat\'te açın ve kaydedin.</string>
+  <string name="wechat_title">WeChat belgelerine erişilemiyor</string>
 </resources>
