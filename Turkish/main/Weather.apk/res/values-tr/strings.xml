@@ -128,7 +128,6 @@
   <string name="daily_forecast_add_city_title">%1$s konumunda hava durumunu takip et</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="data_provided_by">Verileri sağlayan</string>
-  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
   <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
   <string name="dialog_internet_error_title">Bir hata oluştu</string>
   <string name="dialog_msg_score_midrop">Hava Durumu hakkında ne düşünüyorsunuz?</string>
