@@ -7598,6 +7598,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_checkUpdate">Güncellemeleri kontrol et</string>
   <string name="miheadset_closeAnc">Kapalı</string>
   <string name="miheadset_connect_play_music">Kulaklıklar bağlandığında otomatik olarak oynatmayı başlat</string>
+  <string name="miheadset_connect_toast_tips">Önce kulaklıkları bağlayın</string>
   <string name="miheadset_connectHeadsetForFw">Aygıt yazılımı sürümünü görüntülemek için kulaklıkları bağlayın</string>
   <string name="miheadset_define_self">Özel</string>
   <string name="miheadset_enhence_high">Gelişmiş tiz</string>
@@ -7626,6 +7627,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_rename_device">Yeniden adlandır</string>
   <string name="miheadset_RightEar">Sağ</string>
   <string name="miheadset_transparent">Şeffaf</string>
+  <string name="miheadset_unpair_device_text">%1$s, bu Mi Hesabı ile ilişkili tüm cihazlardan kaldırılacak.</string>
   <string name="adjust_font_size_answer_cn">Aşağıdaki kaydırıcıları kullanarak metin boyutunu ve yazı tipi kalınlığını ayarlamayı deneyin!</string>
   <string name="adjust_font_size_answer_global">Aşağıdaki kaydırıcıyı kullanarak metin boyutunu ayarlamayı deneyin!</string>
   <string name="font_settings_jump">Erişilebilirlik > Ekran boyutu</string>

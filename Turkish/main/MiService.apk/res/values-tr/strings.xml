@@ -209,4 +209,25 @@
   <string name="miui_main_ring_title">Doğadan ilham alan bildirim sesleri</string>
   <string name="miui_main_update_end_title">MIUI\'ye hoş geldiniz</string>
   <string name="miui_main_update_success_title_12_5">MIUI 12.5\'e hoş geldiniz</string>
+  <string name="copy">Kopyala</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

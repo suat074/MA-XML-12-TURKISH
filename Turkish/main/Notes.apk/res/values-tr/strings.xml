@@ -691,7 +691,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="doodle_guide_dialog_skip">Atla</string>
   <string name="doodle_guide_dialog_title">Eskiz</string>
   <string name="doodle_guide_quick_shape_hint" formatted="false">Vuruşları otomatik olarak ayarlamak için taslağı %d–%d saniye basılı tutun</string>
-  <string name="excerpt">Bir alıntı oluştur</string>
+  <string name="excerpt">Alıntılar</string>
   <string name="excerpt_bubble_tips">Kopyalanan metin ve kaydedilen resimler Notlar\'a kaydedilecek</string>
   <string name="excerpt_link_bubble_tips">Notlar\'a kaydetmek için dokunun</string>
   <string name="excerpt_note">Alıntılarım</string>

@@ -52,6 +52,10 @@
     <item quantity="other">Sayfa %1$d / %2$d</item>
 	<item quantity="one">Sayfa %1$d / %2$d</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d öğe seçildi</item>
+    <item quantity="one">%d öğe seçildi</item>
+  </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">1 dakika önce</item>
