@@ -1,19 +1,47 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">sil</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">İşlev+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+  <string name="abc_menu_space_shortcut_label">boşluk</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menü+</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">İle paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="action_for_continue_timer">Devam</string>
   <string name="action_for_pause_timer">Duraklat</string>
   <string name="action_for_restart">Tekrarla</string>
   <string name="action_for_snooze">Ertele</string>
   <string name="action_for_stop">Durdur</string>
+  <string name="actionbar_button_up_description">Geri</string>
   <string name="add_alarm">Alarm ekle</string>
-  <string name="add_timer">Sık zamanlayıcı</string>
   <string name="add_clock">Saat ekle</string>
   <string name="add_common_timer">Zamanlayıcı ekle</string>
+  <string name="add_timer">Sık zamanlayıcı</string>
+  <string name="add_timezone_title">Saat dilimi ekle</string>
+  <string name="afternoon">Öğleden sonra</string>
   <string name="agree">Kabul</string>
-  <string name="alarm_alert_disabled">Kapalı</string>
-  <string name="alarm_alert">Varsayılan zil sesi</string>
   <string name="alarm_alert_alert_silenced">Alarm %1$s sonra susturulur.</string>
-  <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
+  <string name="alarm_alert_disabled">Kapalı</string>
   <string name="alarm_ascending_mode_summary">Alarm sesi yavaş yavaş yükselir</string>
   <string name="alarm_ascending_mode_title">Artan alarm sesi</string>
   <string name="alarm_clock_more_setting">Ek ayarlar</string>
@@ -42,6 +70,7 @@
   <string name="already_exist">Bu zamanlayıcı zaten var</string>
   <string name="analog_gadget">Analog Saat</string>
   <string name="app_label">Saat</string>
+  <string name="app_name">Tercih</string>
   <string name="auto_silence_never">Asla</string>
   <string name="auto_silence_summary">Alarmların ve zamanlayıcıların susturulacağı zamanı ayarla</string>
   <string name="auto_silence_title">Otomatik susma</string>
@@ -82,6 +111,7 @@
   <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>
   <string name="check_voice_assist_app_version">Mi AI\'yi en son sürümüne güncelleyin.</string>
   <string name="city_time_contrast_desc">Farklı şehirlerdeki zamanı karşılaştırmak için dokunun</string>
+  <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="clock_bg_button_setting_summary_common">Saat uygulaması için arka plan rengini seçin</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Dark moduna her geçişinizde arka plan rengi olarak siyah kullanılacaktır.</string>
   <string name="clock_bg_button_setting_title">Arka plan rengi</string>
@@ -98,59 +128,66 @@
   <string name="control_set_alarm_with_existing">Alarm: %s</string>
   <string name="copy">Kopyala</string>
   <string name="current_stopwatch_time">Geçerli zamanlayıcı</string>
-  <string name="day">1 gün</string>
-  <string name="days">%d gün</string>
+  <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
   <string name="default_alarm_alert">Varsayılan alarm sesi</string>
   <string name="default_alarm_title">Varsayılan zil sesi</string>
   <string name="default_label">Alarm</string>
-  <string name="delelte_selected_timezone">Seçilen saat dilimi silinsin mi?</string>
   <string name="delete">Sil</string>
   <string name="delete_alarm">Alarmı sil</string>
-  <string name="delete_alarm_confirm">Alarmı silmek istiyor musunuz?</string>
   <string name="delete_selected_timer_item">Seçilen zamanlayıcı görevi silinsin mi?</string>
   <string name="delete_timer_item_title">Zamanlayıcı görevini sil</string>
   <string name="delete_timezone_title">Zaman dilimini sil</string>
   <string name="deskclock_sleep_no_disturbance">Saat - Yatma zamanını yönet - Rahatsız etme modu</string>
   <string name="dialog_confirm_abort">Değişiklikler silinsin mi?</string>
-  <string name="dialog_legal_off_day"><Data>"Tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlı olması gerekiyor. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_legal_off_day"><Data>"Tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlı olması gerekiyor. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Kabul ediyor musunuz?"</Data></string>
   <string name="dialog_legal_off_day_desc">"Tatiller hakkındaki bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Tatil alarmları Cumartesi ve Pazar günleri devam edecektir."</string>
-  <string name="dialog_legal_workday"><Data>"Hafta içi alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
-  <string name="dialog_legal_workday_and_off_day"><Data>"Hafta içi ve tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_legal_workday"><Data>"Hafta içi alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Kabul ediyor musunuz?"</Data></string>
+  <string name="dialog_legal_workday_and_off_day"><Data>"Hafta içi ve tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Kabul ediyor musunuz?"</Data></string>
   <string name="dialog_legal_workday_and_off_day_desc">"Tatiller hakkındaki bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Hafta içi alarmları Pazartesiden Cumayadır. Tatil alarmları Cumartesi ve Pazar günleri devam edecektir."</string>
   <string name="dialog_legal_workday_desc">"Çalışma günleriyle ilgili bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Hafta içi alarmları Pazartesiden Cumayadır."</string>
   <string name="dialog_message_agree">Kabul</string>
   <string name="dialog_message_for_contact_permission">Doğum günü alarmlarını kullanabilmek için, Saat\'in kişilerinize erişmesi gerekiyor. Kabul?</string>
   <string name="dialog_message_negative">Reddet</string>
   <string name="dialog_message_not_remind">Tekrar gösterme</string>
-  <string name="dialog_net_permission_in_repeat_type"><Data>Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_net_permission_in_repeat_type"><Data>Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Kabul ediyor musunuz?"</Data></string>
   <string name="dialog_privacy_content">Yerel resmi tatil günleri ile ilgili bilgileri alıp eşitlemek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekir. Saat\'i kullanmadan önce, %1$s ve %2$s okumalı ve kabul etmelisiniz. Kabul?</string>
   <string name="dialog_privacy_content_global">Kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekir. Saat\'i kullanmadan önce, %1$s ve %2$s okumalı ve kabul etmelisiniz. Kabul?</string>
   <string name="dialog_privacy_content_news">Kişiselleştirilmiş hizmetler sağlamak ve alarmlarınıza sabah haberlerini dahil etmek için, Saat\'in internete bağlanması gerekir. Saat\'i kullanmadan önce, %1$s ve %2$s okumalı ve kabul etmelisiniz. Kabul?</string>
   <string name="dialog_privacy_content_timer">Zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekir. Saat\'i kullanmadan önce, %1$s ve %2$s okumalı ve kabul etmelisiniz. Kabul?</string>
   <string name="dialog_privacy_content_timer_data">Zamanlayıcı bölümündeki ortam sesleri için ses dosyaları (≈20MB) indirmek ve kişiselleştirilmiş hizmetler sunmak için, Saat\'in internete bağlanması gerekir. Saat\'i kullanmadan önce, %1$s ve %2$s okumalı ve kabul etmelisiniz. Şuan mobil veri kullanıyorsunuz. Kabul?</string>
   <string name="disagree">Reddet</string>
-  <string name="done">Tamamlandı</string>
+  <string name="done">Bitti</string>
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
+  <string name="early_morning">Sabah</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="edit_label">Alarm etiketini düzenle</string>
   <string name="edit_systemtime">Sistem saatini düzenle</string>
   <string name="edit_systemtime_setting_summary">Tarih, saat ve Çift saat</string>
+  <string name="evening">Öğleden sonra</string>
   <string name="every_day">Günlük</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="expired_timers_dismissed">Zamanlayıcı başarıyla iptal edildi</string>
+  <string name="fmt_date_long_month_day">dd MMMM</string>
+  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
+  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="force_touch_add_alarm">Alarm ekle</string>
   <string name="force_touch_enter_stopwatch">Kronometre</string>
   <string name="force_touch_enter_timer">Zamanlayıcı</string>
-  <string name="full_wday_month_day_no_year">dd MMMM, EEEE</string>
+  <string name="friday">Cuma</string>
+  <string name="friday_short">Cum</string>
+  <string name="friday_shortest">Cum</string>
+  <string name="full_wday_month_day_no_year">d MMMM, EEEE</string>
+  <string name="go_back">Geri</string>
   <string name="holiday_update">Resmi tatiller için bir güncelleme mevcut</string>
   <string name="holiday_update_fail">Güncelleme yapılamadı</string>
   <string name="holiday_update_loading">Güncelleniyor…</string>
   <string name="holiday_update_success">Tüm öğeler güncel</string>
   <string name="holiday_update_title">Tatil günleri hakkındaki bilgileri güncelle</string>
-  <string name="hour">1 saat</string>
   <string name="hour_unit">Sa +</string>
-  <string name="hours">%d saat</string>
-  <string name="install_weather_app_error">"Uygulama yüklenemedi"</string>
+  <string name="install_weather_app_error">Uygulama yüklenemedi</string>
   <string name="install_weather_app_loading">Biraz bekleyin…</string>
   <string name="invalid_time">Geçersiz zaman: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">Zamanlayıcı süresi geçersiz</string>
@@ -175,7 +212,8 @@
   <string name="legal_workday_invalidate_message">(Veri süresi doldu. Ayarlardan güncelle)</string>
   <string name="legal_workday_message">" (Tatil sırasında alarm çalmayacak)"</string>
   <string name="life_post_setting">Sabah raporu</string>
-  <string name="life_post_setting_FBE_remind">Sistem kısıtlaması nedeniyle, sabah raporundaki hava durumu bilgileri, yeniden başlatılana kadar doğru şekilde görüntülenmeyebilir</string>
+  <string name="life_post_setting_close_title">Sabah raporlarını kapat</string>
+  <string name="life_post_setting_FBE_remind">Sistem kısıtlaması nedeniyle, sabah raporundaki hava durumu bilgileri, yeniden başlatılana kadar doğru şekilde görüntülenemeyebilir</string>
   <string name="life_post_setting_open_background_subtitle">İlgili alarmlar için arka plan resimlerini göster</string>
   <string name="life_post_setting_open_background_title">Arka plan resmini göster</string>
   <string name="life_post_setting_open_desc">Mevcut hava raporunu dinlemek için 04:00-10:00 saatleri arasında tekrarlanan alarmları kapatın</string>
@@ -189,13 +227,9 @@
   <string name="life_post_wake_up_item_time_title">Uyanma Zamanı</string>
   <string name="life_post_wake_up_percentage_title">Mi takipçileri peşinizde</string>
   <string name="life_post_wake_up_time_title">Uyanma zamanı</string>
-  <string name="life_post_weather_degree_invalid">--</string>
-  <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
-  <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
   <string name="life_post_weather_invalid">Hava durumu bilgisini almak için dokunun</string>
   <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>
-  <string name="life_post_weather_temperature_centigrade">°</string>
-  <string name="listen_news_privacy"><Data>Kişiselleştirilmiş hizmetler sağlamak ve alarmlarınıza sabah haberlerini dahil etmek için, Saat\'in internete bağlanması gerekiyor.  Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="listen_news_privacy"><Data>Kişiselleştirilmiş hizmetler sağlamak ve alarmlarınıza sabah haberlerini dahil etmek için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="loading_ringtone">Zil sesi yükleniyor…</string>
   <string name="menu_add_worldclock">Saat ekle</string>
   <string name="menu_desk_clock">Saat</string>
@@ -203,8 +237,18 @@
   <string name="menu_item_dock_settings">Dock ayarları</string>
   <string name="menu_item_sort_by_gmt_offset">Zamana göre sırala</string>
   <string name="menu_item_sort_by_name">İsme göre sırala</string>
-  <string name="minute">1 dakika</string>
-  <string name="minutes">%d dakika</string>
+  <string name="midnight">Gece</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -236,35 +280,79 @@
   <string name="module_update_success">MIUI akıllı alarmları için güncellenmiş ses başarıyla indirildi. MIUI akıllı alarmlarını Saat ayarlarından ayarlayabilirsiniz.</string>
   <string name="module_update_success_control">Anladım</string>
   <string name="module_weather_ringtone_download_data">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_weather_ringtone_download_data_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_weather_ringtone_download_data_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="module_weather_ringtone_download_wifi">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_weather_ringtone_download_wifi_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_weather_ringtone_download_wifi_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="module_weather_ringtone_introduce">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Ayrıca sabahları mevcut hava durumu bilgilerini dinlemenizi sağlar.</string>
   <string name="module_weather_ringtone_introduce_global">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer.</string>
   <string name="module_weather_ringtone_update_data">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_weather_ringtone_update_success">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Bu özelliği denemek için yeni bir alarm oluşturabilirsiniz.</string>
   <string name="module_week_ringtone_download_data">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_week_ringtone_download_data_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_download_data_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="module_week_ringtone_download_wifi">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_week_ringtone_download_wifi_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_download_wifi_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="module_week_ringtone_introduce">Doğa alarmı tarihe bağlı olarak farklı sesler çalar.</string>
   <string name="module_week_ringtone_update_data">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_week_ringtone_update_success">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Bu özelliği denemek için yeni bir alarm oluşturabilirsiniz.</string>
   <string name="module_white_noise_download_data">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Bu indirme için ≈30MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
-  <string name="module_white_noise_download_data_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmek (≈30MB) ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Şu anda mobil verileri kullanıyorsun. Kabul ediyor musun?</Data></string>
+  <string name="module_white_noise_download_data_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmek (≈30MB) ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Şu anda mobil verileri kullanıyorsun. Kabul ediyor musunuz?</Data></string>
   <string name="module_white_noise_download_wifi">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_white_noise_download_wifi_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirebilmek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_white_noise_download_wifi_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirebilmek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
+  <string name="monday">Pazartesi</string>
+  <string name="monday_short">Pzt</string>
+  <string name="monday_shortest">Pzt</string>
   <string name="monday_to_friday">Pazartesiden Cumaya</string>
+  <string name="month_april">Nisan</string>
+  <string name="month_april_short">Nis</string>
+  <string name="month_april_shortest">Nis</string>
+  <string name="month_august">Ağustos</string>
+  <string name="month_august_short">Ağu</string>
+  <string name="month_august_shortest">Ağu</string>
+  <string name="month_december">Aralık</string>
+  <string name="month_december_short">Ara</string>
+  <string name="month_december_shortest">Ara</string>
+  <string name="month_february">Şubat</string>
+  <string name="month_february_short">Şub</string>
+  <string name="month_february_shortest">Şub</string>
+  <string name="month_january">Ocak</string>
+  <string name="month_january_short">Oca</string>
+  <string name="month_january_shortest">Oca</string>
+  <string name="month_july">Temmuz</string>
+  <string name="month_july_short">Tem</string>
+  <string name="month_july_shortest">Tem</string>
+  <string name="month_june">Haziran</string>
+  <string name="month_june_short">Haz</string>
+  <string name="month_june_shortest">Haz</string>
+  <string name="month_march">Mart</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">Mar</string>
+  <string name="month_may">Mayıs</string>
+  <string name="month_may_short">May</string>
+  <string name="month_may_shortest">May</string>
+  <string name="month_november">Kasım</string>
+  <string name="month_november_short">Kas</string>
+  <string name="month_november_shortest">Kas</string>
+  <string name="month_october">Ekim</string>
+  <string name="month_october_short">Eki</string>
+  <string name="month_october_shortest">Eki</string>
+  <string name="month_september">Eylül</string>
+  <string name="month_september_short">Eyl</string>
+  <string name="month_september_shortest">Eyl</string>
+  <string name="more">Daha fazla</string>
   <string name="more_alert_setting">Ek alarm ayarları</string>
+  <string name="more_setting">Diğer ayarlar</string>
   <string name="more_settings">Ayarlar</string>
+  <string name="morning">Sabah</string>
   <string name="net_permission_cancel">Katılmıyorum</string>
   <string name="net_permission_ok">Kabul</string>
-  <string name="network_privacy"><Data>Yerel resmi tatil günleri hakkında daha fazla bilgi edinmek ve alarmları ayarlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
-  <string name="network_privacy_global"><Data>Kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="network_privacy"><Data>Yerel resmi tatil günleri hakkında daha fazla bilgi edinmek ve alarmları ayarlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
+  <string name="network_privacy_global"><Data>Kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz. Kabul ediyor musunuz?</Data></string>
   <string name="never">Bir kez</string>
   <string name="new_label">Alarm etiketi ekle</string>
+  <string name="night">Akşam</string>
   <string name="no_alarm_setting">Burada alarm yok</string>
   <string name="no_worldclock">Burada saat yok</string>
+  <string name="noon">Öğlen</string>
   <string name="normal_settings">Genel ayarlar</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="not_update">Şimdi değil</string>
@@ -283,7 +371,7 @@
   <string name="remind_ringtone">Zil Sesi</string>
   <string name="repeat_count">Tekrar</string>
   <string name="reset">Sıfırla</string>
-  <string name="revert">Geri Al</string>
+  <string name="revert">Geri al</string>
   <string name="ringtone_all">Tüm zil sesleri</string>
   <string name="ringtone_dew">Sabah damlacığı</string>
   <string name="ringtone_digital_timer">Zamanlayıcı</string>
@@ -293,6 +381,9 @@
   <string name="ringtone_other">Daha fazla zil sesi</string>
   <string name="ringtone_weather">Hava alarmı</string>
   <string name="ringtone_week">Doğa alarmı</string>
+  <string name="saturday">Cumartesi</string>
+  <string name="saturday_short">Cts</string>
+  <string name="saturday_shortest">Cts</string>
   <string name="search_alarm_clock_keywords">Alarm;Alarm Saati;</string>
   <string name="search_menu_title">Ara</string>
   <string name="search_stopwatch_keywords">Kronometre</string>
@@ -319,6 +410,7 @@
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
   <string name="sleep_analysis">İstatistikler</string>
+  <string name="sleep_analysis_chart_date_format">dd/MM</string>
   <string name="sleep_date_provider_text">Uyku verileri Xiaomi Sağlık tarafından sağlanmıştır</string>
   <string name="sleep_duration">Uyku süresi:</string>
   <string name="sleep_duration_avg_text_diff">Ortalama uyku süresi (%1$s-%2$s)</string>
@@ -344,32 +436,36 @@
   <string name="start">Başlat</string>
   <string name="start_up">Başlat</string>
   <string name="stat_repeat_everyday">Her gün</string>
-  <string name="stat_repeat_legal_off_day">Resmi Tatil</string>
+  <string name="stat_repeat_legal_off_day">Resmi tatiller</string>
   <string name="stat_repeat_legal_workday">İş günü</string>
   <string name="stat_repeat_none">Bir kez</string>
   <string name="stat_repeat_self_define">Özel</string>
-  <string name="stat_repeat_weekdays">Ptesi-Cuma Arası</string>
+  <string name="stat_repeat_weekdays">Pazartesiden Cumaya</string>
   <string name="stat_repeat_weekends">Hafta sonu</string>
   <string name="stopwatch_lap_empty_text">Tur yok</string>
   <string name="stopwatch_reset_notification">Kronometre sıfırlandı</string>
   <string name="stopwatch_running_notification">Kronometre</string>
   <string name="stopwatch_title">Kronometre</string>
+  <string name="sunday">Pazar</string>
+  <string name="sunday_short">Paz</string>
+  <string name="sunday_shortest">Paz</string>
   <string name="system_permission_agree_desc">Bu uygulamanın tüm özelliklerine erişmek için internete bağlanmasına izin verin.</string>
   <string name="system_permission_main_purpose">Kronometreyi kullanarak süreyi görüntüle, alarmları ve zamanlayıcıları ayarla</string>
-  <string name="system_permission_phone_desc">Farklı cihazları tanımlamak için</string>
   <string name="system_permission_purpose">Hafta içi alarmlar oluştur ve özelleştirilmiş zil sesleri ayarla</string>
-  <string name="system_permission_storage_desc">Alarm zil seslerine erişmek için</string>
   <string name="system_time_setting">Ayarlar</string>
   <string name="system_time_settings_category_title">Zaman ayarları</string>
+  <string name="thursday">Perşembe</string>
+  <string name="thursday_short">Prş</string>
+  <string name="thursday_shortest">Prş</string>
   <string name="time">Zaman</string>
-  <string name="time_picker_colon">:</string>
+  <string name="time_picker_dialog_title">Zamanı ayarla</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
   <string name="time_picker_label_second">S</string>
   <string name="time_settings">Saat ayarları</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
-  <string name="timer_alarm_dot_matrix_label">Zamanlayıcı</string>
+  <string name="timer_alarm_dot_matrix_label">ZAMANLAYICI</string>
   <string name="timer_alert_alert_silenced">Zamanlayıcı %1$s sonra susturulur.</string>
   <string name="timer_alert_mute_off">Zamanlayıcı durduğunda alarm çalacaktır.</string>
   <string name="timer_alert_mute_on">Zamanlayıcı durduğunda alarm çalmaz</string>
@@ -383,24 +479,22 @@
   <string name="timer_alert_type_stove_fire">Soba ateşi</string>
   <string name="timer_alert_type_summer_night">Yaz gecesi</string>
   <string name="timer_can_continue_in_timer">Devam etmek için Zamanlayıcı\'yı aç</string>
-  <string name="timer_cancel_hint">Dur</string>
+  <string name="timer_cancel_hint">Durdur</string>
   <string name="timer_cancel_timer">Zamanlayıcıyı iptal et</string>
   <string name="timer_clock_alert_text">Zamanlayıcıyı ayarla</string>
   <string name="timer_continue">Devam</string>
   <string name="timer_continue_timer">Zamanlayıcıyı sürdür</string>
   <string name="timer_created">Zamanlayıcı başarıyla eklendi</string>
-  <string name="timer_delete">Kaldır</string>
   <string name="timer_end_time">Zamanlayıcı %s olunca duracak</string>
-  <string name="timer_end_time_format">HH:mm MMM dd</string>
-  <string name="timer_end_time_format_today">HH:mm</string>
+  <string name="timer_end_time_format">dd MMM HH:mm</string>
   <string name="timer_got_it">Tamam</string>
   <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
   <string name="timer_item_delete">Sil</string>
   <string name="timer_item_duration_display">%1$d dak %2$d san</string>
   <string name="timer_item_label_hint">Zamanlayıcı adı</string>
   <string name="timer_item_picker_hour">S</string>
-  <string name="timer_item_picker_minute">Dak</string>
-  <string name="timer_item_picker_second">San</string>
+  <string name="timer_item_picker_minute">D</string>
+  <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Zamanlayıcı ekle</string>
   <string name="timer_notify_text">Ertele veya zamanlayıcıyı kapat.</string>
   <string name="timer_pause_timer">Zamanlayıcıyı duraklat</string>
@@ -409,9 +503,12 @@
   <string name="timer_start_alarm">Süre doldu!</string>
   <string name="timer_start_timer">Zamanlayıcıyı başlat</string>
   <string name="timer_title">Zamanlayıcı</string>
-  <string name="timezone_exist_error_message">"Zaten bu zaman dilimini görüntülüyorsunuz"</string>
+  <string name="timezone_exist_error_message">Zaten bu zaman dilimini görüntülüyorsunuz</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
+  <string name="tuesday">Salı</string>
+  <string name="tuesday_short">Sal</string>
+  <string name="tuesday_shortest">Sal</string>
   <string name="turn_off_a_repeat_alarm">Tekrarlayan bir alarmı kapatma</string>
   <string name="turn_off_this_repeat_alarm">Tekrarlayan bu alarmı kapat</string>
   <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
@@ -426,8 +523,6 @@
   <string name="v7_preference_on">AÇIK</string>
   <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
   <string name="vibrate_when_ringing">Alarm çaldığında titret</string>
-  <string name="voice_add_alarm">Sesli komut kullanarak alarm ekle</string>
-  <string name="volume_button_dialog_title">Tuş Fonksiyonu</string>
   <string name="volume_button_setting_desc">Güç ve Ses +/- düğmeleri için işlev atama</string>
   <string name="volume_button_setting_summary">Alarm sırasında ses seviyesi tuşlarının işlevini ayarlayın</string>
   <string name="volume_button_setting_title">Ses tuşları</string>
@@ -435,6 +530,9 @@
   <string name="wake_up_alert_desc">Uyandırma saatinde alarm sesi çal</string>
   <string name="wake_up_ringtone">Alarm zil sesi</string>
   <string name="wake_up_time">Uyandır</string>
+  <string name="wednesday">Çarşamba</string>
+  <string name="wednesday_short">Çrş</string>
+  <string name="wednesday_shortest">Çrş</string>
   <string name="white_noise_selector">Sesi seç</string>
   <string name="workday_alarm_clock">İş günü alarmı</string>
   <string name="worldclock_empty_text">Saat yok</string>
@@ -446,7 +544,7 @@
   <string name="worldclock_second_time">%s süre içinde</string>
   <string name="worldclock_title">Saat</string>
   <string name="worldclock_world_time">Zaman dilimleri</string>
-  <string name="worldcolock_date_display_prefix">Şu anda: </string>
+  <string name="worldcolock_date_display_prefix">"Şu anda: "</string>
   <string name="worldcolock_time_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_current">Şuan: %1$s</string>
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
@@ -456,4 +554,5 @@
   <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
+  <string name="yesterday">Dün</string>
 </resources>
