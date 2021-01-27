@@ -2635,7 +2635,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="incoming_call_volume_title">Zil Sesi</string>
   <string name="infinity_display_settings">Tam ekran</string>
   <string name="infinity_display_slogan">Tam ekranda yenilik</string>
-  <string name="infinity_display_title">Tam ekran hareketleri</string>
+  <string name="infinity_display_title">Tam ekran görünüm</string>
   <string name="information_dialog_button_text">Anladım</string>
   <string name="input_assistance">Giriş yardımı</string>
   <string name="input_device_category">Giriş cihazı</string>
@@ -3574,7 +3574,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="navigation_guide_dialog_title">Hareketleri öğren</string>
   <string name="navigation_guide_gesture_line_dialog_summary">Tam ekran göstergesini gizledikten sonra uygulamalar arasında geçiş yapmak için yeni bir hareket kullanılır. Bu hareket şimdi öğrenilsin mi?</string>
   <string name="navigation_guide_gesture_line_dialog_title">Yeni bir hareket öğrenin</string>
-  <string name="navigation_guide_hide_gesture_line_summary">Tam ekran hareketleri kullanılırken tam ekran göstergesi gösterilmez</string>
+  <string name="navigation_guide_hide_gesture_line_summary">Tam ekran hareketlerini kullanırken tam ekran göstergesini gösterme</string>
   <string name="navigation_guide_hide_gesture_line_title">Tam ekran göstergesini gizle</string>
   <string name="navigation_guide_home_summary">Ekranın altından yukarı doğru kaydırın</string>
   <string name="navigation_guide_home_title">Ana ekrana git</string>
@@ -7523,7 +7523,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="display_animate_title">Animasyonları azalt</string>
   <string name="legacy_control_center_desc">Düğmeleri ve bildirimleri görüntülemek için durum çubuğunu aşağı çekin</string>
   <string name="legacy_control_center_title">Eski sürüm</string>
-  <string name="lock_screen_action">Aşağı kaydırdıktan sonra Kilit ekranında gösterilen öğeler</string>
+  <string name="lock_screen_action">Kilit ekranında aşağı kaydırma öğeleri</string>
   <string name="modern_control_center_desc">Bildirimleri görüntülemek için soldan durum çubuğunu aşağı çekin. Kontrol merkezini açmak için sağdan durum çubuğunu aşağı çekin.</string>
   <string name="modern_control_center_title">Yeni sürüm</string>
   <string name="notification_control_center">Bildirimler &amp; Kontrol merkezi</string>
