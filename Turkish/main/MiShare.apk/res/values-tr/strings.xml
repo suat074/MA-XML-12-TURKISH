@@ -103,9 +103,8 @@
   <string name="location_enabled">Mi Paylaşım, yakındaki cihazları bulmak için konum hizmetlerini açtı</string>
   <string name="mi_drop">Mi Paylaşım</string>
   <string name="mishare_folder_in_file_explorer">Dosya Yöneticisi &amp; Paylaşım</string>
-  <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Mi Paylaşım\'ı kullanabilirsiniz.
-Mi Paylaşım, Mi ve Redmi telefonlarıyla uyumludur.
-OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
+  <string name="mishare_settings_summary_international">"Mi Paylaşım, öğeleri yakındaki diğer cihazlara kablosuz olarak göndermenizi sağlar.
+Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafından desteklenmektedir. Seçilen herhangi bir markanın resmi web sitesinde desteklenen cihazların listesini kontrol edebilirsiniz."</string>
   <string name="mishare_state_protection">Mi Paylaşım\'ı otomatik olarak aç</string>
   <string name="mishare_state_protection_summary">Bluetooth veya Wi-Fi tekrar açıldığında, Mi Paylaşım özelliği otomatik olarak tekrar açılır</string>
   <string name="mishare_state_protection_summary_china">Bluetooth veya WLAN tekrar açıldığında, Mi Paylaşım özelliği otomatik olarak tekrar açılır</string>
@@ -171,4 +170,6 @@ OPPO, vivo, realme ve diğer markalar yakında Mi Paylaşım ile uyumlu olacak. 
   <string name="error_mirror_working">Ekranı paylaşırken öğeler paylaşılamaz</string>
   <string name="error_remote_mirror_working">Diğer cihaz, ekran paylaşılırken öğe kabul edemez</string>
   <string name="send_files_by">Dosyaları paylaşın</string>
+  <string name="error_permission_denied">Bu özelliği kullanabilmek için, Mi Paylaşım için Ayarlar\'dan gerekli tüm izinleri verin.</string>
+  <string name="nearby_share">Yakın Paylaşım</string>
 </resources>

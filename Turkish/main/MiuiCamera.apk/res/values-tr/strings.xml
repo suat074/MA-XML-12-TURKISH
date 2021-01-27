@@ -704,15 +704,18 @@ kullanabilirsiniz"</string>
   <string name="live_error_message">Sistem zamanı yanlış olduğunda bazı özellikler düzgün çalışmayabilir.</string>
   <string name="live_error_title">Sistem zamanı doğru değil</string>
   <string name="live_music_author">Xiaomi Kısa Video</string>
+  <string name="live_music_author_unknown">Bilinmeyen sanatçı</string>
   <string name="live_music_change_bgm">Fon müziğini değiştir</string>
   <string name="live_music_close_cancel_message">İptal</string>
   <string name="live_music_close_message">Müzik şimdi kapatılsın mı?</string>
   <string name="live_music_close_sure_message">Kapat</string>
+  <string name="live_music_cut_prompt">Film müziği seçin</string>
   <string name="live_music_downloading_tips">İndiriliyor…</string>
   <string name="live_music_hot_title">Popüler şarkılar</string>
   <string name="live_music_local_title">Yerel</string>
   <string name="live_music_network_exception">Ağ hatası</string>
   <string name="live_music_network_exception_tips">Bir ağ hatası oluştu, tekrar denemek için dokunun.</string>
+  <string name="live_music_title_unknown">Bilinmeyen parça</string>
   <string name="live_reverse_confirm">Sil</string>
   <string name="live_reverse_message">Daha önce yakalanan öğeyi sil?</string>
   <string name="live_share_moments">Anlar</string>
@@ -864,6 +867,7 @@ Makro modunu kullanın"</string>
   <string name="network_access_user_notice_message_sticker"><Data>"Bu özelliğe çıkartmalar sağlaması için Kamera\'nın internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_voice_caption"><Data>"Kamera\'nın konuşma-metin çıktısı işlevselliği sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
+  <string name="network_connection_ongoing">Bağlanıyor</string>
   <string name="network_exception">Ağ istisnası</string>
   <string name="no_storage">Kamerayı kullanmadan önce SD kart takın</string>
   <string name="not_enough_space">Dahili Depolama dolu</string>

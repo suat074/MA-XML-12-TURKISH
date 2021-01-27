@@ -1544,6 +1544,8 @@
   <string name="select_webview_provider_title">WebView uygulaması</string>
   <string name="select_webview_provider_toast_text">Bu seçim artık geçerli değil. Tekrar deneyin.</string>
   <string name="send_button">Gönder</string>
+  <string name="sensor_answer_summary">Gelen çağrıyı otomatik olarak cevaplamak için telefonu kulağınıza götürün</string>
+  <string name="sensor_answer_title">Cevap için cihazı kaldır</string>
   <string name="set_primary_summary">Giden aramalar için kullanılan</string>
   <string name="set_primary_title">Birincil hesap olarak ayarla</string>
   <string name="set_smsc_address_error">Numara ayarlanamadı</string>

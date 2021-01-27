@@ -887,6 +887,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="data_usage_warning_title_notify">Veri sınırını aştın</string>
   <string name="databooster_tips_message">Veri kartı haricindeki tüm SIM kartları kısıtlamak için açın. Seçtiğiniz oyunlarda hatalar oluşursa, bu özelliği kapatın.</string>
   <string name="databooster_tips_title">Dikkat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="declaration_dialog_msg">Bu özelliğin kullanılması durumunda izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, ideal bir sınır belirleyebilirsiniz.</string>
   <string name="deep_clean_disconnect_data_title">Cihaz kilitlendiğinde mobil veriyi kapat</string>
   <string name="deep_clean_memory_clean_title">Cihaz kilitlendiğinde önbelleğini temizle</string>
@@ -2548,7 +2549,8 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="securityadd_update_tips_title">Güncelleştirme</string>
   <string name="securitycenter_tab_title">Güvenlik</string>
   <string name="see_detail">Detaylar</string>
-  <string name="see_more_content">Daha fazla öne çıkanları görmek için Oyunları Güncelle</string>
+  <string name="see_more_content">Daha fazla öne çıkanları görmek için Oyunlar\'ı güncelle</string>
+  <string name="send">Gönder</string>
   <string name="set_applock_password">Şifreyi ayarla</string>
   <string name="set_mixed_password_name">Şifreyi ayarla</string>
   <string name="set_numeric_password_name">PIN\'i ayarla</string>
