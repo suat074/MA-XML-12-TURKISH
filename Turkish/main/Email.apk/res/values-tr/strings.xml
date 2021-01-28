@@ -1471,5 +1471,10 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="wps_card_tips">\"%s\" adresinden paylaşım bağlantısı bulundu</string>
   <string name="wps_card_title">Kingsoft Belgesi</string>
   <string name="sms_not_found_tip">Sistem SMS uygulaması başlatılamıyor, lütfen SMS uygulamasını manuel olarak başlatın ve bir doğrulama SMS\'i gönderin.</string>
+  <string name="conversation_report_un_spam">Spam değil</string>
+  <string name="email_no_snippet">[Bu iletinin gövde metni yok]</string>
+  <string name="general_preference_trash_contact">Spam taraması</string>
+  <string name="general_preference_trash_contact_sum">Çok sayıda rapor edilen gönderenlerden gelen e-postaların işlenmesi</string>
+  <string name="web_view_load_error_tip">Bazı sorunlar meydana geldi ve bu e-postanın gövdesi düzgün görüntülenemiyor. Bu sorunla karşılaşırsanız, bize geri bildirimde bulunmak için lütfen QQ grubu 952315061\'i ekleyin.</string>
   <string name="webview_not_found">WebView bileşeni bulunamadığından sayfa açılamıyor.</string>
 </resources>

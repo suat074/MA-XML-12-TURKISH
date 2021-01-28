@@ -433,8 +433,8 @@
         <item quantity="one">%1$d dosya</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Kolajlar 1-%d arası fotoğraf içerebilir</item>
-        <item quantity="one">Kolajlar 1-%d arası fotoğraf içerebilir</item>
+        <item quantity="other">Kolajlar %1$d-%2$d arası fotoğraf içerebilir</item>
+        <item quantity="one">Kolajlar %1$d-%2$d arası fotoğraf içerebilir</item>
     </plurals>
 	<plurals name="burst_image_download_item_title_count">
         <item quantity="other">%d fotoğraf</item>
