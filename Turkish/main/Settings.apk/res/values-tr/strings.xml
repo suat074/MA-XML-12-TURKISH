@@ -6275,6 +6275,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="users_summary">%1$s olarak giriş yapıldı</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="var_font_switch_title">Sistem genelinde değişken yazı tipi</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranışı için ADB/ADT üzerinden yüklenen uygulamaları kontrol edin.</string>
   <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="version_text">Sürüm %1$s</string>

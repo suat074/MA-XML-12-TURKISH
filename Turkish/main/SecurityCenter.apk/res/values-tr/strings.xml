@@ -2180,7 +2180,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_center_5g_save_title_text">5G pil tasarrufu</string>
   <string name="power_center_auto_shutdown">Güç açma/kapama zamanlaması</string>
   <string name="power_center_back">Geri</string>
-  <string name="power_center_battery_health_poor_tip">Görünüşe göre pil sağlığı düşük. Pilinizi yetkili bir servis merkezinde kontrol ettirin</string>
+  <string name="power_center_battery_health_poor_tip">Görünüşe göre pil sağlığı düşük. Pilinizi yetkili bir servis merkezinde kontrol ettirin.</string>
   <string name="power_center_battery_health_summary">Pil durumu istatistiklerinin doğruluğunu artırmak için cihazınızı %1$d-%2$d kez tamamen şarj edin ve boşaltın</string>
   <string name="power_center_battery_last">%s kaldı</string>
   <string name="power_center_charge_time">Tam doluma %1$s</string>
@@ -4226,4 +4226,9 @@ Bu özellik hareket düzgünleştirme ile çalışmaz.
 Çözünürlüğü yükseltmeyi deneyin!"</string>
   <string name="videobox_settings_timing">Aşırılık uyarısı</string>
   <string name="videobox_settings_timing_desc">Mola vermenizi hatırlatan saatlik bir aşırılık uyarısı alın</string>
+  <string name="antivirus_third_privacy_title">Üçüncü taraf gizlilik politikaları</string>
+  <string name="gamebox_macro">Kombinasyonlar</string>
+  <string name="gb_game_macro_bubble_tips">Kombinasyonları deneyin</string>
+  <string name="gb_game_macro_toast_tips">"Kombinasyonları deneyin!
+Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
 </resources>
