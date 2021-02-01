@@ -642,4 +642,10 @@
   <string name="send">Gönder</string>
   <string name="wechat_msg">Android 11 kısıtlamaları nedeniyle, Dosya Yöneticisi, WeChat\'te önizlenen belgelere erişemez ve görüntüleyemez. Belgeleri, burada görünmelerini sağlamak için WeChat\'te açın ve kaydedin.</string>
   <string name="wechat_title">WeChat belgelerine erişilemiyor</string>
+  <string name="cdd_message">Android 11 kısıtlamaları nedeniyle, üçüncü taraf uygulamalar ile oluşturulan bazı dosyaları Dosya Yöneticisi\'nde görüntüleyemezsiniz.</string>
+  <string name="cdd_title">Dikkat</string>
+  <string name="mirror_can_not_drag_mask_new">Öğeleri %s içine sürükleyin</string>
+  <string name="mirror_side_bar_tab_tranfer_name">Aktarmalar &amp; indirmeler</string>
+  <string name="transfer">Aktarmalar &amp; indirmeler</string>
+  <string name="transfer_summary">Mi Paylaşım ile aktarılan öğeler ve indirmeler</string>
 </resources>

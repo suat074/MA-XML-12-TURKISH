@@ -7809,4 +7809,6 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="switch_headset_anti_lost_title">Eksik kulaklık uyarısı</string>
   <string name="wifi_enhanced_handover">Gelişmiş geçiş</string>
   <string name="wifi_enhanced_handover_summary">Farklı erişim noktaları arasında hızlıca geçiş yapın</string>
+  <string name="haptic_video_content_description">Dokunsal geribildirim demo videosu</string>
+  <string name="wlan_scanner_unresizeble">Bölünmüş ekran modunda WLAN ayarları gösterilemiyor</string>
 </resources>

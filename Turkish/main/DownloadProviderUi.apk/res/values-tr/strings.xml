@@ -539,4 +539,7 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="xunlei_open_info">Bu tür bağlantıları açmak için Xunlei Engine kullanılsın mı?</string>
   <string name="xunlei_speed_service">Xunlei İndirme Hızlandırıcısı</string>
   <string name="xunlei_switch">Xunlei İndirme Hızlandırıcısı</string>
+  <string name="edit_hint2">HTTP, FTP, magnet veya ed2k bağlantısı girin</string>
+  <string name="new_add_bt2">Torrent görevi ekle</string>
+  <string name="task_add">Görev ekleniyor…</string>
 </resources>

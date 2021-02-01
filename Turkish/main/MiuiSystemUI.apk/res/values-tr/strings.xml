@@ -502,6 +502,7 @@
   <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
   <string name="connected_via_passpoint">%1$s üzerinden bağlandı</string>
   <string name="content_description_menu_button">Menü</string>
+  <string name="control_center_notification_switch_guide">Kontrol merkezi ve Bildirim alanı arasında geçiş yapmak için kaydırın</string>
   <string name="convert_to_fbe_warning">Veri bölmesini dosya tabanlı şifrelemeye dönüştür.\n !!Dikkat!! Bu işlem tüm verilerinizi siler\n Bu özellik henüz alfa aşamasındadır ve düzgün çalışmayabilir.\n Devam etmek için \"Sil ve dönüştür…\" seçeneğine basın.</string>
   <string name="convert_to_file_encryption">Dosya şifrelemeye dönüştür</string>
   <string name="convert_to_file_encryption_done">Dosya şifreleme zaten uygulandı</string>
