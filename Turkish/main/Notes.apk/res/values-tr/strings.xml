@@ -144,7 +144,7 @@
   <string name="float_todo_guide_title_v2">Hareket kısayolu</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>

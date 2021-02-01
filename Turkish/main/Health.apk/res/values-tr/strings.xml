@@ -405,8 +405,8 @@
   <string name="finished_rate">%1$d%% tamamlandı</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">dd/MM</string>
-  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="for_diagnosis_usage_only">Bu bilgileri yalnızca tanılama için kullanın.</string>
