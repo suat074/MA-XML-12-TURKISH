@@ -145,7 +145,7 @@
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
-  <string name="fmt_date_numeric_year_month_day">d/M/yyyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="folder_exist">Aynı ada sahip bir klasör zaten var</string>
