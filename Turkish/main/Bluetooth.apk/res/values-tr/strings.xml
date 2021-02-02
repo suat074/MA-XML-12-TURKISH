@@ -123,6 +123,7 @@
   <string name="remote_phonebook_feature_downgrade">Uzak Telefon Defteri Özelliğini Yükseltme</string>
   <string name="repair_for_adv_phonebook_feature">Gelişmiş Telefon Rehberi Özelliği için Yeniden Eşleştirme</string>
   <string name="repair_for_phonebook_access_version_comp">Telefon Rehberi Erişim Sürümü Uyumluluğu için yeniden eşleştirme</string>
+  <string name="snapdragon_sound_notification_content">Bu cihaz Qualcomm® Snapdragon Sound™ teknolojisini destekler</string>
   <string name="start_server">TCP sunucusunu başlat</string>
   <string name="status_canceled">Aktarım kullanıcı tarafından iptal edildi.</string>
   <string name="status_connection_error">Bağlantı başarısız.</string>

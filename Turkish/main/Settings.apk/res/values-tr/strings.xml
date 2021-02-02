@@ -1336,6 +1336,21 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="color_calibration_none">Doğal</string>
   <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">Camgöbeği</string>
+  <string name="color_game_led_applications_title">Uygulamaları seç</string>
+  <string name="color_game_led_applications_title_summary">Bireysel uygulamalar için LED ışığı kullanımını kısıtlayabilirsiniz</string>
+  <string name="color_game_led_battery_title">Şarj olurken açık tut</string>
+  <string name="color_game_led_charging_summary">Pil şarj edildiğinde kapatılacak</string>
+  <string name="color_game_led_end_time">Bitiş zamanı</string>
+  <string name="color_game_led_game_mode_summary">Game Turbo açıkken oyunlar için efektleri göster</string>
+  <string name="color_game_led_game_mode_title">Game Turbo için kullan</string>
+  <string name="color_game_led_incall_pulse_title">Gelen çağrılar için kullan</string>
+  <string name="color_game_led_notification_pulse_title">Ekran kapalıyken bildirimler için yanıp sönsün</string>
+  <string name="color_game_led_remind_title">Efektleri hatırlat</string>
+  <string name="color_game_led_special_scene_title">Özel efektler</string>
+  <string name="color_game_led_start_time">Başlangıç zamanı</string>
+  <string name="color_game_led_summary">Rahatsız etme modunda çalışmaz</string>
+  <string name="color_game_led_time_title">Zamanlı LED ışığı</string>
+  <string name="color_game_led_title">LED ışığı</string>
   <string name="color_gray">Gri</string>
   <string name="color_green">Yeşil</string>
   <string name="color_lamp_applications_title">Bildirimleri yönet</string>
@@ -4574,6 +4589,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="screen_dark_mode_smart_dark_title">Küresel koyu mod</string>
   <string name="screen_dark_mode_time_title">Koyu mod zamanlama</string>
   <string name="screen_effect">Renk uyumu</string>
+  <string name="screen_enhance_engine_memc_note_2">%d. Bu özellik yalnızca video araç kutusu açıkken çalışır.</string>
   <string name="screen_fps_summary">Daha yüksek yenileme hızı, görüntüyü daha yumuşak yaparken, düşük yenileme hızı pil tasarrufu sağlar</string>
   <string name="screen_fps_summary_power_save">Sabit oran kullanmak daha az güç tüketir</string>
   <string name="screen_fps_summary_smooth">Bazı uygulamalar resim kalitesini artırmak için yenileme hızını otomatik olarak artıracak</string>
@@ -5114,6 +5130,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="setup_lock_settings_picker_title">Telefonunuzu koruyun</string>
   <string name="setup_password_back">Geri</string>
   <string name="setup_password_confirm">Tamam</string>
+  <string name="setup_password_skip">Atla</string>
   <string name="setup_wifi_nfc_tag">WLAN NFC Etiketini Ayarla</string>
   <string name="severe_threats_summary">Hayat ve mal tehditleri için uyarıları al</string>
   <string name="severe_threats_title">Ciddi Tehditler</string>
@@ -7744,7 +7761,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="provision_skip_underline">Atla</string>
   <string name="screen_enhance_engine_ai_note_2">%d. Yalnızca Galeri uygulamasından alınan görüntüler geliştirilebilir.</string>
   <string name="screen_enhance_engine_ai_note_3">%d. Orijinal renkleri görüntülemeyi seçerseniz veya gelişmiş ayarlamalar uyguladıysanız bu özellik çalışmayacaktır.</string>
-  <string name="screen_enhance_engine_memc_note_1">Bu özellik güç tüketimini biraz artırır.</string>
+  <string name="screen_enhance_engine_memc_note_1">%d. Bu özellik güç tüketimini biraz artırır.</string>
   <string name="screen_enhance_engine_sr_note">Bu özellik güç tüketimini biraz artırır.</string>
   <string name="sound_haptic_settings">Ses &amp; dokunma</string>
   <string name="sound_settings_tab_haptic">Dokunma</string>

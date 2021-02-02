@@ -70,6 +70,7 @@
   <string name="ew_detail_receive_location_title">Konum</string>
   <string name="ew_detail_receive_time_title">Başlangıç saati</string>
   <string name="ew_detail_receive_warn_time_title">Başlamadan önceki süre</string>
+  <string name="ew_save_title">Kaydet</string>
   <string name="ew_share_logo_title">Deprem uyarısı</string>
   <string name="ew_share_save_tips">%s konumuna kaydedildi</string>
   <string name="ew_share_title">Paylaş</string>
