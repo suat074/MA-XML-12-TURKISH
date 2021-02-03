@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="gb_game_macro_action_unit_count">
+    <item quantity="other">%d kez</item>
+    <item quantity="one">%d kez</item>
+  </plurals>
+  <plurals name="gb_game_macro_action_unit_seconds">
+    <item quantity="other">%d san</item>
+    <item quantity="one">%d san</item>
+  </plurals>
+</resources>

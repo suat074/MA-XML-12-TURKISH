@@ -512,10 +512,10 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="todo_edit_btn_today">Bugün</string>
   <string name="todo_edit_btn_tomorrow">Yarın</string>
   <string name="todo_edit_text_hint">Görev açıklamasını gir</string>
-  <string name="todo_event_description_a_week_ago">1 hafta önce</string>
-  <string name="todo_event_description_a_week_later">1 hafta içinde</string>
-  <string name="todo_event_description_day_after_tomorrow">2 gun icinde</string>
-  <string name="todo_event_description_day_before_yesterday">2 gün önce</string>
+  <string name="todo_event_description_a_week_ago">%1$d hafta önce</string>
+  <string name="todo_event_description_a_week_later">%1$d hafta içinde</string>
+  <string name="todo_event_description_day_after_tomorrow">%1$d gun icinde</string>
+  <string name="todo_event_description_day_before_yesterday">%1$d gün önce</string>
   <string name="todo_event_description_today">Bugün</string>
   <string name="todo_event_description_tomorrow">Yarın</string>
   <string name="todo_event_description_yesterday">Dün</string>
@@ -572,7 +572,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="toolbar_undo_description">Geri al</string>
   <string name="toolbar_voice_description">Ses</string>
   <string name="trash_folder_name">Çöp</string>
-  <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
+  <string name="trash_folder_reminder">Sildiğiniz notlar %1$d gün içinde kalıcı olarak silinir.</string>
   <string name="trash_folder_reminder_new">Notlar kalıcı olarak silinmeden önce %d gün boyunca çöpte tutulur</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>

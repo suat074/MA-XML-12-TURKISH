@@ -73,6 +73,10 @@
     <item quantity="other">%d dakika içinde</item>
     <item quantity="one">1 dakika içinde</item>
   </plurals>
+  <plurals name="item_terms">
+    <item quantity="other">%1$s öğe</item>
+    <item quantity="one">%1$s öğe</item>
+  </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Şu anda</item>
   </plurals>
