@@ -12,4 +12,8 @@
         <item quantity="other">%1$d öğe seçildi</item>
         <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
+	<plurals name="document_duplicate_data_tip">
+        <item quantity="one">Başarıyla içe aktarıldı (%1$d yinelenen öğe filtrelendi)</item>
+        <item quantity="other">Başarıyla içe aktarıldı (%1$d yinelenen öğe filtrelendi)</item>
+    </plurals>
 </resources>

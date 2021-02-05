@@ -32,6 +32,12 @@
   <string name="accessibility_battery_level_charging">Pil şarj oluyor, yüzde %d.</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="add_from_album">Galeriden ekle</string>
+  <string name="align_center_horizontally">Yatay ve ortaya hizalı</string>
+  <string name="align_center_vertically">Yığılmış ve ortaya hizalı</string>
+  <string name="align_left_horizontally">Yatay ve sola hizalı</string>
+  <string name="align_left_vertically">Yığılmış ve sola hizalı</string>
+  <string name="align_right_horizontally">Yatay ve sağa hizalı</string>
+  <string name="align_right_vertically">Yığılmış ve sağa hizalı</string>
   <string name="align_type">Hizala</string>
   <string name="always_style">Her zaman</string>
   <string name="animation_clock_panel">Dalga kadranı</string>
