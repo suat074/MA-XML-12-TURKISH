@@ -401,7 +401,6 @@
   <string name="welcome_to_thesweepversion">Tarayıcı Beta\'ya Hoş Geldiniz!</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">Bağlantı noktası \"%1$s\" zaten var. Silin ve ardından bağlanmak için kodu tekrar tarayın.</string>
-  <string name="wifi_low_version_prompt">wifi istemi</string>
   <string name="wifi_open_fail">Wi-Fi açılmıyor</string>
   <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
   <string name="wifi_pwd">Şifre:</string>

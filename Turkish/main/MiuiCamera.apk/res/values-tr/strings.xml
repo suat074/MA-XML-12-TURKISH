@@ -885,7 +885,6 @@ Makro modunu kullanın"</string>
   <string name="network_access_user_notice_message_sticker"><Data>"Bu özelliğe çıkartmalar sağlaması için Kamera\'nın internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_voice_caption"><Data>"Kamera\'nın konuşma-metin çıktısı işlevselliği sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
-  <string name="network_connection_ongoing">Bağlanıyor</string>
   <string name="network_exception">Ağ istisnası</string>
   <string name="no_storage">Kamerayı kullanmadan önce SD kart takın</string>
   <string name="not_enough_space">Dahili Depolama dolu</string>
