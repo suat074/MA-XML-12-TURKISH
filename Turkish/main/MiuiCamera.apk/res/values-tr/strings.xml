@@ -1708,14 +1708,14 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="network_connection_timed_out">Bağlantı zaman aşımı</string>
   <string name="pref_video_cast_setting_summary">Birden çok cihazla bir video çekebilmek için açın</string>
   <string name="pref_video_cast_setting_title">Çift telefon kaydı</string>
-  <string name="remote_online_connecting">Kullanılabilir cihazlar</string>
+  <string name="remote_online_connecting">Bağlanacak cihazı seçin</string>
   <string name="remote_online_disconnect_confirmation">%1$s bağlantısı iptal edilsin mi?</string>
   <string name="remote_online_exit_confirmation">Çift telefon kaydı şimdi kapatılsın mı?</string>
   <string name="remote_online_exit_connecting">Şimdi Çift telefon kaydı bağlantısı kesilip çıkılsın mı?</string>
-  <string name="remote_online_guide">Bildirim alanındaki düğmeyi kullanarak diğer cihazdaki Çift telefon kaydını açın.</string>
+  <string name="remote_online_guide">Kontrol merkezindeki düğmeyi kullanarak diğer cihazdaki Çift telefon kaydını açın.</string>
   <string name="remote_online_interrupted">Bağlantı kesildi. Devam etmek için tekrar bağlanın.</string>
   <string name="remote_online_introduction_i">Çift telefon kaydı, iki farklı cihazdan gelen akışların tek bir videoda birleştirilmesine olanak tanır. Bu cihazda hem akışları hem de son videoyu önizleyebileceksiniz. Sesin yalnızca bu cihaz tarafından kaydedileceğini unutmayın.</string>
-  <string name="remote_online_introduction_ii">Bu özelliğin çalışması için diğer Mi veya Redmi cihazının Çift telefon kaydını desteklemesi gerekir. Bildirim alanındaki düğme kullanılarak açılabilir.</string>
+  <string name="remote_online_introduction_ii">Bu özelliğin çalışması için diğer Mi veya Redmi cihazının Çift telefon kaydını desteklemesi gerekir. Kontrol merkezindeki düğme kullanılarak açılabilir.</string>
   <string name="remote_online_searching">Cihazlar aranıyor…</string>
   <string name="remote_online_service_name">Çift telefon kaydı</string>
   <string name="remote_online_unavailable">Yakındaki cihazlar bulunamadı</string>
@@ -1731,4 +1731,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="video_cast_service_name">Çift telefon</string>
   <string name="video_cast_state_exited">Çift telefon kaydından çıkıldı</string>
   <string name="video_cast_state_paused">Duraklatıldı</string>
+  <string name="mimoji_eyelid">Göz kapakları</string>
+  <string name="accessibility_preview_remote">Çift telefon kaydı önizlemesi</string>
+  <string name="pref_multi_camera_dual_video_remote">Çift telefon kaydı</string>
+  <string name="timerburst_pressed_hint">Durdurmak için tekrar dokunun</string>
 </resources>

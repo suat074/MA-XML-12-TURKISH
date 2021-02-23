@@ -29,6 +29,8 @@
   <string name="bluetooth_device_context_unpair">Eşleşmeyi kaldır</string>
   <string name="bluetooth_disconnected">Eşleştirilmemiş</string>
   <string name="bluetooth_disconnecting">Eşleştirme kaldırılıyor…</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDI ile bağlandı</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDIO için kullan</string>
   <string name="bluetooth_paired">Kaydedildi</string>
   <string name="bluetooth_preference_connected_devices">Eşleştirilmiş cihazlar</string>
   <string name="bluetooth_preference_found_devices">Mevcut cihazlar</string>

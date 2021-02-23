@@ -413,6 +413,10 @@
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">Paz</string>
   <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
+  <string name="sync_desc_state_complete">Bulut ile eşitlendi</string>
+  <string name="sync_desc_state_complete_china">Tüm %1$s eşitlendi</string>
+  <string name="sync_desc_state_disable">Bulutla eşitlemeyi aç</string>
+  <string name="sync_desc_state_running">Bulutla eşitleniyor</string>
   <string name="sync_folder_todo">%1$s ve %2$s</string>
   <string name="sync_note_folder">%1$s ve %2$s</string>
   <string name="sync_note_todo">%1$s ve %2$s</string>

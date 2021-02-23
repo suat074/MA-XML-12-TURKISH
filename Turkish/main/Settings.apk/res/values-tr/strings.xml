@@ -1102,7 +1102,7 @@ Oynatma kalitesi"</string>
   <string name="bootloader_status_locked">Kilitli</string>
   <string name="bootloader_status_locked_info">Bu cihaz kilitli</string>
   <string name="bootloader_status_locked_summary">Telefon güvenli</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock\'un, normal çalışabilmesi için Mi Hesabınıza, CPU Kimliğine, İmei ve IMSI\'nize erişmesi gerekir. Verilerinizi %s ile uyumlu olarak topluyor, kullanıyor ve işliyoruz. Kabul ediyor musun?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>Mi Kilit açma normal çalışabilmesi için Mi Hesabınıza, CPU Kimliğinize ve IMSI bilgilerine erişmesi gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Kabul?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">İptal</string>
   <string name="bootloader_status_privacy_dialog_title">Gerekli izinler</string>
   <string name="bootloader_status_privacy_dialog_url_text">Gizlilik Politikası</string>
@@ -1337,19 +1337,19 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">Camgöbeği</string>
   <string name="color_game_led_applications_title">Uygulamaları seç</string>
-  <string name="color_game_led_applications_title_summary">Bireysel uygulamalar için LED ışığı kullanımını kısıtlayabilirsiniz</string>
+  <string name="color_game_led_applications_title_summary">LED ışıkla çalışacak bireysel uygulamaları seçin</string>
   <string name="color_game_led_battery_title">Şarj olurken açık tut</string>
-  <string name="color_game_led_charging_summary">Pil şarj edildiğinde kapatılacak</string>
-  <string name="color_game_led_end_time">Bitiş zamanı</string>
+  <string name="color_game_led_charging_summary">Pil şarj olduğunda LED ışığı sönecek</string>
+  <string name="color_game_led_end_time">Bitiş</string>
   <string name="color_game_led_game_mode_summary">Game Turbo açıkken oyunlar için efektleri göster</string>
   <string name="color_game_led_game_mode_title">Game Turbo için kullan</string>
   <string name="color_game_led_incall_pulse_title">Gelen çağrılar için kullan</string>
-  <string name="color_game_led_notification_pulse_title">Ekran kapalıyken bildirimler için yanıp sönsün</string>
-  <string name="color_game_led_remind_title">Efektleri hatırlat</string>
+  <string name="color_game_led_notification_pulse_title">Her Zaman Açık ekranındaki bildirimler için efekt</string>
+  <string name="color_game_led_remind_title">Efektler</string>
   <string name="color_game_led_special_scene_title">Özel efektler</string>
-  <string name="color_game_led_start_time">Başlangıç zamanı</string>
+  <string name="color_game_led_start_time">Başlat</string>
   <string name="color_game_led_summary">Rahatsız etme modunda çalışmaz</string>
-  <string name="color_game_led_time_title">Zamanlı LED ışığı</string>
+  <string name="color_game_led_time_title">Zaman çizelgesi</string>
   <string name="color_game_led_title">LED ışığı</string>
   <string name="color_gray">Gri</string>
   <string name="color_green">Yeşil</string>
@@ -7528,8 +7528,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="dialog_check_button_negative">Tekrar dene</string>
   <string name="dialog_check_button_positive">WLAN\'a bağlan</string>
   <string name="dialog_check_context">"Cihazınız şu anda internete bağlanamıyor.
-1. Kullanılabilir ağlardan birini seçmek için \"WLAN\'a bağlan\"a dokunun.
-2. Mobil veri kullanmak istiyorsanız \"Tekrar dene\"ye dokunun veya SIM kartınızı çıkarıp yeniden takın."</string>
+· Kullanılabilir ağlardan birini seçmek için \"WLAN\'a bağlan\"a dokunun.
+· Mobil veri kullanmak istiyorsanız \"Tekrar dene\"ye dokunun veya SIM kartınızı çıkarıp yeniden takın."</string>
   <string name="dialog_check_title">İnternete bağlanılamıyor</string>
   <string name="dialog_wifi_button_negative">Hayır</string>
   <string name="dialog_wifi_button_positive">Evet</string>
@@ -7692,7 +7692,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="dpp_cannot_connect_target">Hedef ağa bağlanılamıyor</string>
   <string name="dpp_connect_success">Başarıyla bağlandı</string>
   <string name="dpp_not_support">Bu ağ paylaşılamıyor</string>
-  <string name="dpp_qr_code_summary">Bu QR kodunu tarayarak bir WLAN ağına bağlanın.</string>
+  <string name="dpp_qr_code_summary">Diğer kişiden, WLAN ayarlarında tarayıcıyı kullanarak bu QR kodunu taramasını isteyin</string>
   <string name="dpp_scanner_summary">QR kodunu çerçevenin içine yerleştirin</string>
   <string name="dpp_shared_fail">WLAN paylaşılamadı</string>
   <string name="dpp_shared_success">WLAN başarıyla paylaşıldı</string>
@@ -7828,4 +7828,11 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="wifi_enhanced_handover_summary">Farklı erişim noktaları arasında hızlıca geçiş yapın</string>
   <string name="haptic_video_content_description">Dokunsal geribildirim demo videosu</string>
   <string name="wlan_scanner_unresizeble">Bölünmüş ekran modunda WLAN ayarları gösterilemiyor</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDI ile bağlandı</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDI için kullan</string>
+  <string name="expert_detail_content_description">Ayrıntıları görüntüle</string>
+  <string name="launch_alipay_health_code">Alipay sağlık kodu</string>
+  <string name="launch_alipay_health_code_auto_close">Alipay sağlık kodu kısayolu artık mevcut değil.  Farklı bir kısayola geçebilirsiniz.</string>
+  <string name="launch_wechat_health_code">WeChat sağlık kodu</string>
+  <string name="launch_wechat_health_code_auto_close">WeChat sağlık kodu kısayolu artık mevcut değil.  Farklı bir kısayola geçebilirsiniz.</string>
 </resources>

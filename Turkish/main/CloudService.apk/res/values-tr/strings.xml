@@ -343,6 +343,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_request_permission_title">Xiaomi Bulut izinlere ihtiyaç duyuyor</string>
   <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="micloud_setting_antispam_summary">İstisnalar ve engellenen telefon numaraları</string>
+  <string name="micloud_setting_bluetooth_summary">Eşleştirilmiş cihazlarınızla ilgili bilgileri bulutla eşitleyin</string>
   <string name="micloud_setting_browser_summary">Yer imleri, geçmiş ve sekmeler</string>
   <string name="micloud_setting_calendar_summary">Etkinlikler</string>
   <string name="micloud_setting_calllog_summary">Çağrı geçmişi</string>
