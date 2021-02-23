@@ -2540,5 +2540,4 @@ WLAN Adresi (BSSID)
   <string name="memory_leak">Bellek sızıntısı</string>
   <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDI ile bağlandı</string>
   <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDI için kullan</string>
-  <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
 </resources>
