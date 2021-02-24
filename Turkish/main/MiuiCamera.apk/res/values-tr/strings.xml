@@ -1516,7 +1516,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="video_tag_flag_title">Etiket</string>
   <string name="view_privacy_policy">Gizlilik Politikasını Görüntüle</string>
   <string name="vv_duartion_hint">%1$s | Bölüm %2$d | %3$ss</string>
-  <string name="vv_hint">Vlog\'ları yalnızca manzara modunda çekebilirsiniz</string>
+  <string name="vv_hint">Sadece manzara modunda vlog çekebilirsiniz</string>
   <string name="vv_stability_hint">Cihazınızı sabit tutun</string>
   <string name="vv_start">Vlog çekim</string>
   <string name="vv_use_hint_text_body">"Vlog modu hareket halindeyken video
@@ -1735,4 +1735,6 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="accessibility_preview_remote">Çift telefon kaydı önizlemesi</string>
   <string name="pref_multi_camera_dual_video_remote">Çift telefon kaydı</string>
   <string name="timerburst_pressed_hint">Durdurmak için tekrar dokunun</string>
+  <string name="audio_map_summary_tip">Sol ve sağ kanalların ses düzeyini gerçek zamanlı olarak izleyin ve kaydırıcıyı kullanarak ayarlayın</string>
+  <string name="histogram_summary_tip">Gerçek zamanlı pozlama geri bildirimini göster</string>
 </resources>

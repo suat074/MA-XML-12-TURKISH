@@ -76,6 +76,8 @@
   <string name="already_download_btn">İndiriliyor…</string>
   <string name="already_favorited">Zaten favoride</string>
   <string name="always_use_metered">Her zaman mobil veri kullan</string>
+  <string name="app_description_content">Müzik, ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını oynatmaya devam edebilirsiniz.</string>
+  <string name="app_description_title">\"Müzik\" Ana ekrandan kaldırılsın mı?</string>
   <string name="app_label">İndirilenler</string>
   <string name="app_permission_confirm">Anladım</string>
   <string name="app_permission_optional">İsteğe bağlı izinler</string>
@@ -888,6 +890,7 @@
   <string name="talkback_back">Geri dön</string>
   <string name="talkback_batch_process">Birden çok öğe</string>
   <string name="talkback_clear">Temizle</string>
+  <string name="talkback_cut">Zil sesi düzenleyici</string>
   <string name="talkback_device">Diğer cihazlarda oynat</string>
   <string name="talkback_download">İndir</string>
   <string name="talkback_favorite">Bu şarkıyı beğen</string>

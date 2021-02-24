@@ -89,6 +89,10 @@
   <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi Key\'e çift tıklayın</string>
   <string name="mi_key_summary_take_photo">Fotoğraf çekmek için Mi Key\'e tıklayın</string>
   <string name="mi_key_take_photo">Fotoğraf çek</string>
+  <string name="miheadset_notification_Box">Kutu</string>
+  <string name="miheadset_notification_Disconnect">Bağlantıyı kes</string>
+  <string name="miheadset_notification_LeftEar">SL</string>
+  <string name="miheadset_notification_RightEar">SĞ</string>
   <string name="mihome_app_download">Şimdi yükle</string>
   <string name="mihome_app_update">Şimdi güncelle</string>
   <string name="mihome_download_tips">Mi Home uygulamasını yükleyin, oturum açın ve telefonunuzu cihazın yakınında tutun.</string>

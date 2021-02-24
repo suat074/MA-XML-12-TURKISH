@@ -128,7 +128,7 @@
   <string name="album_share_subtitle_requesting">Albüm bilgisi alınıyor...</string>
   <string name="album_share_title_new_album">Yeni albümü paylaş</string>
   <string name="album_show_local_only">Sadece yerel albümleri göster</string>
-  <string name="album_show_local_only_summary">Sadece cihazdaki fotoğrafları silmek ve görüntülemek için açın</string>
+  <string name="album_show_local_only_summary">Bu özellik açıkken yalnızca yerel albümleri silme seçeneği kullanılabilir</string>
   <string name="album_sort_type">Sıralama düzeni</string>
   <string name="album_sort_type_create_time_asc">Eskiden yeniye</string>
   <string name="album_sort_type_create_time_desc">Yeniden eskiye</string>
@@ -170,7 +170,7 @@
   <string name="authorize_to_device_failed">Yetkilendirilemedi</string>
   <string name="authorize_watch_on_tv_failed">TV\'de görüntüleme yetkisi alınamadı</string>
   <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik olarak eşitle (Mi Hesabı gerekli)</string>
-  <string name="auto_download_media_title">Xiaomi Bulut\'tan fotoğrafları otomatik olarak indirin</string>
+  <string name="auto_download_media_title">Otomatik indir</string>
   <string name="auto_update_face">Otomatik olarak fotoğraf ekle</string>
   <string name="auto_update_face_summary">Otomatik olarak eşleştir ve bebek albümüne fotoğraf ekle</string>
   <string name="auto_update_off">Kapalı</string>
@@ -397,8 +397,8 @@
   <string name="cloud_guide_auto_backup_title">Eşitlenecek albümleri seçin</string>
   <string name="cloud_guide_login_title">Fotoğrafları ve videoları otomatik olarak yedekle</string>
   <string name="cloud_guide_welcome_title">Xiaomi Bulut</string>
-  <string name="cloud_privacy_with_ai_album">Otomatik eşitleme ve görüntü işleme ile ilgili gizlilik beyanı</string>
-  <string name="cloud_privacy_with_face">Otomatik eşitleme ve yüz tanıma ile ilgili gizlilik beyanı</string>
+  <string name="cloud_privacy_with_ai_album">Özellikler ve gizlilik</string>
+  <string name="cloud_privacy_with_face">Özellikler ve gizlilik</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
   <string name="cloud_settings">Eşitleme</string>
   <string name="cloud_storage_extend">Bulut alanını genişlet</string>
@@ -1639,7 +1639,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="share_public_url_text">%1$s albümü seninle paylaştım. %2$s adresinden bakabilirsin</string>
   <string name="share_with_family">Aile ile Paylaş</string>
   <string name="sharer_quota_fulfiled">Zaten azami kişi sayısı ile bu albümü paylaştın.</string>
-  <string name="show_cloud_albumlist_summary">Bulut ile eşitlediğiniz albümleri yönetin</string>
+  <string name="show_cloud_albumlist_summary">Eşitlemeyi kapattıktan sonra, seçilen albümlerdeki yeni öğeler buluta yüklenmeyecek.</string>
   <string name="show_hidden_album_summary">Gizli albümleri görüntüleyin ve yönetin</string>
   <string name="show_hidden_album_title">Gizli albümleri görüntüle</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Başarıyla taşındı, görüntülemek için Diğer albümlere gidin</string>
@@ -2603,4 +2603,27 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre Wi-Fi bağlantısı yok. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre WLAN bağlantısı yok. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
+  <string name="auto_download_title">Görüntü kalitesini seçin</string>
+  <string name="backup_settings">Bulut ile eşitle</string>
+  <string name="backup_settings_more">Ek ayarlar</string>
+  <string name="cloud_backup_enable_title">Eşitle</string>
+  <string name="cloud_backup_open_button">Aç</string>
+  <string name="cloud_backup_space">Bulut depolama</string>
+  <string name="cloud_backup_status_disable">Kapalı</string>
+  <string name="cloud_backup_status_eneble">Açık</string>
+  <string name="cloud_backup_title">Bulut ile eşitle</string>
+  <string name="cloud_bacup_disable_button">Eşitlemeyi kapat</string>
+  <string name="cloud_bacup_disable_processing">İşleniyor…</string>
+  <string name="cloud_login_ok">Anladım</string>
+  <string name="cloud_login_settings_title">Eşitleme ayarları</string>
+  <string name="mi_mover_working_desc">Mi Mover öğeleri aktarıyor…</string>
+  <string name="photo_size_not_support">Bu görüntü çözünürlüğü desteklenmiyor</string>
+  <string name="see_more_settings">Ek ayarlar</string>
+  <string name="sync_backup_disable_confirm_message_downloading">Eşitlemeyi şimdi kapatırsanız, bulutta depolanan orijinal dosyaların devam eden indirmeleri kesintiye uğrar. Bu cihazda depolanan yüksek kaliteli görüntüler de artık kullanılamayacak. Yine de kapatılsın mı?</string>
+  <string name="sync_backup_disable_confirm_message_wait">Bu cihazda depolanan yüksek kaliteli görüntüler, eşitlemeyi kapatmanızın ardından artık kullanılamayacak. Orijinal dosyaları buluttan indirip, ondan sonra eşitlemeyi kapatabilirsiniz.</string>
+  <string name="sync_backup_disable_confirm_title">Eşitlemeyi kapat</string>
+  <string name="sync_backup_enable_confirm_message">Bulut ile eşitleme açıkken, bu cihazdaki öğeler karşıya yüklenecek ve bulutta depolanan öğelerle birleştirilecek.</string>
+  <string name="sync_backup_enable_confirm_title">Eşitlenen öğeleri birleştir</string>
+  <string name="vlog_filter_master_close">Kaldırılan video efektleri</string>
+  <string name="vlog_filter_master_open">Uygulanan video efektleri</string>
 </resources>

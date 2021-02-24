@@ -205,7 +205,7 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
-  <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
+  <string name="msg_alert_cancel_restore">Öğeler Xiaomi Bulut\'tan geri yükleniyor. Şimdi iptal edilsin mi?</string>
   <string name="msg_alert_restore_error">Xiaomi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz, indirmek için mobil veri kullanılacaktır.</string>
@@ -269,14 +269,14 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_home_failed">Ana ekran geri yüklenemedi.</string>
   <string name="restore_home_screen_apps">Bulut yedeklemesinden geri yükle</string>
   <string name="restore_init_description">Geri yüklemeyi başlat</string>
-  <string name="restore_network_pause">%s (Devam etmek için dokunun)</string>
+  <string name="restore_network_pause">Mobil veri tasarrufu için duraklatıldı. Devam ettirmek için dokunun.</string>
   <string name="restore_network_unconnect">%s (Bağlantı için bekleniyor)</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
   <string name="restore_task_unfinished">Geri yüklenemedi</string>
   <string name="restore_unfinished">Geri yükleniyor, daha sonra tekrar deneyin</string>
   <string name="restoring_data">Veriler geri yükleniyor…</string>
-  <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor…</string>
+  <string name="restoring_file_title_no_progress">Uygulamalar geri yükleniyor…</string>
   <string name="restoring_home_screen_apps">Xiaomi Bulut\'tan geri yükleniyor…</string>
   <string name="restoring_settings">Ayarlar geri yükleniyor…</string>
   <string name="retry">Yeniden dene</string>
@@ -300,4 +300,16 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>
+  <string name="btn_restore_cancel_app_app">WeChat verilerini geri yükleme</string>
+  <string name="cloud_backup_detail_app_data">WeChat verilerini yedekle</string>
+  <string name="cloud_backup_detail_app_data_summary">Sohbet geçmişini, dosyaları ve diğer öğeleri yedekleyin</string>
+  <string name="confirm_restore_app_data">Uygulama verilerinin üzerine yazma</string>
+  <string name="confirm_restore_app_data_summary">WeChat verilerini geri yükleyince, bu cihazdaki uygulama verilerinin mevcut sürümünün üzerine yazılır.  Yine de geri yüklensin mi?</string>
+  <string name="dialog_backup_failed">Yedeklenemedi</string>
+  <string name="dialog_buy_cloud_space">Yükselt</string>
+  <string name="dialog_cloud_space_not_enough">Bu yedekleme için %1$s boş bulut depolama alanı gerekir. Öğeleri yedeklemek için depolama planınızı yükseltin.</string>
+  <string name="hint_restore_wechat_data">Not: WeChat verileri, bazı durumlarda uyumluluk sorunları nedeniyle geri yüklenemeyebilir.</string>
+  <string name="restore_detail_category_app_data">WeChat verileri</string>
+  <string name="restore_detail_category_app_data_summary">Sohbet geçmişi, dosyalar ve diğer öğeler (%s)</string>
+  <string name="restoring_app_data_title_no_progress">WeChat verileri geri yükleniyor…</string>
 </resources>

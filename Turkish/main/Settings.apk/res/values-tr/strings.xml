@@ -7618,6 +7618,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadet_up_music">Önceki parça</string>
   <string name="miheadset_active">Enerjik</string>
   <string name="miheadset_anc_indicate">Kulaklıkları bağlayın ve eşleştirin</string>
+  <string name="miheadset_ancBalance">Orta</string>
+  <string name="miheadset_ancClosed">Kapalı</string>
+  <string name="miheadset_ancDecrease">Düşük</string>
+  <string name="miheadset_ancIncrease">Yüksek</string>
   <string name="miheadset_audio_mode">Ses kalitesi</string>
   <string name="miheadset_audio_mode_high">Yüksek</string>
   <string name="miheadset_audio_mode_listen">Düşük</string>
@@ -7679,8 +7683,10 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_rename_device">Yeniden adlandır</string>
   <string name="miheadset_RightEar">Sağ</string>
   <string name="miheadset_transparent">Şeffaf</string>
+  <string name="miheadset_transparentMode">Şeffaf</string>
   <string name="miheadset_triple_click_key_mode">Üç kez dokunun</string>
   <string name="miheadset_unpair_device_text">%1$s, bu Mi Hesabı ile ilişkili tüm cihazlardan kaldırılacak.</string>
+  <string name="miheadset_voiceIncrease">Sesi geliştir</string>
   <string name="adjust_font_size_answer_cn">Aşağıdaki kaydırıcıları kullanarak metin boyutunu ve yazı tipi kalınlığını ayarlamayı deneyin!</string>
   <string name="adjust_font_size_answer_global">Aşağıdaki kaydırıcıyı kullanarak metin boyutunu ayarlamayı deneyin!</string>
   <string name="font_settings_jump">Erişilebilirlik > Ekran boyutu</string>
