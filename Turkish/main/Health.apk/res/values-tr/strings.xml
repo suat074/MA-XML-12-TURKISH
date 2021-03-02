@@ -223,6 +223,7 @@
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
   <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_lunar">Çince Geleneksel Takvim</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="day">Gün</string>
   <string name="deep_light_detection_open_prompt">Bir sonraki yatışınızda uyku döngünüz analiz edilecek</string>
   <string name="deep_sleep">Derin uyku</string>
@@ -845,6 +846,7 @@
   <string name="select_recog_question">Eylem seç</string>
   <string name="select_swim_posture">Stil seç</string>
   <string name="select_target">Hedef seçin</string>
+  <string name="send">Gönder</string>
   <string name="send_diagnosis_log">Tanı günlüğünü gönder</string>
   <string name="sending">Gönderiliyor…</string>
   <string name="set_emergency_contact">Acil durum kişisi</string>
@@ -1572,9 +1574,12 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="miuix_appcompat_cancel_description">İptal</string>
   <string name="miuix_appcompat_confirm_description">Onayla</string>
   <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
   <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
   <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="network_not_available2">Ağa bağlanılamadı</string>
   <string name="personal_course_recommend_subtitle">Kişisel bilgilerinize, sağlık durumlarınıza ve tercihlerinize göre size tavsiye edilen sınıflara erişin</string>
   <string name="personal_course_recommend_title">Önerilen sınıflar</string>

@@ -7,7 +7,7 @@
   <string name="activate_auto_sms_notification_title">SIM kart aktivasyonu</string>
   <string name="activate_feature_call_log_sync">Çağrı geçmişini eşitle</string>
   <string name="activate_feature_default_name">Mi hizmetleri</string>
-  <string name="activate_feature_find_device">Cihazı bul ağa bağlanamıyor</string>
+  <string name="activate_feature_find_device">SMS konumlandırma</string>
   <string name="activate_feature_live_talk">Telefon Kontör Paketi</string>
   <string name="activate_feature_mi_roaming">Mi Dolaşım</string>
   <string name="activate_feature_mms_sync">Mesajları eşitle</string>

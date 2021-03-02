@@ -12,71 +12,71 @@
   <string-array name="settings_search_account_and_authority_non_global">
     <item>Hesaplar</item>
     <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
-    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;QQ;Weibo</item>
+    <item>Hesaplar;SNS;WeChat;QQ;Weibo;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_account_and_authority_global">
     <item>Hesaplar</item>
     <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
-    <item>Yetkilendirme;Hesap;Mi Hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;Facebook;Google</item>
+    <item>Hesaplar;SNS;Facebook;Google;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_change_password">
     <item>Şifre değiştir</item>
     <item>Mi Hesabı şifresini değiştirin</item>
-    <item>Değiştir;Şifre;Xiaomi;Mi Hesabı;Hesap</item>
+    <item>Parolayı değiştir;Parolayı güncelle;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_help_center">
     <item>Yardım</item>
     <item>Mi Hesap yardımı ve desteği alın</item>
-    <item>Xiaomi;Hesap;Mi Hesabı;Yardım;Destek;Görünüm</item>
+    <item>Mi Hesabı;Hesap;Hesap yardımı;Yardım merkezi</item>
   </string-array>
   <string-array name="settings_search_login_2_step_verify">
     <item>2 adımlı doğrulama</item>
     <item>Mi Hesabınız için 2 adımlı doğrulamayı ayarlayın</item>
-    <item>Oturum aç;Giriş yap;2 adımlı;doğrulama;Xiaomi;Hesap;Mi Hesabı;Ayarlar</item>
+    <item>Oturum aç;Giriş yap;2 adımlı;doğrulama;Xiaomi;Hesap;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_login_and_security">
-    <item>Oturum açma ve güvenlik</item>
+    <item>Hesap güvenliği</item>
     <item>Kurtarma telefonu ve e-postası, şifre yönetimi</item>
-    <item>Hesap;Güvenlik;Oturum aç;Giriş yap;Xiaomi;Mi Hesabı;Telefon numarası;E-posta;Değiştir;Parola;Ekle;Eşle</item>
+    <item>Hesap güvenliği;Oturum açma;Kurtarma telefonu;Kurtarma e-postası;Hesap koruması;Telefon numarası;E-posta;Parolayı değiştir;Telefon numarası ekle;E-posta ekle;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_manage_device">
     <item>Cihazlar</item>
     <item>Mi Hesabınızla ilişkili cihazları yönetin</item>
-    <item>Cihazlar;Yönet;Giriş yap;Oturum aç;Cihaz listesi;Xiaomi;Mi Hesabı;Hesap</item>
+    <item>Cihazları yönet;Cihazlarım;Cihazlar;Cihaz listesi;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_payment_information">
     <item>Ödeme bilgileri</item>
     <item>Ödeme bilgilerini görüntüleyin ve yönetin</item>
-    <item>Ödeme;Bilgi;Xiaomi;Mi Hesabı;Hesap</item>
+    <item>Öde;Ödeme;Ödeme yöntemi;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_privacy_policy">
     <item>Gizlilik Politikası</item>
-    <item>Mi Hesabı Gizlilik Politikasını Görüntüle</item>
-    <item>Xiaomi;Hesap;Mi Hesabı;Gizlilik;Politika;Görünüm</item>
+    <item>Mi Hesabı Gizlilik Politikasını görüntüle</item>
+    <item>Mi Hesabı;Hesap;Gizlilik Politikası</item>
   </string-array>
   <string-array name="settings_search_security_email_address">
     <item>Kurtarma e-postası</item>
-    <item>Kurtarma e-postası ekleyin</item>
-    <item>Güvenlik;E-posta;Xiaomi;Hesap;Mi Hesabı;Ekle;Eşle</item>
+    <item>Kurtarma e-postası ekle</item>
+    <item>Kurtarma e-postası;E-posta;E-posta ekle;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_security_phone_number">
     <item>Kurtarma telefonu</item>
-    <item>Kurtarma telefonu ekleyin</item>
-    <item>Güvenlik;Hesap;Mi Hesabı;Telefon;Xiaomi;Telefon numarası;Ekle;Eşle</item>
+    <item>Kurtarma telefonu ekle</item>
+    <item>Kurtarma telefonu;Telefon ekle;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_system_ad">
     <item>Reklamlar</item>
-    <item>Sistem reklamlarını yönetin</item>
-    <item>Sistem;Reklamlar Xiaomi;Hesap;Mi Hesabı;Ayarlar</item>
+    <item>Sistem reklamlarını yönet</item>
+    <item>Reklamlar;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_user_information">
     <item>Hesap bilgisi</item>
     <item>Profil fotoğrafınızı görüntüleyin ve hesap bilgilerinizi yönetin</item>
-    <item>Hesap;Bilgi;Kişisel;Profil fotoğrafı;Ad;Xiaomi;Kimlik;Mi Hesabı;Görünüm;Ayarlar</item>
+    <item>Kişisel bilgiler;profil fotoğrafı;takma ad;hesap bilgileri;Mi Kimliği;Kimlik;Mi Hesabı;Hesap</item>
   </string-array>
   <string-array name="settings_search_user_protocol">
     <item>Kullanıcı Sözleşmesi</item>
-    <item>Mi Hesabı Kullanıcı Sözleşmesini görüntüle</item>
-    <item>Xiaomi;Hesap;Mi Hesabı;Kullanıcı;Sözleşme;Görünüm</item>
+    <item>Kullanıcı Sözleşmesi</item>
+    <item>Mi Hesabı;Hesap;Kullanıcı Sözleşmesi;EULA</item>
   </string-array>
 </resources>

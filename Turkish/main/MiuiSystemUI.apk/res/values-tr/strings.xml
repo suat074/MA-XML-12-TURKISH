@@ -709,6 +709,7 @@
   <string name="face_unlock_rotated_right">Kafanı sola çevir</string>
   <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
   <string name="face_unlock_stay_away_screen">Ekrandan 25 ila 40 cm uzakta kalın.</string>
+  <string name="face_unlock_success">Başarıyla açıldı</string>
   <string name="face_unlock_success_show_message_dialog_msg">Kilit ekranı bildirimlerinin, Kilit ekranınızda görüntülenebilmesine izin verin.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Hayır teşekkürler</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">İzin ver</string>

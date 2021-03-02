@@ -161,7 +161,7 @@
   <string name="antivirus_sec_network_unavailable">İnternet bağlantısını kısıtladığınız için Güvenlik uygulaması güncellenemiyor. Güvenliğin internete bağlanmasına izin verilsin mi?</string>
   <string name="antivirus_toast_already_update">Güncel</string>
   <string name="antivirus_toast_network_unavailable">Ağa bağlanılamadı</string>
-  <string name="antivirus_toast_update_failed">Güncellenemedi</string>
+  <string name="antivirus_toast_update_failed">Sunucularımız meşgul. Bir ya da iki dakika bekleyip tekrar deneyin.</string>
   <string name="antivirus_toast_update_success">Başarıyla güncellendi</string>
   <string name="antivirus_toast_updating">Güncelleniyor…</string>
   <string name="antivirus_update_btn_contiue">Devam</string>

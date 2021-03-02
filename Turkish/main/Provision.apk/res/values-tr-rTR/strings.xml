@@ -289,4 +289,10 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="provision_back">Geri</string>
   <string name="provision_next">Sonraki</string>
   <string name="provision_skip_underline">Atla</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon, ekranı hasar gördüğünde cihazınızdan veri aktarmanıza izin verir.</string>
+  <string name="permission_read_contacts">Kişilere erişim</string>
+  <string name="permission_read_contacts_introduction">Kimliğinizi doğrulamak için</string>
+  <string name="permission_read_message">Metin mesajlarına erişim</string>
+  <string name="permission_read_message_introduction">Cihazınızın sahipliğini doğrulamak için</string>
+  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
 </resources>
