@@ -7862,4 +7862,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="launch_alipay_health_code_auto_close">Alipay sağlık kodu kısayolu artık mevcut değil.  Farklı bir kısayola geçebilirsiniz.</string>
   <string name="launch_wechat_health_code">WeChat sağlık kodu</string>
   <string name="launch_wechat_health_code_auto_close">WeChat sağlık kodu kısayolu artık mevcut değil.  Farklı bir kısayola geçebilirsiniz.</string>
+  <string name="device_activation_info">Cihaz aktivasyonu</string>
+  <string name="miui_sos_pa_title">Acil konum</string>
+  <string name="miui_sos_pa_turn_off">Kapalı</string>
+  <string name="miui_sos_pa_turn_on">Açık</string>
 </resources>

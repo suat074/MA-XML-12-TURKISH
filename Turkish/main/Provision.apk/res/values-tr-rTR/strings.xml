@@ -73,8 +73,11 @@
   <string name="input_method_category">Mesaj yazmak, not yazmak ve diğer her şey için kullanacağınız varsayılan klavyeyi seçin. Diğer üçüncü taraf klavyelerini daha sonra yükleyebileceğinizi unutmayın.</string>
   <string name="input_method_setting">Klavyeyi seçin</string>
   <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
+  <string name="item_contents_wwarning">Cihazınız kaybolursa, ekran kilidi ayarlamadığınız sürece diğer kişilerin cihazı kullanmasını ve verilerinize erişmesini engelleyemezsiniz. Yine de atlansın mı?</string>
   <string name="item_fingerprint">Parmak izi</string>
   <string name="item_lock_screen_password">Sadece ekran kilidi</string>
+  <string name="item_return">Ayarla</string>
+  <string name="item_skip">Atla</string>
   <string name="language_picker_other_languages_title">Daha fazla dil</string>
   <string name="language_settings">Dil seçin</string>
   <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
@@ -260,6 +263,7 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
   <string name="title_fingerprint">Şifreyi belirle</string>
+  <string name="title_set_fingerprint">Ekran kilidi</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_agreement_declare">MIUI kullanmadan önce, Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken, Mi SIM Etkinleştirme Hizmeti, Xiaomi Bulutu, Yedekleme Hizmeti, Cihaz bul, Ana ekran, Sık ifadeler, Xiaomi İnternet İletişim Hizmeti, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, MIUI SDK, Güvenli Öğe Uygulaması, AI Assistant , Pil ve performans, Güç Dedektörü, Joyose, OS AI Ayarı ve Güncelleyici ağa bağlanır. Akıllı kartlar, İzin Yöneticisi ve akıllı hizmetlerde ağa bağlanacak ve konumunuza erişecektir.</string>
   <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanızı sağlar, ancak daha fazla güç tüketir (Her saat +1%).</string>
