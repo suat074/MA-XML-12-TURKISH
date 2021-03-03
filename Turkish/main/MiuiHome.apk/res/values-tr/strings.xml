@@ -142,7 +142,7 @@
   <string name="aqi_quality_index_light_pollution">Dikkat</string>
   <string name="aqi_quality_index_moderate">Orta</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
-  <string name="assistant_edge_gesture_summary">Google Asistan/'ı uyandırmak için sol veya sağ alt köşeden yukarı kaydırın</string>
+  <string name="assistant_edge_gesture_summary">Google Asistan\'ı uyandırmak için sol veya sağ alt köşeden yukarı kaydırın</string>
   <string name="assistant_edge_gesture_title">Google Assistant için köşeden yukarı kaydır</string>
   <string name="auto_add_app_shortcut">Yeni uygulamaları Ana ekrana yerleştir</string>
   <string name="auto_disable_screenbuttons_summary">Yeniden etkinleştirmek için herhangi bir gezinme düğmesine iki kez dokunun</string>
