@@ -7614,7 +7614,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="headset_connectiong">Bağlanıyor…</string>
   <string name="headset_remove_message">Cihazın eşlemesi kaldırılsın mı?</string>
   <string name="headset_remove_message_indicate">%1$s, bu Mi Hesabı ile ilişkili tüm cihazlardan kaldırılacak.</string>
-  <string name="headset_unsaved_device">Bu cihazı kaldır</string>
+  <string name="headset_unsaved_device">Cihazı çıkarın</string>
   <string name="headset_unsaved_devices">Diğer cihazlarda kullanılır</string>
   <string name="miheadet_up_music">Önceki parça</string>
   <string name="miheadset_active">Enerjik</string>

@@ -638,4 +638,7 @@
   <string name="work_profile_title">İş profili</string>
   <string name="launcher_icon_management">Ana ekran kısayollarını yönet</string>
   <string name="restore_icon_successful">Başarıyla eklendi</string>
+  <string name="network_error">Ağa bağlanılamadı. Tekrar deneyin.</string>
+  <string name="russia_preinstall_folder_name">Rusya</string>
+  <string name="server_error">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
 </resources>

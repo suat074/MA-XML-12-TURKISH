@@ -1421,7 +1421,7 @@
   <string name="quick_settings_cellular_detail_over_limit">Sınır aşıldı</string>
   <string name="quick_settings_cellular_detail_remaining_data">Kalan veri</string>
   <string name="quick_settings_cellular_detail_title">Mobil veri</string>
-  <string name="quick_settings_cellular_detail_unable_change">Çağrı sırasında ayarlanamıyor</string>
+  <string name="quick_settings_cellular_detail_unable_change">Çağrı sırasında ayarlanamaz</string>
   <string name="quick_settings_color_space_label">Renk düzeltme modu</string>
   <string name="quick_settings_connect_success">Bağlı</string>
   <string name="quick_settings_connected">Bağlı</string>
