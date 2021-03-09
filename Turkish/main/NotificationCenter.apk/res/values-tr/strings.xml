@@ -123,6 +123,11 @@
   <string name="notification_aggregate_title">Grup bildirimleri</string>
   <string name="notification_display_setting">Bildirim alanı</string>
   <string name="notification_display_style">Bildirim tarzı</string>
+  <string name="notification_fold_description1">MIUI 9\'da bildirimler klasörü tanıtıldı. Bu özellik, önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
+  <string name="notification_fold_description2">MIUI, hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından önemli olup olmadıklarını belirlemek için birden çok kriter kullanacaktır.</string>
+  <string name="notification_fold_description3">Önemli olduğunu düşündüğünüz bildirimler yine de Bildirimler klasöründe görünüyorsa, bu tür sorunları bize bildirmekten çekinmeyin. Geri bildirimleriniz için teşekkür ederiz.</string>
+  <string name="notification_fold_footer_icon_summary">Önemsiz bildirimler gruplandığında uygulama simgelerini göster</string>
+  <string name="notification_fold_footer_icon_title">Uygulama simgelerini göster</string>
   <string name="notification_fold_summary">Tüm önemsiz bildirimler ayrı bir klasörde görünecektir</string>
   <string name="notification_fold_title">Bildirimler klasörü</string>
   <string name="notification_manager">Uygulama bildirimleri</string>

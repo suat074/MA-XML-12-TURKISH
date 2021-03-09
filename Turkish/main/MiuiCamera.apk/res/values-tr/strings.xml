@@ -1322,6 +1322,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_skin_beautify_slim_title">İnce</string>
   <string name="pref_skin_beautify_smooth_title">Kaplama</string>
   <string name="pref_userdefine_watermark_title">Özel filigran</string>
+  <string name="pref_video_ai_audio_single">Ön ses</string>
   <string name="pref_video_captrue_ability_title">Kayıt sırasında görüntü yakalama</string>
   <string name="pref_video_denoise_off">Kapalı</string>
   <string name="pref_video_denoise_on">Açık</string>
@@ -1361,6 +1362,11 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_wind_denoise_default">Açık</string>
   <string name="pref_wind_denoise_title">Rüzgar filtresi</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="prek_b_j_o">Stereo surround ses efektini yeniden oluşturun</string>
+  <string name="prek_b_j_p">Rüzgarın ses kaydı üzerindeki etkisini azaltın</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Odaklanan konudan gelen sesler geliştirilir</string>
+  <string name="prep_video_ai_audio_single_desc_tip">Ekranın arkasından gelen sesler filtrelenir</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Ses yakınlaştırma, canlı kulak içi monitör ve harici mikrofonla çalışmaz</string>
   <string name="preparing_sd">SD kart kontrol ediliyor…</string>
   <string name="preview_back_pressed_hint">Önizlemeye geri dönmek için yeniden dokunun</string>
   <string name="pro_color_mode">Pro renk</string>

@@ -7303,7 +7303,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="face_data_manage_unlock_title">Yüz verilerini kullanarak kilidi aç</string>
     <string name="face_data_siggesstion_next">Sonraki</string>
     <string name="face_data_siggesstion_next_time">Sonraki (%ds)</string>
-    <string name="face_data_suggesstion_first">Güvenlik sorunları: Yüz kilidi, PIN, parola veya desenden daha az güvenlidir. Cihazınızın kilidini fotoğrafınızla, aynı şekilde benzer görünümlü kişiler veya nesneler açabilir.</string>
+    <string name="face_data_suggesstion_first">Yüz tanıma kilidi bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi, fotoğrafınızın yanı sıra benzer görünüme sahip kişiler veya nesneler tarafından da açılabilir.</string>
     <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin nesnelerle kaplı olmadığından ve açıkça görülebildiğinden emin olun. Yüzünüz iyi aydınlatılmış olmalıdır.</string>
     <string name="face_unlock">Yüz tanıma kilidi</string>
     <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
@@ -7869,4 +7869,12 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miui_sos_pa_title">Acil konum</string>
   <string name="miui_sos_pa_turn_off">Kapalı</string>
   <string name="miui_sos_pa_turn_on">Açık</string>
+  <string name="already_delete_system_app">Kaldırılan sistem uygulamaları</string>
+  <string name="codec_low_latency_video_summary">Oyunlar ve videolar için düşük gecikmeli ses deneyimi sunarak ses ve resim uyumunu daha doğal hale getirin.</string>
+  <string name="face_data_introduction_add">Başlat</string>
+  <string name="headset_notification_switch_summary">Kulaklık bağlandığında durumu Bildirim alanı widget\'ında göster</string>
+  <string name="headset_notification_switch_title">Bildirim alanı widget\'ı</string>
+  <string name="keyboard_skin_follow_system_enable">Sistemle birlikte Koyu moda geç</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">İptal</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Dikkat</string>
 </resources>
