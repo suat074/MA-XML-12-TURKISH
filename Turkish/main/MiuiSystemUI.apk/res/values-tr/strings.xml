@@ -720,6 +720,7 @@
   <string name="face_unlock_success_stay_screen_msg">Yüzünüz doğrulandıktan sonra Kilit ekranında kalın. Ana ekranı açmak için yukarı kaydırın.</string>
   <string name="face_unlock_success_stay_screen_title">Kilidi açtıktan sonra Kilit ekranında kalın</string>
   <string name="failed_to_open_app_settings_toast">%1$s ayarları açılamadı</string>
+  <string name="finger_error_single_mode">Tek el modunda parmak izi tarayıcı kullanılamaz. Tek el modundan çıkın ve tekrar deneyin.</string>
   <string name="fingerprint_add_text">Parmakizi arayüzü güncellendi. Parmakizinizi tekrar ekleyin.</string>
   <string name="fingerprint_add_title">Parmakizi ekle</string>
   <string name="fingerprint_again_identified_msg">Parmakizi artık etkinleştirildi. Cihazın kilidini şifre girerekte açabilirsiniz.</string>

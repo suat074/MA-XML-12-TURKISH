@@ -1146,6 +1146,9 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="bt_ldac_property">Öznitelik</string>
   <string name="bt_ldac_remember_choice">Seçimimi hatırla</string>
   <string name="bt_ldac_settings">Ayarlar</string>
+  <string name="bt_leaudio_open_dialog_summary">LC3 açıkken kulaklığınıza birden fazla cihaz bağlayamazsınız. Bu özelliği açarsanız diğer bağlı cihazların bağlantısı kesilecektir. Yine de LC3 açılsın mı?</string>
+  <string name="bt_leaudio_open_dialog_title">Dikkat</string>
+  <string name="bt_leaudio_summary">Yüksek kaliteli ses deneyimi</string>
   <string name="bt_lhdc_declaration">Bir Bluetooth cihazı LHDC desteklediğinde, varsayılan olarak bağlanacaktır. LHDC yüksek kaliteli bir ses deneyimi sağlar, ancak aynı zamanda güç tüketimini artırır. Bluetooth donanım sınırlamaları nedeniyle oynatma sırasında sorunlar oluşabilir.</string>
   <string name="bt_lhdc_dialog_summary">LHDC yüksek kaliteli bir ses deneyimi sağlar, ancak aynı zamanda güç tüketimini artırır. Bu özellik Ayarlar\'dan kapatılabilir.</string>
   <string name="bt_lhdc_dialog_title">Mevcut cihaz, varsayılan olarak bağlı olan LHDC destekliyor:</string>

@@ -312,4 +312,6 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_detail_category_app_data">WeChat verileri</string>
   <string name="restore_detail_category_app_data_summary">Sohbet geçmişi, dosyalar ve diğer öğeler (%s)</string>
   <string name="restoring_app_data_title_no_progress">WeChat verileri geri yükleniyor…</string>
+  <string name="button_confirm">Anladım</string>
+  <string name="pc_mode_not_support_restore_warning">Öğeler PC modunda geri yüklenemiyor. PC modunu kapatın ve tekrar deneyin.</string>
 </resources>

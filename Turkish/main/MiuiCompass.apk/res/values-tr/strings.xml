@@ -61,6 +61,7 @@
   <string name="expand_button_title">Gelişmiş</string>
   <string name="first_using_dialog_message">"Pusula uygulamasının doğru çalışması için cihazınızın ağ bağlantısını, kamera ve konum servislerini kullanması gerekiyor."</string>
   <string name="first_using_dialog_title">Erişim izni</string>
+  <string name="gradienter_title">Seviye</string>
   <string name="guide_toast">Kalibre etmek için, cihazınızı aşağıda gösterildiği gibi hareket ettirin.</string>
   <string name="keywords_search_compass">Pusula;Pusulayı ayarla;Basınç;Eylem;Boylam;Boylam;Boylam kontrolu; Enlemi kontrol et; MIUI Pusula; Pusula uygulaması; MIUI Pusula uygulaması; Pusula Nerede; Pusula Pusula; Atmosfer basıncı; Rakımı kontrol et; irtifa ne kadar</string>
   <string name="latitude">ENLEM</string>

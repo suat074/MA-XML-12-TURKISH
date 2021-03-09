@@ -1738,8 +1738,9 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="audio_map_summary_tip">Sol ve sağ kanalların ses düzeyini gerçek zamanlı olarak izleyin ve kaydırıcıyı kullanarak ayarlayın</string>
   <string name="histogram_summary_tip">Gerçek zamanlı pozlama geri bildirimini göster</string>
   <string name="dialog_button_goto">Ayarlara git</string>
-  <string name="dual_video_record_remote">Çoklu kamera kaydı</string>
-  <string name="dual_video_user_guide_remote_content">Çok kameralı ortak kayıt işlevi, görüntüleri farklı bakış açılarından kaydetmek ve bunları tek bir videoda birleştirmek için iki cep telefonunu destekler. Bu cihaz aracılığıyla iki telefonun ön izlemesini ve bitmiş videosunu görüntüleyebilirsiniz, ancak yalnızca bu cihaz ses kaydetmeyi destekler.</string>
+  <string name="dual_video_record_remote">Çift telefon kaydı</string>
+  <string name="dual_video_user_guide_remote_content">Çift telefon kaydı, iki farklı cihazdan gelen beslemelerin tek bir videoda birleştirilmesine izin verir. Bu cihazda hem beslemeleri hem de son videoyu önizleyebileceksiniz. Sesin yalnızca bu cihaz tarafından kaydedileceğini unutmayın.</string>
+  <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_remote_p1">Telefon 1</string>
   <string name="dual_video_user_guide_remote_p2">Telefon 2</string>
   <string name="remote_device_type_phone">Xiaomi Telefon</string>

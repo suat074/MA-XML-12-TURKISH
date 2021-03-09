@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ai_dial">AI çağrısı</string>
   <string name="ai_assistant">AI Çağrı asistanı</string>
   <string name="ai_assistant_not_installed">Önce AI Çağrı asistanını yükleyin</string>
   <string name="antispam_local_marked">Yerel olarak işaretlendi</string>

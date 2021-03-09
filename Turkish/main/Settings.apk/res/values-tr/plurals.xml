@@ -327,6 +327,10 @@
     <item quantity="other">%s uygulamanın bildirimleri gösteriliyor</item>
     <item quantity="one">1 uygulamanın bildirimleri gösteriliyor</item>
   </plurals>
+  <plurals name="switch_headset_anti_lost_summary">
+    <item quantity="other">Kulaklığınızdan biri kulağınızdan veya şarj çantasından %d dakikadan daha uzun süre uzak kaldığında bir uyarı alın</item>
+    <item quantity="one">Kulaklığınızdan biri kulağınızdan veya şarj çantasından %d dakikadan daha uzun süre uzak kaldığında bir uyarı alın</item>
+  </plurals>
   <plurals name="suggestions_collapsed_summary">
     <item quantity="other">+%1$d öneri</item>
     <item quantity="one">+1 öneri</item>
