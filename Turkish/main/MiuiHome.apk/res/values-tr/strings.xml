@@ -211,6 +211,7 @@
   <string name="delete_category_dialog_title">Bu kategori silinsin mi?</string>
   <string name="delete_screen">Ekranı Sil</string>
   <string name="delete_wallpaper_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
+  <string name="deleted_system_applications">Kaldırılan sistem uygulamaları</string>
   <string name="deselect_all">Tüm seçimleri kaldır</string>
   <string name="disable_wallpaper_scroll">Yan kaydırmayı kapat</string>
   <string name="double_tap_to_lock_title">Ekranı kapatmak için iki kez dokunun</string>
@@ -491,6 +492,8 @@
   <string name="remove_dialog_message">Seçilen uygulamalar temel sistem özelliklerini içerir. Yalnızca Ana ekran kısayollarını kaldırabilirsiniz.</string>
   <string name="remove_dialog_title_format">>\"%s\" Ana ekrandan kaldırılsın mı?</string>
   <string name="remove_invalidate_gadget_tips">Kullandığınız widget\'lardan biri artık kullanılabilir değil. Başka bir tane ekleyebilirsin.</string>
+  <string name="remove_sys_app_content">Ana ekran kısayolunu Ayarlar &gt; Uygulamalar &gt; Ana ekran kısayollarını yönet bölümünde tekrar ekleyebilirsiniz. Şimdi kaldırılsın mı?</string>
+  <string name="remove_sys_app_title">Ana ekran kısayolu kaldırılsın mı?</string>
   <string name="reset_cate_tip_content">Devam ederseniz, varsayılan uygulama grupları geri yüklenir. Yine de devam edilsin mi?</string>
   <string name="reset_cate_tip_title">Varsayılan grupları geri yükle</string>
   <string name="reset_description_first_time">Düzeni %1$s ile 2 saat içinde geri yükleyebilirsiniz.</string>

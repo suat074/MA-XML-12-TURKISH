@@ -253,7 +253,9 @@
   <string name="idbct_desc">Ağ türlerine göre Duvar Kağıdı Döngüsünü özelleştirin</string>
   <string name="idbct_opt_auto_select_desc_text">Standart görüntüleri mobil veri kullanarak, HD görüntüleri Wİ-Fİ kullanarak indirin</string>
   <string name="idbct_opt_auto_select_main_text">Otomatik</string>
-  <string name="idbct_opt_high_def_desc_text">Her zaman HD görüntüleri indir</string>
+  <string name="idbct_opt_high_def_desc_text">Her zaman HD görüntüleri indirin</string>
+  <string name="idbct_opt_low_dev_desc_text">Görüntüleri her zaman standart kalitede indirin</string>
+  <string name="idbct_opt_low_dev_main_text">Standart</string>
   <string name="idbct_title">Ağ türleri</string>
   <string name="identity">Kimlik</string>
   <string name="inconsistent_pwd">Şifreler uyuşmuyor</string>
@@ -573,7 +575,7 @@ EEE"</string>
   <string name="set_success">Başarıyla değiştirildi</string>
   <string name="setting_about_item_des">Sürüm</string>
   <string name="setting_about_item_title">Duvar Kağıdı Döngüsü Hakkında</string>
-  <string name="setting_des">Slayt gösterinizi Ayarlar &gt; Kilit Ekranı &amp; şifre &gt; Duvar Kağıdı Döngüsü\'nden ayarlayabilirsiniz</string>
+  <string name="setting_des">Slayt gösterisi hizmetleri Duvar Kağıdı Döngüsü tarafından sağlanmaktadır. Mevcut tüm seçenekleri görüntülemek için Ayarlar uygulamasında \"Duvar Kağıdı Döngüsü\" öğesini arayın.</string>
   <string name="setting_head">Ayarlar</string>
   <string name="setting_ok">Ayarlar</string>
   <string name="setting_tip">Tekrar gösterme</string>
@@ -687,7 +689,7 @@ EEE"</string>
   <string name="subscribe_update_time_setting">Farklı bir aralık ayarla</string>
   <string name="summary">"Çevrimiçi içeriği görüntülemek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır."</string>
   <string name="summary_international">"Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
-  <string name="summary2">"Bu özelliği kullanarak, &lt;font color='#37A5FF'>&lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/font>&lt;/a> ve &lt;font color='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/font>&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
+  <string name="summary2">"Bu özelliği kullanarak, &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/font>&lt;/a> ve &lt;font color='#0D84FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/font>&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
   <string name="sure_close_gallery">Duvar Kağıdı Döngüsü kapatılsın mı?</string>
   <string name="sure_close_gallery_des">Duvar Kağıdı Döngüsü\'nü kapatırsanız Ana ekranınıza ve Kilit ekranınıza taze görüntüler gönderemezsiniz. Yine de kapatılsın mı?</string>
   <string name="system_default">Varsayılan</string>
@@ -711,6 +713,8 @@ EEE"</string>
   <string name="ticket_invalid">Girdiğiniz kod yanlış</string>
   <string name="ticket_sign_in">SMS ile giriş yap</string>
   <string name="time_current">Sadece şimdi</string>
+  <string name="time_interval_dialog_content1">Duvar Kağıdı Döngüsü, cihazın kilidini her açtığınızda yeni bir resim görmenizi sağlar.</string>
+  <string name="time_interval_dialog_content2">Duvar kağıdı güncelleme sıklığını \"Slayt gösterisi ayarları\" bölümünden değiştirebilirsiniz.</string>
   <string name="toast_ad_down_tip">Uygulama indiriliyor…</string>
   <string name="toast_ad_down_tip2">%s indiriliyor</string>
   <string name="toast_connect_failed_tip">Bağlanamadı. Bir dakika bekleyin ve tekrar deneyin.</string>
