@@ -1668,7 +1668,7 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="pref_e_p_s_n">Mikrofonlu Bluetooth kulaklıklar bağlı olduğunda harici mikrofon aracılığıyla sesi kaydedin</string>
   <string name="pref_i_n_r_b">Akıllı gürültü azaltma</string>
   <string name="pref_k_h">Canlı kulak içi monitör</string>
-  <string name="pref_k_s_i">Bağlandığında kaydedilen sesi kulaklıkta çalın</string>
+  <string name="pref_k_s_i">Bağlı olduklarında kulaklıkları kullanarak kaydedilen sesi izleyin</string>
   <string name="pref_n_s_a">Ses ayarları</string>
   <string name="pref_n_s_o_l">Açık</string>
   <string name="pref_n_s_o_m">Kapalı</string>

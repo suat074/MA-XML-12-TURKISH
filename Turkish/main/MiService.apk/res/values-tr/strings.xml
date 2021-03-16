@@ -230,4 +230,6 @@
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

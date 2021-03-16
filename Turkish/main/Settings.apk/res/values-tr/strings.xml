@@ -3339,6 +3339,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="mi_transfer">Mi Transfer</string>
   <string name="mi_upi_settings">Mi Ödeme Hesabı</string>
   <string name="middle_function_key">Orta alan</string>
+  <string name="miheadset_key_config_ANC_list_title">Gürültü kontrolü</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Çeşitli Dosyalar</string>
   <string name="misc_files_selected_count">" %2$d\'den %1$d seçildi"</string>
