@@ -178,4 +178,10 @@ Bu sorunu bildirin &gt;"</string>
   <string name="summary_fold_importance_unimportant">Bildirim ayrı bir klasörde görünecek</string>
   <string name="title_aggregate_default">Grup bildirimleri</string>
   <string name="title_aggregate_home">Bildirimleri gruplandırma</string>
+  <string name="float_notification_snooze_strategy">Geçici olarak gizle</string>
+  <string name="float_notification_snooze_summary">Yaklaşan bildirimleri geçici olarak gizlemek için yüzer bir bildirimi yukarı kaydırın</string>
+  <string name="miui_snooze_always_float">Gizleme</string>
+  <string name="miui_snooze_cancel">İptal</string>
+  <string name="miui_snooze_default_time">%d dakika için</string>
+  <string name="miui_snooze_until_unlock_screen">Kilitlenene kadar</string>
 </resources>

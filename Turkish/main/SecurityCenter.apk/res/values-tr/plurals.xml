@@ -854,11 +854,23 @@ Biraz ara verin!"</item>
     <item quantity="other">%d uygulama için güncelleme var</item>
   </plurals>
   <plurals name="card_uninstall_title">
-    <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
-    <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz&lt;/Data></item>
+    <item quantity="other"><Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz</Data></item>
+    <item quantity="one"><Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı kaldırabilirsiniz</Data></item>
   </plurals>
   <plurals name="title_app_update_cn">
-    <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle&lt;/Data></item>
-    <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle&lt;/Data></item>
-  </plurals>  
+    <item quantity="other"><Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle</Data></item>
+    <item quantity="one"><Data>&lt;font color=#F22424>%d&lt;/font> uygulamayı güncelle</Data></item>
+  </plurals>
+  <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="other">%d saniye ileri sar</item>
+    <item quantity="one">%d saniye ileri sar</item>
+  </plurals>
+  <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="other">%d saniye geri sar</item>
+    <item quantity="one">%d saniye geri sar</item>
+  </plurals>
+  <plurals name="power_20s_shutdown">
+    <item quantity="other">Cihazınız %d saniye içinde kapanacak</item>
+    <item quantity="one">Cihazınız %d saniye içinde kapanacak</item>
+  </plurals>
 </resources>

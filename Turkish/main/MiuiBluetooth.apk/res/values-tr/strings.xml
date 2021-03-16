@@ -62,6 +62,12 @@
   <string name="fast_connect_wbs_name">Mi kablosuz şarj hoparlörü</string>
   <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
   <string name="goto_package">%1$s aç</string>
+  <string name="headset_device_error_box_close">Şarj kutusu kapalı</string>
+  <string name="headset_device_error_disconnect">Her iki kulaklığın bağlantısı kesildi. Güncellemeyi baştan başlatmak için şarj kutusunu kapatın ve tekrar açın.</string>
+  <string name="headset_device_error_no_device">Şarj kutusunda en az bir kulaklık eksik</string>
+  <string name="headset_device_error_single_device">Bir kulaklık güncellenemiyor. Tekrar eşleştirin.</string>
+  <string name="headset_device_sync_donot_move_device">Eşitleniyor… Kulaklığı kullanmadan önce eşitlenmenin bitmesini bekleyin.</string>
+  <string name="headset_device_sync_wait_connect">Eşitleniyor… Kulaklıkları kullanmadan önce bağlantı otomatik olarak kurulana kadar bekleyin.</string>
   <string name="headset_loss_notify_summary">Görünüşe göre kulaklığınızdan en az biri şarj çantasında değil. Etrafına bir göz at!</string>
   <string name="headset_loss_notify_title">Eksik kulaklık uyarısı</string>
   <string name="install_package">Daha fazla fonksiyon için %1$s yükleyin</string>
@@ -89,7 +95,7 @@
   <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi Key\'e çift tıklayın</string>
   <string name="mi_key_summary_take_photo">Fotoğraf çekmek için Mi Key\'e tıklayın</string>
   <string name="mi_key_take_photo">Fotoğraf çek</string>
-  <string name="miheadset_notification_Box">Durum</string>
+  <string name="miheadset_notification_Box">Kutu</string>
   <string name="miheadset_notification_Disconnect">Bağlantıyı kes</string>
   <string name="miheadset_notification_LeftEar">SL</string>
   <string name="miheadset_notification_RightEar">SĞ</string>
