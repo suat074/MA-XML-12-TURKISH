@@ -1334,6 +1334,8 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="cmcc_hardware_version">Donanım sürümü</string>
   <string name="codec_low_latency_summary">Oyun ses ve video senkronizasyonu sırasında gecikme süresini en aza indirin</string>
   <string name="codec_low_latency_title">Düşük gecikme</string>
+  <string name="codec_low_latency_zmi_summary">Ses gecikmesini azaltın ve oyunlar için ses efektlerini otomatik olarak iyileştirin</string>
+  <string name="codec_low_latency_zmi_title">Oyunlar için düşük gecikme</string>
   <string name="color_black">Siyah</string>
   <string name="color_blue">Mavi</string>
   <string name="color_calibration_none">Doğal</string>

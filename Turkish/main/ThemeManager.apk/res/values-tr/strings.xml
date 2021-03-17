@@ -729,6 +729,8 @@ EEE"</string>
   <string name="resource_waiting_download">Bekleniyor</string>
   <string name="resource_waiting_pause">Durdur</string>
   <string name="resource_wallpaper_download">Duvar kağıdını indir</string>
+  <string name="ringtone_confirm_dialog_message">Bu zil sesinin süresi nispeten uzundur. Yine de kullanılsın mı?</string>
+  <string name="ringtone_confirm_dialog_title">Dikkat</string>
   <string name="ringtone_set_success">Başarıyla ayarlandı</string>
   <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kart ekleyin.
 "</string>
@@ -1066,8 +1068,7 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="no_cta_agreed">GetApps için CTA izinleri yok</string>
   <string name="no_install_permission">Bu öğeyi yükleme izniniz yok</string>
   <string name="pref_lockscreen_magazine_summary">Duvar kağıdını çeşitli kategorilerdeki resimlerin slayt gösterileriyle değiştirin</string>
-  <string name="set_wallpaper_group_success">"%1$s uygulandı.
-Her saat yeni bir resim göreceksiniz."</string>
+  <string name="set_wallpaper_group_success">\"%1$s\" duvar kağıdı başarıyla uygulandı</string>
   <string name="super_wallpaper_list_label">Süper duvar kağıtları</string>
   <string name="super_wallpaper_setting_apply_success_toast">Başarıyla uygulandı</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Uygula</string>

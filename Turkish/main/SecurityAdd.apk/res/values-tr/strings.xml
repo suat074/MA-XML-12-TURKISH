@@ -158,6 +158,7 @@
   <string name="gb_gpu_tips_graph">GPU performansını artırma ve güç tasarrufu için grafikleri optimize edin. Bu özellik seçilen oyunlar tarafından desteklenir.</string>
   <string name="gb_gpu_tips_resolution">Varsayılan çözünürlük belirli bir oyun tarafından tanımlanır. Bazı oyunlar çözünürlüğü ayarlamaya izin vermez.</string>
   <string name="gb_gpu_tips_texture">Performans veya görüntü kalitesine öncelik verin</string>
+  <string name="gb_not_support_on_device">Bu uygulama harici ekranda kullanılamaz</string>
   <string name="gb_pannel_control_mode_balance">Dengeli</string>
   <string name="gb_pannel_control_mode_custom">Özel</string>
   <string name="gb_pannel_control_mode_high_quality">Yüksek kalite</string>
