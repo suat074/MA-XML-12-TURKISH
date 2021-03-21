@@ -178,7 +178,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_choose_third_app_name">Uygulama adı seçin</string>
   <string name="feedback_collect_log_failed">Günlük alınamadı</string>
   <string name="feedback_contact_info_hint">Telefon numarası/Eposta</string>
-  <string name="feedback_continue">Geribildirimle devam et</string>
+  <string name="feedback_continue">Geri bildirim gönder</string>
   <string name="feedback_description">Açıklama</string>
   <string name="feedback_description_hint">"Burada, karşılaştığınız sorunu açıklayın.
 %1$d. Sorunla hangi uygulamada veya hangi sayfada karşılaştınız?
@@ -618,7 +618,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="stop_full_log_dialog_title">Günlükler oluşturuluyor…</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content"><Data>"Geri bildirimi kullanabilmek için &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgileri de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."</Data></string>
+  <string name="submit_dialog_content"><Data>"Geri bildirim göndermeden önce &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> okuyun ve kabul edin. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgiler içerebilecek günlüklerin yanı sıra cihazınız ve ağınızla ilgili bilgiler dahil) MIUI sunucularına yüklenecektir. This will help us locate and solve the problems you report. Birden fazla cihazla ilgili sorunları bildirirseniz, Mi Hesabınızın kullanıldığı diğer cihazların günlükleri de yüklenecektir."</Data></string>
   <string name="submit_dialog_content_global"><Data>"Geri bildiriminiz, eklerle (varsa) ve günlüklerle birlikte (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) MIUI sunucularına gönderilecektir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul et\" seçeneğini seçmek, &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
   <string name="submit_dialog_not_wifi_content">Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir.</string>
   <string name="submit_dialog_title">Raporu gönder</string>

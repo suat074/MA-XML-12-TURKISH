@@ -6565,7 +6565,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_assistant_auto_confirm_data_message">Cihazınız WLAN üzerinden internete bağlanamadığında mobil veri ağını kullanın.</string>
   <string name="wifi_assistant_confirm_always">Tekrar sorma</string>
   <string name="wifi_assistant_confirm_connection_title">İnternete bağlanılamıyor</string>
-  <string name="wifi_assistant_data_prompt">İstemi etkinleştir</string>
+  <string name="wifi_assistant_data_prompt">Veri kullanım uyarısını göster</string>
   <string name="wifi_assistant_data_prompt_summary">Mobil veriye geçerken veri kullanım uyarısını göster</string>
   <string name="wifi_assistant_description">"Bu işlevi açtıktan sonra:
 1.WLAN bağlantısı zayıf olduğunda, sistem mevcut diğer WLAN ağlarını otomatik olarak dener
@@ -6736,12 +6736,13 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_link_turbo_customize">Özel uygulamalar</string>
   <string name="wifi_link_turbo_customize_summary">Tercihlerinize göre WLAN yardımcısı ile çalışacak uygulamaları seçin</string>
   <string name="wifi_link_turbo_list">Uygulamalar</string>
+  <string name="wifi_link_turbo_mode">Hız artırma modu</string>
   <string name="wifi_link_turbo_no_app">Burada henüz uygulama yok.</string>
   <string name="wifi_link_turbo_off">Kapalı</string>
   <string name="wifi_link_turbo_on">Açık</string>
   <string name="wifi_link_turbo_recommendation">Önerilen uygulamalar</string>
   <string name="wifi_link_turbo_recommendation_summary">Veri kullanım istatistiklerine göre öneriler alın</string>
-  <string name="wifi_link_turbo_summary">WLAN bağlantısı zayıf olduğunda mobil veri kullanacak uygulamaları seçerek bağlantı hızını artırın</string>
+  <string name="wifi_link_turbo_summary">Bağlantı hızını artırmak için mobil veri kullanın. Bu özelliği kullanmak ek operatör ücretleri oluşturabilir.</string>
   <string name="wifi_menu_advanced">Gelişmiş</string>
   <string name="wifi_menu_configure">Yapılandır</string>
   <string name="wifi_menu_connect">Ağa bağlan</string>

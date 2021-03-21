@@ -1443,4 +1443,12 @@
     <item>Baz</item>
     <item>Pop</item>
   </string-array>
+  <string-array name="wifi_link_turbo_mode_entries">
+    <item>Yardımcı</item>
+    <item>Tam</item>
+  </string-array>
+  <string-array name="wifi_link_turbo_mode_summary_entries">
+    <item>Yalnızca WLAN sinyali zayıf olduğunda mobil veri kullanarak hızı artırın</item>
+    <item>WLAN ve mobil veriyi birleştirerek bağlantı hızını artırın</item>
+  </string-array>
 </resources>

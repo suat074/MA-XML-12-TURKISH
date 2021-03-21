@@ -6,6 +6,7 @@
   <string name="accessibility_date">Tarih</string>
   <string name="accessibility_deselect_all">Seçimleri kaldır</string>
   <string name="accessibility_deselect_all_end">Tüm seçimler kaldırıldı</string>
+  <string name="accessibility_double_click_to_exit">Çıkmak için iki kez dokunun</string>
   <string name="accessibility_dual_preview_change">Değişiklikleri görüntüle</string>
   <string name="accessibility_dual_preview_change_finish">Değişiklikler başarıyla görüntülendi</string>
   <string name="accessibility_expand">Yakınlaştır</string>
@@ -13,6 +14,7 @@
   <string name="accessibility_horizontal_shutter_on">Manzara modunda çekim</string>
   <string name="accessibility_item">Öğe</string>
   <string name="accessibility_live_preview_button">Önceki öğeyi görüntüle</string>
+  <string name="accessibility_lock_focus_success">Odak başarıyla kilitlendi</string>
   <string name="accessibility_mimoji_gif_off">GIF modu kapalı</string>
   <string name="accessibility_mimoji_gif_on">GIF modu açık</string>
   <string name="accessibility_pano_moving_left">Cihazı sola taşıyın</string>
@@ -32,6 +34,8 @@
   <string name="accessibility_super_macro_off">Süper makro kapalı</string>
   <string name="accessibility_super_macro_on">Süper makro açık</string>
   <string name="accessibility_time">Zaman</string>
+  <string name="accessibility_touch_focus_fail">Odaklanamadı</string>
+  <string name="accessibility_touch_focus_success">Başarıyla odaklandı</string>
   <string name="ai">AI</string>
   <string name="ai_agra_fort">Agra Kalesi</string>
   <string name="ai_amber_fort">Amber Sarayı</string>

@@ -542,8 +542,8 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="edit_hint2">HTTP, FTP, magnet veya ed2k bağlantısı girin</string>
   <string name="new_add_bt2">Torrent görevi ekle</string>
   <string name="task_add">Görev ekleniyor…</string>
-  <string name="tip_download_icon_restore">İndirme yöneticisi masaüstü simgesi kaldırıldı, geri yüklemek için tıklayın</string>
-  <string name="tip_download_icon_retry">İndirme yöneticisi masaüstü simgesi geri yüklenemedi, tekrar denemek için tıklayın</string>
-  <string name="toast_download_icon_restore_fail">Masaüstü simgeyi geri yükleme başarısız oldu</string>
-  <string name="toast_download_icon_restore_success">Masaüstü simgesi geri yüklendi</string>
+  <string name="tip_download_icon_restore">İndirmeler için bir Ana ekran kısayolu ekleyin</string>
+  <string name="tip_download_icon_retry">Kısayol eklenemedi. Tekrar deneyin.</string>
+  <string name="toast_download_icon_restore_fail">Kısayol eklenemedi</string>
+  <string name="toast_download_icon_restore_success">Başarıyla eklendi</string>
 </resources>

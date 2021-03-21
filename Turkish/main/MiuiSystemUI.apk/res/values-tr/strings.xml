@@ -736,6 +736,7 @@
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
+  <string name="float_notification_snooze_strategy">Yüzer bildirimleri geçici olarak gizle</string>
   <string name="force_allow_on_external">Harici depolamadaki uygulamalara izin vermeyi zorla</string>
   <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
@@ -1109,6 +1110,15 @@
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Alarm dışındaki tüm öğeler için sessiz ve titreşim kapalı</string>
   <string name="miui_screen_rotation_freeze_message">Yatay modda ekran yönü kilitlendi</string>
+  <string name="miui_snooze_always_float">Gizleme</string>
+  <string name="miui_snooze_cancel">İptal</string>
+  <string name="miui_snooze_default_time">%d dakika için </string>
+  <string name="miui_snooze_to_settings">Ayarlar</string>
+  <string name="miui_snooze_toast_hint_default">"Yaklaşan bildirimler %d dakika boyunca gizlenecek. "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"Yaklaşan bildirimler cihaz kilitlenene kadar gizlenecek. "</string>
+  <string name="miui_snooze_until_unlock_screen">Kilitlenene kadar</string>
+  <string name="miui_snooze_user_set_fail">Daha fazla seçenek için Ayarlar > Bildirimler &amp; Kontrol merkezine gidin</string>
+  <string name="miui_snooze_user_set_success">Başarıyla uygulandı. Daha fazla seçenek için Ayarlar > Bildirimler &amp; Kontrol merkezine gidin</string>
   <string name="miui_toast_zen_dnd_to_off">Rahatsız etme şimdi kapalı. Sesler ve titreşim normale döndü.</string>
   <string name="miui_toast_zen_standard_to_off">Sessiz mod şimdi kapatıldı. Zil sesleri normale döndü.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Sessiz mod şimdi kapatıldı. Zil sesleri, bildirim ve medya sesleri çalınacak.</string>
