@@ -840,4 +840,16 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="yearly_plain">Yıllık</string>
   <string name="yesterday">Dün</string>
   <string name="yiji_app_download_card_lebal">Gerekir</string>
+  <string name="calendar_privacy_policy">Gizlilik Politikası</string>
+  <string name="calendar_user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="copy">Kopyala</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="prefsx_notify_sound_none">Sessiz</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

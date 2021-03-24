@@ -529,4 +529,6 @@
   <string name="weixin_qrcode_process_type_tip">Bu WeChat kodunu nasıl işlemek istediğinizi seçin</string>
   <string name="weixinqrcode_process_fail_tip">WeChat kodu işlenemedi</string>
   <string name="wifi_low_version_prompt">WLAN\'ın manuel olarak açılması gerekiyor</string>
+  <string name="picture">Galeri</string>
+  <string name="translate_overtime">Servis zaman aşımı</string>
 </resources>

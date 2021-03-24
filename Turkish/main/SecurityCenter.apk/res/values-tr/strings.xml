@@ -4309,4 +4309,14 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="pp_privacy_protection_lab">Gizlilik koruma laboratuvarı</string>
   <string name="pp_privacy_protection_lab_summary">Her şeyi gizli tutun</string>
   <string name="settings_battery_power_save_suggest_title">Pil tasarrufu önerileri ve uyarıları</string>
+  <string name="gamebox_collimator">Görme</string>
+  <string name="gamebox_time">Zamanlayıcı</string>
+  <string name="gb_collimator_color">Renk</string>
+  <string name="gb_collimator_size">Boyut</string>
+  <string name="gb_collimator_style">Tür</string>
+  <string name="gb_collimator_toast">Bir görüş, nişan almayı çok daha kolay hale getirir</string>
+  <string name="gb_game_time_toast">Zamanlayıcı artık kullanılabilir!</string>
+  <string name="gb_not_support_on_device">Bu uygulama harici ekranda kullanılamaz</string>
+  <string name="vb_ve_settings_ai_stronger">AI</string>
+  <string name="vtb_func_display_style_desc0">AI, videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir ve bunları dinamik olarak geliştirebilir.</string>
 </resources>

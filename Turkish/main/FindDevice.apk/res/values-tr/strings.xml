@@ -29,6 +29,9 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="find_device_noise_title">Cihazı bul alarmı</string>
   <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için, &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> adresine gidin.</string>
   <string name="find_device_notice_sms_alert">SIM kartları değiştirirseniz, bu servisin yeniden etkinleştirilmesi için yeni bir SMS otomatik olarak gönderilebilir.</string>
+  <string name="find_device_notice_sms_alert_with_common_charge_hint">"SIM durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için, SIM kartları değiştirdikten sonra &lt;font color=#0097FF>&lt;b>ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir."</string>
+  <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"SIM durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için, SIM kartlarını değiştirdikten sonra &lt;font color=#0097FF>&lt;b>yurtiçi ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir."</string>
+  <string name="find_device_notice_sms_alert_with_internal_charge_hint">"SIM durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için, SIM kartlarını değiştirdikten sonra &lt;font color=#0097FF>&lt;b>uluslararası ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir."</string>
   <string name="find_device_stop_noise">"Susturmak için Tamam'a dokunun"</string>
   <string name="find_device_storage_corrupted">Cihazı bul depolama alanı hasarlı. Cihazınız şu anda güvenli değil.</string>
   <string name="find_device_success_title">Cihazı bul</string>

@@ -242,7 +242,11 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="add_fingerprint_toast_text">Sensöre parmağınızı koyun</string>
   <string name="add_front_fingerprint_instruction_msg">Parmak izi sensörü ev düğmesinin altında bulunur.</string>
   <string name="add_new">ekle</string>
+  <string name="add_one_text_app_name_once">Aynı anda bir paket ekleyebilirsiniz</string>
   <string name="add_rule">Kural ekle</string>
+  <string name="add_text_app_name">Bir test uygulaması paketi ekleyin</string>
+  <string name="add_text_app_name_here">Paket adını girin</string>
+  <string name="add_text_app_package_name">Bir test uygulaması paketi ekleyin</string>
   <string name="add_virtual_keyboard">Klavyeleri Yönet</string>
   <string name="adding_profile_owner_warning">Devam ettiğinizde, kullanıcınız sizin yöneticiniz tarafından idare edilecek. Kişisel verilere ek olarak, ilişkili verileri depolamak mümkün olabilir.\n\nYöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarları izleme ve yönetme yetkisine sahiptir.</string>
   <string name="additional_battery_info">Kullanım uyarıları</string>
@@ -3341,6 +3345,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="mi_transfer">Mi Transfer</string>
   <string name="mi_upi_settings">Mi Ödeme Hesabı</string>
   <string name="middle_function_key">Orta alan</string>
+  <string name="miheadset_adaptive">Uyarlanabilir</string>
   <string name="miheadset_ancHigh">Uçak</string>
   <string name="miheadset_ancLow">Ofis</string>
   <string name="miheadset_ancMedium">Günlük</string>
