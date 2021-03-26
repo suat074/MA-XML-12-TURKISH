@@ -442,8 +442,10 @@
   <string name="welcome_app_title">Hava Durumuna Hoş Geldiniz!</string>
   <string name="wind_direction_no_data">Rüzgar</string>
   <string name="wind_unit">%1$skm/s</string>
-  <string name="xiaomi_weather_description_content">Hava durumu uygulaması size mümkün olan en doğru hava durumu bilgilerini sunar. Bu uygulama olmadan, Durum çubuğu ve Ana ekranınızdaki Hava durumu aracı düzgün çalışmayacaktır. Uygulamayı kaldırmadan önce uygulamaya gerçekten ihtiyacınız olmadığından emin olun.</string>
-  <string name="xiaomi_weather_description_title">Hava durumu hakkında</string>
+  <string name="xiaomi_weather_description_content">Hava durumu bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra hava durumu bilgilerini görüntüleyemeyecek veya ilgili widget\'ları kullanamayacaksınız.</string>
+  <string name="xiaomi_weather_description_content_remove">Hava durumu bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra hava durumu bilgilerini görüntüleyemeyecek veya ilgili widget\'ları kullanamayacaksınız.</string>
+  <string name="xiaomi_weather_description_title">\"Hava Durumu\" kaldırılsın mı?</string>
+  <string name="xiaomi_weather_description_title_remove">\"Hava Durumu\" Ana ekrandan kaldırılsın mı?</string>
   <string name="yes_vote_ratio">Evet %%%1$s</string>
   <string name="yesterday">Dün</string>
 </resources>
