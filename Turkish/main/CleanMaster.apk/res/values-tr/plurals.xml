@@ -157,6 +157,10 @@
     <item quantity="other">%1$d öğe silinsin mi?</item>
     <item quantity="one">%1$d öğe silinsin mi?</item>
   </plurals>
+  <plurals name="whatsapp_file_audio_dec">
+    <item quantity="other">%1$s ses dosyası</item>
+    <item quantity="one">%1$s ses dosyası</item>
+  </plurals>
   <plurals name="dc_group_title_normal">
     <item quantity="other">%2$s boşaltmak için %1$d adım atın</item>
     <item quantity="one">%2$s boşaltmak için %1$d adım atın</item>

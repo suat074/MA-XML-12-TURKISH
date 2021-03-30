@@ -56,6 +56,8 @@ Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
 2. Bazı TV modellerinde, bu özellik yalnızca ekran yansıtma açıkken kullanılabilir. Daha fazla bilgi için \"Yardım\" sayfasını görüntüleyin."</string>
   <string name="dialog_scanning_device">Yakındaki cihazlar aranıyor…</string>
   <string name="dialog_scanning_precondition">Kablosuz Ekranı kullanmak için telefonunuzda WLAN ve Bluetooth\'u açın.</string>
+  <string name="dialog_scanning_precondition_new_china">Yansıtmayı kullanabilmek için WLAN, Bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
+  <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için Wi-Fi, Bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
   <string name="dialog_select_tv">Cihaz seç (%d)</string>
   <string name="dialog_show_help">Yardım</string>
   <string name="disconnect">Yansıtmayı durdur</string>

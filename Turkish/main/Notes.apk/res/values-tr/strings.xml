@@ -279,7 +279,7 @@
   <string name="note_link_select">Metni seç</string>
   <string name="note_link_tel">Çağrı</string>
   <string name="note_link_web">Tarayıcıda görüntüle</string>
-  <string name="note_sort_way">Notlarınızı nasıl sıralamak istediğinizi seçin</string>
+  <string name="note_sort_way">Sırala</string>
   <string name="notealert_enter">Notu aç</string>
   <string name="notealert_ok">Kapat</string>
   <string name="notes_description_content">Notlar bir sistem uygulamasıdır. Kaldırdıktan sonra bu uygulamayı kullanamazsınız.</string>
@@ -724,4 +724,9 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="default_update_documents">Bir güncelleme mevcut. Şimdi güncellensin mi?</string>
   <string name="note_mindnote_entrance_hint_newversion">"Yazmaya başla "</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Bir zihin haritası oluştur</string>
+  <string name="close">Kapat</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="send">Gönder</string>
 </resources>

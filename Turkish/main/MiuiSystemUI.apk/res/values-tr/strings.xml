@@ -590,8 +590,8 @@
   <string name="dlg_summary_title">Aşırı pil tasarrufu, bir uygulamadan çıktıktan ve Ana ekrana geri döndükten sonra tüm arka plan etkinliklerini durdurur. Bir uygulamanın arka planda çalışmasını istiyorsanız, bunu arka plan istisnalarına ekleyin.</string>
   <string name="dnd_is_off">Rahatsız etme kapalı</string>
   <string name="dnd_notification_warnings_title">Rahatsız Etme açık. Çağrılar ve bildirimler susturuldu</string>
-  <string name="do_disclosure_generic">Bu cihaz kuruluşunuz tarafından yönetilir</string>
-  <string name="do_disclosure_with_name">Bu cihaz %s tarafından yönetiliyor</string>
+  <string name="do_disclosure_generic">Bu cihaz kuruluşunuza aittir</string>
+  <string name="do_disclosure_with_name">Bu cihaz %s şirketine aittir</string>
   <string name="do_not_silence">Sessiz ol</string>
   <string name="do_not_silence_block">Sessiz ol ya da engelle</string>
   <string name="dock_forced_resizable">Uygulama ekranı bölme özelliği ile çalışmayabilir.</string>

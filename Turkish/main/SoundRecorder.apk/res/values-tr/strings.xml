@@ -356,6 +356,8 @@
   <string name="reg_error_server">Sunucu hatası oluştu. Bize bildirin ve tekrar deneyin.</string>
   <string name="reg_error_upload_audio">Dosya yüklenemedi, tekrar deneyin.</string>
   <string name="reg_error_upload_order">Yüklenemedi, tekrar deneyin.</string>
+  <string name="remove_icon_description_content">Kaydedici bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra kayıtları yönetemezsiniz.</string>
+  <string name="remove_icon_description_title">\"Kaydedici\" Ana ekrandan kaldırılsın mı?</string>
   <string name="rename">Yeniden adlandır</string>
   <string name="rename_dialog_title">Kaydı yeniden adlandır</string>
   <string name="rename_duplicate">Aynı isimde başka bir kayıt zaten var.</string>

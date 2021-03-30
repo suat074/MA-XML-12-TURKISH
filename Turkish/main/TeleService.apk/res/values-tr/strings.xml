@@ -1899,6 +1899,7 @@
   <string name="wapi_password_length_is_max">Şifre uzunluğu 64 karakteri aşamaz</string>
   <string name="wapi_password_length_is_min">Şifre uzunluğu 8 karakterden az olamaz</string>
   <string name="wapi_password_length_is_min_to_max">Şifre şu şekilde olmalı: 8-64 karakter</string>
+  <string name="wfcmode_ims_preferred">IMS tercihli</string>
   <string name="wfcmode_mobile_preferred">Hücresel tercihli</string>
   <string name="wfcmode_wifi_only">Sadece Wlan</string>
   <string name="wfcmode_wifi_preferred">Wlan tercihli</string>

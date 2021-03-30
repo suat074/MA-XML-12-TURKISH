@@ -89,4 +89,6 @@ i.mi.com/ss adresine gidin ve cihazın kilidini açmak için başvurunuzu gönde
   <string name="unlocking">Etkinleştiriliyor…</string>
   <string name="verifing_account">Şifre doğrulanıyor…</string>
   <string name="verify_password_failed">Mi Hesap Kimliği doğrulanamadı. %s.</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

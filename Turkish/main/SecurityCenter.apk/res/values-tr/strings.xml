@@ -4319,4 +4319,24 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="gb_not_support_on_device">Bu uygulama harici ekranda kullanılamaz</string>
   <string name="vb_ve_settings_ai_stronger">AI</string>
   <string name="vtb_func_display_style_desc0">AI, videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir ve bunları dinamik olarak geliştirebilir.</string>
+  <string name="cetus_invisible_mode">Gizli mod</string>
+  <string name="cetus_invisible_mode_description_card">İzinleri askıya al</string>
+  <string name="cetus_invisible_mode_description_switch">Tüm uygulamalar için mikrofo, kamera ve konumla ilgili izinleri askıya almak için açın</string>
+  <string name="cetus_invisible_mode_warn_all">Gizlisin. Mikrofon, kamera ve konum izinleri askıya alındı.</string>
+  <string name="cetus_invisible_mode_warn_camera">Gizlisin. Kamera izinleri askıya alındı.</string>
+  <string name="cetus_invisible_mode_warn_location">Gizlisin. Konum izinleri askıya alındı.</string>
+  <string name="cetus_invisible_mode_warn_record_audio">Gizlisin. Mikrofon izinleri askıya alındı.</string>
+  <string name="power_center_night_charge_noti_subtitle">Pil %s ile tamamen şarj olacak</string>
+  <string name="power_center_night_charge_noti_title">Șarj optimizasyonu açık</string>
+  <string name="power_center_night_charge_protection">Șarj optimizasyonu</string>
+  <string name="power_center_night_charge_protection_setting">Güvenlik > Pil bölümünde daha fazla seçenek görüntüleyin.</string>
+  <string name="power_center_night_charge_protection_summary">MIUI, pilin eskimesini ve gereksiz sürekli şarjı azaltmak için günlük şarj rutininizi öğrenir.</string>
+  <string name="power_dailog_night_charge_protection_done">Anladım</string>
+  <string name="power_dailog_night_charge_protection_summary">Piliniz görünüşe göre çoğu zaman tamamen şarj ediliyor ve bu da eskimesini hızlandırabilir. MIUI, bu tür sorunlardan kaçınmanız için şarj optimizasyonunu açtı.</string>
+  <string name="storage_clear_available_total_size">%1$s/%3$s dolu | %2$s mevcut</string>
+  <string name="storage_clear_cache">%s yer açın</string>
+  <string name="storage_clear_cache_deep">Depolama alanını boşaltın</string>
+  <string name="storage_clear_cache_large">%s yer açın</string>
+  <string name="storage_clear_more_tools">Daha fazla temizlik aracı</string>
+  <string name="storage_clear_video">Video önbelleğini temizle</string>
 </resources>

@@ -172,4 +172,6 @@
   <string name="upload_succ_line5">Dosya gönderildi</string>
   <string name="upload_succ_ok">Tamam</string>
   <string name="upload_success">%1$s gönderimi tamamlandı.</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

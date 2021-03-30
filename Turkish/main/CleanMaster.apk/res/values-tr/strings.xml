@@ -736,6 +736,11 @@
   <string name="whatsapp_clean_exit_confirm_ok">Durdur</string>
   <string name="whatsapp_clean_exit_confirm_title">Tarama durdurulsun mu?</string>
   <string name="whatsapp_content_empty">Burada öğe yok.</string>
+  <string name="whatsapp_cache_clear">Önbellek temizleniyor…</string>
+  <string name="whatsapp_detail_cache_result">%s serbest bırakıldı</string>
+  <string name="whatsapp_detail_sort_created">Tarihe göre sırala</string>
+  <string name="whatsapp_file_recv">Alındı</string>
+  <string name="whatsapp_file_send">Gönderildi</string>
   <string name="whatsapp_delete_confirm_cancel">İptal</string>
   <string name="whatsapp_delete_confirm_message">Şimdi sil?</string>
   <string name="whatsapp_delete_confirm_ok">Tamam</string>

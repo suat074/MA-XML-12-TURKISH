@@ -223,4 +223,6 @@
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="stop_blur_location">Evet</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>
