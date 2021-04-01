@@ -234,4 +234,8 @@
   <string name="sound_transmission_stop">Duraklat</string>
   <string name="sound_transmission_title">Kablosuz mikrofon</string> 
   <string name="transmission_volume_option_title">Mikrofon sesi</string>
+  <string name="music_headset_audio_visual_mute">Sessiz önizleme</string>
+  <string name="music_headset_audio_visual_unmute">Sesli önizleme</string>
+  <string name="not_support_sound_transmission_content">Bu özellik, bağlı cihaz tarafından desteklenmiyor. Başka bir Bluetooth cihazı deneyin.</string>
+  <string name="not_support_sound_transmission_prompt">Dikkat</string>
 </resources>

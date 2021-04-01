@@ -521,6 +521,9 @@
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="version_update_dialog_negative_desc">Şimdi değil</string>
+  <string name="version_update_dialog_positive_desc">Güncelle</string>
+  <string name="version_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
   <string name="vibrate_when_ringing">Alarm çaldığında titret</string>
   <string name="volume_button_setting_desc">Güç ve Ses +/- düğmeleri için işlev atama</string>

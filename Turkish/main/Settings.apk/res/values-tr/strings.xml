@@ -7892,8 +7892,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miui_face_enroll_risk_warning_title_text">Dikkat</string>
   <string name="mechanical_ime">Mekanik klavye</string>
   <string name="mechanical_ime_hint">Yalnızca Xiaomi için özelleştirilmiş klavye tarafından desteklenir</string>
-  <string name="xiaomi_hp_location">yüksek hassas konumu etkinleştir</string>
-  <string name="xiaomi_hp_location_description">yüksek hassasiyetli ağa erişerek GNSS doğruluğunu iyileştirin</string>
+  <string name="xiaomi_hp_location">Kesin konum erişimi</string>
+  <string name="xiaomi_hp_location_description">Kesin konum bilgileri, doğru navigasyona izin verir</string>
   <string name="bluetooth_message_access_dialog_content">"Güvenilmeyen bir Bluetooth cihazı, %1$s, mesajlarınıza erişmek istiyor.
 
 Daha önce %2$s ile bağlantı kurmadınız."</string>
