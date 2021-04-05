@@ -17,6 +17,7 @@
   <string name="accessibility_lock_focus_success">Odak başarıyla kilitlendi</string>
   <string name="accessibility_mimoji_gif_off">GIF modu kapalı</string>
   <string name="accessibility_mimoji_gif_on">GIF modu açık</string>
+  <string name="accessibility_multi_cam_reselect_button">Kameraları tekrar seçin</string>
   <string name="accessibility_pano_moving_left">Cihazı sola taşıyın</string>
   <string name="accessibility_pano_moving_right">Cihazı sağa taşıyın</string>
   <string name="accessibility_preview_button">Önizleme</string>
@@ -27,6 +28,7 @@
   <string name="accessibility_preview_selected">Seçili</string>
   <string name="accessibility_preview_shrink">Uzaklaştır</string>
   <string name="accessibility_preview_zoom_tip">%1$.1fX yakınlaştırma önizlemesi</string>
+  <string name="accessibility_pro_parameters_panel_on">PRO parametreleriyle menüyü açın</string>
   <string name="accessibility_pro_video_simple_mode">Basit mod</string>
   <string name="accessibility_reduce">Uzaklaştır</string>
   <string name="accessibility_select_all">Tümünü seç</string>
@@ -1432,6 +1434,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>
+  <string name="super_night_owl_toast">Telefonunuzu sabit tutun</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
   <string name="text_ai_scene_selector_text_off">TERS IŞIK</string>

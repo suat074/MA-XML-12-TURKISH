@@ -7904,4 +7904,21 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
 Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="bluetooth_phonebook_access_dialog_title">Kişilere ve çağrı günlüğüne erişime izin verilsin mi?</string>
   <string name="bluetooth_phonebook_access_notification_content">Güvenilmeyen cihaz, kişilerinize ve çağrı günlüğünüze erişmek istiyor. Ayrıntılar için dokunun.</string>
+  <string name="subscreen_title">Arka ekran</string>
+  <string name="headset_find_both">İkisi de</string>
+  <string name="headset_find_cancel">İptal</string>
+  <string name="headset_find_connected">Bağlandı</string>
+  <string name="headset_find_disconnect">Bağlı değil</string>
+  <string name="headset_find_handle_tip">Alarmı çalmak için dokunun</string>
+  <string name="headset_find_left">Sol</string>
+  <string name="headset_find_notify_connected">Bağlandı</string>
+  <string name="headset_find_notify_disconnect">Bağlantı kesildi. Bağlanın ve tekrar deneyin.</string>
+  <string name="headset_find_play_warning">Kulaklıklardan en az biri kulağınızda gibi görünüyor. Alarmı şimdi çalmak işitme duyunuza zarar verebilir. Devam etmeden önce kulaklıkları kulaklarınızdan çıkarın.</string>
+  <string name="headset_find_playing">Oynatılıyor…</string>
+  <string name="headset_find_query_play">Oynat</string>
+  <string name="headset_find_right">Sağ</string>
+  <string name="headset_find_tip">Kulaklıklarınızı bulabilmeniz için yakınlarda ve bu cihaza bağlı olmalıdır. Kulaklıklardan en az biri kulağınızdayken alarmı çalmak işitme duyunuza zarar verebilir.</string>
+  <string name="headset_find_tip_title">Dikkat</string>
+  <string name="headset_find_title">Kulaklıklarınızı bulun</string>
+  <string name="headset_find_voice_warning">Yüksek ses uyarısı</string>
 </resources>

@@ -1985,4 +1985,12 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="zen_mode_enable_dialog_turn_on">Aç</string>
   <string name="zen_mode_settings_summary_off">Asla</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız Etme özelliğini aç</string>
+  <string name="call_fold_setting">Katlama ve açma</string>
+  <string name="call_fold_setting_title">Katlama ve açma</string>
+  <string name="fold_answer_pref_summary">Gelen bir aramayı otomatik olarak kabul etmek için cihazı katlayın</string>
+  <string name="fold_answer_pref_title">Çağrıları kabul etmek için katlayın</string>
+  <string name="unfold_close_camera_pref_summary">Kamerayı kapatmak için görüntülü arama sırasında cihazı açın</string>
+  <string name="unfold_close_camera_pref_title">Kamerayı kapatmak için açın</string>
+  <string name="unfold_speaker_pref_summary">Hoparlörü açmak için bir çağrı sırasında cihazı açın</string>
+  <string name="unfold_speaker_pref_title">Hoparlörü kullanmak için açın</string>
 </resources>
