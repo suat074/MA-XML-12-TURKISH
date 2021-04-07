@@ -7634,6 +7634,9 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="headset_unsaved_devices">Diğer cihazlarda kullanılır</string>
   <string name="miheadet_up_music">Önceki parça</string>
   <string name="miheadset_active">Enerjik</string>
+  <string name="miheadset_ancDepth">Aşırı</string>
+  <string name="miheadset_ancEquilibrium">Dengeli</string>
+  <string name="miheadset_ancMild">Hafif</string>
   <string name="miheadset_anc_indicate">Kulaklıkları bağlayın ve eşleştirin</string>
   <string name="miheadset_ancBalance">Orta</string>
   <string name="miheadset_ancClosed">Kapalı</string>
@@ -7685,8 +7688,8 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_game_mode">Oyun modu</string>
   <string name="miheadset_game_mode_summary">Oyun oynarken ses gecikmesini azaltın</string>
   <string name="miheadset_ignore">Eşleşmeyi kaldır</string>
-  <string name="miheadset_in_ear_check">Kulak varlığını algıla</string>
-  <string name="miheadset_in_ear_check_summary">Kulaklıkları takarken veya çıkarırken oynatmayı otomatik olarak duraklatın ve devam ettirin</string>
+  <string name="miheadset_in_ear_check">Kulak içi algılama</string>
+  <string name="miheadset_in_ear_check_summary">Kulaklıklar çıkarıldığında sesi duraklatın ve tekrar takıldığında otomatik olarak devam ettirin</string>
   <string name="miheadset_last_version">Donanım yazılımı güncel</string>
   <string name="miheadset_LeftEar">Sol</string>
   <string name="miheadset_minus">Sesi kıs</string>

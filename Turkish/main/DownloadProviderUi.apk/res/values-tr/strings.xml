@@ -103,6 +103,8 @@
   <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri sil</string>
   <string name="dialog_content_limit0">İndirmeleri sınırla</string>
   <string name="dialog_content_limit_max">Sınırsız</string>
+  <string name="dialog_download_dir_content" formatted="false">İndirmeleriniz için varsayılan hedef klasör \"%s\" yerine \"%s/DLManager\ olarak değiştirildi.</string>
+  <string name="dialog_download_dir_title">Yeni hedef klasör</string>
   <string name="dialog_failed_body">Bu dosyayı daha sonra indirmeyi deneyin veya kuyruktan kaldırılsın mı?</string>
   <string name="dialog_file_already_exists">Bu dosya zaten var.</string>
   <string name="dialog_file_missing_body">Dosya bulunamadı, silinmiş gibi görünüyor.</string>

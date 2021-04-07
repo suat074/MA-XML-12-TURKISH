@@ -97,6 +97,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Basınç</string>
   <string name="pressure_unit">hPa</string>
+  <string name="remove_icon_description_content">Pusula bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra yönleri, koordinatları, atmosferik basıncı ve mevcut yüksekliği kontrol etmek için bunu kullanamazsınız.</string>
+  <string name="remove_icon_description_title">\"Pusula\" Ana ekrandan kaldırılsın mı?</string>
   <string name="search_menu_title">Ara</string>
   <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
   <string name="unit_degree">Derece</string>

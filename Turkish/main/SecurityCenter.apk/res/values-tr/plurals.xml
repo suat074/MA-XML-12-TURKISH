@@ -293,6 +293,10 @@
     <item quantity="other">"%d dakika "</item>
     <item quantity="one">"%d dakika "</item>
   </plurals>
+  <plurals name="power_center_unoffical_battery_dialog_negative">
+    <item quantity="other">İptal (%ds)</item>
+    <item quantity="one">İptal (%ds)</item>
+  </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d pil sorunu</item>
     <item quantity="one">%d pil sorunu</item>

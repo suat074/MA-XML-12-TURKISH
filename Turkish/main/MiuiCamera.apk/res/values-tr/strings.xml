@@ -31,6 +31,8 @@
   <string name="accessibility_pro_parameters_panel_on">PRO parametreleriyle menüyü açın</string>
   <string name="accessibility_pro_video_simple_mode">Basit mod</string>
   <string name="accessibility_reduce">Uzaklaştır</string>
+  <string name="accessibility_reference_line_image_off">Kılavuz çizgileri gösterilmiyor</string>
+  <string name="accessibility_reference_line_image_on">Kılavuz çizgileri gösteriliyor</string>
   <string name="accessibility_select_all">Tümünü seç</string>
   <string name="accessibility_select_all_end">Tümü seçildi</string>
   <string name="accessibility_super_macro_off">Süper makro kapalı</string>

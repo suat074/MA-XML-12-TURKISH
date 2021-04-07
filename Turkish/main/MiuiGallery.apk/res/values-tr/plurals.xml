@@ -531,5 +531,9 @@
   <plurals name="album_photo_count_text">
     <item quantity="other">%1$d öğe</item>
     <item quantity="one">%1$d öğe</item>
+  </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="one">%d öğe seçildi</item>
+    <item quantity="other">%d öğe seçildi</item>
   </plurals>  
 </resources>

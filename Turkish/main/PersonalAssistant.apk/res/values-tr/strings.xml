@@ -1614,4 +1614,11 @@
   <string name="app_health_setting_text_sleep_aid_settings">Uyku</string>
   <string name="app_health_setting_text_title">Sağlık</string>
   <string name="app_travel_card_none">Veri yok</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+  <string name="search_header_dialog_title">Arka planı değiştir</string>
+  <string name="send">Gönder</string>
 </resources>

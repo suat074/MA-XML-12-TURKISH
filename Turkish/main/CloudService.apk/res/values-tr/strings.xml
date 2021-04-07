@@ -757,4 +757,9 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="sync_page_route_not_now">Hayır teşekkürler</string>
   <string name="sync_page_route_ok">Aç</string>
   <string name="sync_page_route_remember">Tekrar gösterme</string>
+  <string name="hybrid_provider">%1$s tarafından sağlanır</string>
+  <string name="no_network">Ağa bağlanılamıyor</string>
+  <string name="web_sso_login_fail">Tekrar giriş yapmanız gerekiyor</string>
+  <string name="web_sso_login_message">Giriş yapılıyor…</string>
+  <string name="webview_reload">Tekrar deneyin</string>
 </resources>
