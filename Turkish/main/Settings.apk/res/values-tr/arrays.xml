@@ -311,6 +311,7 @@
   </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (Varsayılan)</item>
+	<item>AVRCP 1.3</item>
     <item>AVRCP 1.5</item>
     <item>AVRCP 1.6</item>
   </string-array>
@@ -1413,12 +1414,14 @@
     <item>Uzun gecikme (300~500ms)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>Düşük gecikme için optimize edilmiş</item>
     <item>Bağlantı kalitesi için optimize edilmiş</item>
     <item>Dengeli ses ve bağlantı kalitesi</item>
     <item>Ses kalitesi için optimize edilmiş</item>
     <item>En iyi çaba (Otomatik bit hızı)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>Düşük gecikme için optimize edilmiş (256kbps)</item>
     <item>Bağlantı kalitesi için optimize edilmiş (400kbps)</item>
     <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
     <item>Ses kalitesi için optimize edilmiş (900kbps)</item>

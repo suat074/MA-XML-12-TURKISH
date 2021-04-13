@@ -816,13 +816,13 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_connected">%1$s bağlandı</string>
   <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Birden çok cihaza bağlı</string>
-  <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)</string>
+  <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok) %1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (medya yok) | Pil %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset">Bağlandı (telefon yok)</string>
+  <string name="bluetooth_connected_no_headset">Bağlandı (telefon yok)%1$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (telefon yok) | Pil %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon veya medya yok)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon veya medya yok) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (telefon veya medya yok) | Pil %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">Bağlandı (mesaj erişimi yok)</string>
+  <string name="bluetooth_connected_no_map">Bağlandı (mesaj erişimi yok) %1$s</string>
   <string name="bluetooth_connect_settings">Bluetooth bağlantı ayarları</string>
   <string name="bluetooth_connected_summary">%1$s cihazına bağlı</string>
   <string name="bluetooth_connecting">Bağlanıyor...</string>

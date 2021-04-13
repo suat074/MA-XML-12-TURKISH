@@ -147,9 +147,6 @@ Klavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_connected_battery_level">Bağlı | Pil %1$s %2$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Bağlı (medya yok) | Pil %1$s %2$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Bağlı (telefon yok) | Pil %1$s %2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Bağlı (medya yok) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Bağlı (telefon veya medya yok) %1$s</string>
-  <string name="bluetooth_connected_no_map">Bağlı (mesaj erişimi yok) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlı (telefon veya medya yok) | Pil %1$s %2$s</string>
   <string name="bluetooth_devices_card_off_summary">Açmak için dokunun</string>
   <string name="bluetooth_devices_card_off_title">Bluetooth kapalı</string>
