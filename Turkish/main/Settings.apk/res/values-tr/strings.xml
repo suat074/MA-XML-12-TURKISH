@@ -7924,4 +7924,9 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="headset_find_tip_title">Dikkat</string>
   <string name="headset_find_title">Kulaklıklarınızı bulun</string>
   <string name="headset_find_voice_warning">Yüksek ses uyarısı</string>
+  <string name="fingerprint_base_title">Parmak izi %s</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">\"%s\" olarak kaydedildi</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Kulaklığı yeniden ayarlayın</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Kulaklığı yeniden ayarlayın</string>
+  <string name="voip_assistant_settings">VoIP asistanı</string>
 </resources>

@@ -832,6 +832,8 @@
   <string name="force_resizable_activities_summary">Belirgin değerlerden bağımsız olarak tüm etkinlikleri çoklu pencere için yeniden boyutlandırın.</string>
   <string name="force_rtl_layout_all_locales">RTL düzen yönünü zorla</string>
   <string name="force_rtl_layout_all_locales_summary">Tüm yerler için ekran düzeni yönünü RTL\'ye zorla</string>
+  <string name="four_point_five_switch_summary">Veri erişim hızınızı ve ses kalitenizi iyileştirmek için 4.5G kullanın.</string>
+  <string name="four_point_five_switch_title">4.5G</string>
   <string name="frequecy_num">lte kanal numarası</string>
   <string name="fw_change_failed">Yönlendirme numarası değiştirilemedi.\nBu sorun devam ederse operatörünüze başvurun.</string>
   <string name="fw_get_in_vm_failed">Geçerli yönlendirme numarası ayarları alınamadı ve kaydedilemedi.\nYinede yeni sağlayıcıya geçilsin mi?</string>

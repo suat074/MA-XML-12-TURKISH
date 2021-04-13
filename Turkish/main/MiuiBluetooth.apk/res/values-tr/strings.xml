@@ -64,6 +64,7 @@
   <string name="goto_package">%1$s aç</string>
   <string name="headset_device_error_box_close">Şarj kutusu kapalı</string>
   <string name="headset_device_error_disconnect">Her iki kulaklığın bağlantısı kesildi. Güncellemeyi baştan başlatmak için şarj kutusunu kapatın ve tekrar açın.</string>
+  <string name="headset_device_error_multconnect">Birden çok cihaz bağlandığında güncellenemez</string>
   <string name="headset_device_error_no_device">Şarj kutusunda en az bir kulaklık eksik</string>
   <string name="headset_device_error_single_device">Bir kulaklık güncellenemiyor. Tekrar eşleştirin.</string>
   <string name="headset_device_sync_donot_move_device">Eşitleniyor… Kulaklığı kullanmadan önce eşitlenmenin bitmesini bekleyin.</string>

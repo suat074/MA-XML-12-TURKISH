@@ -265,7 +265,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
-  <string name="miui_dnd_count_down">Rahatsız etme zamanlayıcı</string>
+  <string name="miui_dnd_count_down">Ayarlamak için kaydırın</string>
   <string name="miui_dnd_count_down_time">"Rahatsız etme zamanlayıcı
 %s"</string>
   <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>

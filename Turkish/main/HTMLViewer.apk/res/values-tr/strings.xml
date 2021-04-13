@@ -38,4 +38,11 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="settings_safetylegal_activity_title">Güvenlik bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Ağa bağlanılamadı. Bu bilgileri şimdi görüntülemek için, internete bağlı herhangi bir bilgisayardan %s adresine gidin."</string>
   <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
+  <string name="copyright">Telif hakkı</string>
+  <string name="instruction">Önemli güvenlik bilgisi</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="sar">RF Maruziyet Bilgileri</string>
+  <string name="user_agreement">Kullanım Şartları</string>
+  <string name="user_experience_program">Kullanıcı Deneyimi Programı</string>
+  <string name="user_manual">Kullanici rehberi</string>
 </resources>

@@ -3,6 +3,10 @@
   <string name="app_name">İzinler</string>
   <string name="background_location_access_reminder_notification_content">Bu uygulama konumunuza her zaman erişebilir. Değiştirmek için dokunun.</string>
   <string name="background_location_access_reminder_notification_title">%s konumunuzu kullanıyor</string>
+  <string name="cetus_invisible_mode_notice_audio">Gizlisin. Şu anda mikrofon kullanılamıyor.</string>
+  <string name="cetus_invisible_mode_notice_camera">Gizlisin. Şu anda kamera kullanılamıyor.</string>
+  <string name="cetus_invisible_mode_notice_location">Gizlisin. Şu anda konum hizmetleri kullanılamıyor.</string>
+  <string name="cetus_invisible_mode_notice_tip">Ayarlar\'dan Gizli modu kapatmak için dokunun</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="default_permission_description">bilinmeyen eylemleri gerçekleştir</string>
   <string name="grant_dialog_button_allow">İzin ver</string>
