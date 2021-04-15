@@ -21,7 +21,7 @@
   <string name="copy">Kopyala</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="miui_clear_apks_summary">Toplam %s</string>
-  <string name="miui_clear_apks_title">Kurulum paketl. otomatik temizle</string>
+  <string name="miui_clear_apks_title">Yükleme paketlerini otomatik temizle</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -185,9 +185,9 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="miui_failed_conflicting_provider">Çakışan servis sağlayıcıları</string>
   <string name="miui_failed_duplicate_permission">Çakışan izinler</string>
   <string name="miui_failed_insufficient_storage">Yetersiz depolama alanı</string>
-  <string name="miui_failed_invalid_apk">Kurulum paketi hatası</string>
+  <string name="miui_failed_invalid_apk">Yükleme paketi hatası</string>
   <string name="miui_failed_invalid_uri">Geçersiz yükleme yolu</string>
-  <string name="miui_failed_miui_system_incompatible">Kurulum paketi MIUI ile uyumlu değil</string>
+  <string name="miui_failed_miui_system_incompatible">Yükleme paketi MIUI ile uyumlu değil</string>
   <string name="miui_failed_newer_sdk">SDK sürümü henüz desteklenmiyor</string>
   <string name="miui_failed_older_sdk">SDK sürümü çok eski</string>
   <string name="miui_failed_other">Diğer</string>
@@ -201,7 +201,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="miui_failed_solution_6">Mevcut yüklü olan sürümü kaldırın ve tekrar yüklemeyi deneyin.</string>
   <string name="miui_failed_solution_7">GetApps\'tan bu uygulamanın en son sürümünü indirin.</string>
   <string name="miui_failed_solution_8">Uygulamayı GetApps\'ten indirin.</string>
-  <string name="miui_failed_system_incompatible">Uyumsuz kurulum paketi</string>
+  <string name="miui_failed_system_incompatible">Uyumsuz yükleme paketi</string>
   <string name="miui_failed_update_incompatible">Çelişkili uygulama imzası</string>
   <string name="miui_failed_version_downgrade">Uygulama alt sürüme indirilemiyor</string>
   <string name="miui_failed_version_downgrade_space">İkinci alana veya Çocuk alanına yüklenmiş bu uygulamanın daha yeni bir sürümü var.</string>
@@ -305,7 +305,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
   <string name="risk_warning_title">Risk tespit edildi</string>
-  <string name="risk_warning_msg">Bu kurulum paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı güvenilir bir kaynaktan yükleyin.</string>
+  <string name="risk_warning_msg">Bu yükleme paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı güvenilir bir kaynaktan yükleyin.</string>
   <string name="risk_warning_top_button">Yükleme</string>
   <string name="risk_warning_bottom_button">Güvenilir kaynaktan yükleyin</string>
   <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>
@@ -315,9 +315,9 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="screen_overlay_title">Ekran Bindirmesi tespit edildi</string>
   <string name="security_settings_desc">Bu uygulamayı izin ver:</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_warning_dialog_detail">"Aşağıdaki durumlarda sizden istenir:
+  <string name="settings_warning_dialog_detail">"Aşağıdaki durumlarda size sorulur:
  "<li>Bir uygulama virüs içerdiğinde.</li>"
- "<li>Kurulum paketi bilinmeyen bir kaynaktan geliyorsa.</li></string>
+ "<li>Yükleme paketi bilinmeyen bir kaynaktan geliyorsa.</li></string>
   <string name="settings_warning_dialog_msg">Telefonunuz güvenlik risklerine eğilimlidir. Bu özelliği kapatırsanız güvenli uygulama sürümlerini yüklemeniz önerilmez. Yine de kapatılsın mı?</string>
   <string name="settings_warning_dialog_title">Dikkat</string>
   <string name="system_warning">Bu izni reddederseniz, cihazınızın temel özellikleri istenen şekilde çalışmayabilir.</string>
@@ -370,7 +370,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="install_confirm_dialog_negative_button">İptal</string>
   <string name="install_confirm_dialog_positive_button">Yükle</string>
   <string name="install_confirm_dialog_title">Dikkat</string>
-  <string name="install_confirm_question_des_10">"Riskleri almak ve yüklemeye devam etmek istiyorsanız, Güvenlik &gt; Uygulamaları Yönet &gt; İzinler &gt; Olası riskli uygulamalar bölümünden kurulumu yetkilendirin. \"Olası riskli uygulamalar\" bölümünü bulamıyorsanız, Güvenlik uygulamanızı güncelleyip yeniden deneyin."</string>
+  <string name="install_confirm_question_des_10">"Riskleri almak ve yüklemeye devam etmek istiyorsanız, Güvenlik &gt; Uygulamaları Yönet &gt; İzinler &gt; Olası riskli uygulamalar bölümünden yüklemeyi yetkilendirin. \"Olası riskli uygulamalar\" bölümünü bulamıyorsanız, Güvenlik uygulamanızı güncelleyip yeniden deneyin."</string>
   <string name="install_confirm_text_gms">Bu uygulama Google tarafından yapılmıştır. Bu uygulamayı yüklemeden önce Google Play hizmetlerini yükleyin. Bu çerçeve olmadan uygulama düzgün çalışmayabilir.</string>
   <string name="install_control_cancel_vip_account_install">Çık</string>
   <string name="install_control_vip_account_install">Beta için başvur</string>
@@ -380,4 +380,40 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="intercept_confirm_dialog_positive">Doğrula</string>
   <string name="intercept_confirm_dialog_title">Dikkat</string>
   <string name="spannable_continue_text">Riskleri anlıyorum. Yine de yükle.</string>
+  <string name="ad_recommend_like">Şunlar da hoşunuza gidebilir</string>
+  <string name="app_info_permissions">İzinler</string>
+  <string name="app_info_size">Boyut: %1$s</string>
+  <string name="app_info_version">Sürüm: %1$s</string>
+  <string name="app_info_version_replace">Sürüm: %1$s -&gt; %2$s</string>
+  <string name="app_version_format">Sürüm: %1$s</string>
+  <string name="cancel_install">İptal</string>
+  <string name="cllapsible_text_state">Gizle</string>
+  <string name="comment_count_wan">%1$s milyon yorum</string>
+  <string name="dialog_install_confirm_default">Yükle</string>
+  <string name="dialog_title_default">Dikkat</string>
+  <string name="extensible_text_state">Daha fazla</string>
+  <string name="gold_mi_prize">Altın Mi Ödülü</string>
+  <string name="ignore_virus_install_text">Olası tüm riskleri anlıyorum. %1$s</string>
+  <string name="ignore_virus_install_text_clickable">Yine de yükle</string>
+  <string name="install_app_loading">Yükleme paketi kontrol ediliyor…</string>
+  <string name="more_app">Daha fazla uygulama</string>
+  <string name="net_work_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
+  <string name="net_work_error_retry">Tekrar deneyin</string>
+  <string name="not_safe">" (Güvenli değil)"</string>
+  <string name="package_installer_title">Paket yükleyici</string>
+  <string name="prepare_install">Yükleme hazırlanıyor……</string>
+  <string name="resolve_suggestion_title">Öneri</string>
+  <string name="safe_high_speed_installing">Güvenli sürüm yükleniyor…</string>
+  <string name="safe_install">Yükle</string>
+  <string name="start_install">Yükle</string>
+  <string name="virus_install_confirm_cancel">İptal</string>
+  <string name="virus_install_confirm_install">Yükle</string>
+  <string name="virus_install_confirm_msg">Yüklemek üzere olduğunuz uygulama, kişisel verilerinizi açığa çıkarma riski veya kötü niyetli sonuçlara neden olabilecek virüsler içeriyor.</string>
+  <string name="virus_install_confirm_title">Yüklemeyi onayla</string>
+  <string name="virus_scanning">Kontrol ediliyor…</string>
+  <string name="virus_warning_title">Virüs tespit edildi</string>
+  <string name="virus_warning_title_2">Bu uygulama aşağıdaki virüsleri içeriyor:</string>
+  <string name="warning_msg_virus">Virüs tespit edildi</string>
+  <string name="app_info_version_des">Sürüm:%1$s | Boyut:%2$s</string>
+  <string name="app_info_version_des_replace">Sürüm: %1$s -&gt; %2$s | Boyut:%3$s</string>
 </resources>

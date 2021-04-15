@@ -4,6 +4,18 @@
     <item quantity="other">%1$d daha fazla</item>
     <item quantity="one">%1$d daha fazla</item>
   </plurals>
+  <plurals name="app_info_permission_count">
+    <item quantity="one">%1$s izin</item>
+    <item quantity="other">%1$s izin</item>
+  </plurals>
+  <plurals name="app_info_private_permission_count">
+    <item quantity="one">%1$s gizlilikle ilgili izin</item>
+    <item quantity="other">%1$s gizlilikle ilgili izin</item>
+  </plurals>
+  <plurals name="comment_count">
+    <item quantity="one">%1$s yorum</item>
+    <item quantity="other">%1$s yorum</item>
+  </plurals>
   <plurals name="miui_permission_detail">
     <item quantity="other">%d izin</item>
     <item quantity="one">%d izin</item>
