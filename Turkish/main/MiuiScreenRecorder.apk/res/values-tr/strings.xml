@@ -29,7 +29,10 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="app_info">Kaydı durdurmak için dokunun</string>
   <string name="app_name">Ekran Kaydedici</string>
+  <string name="app_notification_channel_record_complete">Bitmiş kayıtlarla ilgili bildirimler</string>
   <string name="app_notification_info">Ekran Kaydedici arka planda çalışıyor</string>
+  <string name="app_notification_record_complete">"Ekran kaydı Galeri\'ye kaydedildi
+Görüntülemek için dokunun"</string>
   <string name="app_notification_title">Ekran Kaydedici</string>
   <string name="auto_stop_title">Video başarıyla kaydedildi</string>
   <string name="battery_not_allowed" formatted="false">Pil 3%\'ten düşük olduğunda kayıt yapılamaz. Pilin en az 20% şarjı olduğundan emin olun.</string>

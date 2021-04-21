@@ -452,6 +452,7 @@ EEE"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Anladım</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Tekrar gösterme</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Uyumluluk sorunları</string>
+  <string name="multiwindow_no_support_icon">Ekran bölme kullanırken simgeleri değiştiremezsiniz</string>
   <string name="my_gifts">Hediyeler</string>
   <string name="my_gifts_purchased">Satın Alınan</string>
   <string name="my_gifts_received">Alınan:</string>

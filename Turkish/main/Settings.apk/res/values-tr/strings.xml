@@ -7929,4 +7929,13 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="miheadset_fitness_check_result_l_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="voip_assistant_settings">VoIP asistanı</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Ekranın altından ekranın sağ üst köşesine doğru kaydırın</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Yüzer pencere için kaydırma</string>
+  <string name="miheadset_double_press_left">Sol kulaklığa çift basın</string>
+  <string name="miheadset_double_press_right">Sağ kulaklığa çift basın</string>
+  <string name="miheadset_triple_press_left">Sol kulaklığa üç kez basın</string>
+  <string name="miheadset_triple_press_right">Sağ kulaklığa üç kez basın</string>
+  <string name="screen_recorder_title">Ekran kaydedici</string>
+  <string name="search_control_center_style">Bildirim stili</string>
+  <string name="search_screen_recorder_title">Ekran kaydı;Ekran kaydedici</string>
 </resources>
