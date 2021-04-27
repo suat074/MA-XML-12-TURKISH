@@ -1761,4 +1761,13 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="remote_device_type_phone">Xiaomi Telefon</string>
   <string name="remote_online_permission">Çoklu kamera kayıt işlevini kullanmak için kamera \"Konum\" iznini \"Yalnızca kullanırken izin ver\" olarak ayarlamanız gerekir.</string>
   <string name="pref_customization_style">Özel stil</string>
+  <string name="dd_frn_f_t">Ön kamerayı kullanmak için cihazınızı katlayın</string>
+  <string name="esp_tip">Dış ekran önizlemesi</string>
+  <string name="pref_camera_esp">Arka ekran önizlemesi</string>
+  <string name="pref_camera_track_focus_preferred_description">İnsanlara ve hayvanlara otomatik olarak odaklanmak için açın. Ayrıca manuel izleme için öğeleri seçmek mümkün olacak.</string>
+  <string name="pref_camera_track_focus_preferred_title">Odak takibi</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Odaktaki nesneden gelen sesler manzara modunda geliştirilir</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">Ekranın arkasından gelen sesler yatay modda filtrelenir</string>
+  <string name="process_tips_1">Video kaydedilene kadar cihazı katlamayın</string>
+  <string name="process_tips_2">Video kaydedilene kadar cihazı açmayın</string>
 </resources>

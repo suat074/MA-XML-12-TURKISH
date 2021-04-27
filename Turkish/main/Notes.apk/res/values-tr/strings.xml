@@ -198,6 +198,7 @@
   <string name="menu_unstick">Sabitten kaldır</string>
   <string name="merge_to_folder">Klasör oluştur</string>
   <string name="midnight">Gece</string>
+  <string name="miui_lite_open_mind_toast">Bu model zihin notlarının görüntülenmesini desteklemiyor</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
   <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_action_mode_title_empty">SÖğeleri seç</string>
@@ -335,10 +336,8 @@
   <string name="repeat_mode_set_item_none">Asla</string>
   <string name="repeat_mode_set_item_normal_workday">Pazartesi - Cuma</string>
   <string name="repeat_mode_set_item_week">Her hafta (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Her hafta (%s)</string>
   <string name="repeat_mode_set_item_year">Her yıl (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Her yıl (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
   <string name="repeat_mode_set_title">Tekrarla</string>
   <string name="repeat_mode_week">Her hafta</string>
   <string name="repeat_mode_year">Her yıl</string>
