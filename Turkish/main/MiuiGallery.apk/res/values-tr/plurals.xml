@@ -468,6 +468,22 @@
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>
     </plurals>
+	<plurals name="photo_count">
+        <item quantity="one">%d fotoğraf</item>
+        <item quantity="other">%d fotoğraf</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="one">%d fotoğraf eşitlendi</item>
+        <item quantity="other">%d fotoğraf eşitlendi</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="one">%d video eşitlendi</item>
+        <item quantity="other">%d video eşitlendi</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
   <plurals name="a_hour_ago">
     <item quantity="other">1 saat önce</item>
   </plurals>

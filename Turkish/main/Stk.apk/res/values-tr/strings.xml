@@ -25,4 +25,6 @@
   <string name="stk_dialog_title">SIM Araçları</string>
   <string name="stk_intent_permission">İstenen izni ver</string>
   <string name="stk_no_service">Mevcut hizmet yok</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

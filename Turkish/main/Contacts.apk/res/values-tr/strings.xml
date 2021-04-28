@@ -1456,4 +1456,10 @@ Favori listenize kişi eklemek için:
   <string name="call_record_user_notice_permission_desc_microphone">Çağrıları kaydetmek için</string>
   <string name="call_record_user_notice_permission_desc_storage">Kayıtları kaydetmek için</string>
   <string name="call_record_user_notice_title">Sesli çağrı araması</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="send">Gönder</string>
 </resources>

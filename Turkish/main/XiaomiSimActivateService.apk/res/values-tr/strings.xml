@@ -169,4 +169,6 @@
   <string name="sim_unactivated_feature_title">%s etkinleştirilmedi</string>
   <string name="sim_unactivated_msg">Bu hizmet etkinleştirilmedi. Tekrar denemek için dokunun.</string>
   <string name="sim_unactivated_register_xiaomi_account_feature_title">Mi Hesabı oluşturulmadı</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

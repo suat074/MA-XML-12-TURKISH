@@ -25,6 +25,7 @@
   <string name="dialog_stop_desc">İndirme işlemini Duraklatılır veya Durdurabilir, şimdi seçimini yapabilirsin.</string>
   <string name="dialog_stop_title">İndirme durdurulsun mu?</string>
   <string name="dialog_twrp">Dahili depolama alanınız şifrelenir. Cihaz kurtarma modunda yeniden başlatıldıktan sonra, devam etmek için cihaz kilidini açma şifrenizi girin.</string>
+  <string name="downgrade_warning">OTA üzerinden sürüm düşürme algılandı ve engellendi! Sisteminizin bozulmasına izin vermemek için!</string>
   <string name="download_done">Başarıyla indirildi!</string>
   <string name="download_fail">İndirilirken hata oluştu!</string>
   <string name="download_fail_desc">MD5 Sum eşleşmiyor ...</string>

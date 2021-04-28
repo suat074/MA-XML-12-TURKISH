@@ -45,4 +45,6 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="user_agreement">Kullanım Şartları</string>
   <string name="user_experience_program">Kullanıcı Deneyimi Programı</string>
   <string name="user_manual">Kullanici rehberi</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

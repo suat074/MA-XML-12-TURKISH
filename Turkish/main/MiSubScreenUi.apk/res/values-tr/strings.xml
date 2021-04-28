@@ -236,13 +236,13 @@
     <string name="saturday_shortest">Cts</string>
     <string name="search_menu_title">Ara</string>
     <string name="send">Gönder</string>
-    <string name="small_display_style">Arka ekran teması</string>
+    <string name="small_display_style">Arka ekran</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">"Mi Topluluğu'nda daha fazlasını öğrenin"</string>
     <string name="sub_screen_app_name">Arka ekran</string>
     <string name="subscreen_other">Diğer</string>
     <string name="subscreen_other_dialog_cancel">İptal et</string>
-    <string name="subscreen_other_dialog_confirm">Tamam</string>
+    <string name="subscreen_other_dialog_confirm">Aç</string>
     <string name="subscreen_other_dialog_goto">Ekle</string>
     <string name="subscreen_other_dialog_message">Süper güç tasarrufu ana ekranı devre dışı bırakır. Arka ekranı kullanarak yalnızca saati kontrol edebilir, aramaları cevaplayabilir ve acil kişilerinizi arayabilirsiniz. Cihazınız Süper güç tasarrufu açık olduğunda tek bir şarjla %d güne kadar çalışabilir. Süper güç tasarrufu şimdi açılsın mı?</string>
     <string name="subscreen_other_dialog_title">Süper güç tasarrufu</string>
@@ -330,4 +330,12 @@
     <string name="wednesday_shortest">Çrş</string>
     <string name="wireless_change_to_ac_charging">Kablolu şarja geçin</string>
     <string name="yesterday">Dün</string>
+	<string name="add_emergency_contact">Acil durum kişisi ekleyin</string>
+    <string name="has_add_contact">Eklendi</string>
+    <string name="not_add_contact">Eklenmedi</string>
+    <string name="sps_cancel">Çıkmak için basılı tutun</string>
+    <string name="subscreen_could_edit_pic">Görüntüleri ölçeklemek için sürükleyin, silmek için basılı tutun</string>
+    <string name="wilderness_dcalling">Bağlandı</string>
+    <string name="wilderness_dialing">Çevirme</string>
+    <string name="wilderness_is_starting">Süper güç tasarrufu açılıyor…</string>
 </resources>

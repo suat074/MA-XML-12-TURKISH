@@ -4358,4 +4358,26 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="storage_clear_cache_large">%s yer açın</string>
   <string name="storage_clear_more_tools">Daha fazla temizlik aracı</string>
   <string name="storage_clear_video">Video önbelleğini temizle</string>
+  <string name="app_behavior_about_setting">Ayarlar</string>
+  <string name="app_behavior_dashboard_desc">Son %d saat içindeki etkinlik</string>
+  <string name="app_behavior_dashboard_total_usage_title">Tüm kayıtları görüntüle</string>
+  <string name="app_behavior_dashboard_usage">Uygulama davranışı</string>
+  <string name="app_behavior_dashboard_usage_list_title">İzne göre görüntüle</string>
+  <string name="app_behavior_desc_allowed">İzin verildi</string>
+  <string name="app_behavior_desc_allowed_on_background">Arka planda izin verildi</string>
+  <string name="app_behavior_desc_denied">Reddedildi</string>
+  <string name="app_behavior_desc_denied_on_background">Arka planda reddedildi</string>
+  <string name="app_behavior_desc_other_perm_allowed">Son etkinlik: %s</string>
+  <string name="app_behavior_desc_other_perm_denied">Son %d saat içindeki etkinlik</string>
+  <string name="app_behavior_global_settings_perm_tips">Uygulamalar ses kaydettiğinde veya kamera kullandığında durum çubuğunda bir uyarı alın</string>
+  <string name="app_behavior_record_setting_button_title">Sistem hizmetlerinin davranışını göster</string>
+  <string name="app_behavior_record_setting_show_system">Sistem hizmetlerinin davranışını göster</string>
+  <string name="app_behavior_record_setting_show_system_desc">Temel sistem hizmetlerinin davranışını görüntülemek için açın. Sistemin istikrarını sağlamak için bu hizmetler, bazıları kısıtlanamayan gerekli izinleri kullanacaktır.</string>
+  <string name="app_behavior_record_setting_show_system_title">Sistem hizmetlerinin davranışını göster</string>
+  <string name="app_behavior_record_setting_title">Davranış kayıtları</string>
+  <string name="cetus_invisible_mode_warn_open">Gizli mod, tüm uygulamalar için mikrofon, kamera ve konumla ilgili izinleri askıya alır. Şimdi açılsın mı?</string>
+  <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, Wi-Fi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve Wi-Fi ve mobil veri açık olduğunda gibi bilgileri topluyoruz. Bu bilgiler, cihazınızda yerel olarak saklanır.</string>
+  <string name="privacy_global_guide_permission_guide_text">Uygulamalar ses kaydettiğinde veya kamera kullandığında durum çubuğunda bir uyarı alacaksınız. Hangi uygulamanın bunu yaptığını öğrenmek için uyarıya dokunun.</string>
+  <string name="privacy_hide_other_permissions">Diğer izinleri gizle</string>
+  <string name="privacy_show_other_permissions">Diğer izinleri göster</string>
 </resources>

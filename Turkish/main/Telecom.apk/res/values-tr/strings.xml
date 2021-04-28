@@ -565,4 +565,10 @@
   <string name="zen_mode_enable_dialog_turn_on">Aç</string>
   <string name="zen_mode_settings_summary_off">Asla</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız Etme özelliğini aç</string>
+  <string name="do_not_show_again">Tekrar gösterme</string>
+  <string name="scam_cancle">İptal</string>
+  <string name="scam_message">Çağrı yönlendirmeyi ayarlıyorsunuz. Bundan sonra gelen tüm aramalarınız %1$s telefon numarası tarafından cevaplanacak. Bu yönlendirme numarasına sahip değilseniz, kişisel bilgilerinizi ifşa etme veya mülkünüzün güvenliğini tehlikeye atma riski altında olabilirsiniz. Bu özelliği dikkatli kullanın.</string>
+  <string name="scam_message_2">**21*Yönlendirme numarası# çağrı yönlendirme kodudur. Herhangi bir sorunuz varsa operatörünüzle iletişime geçin.</string>
+  <string name="scam_ok">Çevir</string>
+  <string name="scam_title">Dolandırıcılık riski hatırlatma</string>
 </resources>

@@ -1528,7 +1528,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="search_backup_now">Aç</string>
   <string name="search_backup_sub_title">Daha fazla resim bulmak için açın</string>
   <string name="search_backup_title">Bulut ile eşitle</string>
-  <string name="search_clear_histories">Temizle</string>
+  <string name="search_clear_histories">Arama geçmişini temizle</string>
   <string name="search_connection_error">Ağa bağlanılamadı</string>
   <string name="search_connection_error_and_set">Ağ ayarlarını kontrol etmek için dokunun</string>
   <string name="search_empty_title">Galerinizdeki belirli kişiler, yerler ve nesnelerle fotoğraf bulun</string>
@@ -2667,4 +2667,16 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="web_sso_login_fail">Tekrar giriş yapmanız gerekiyor</string>
   <string name="web_sso_login_message">Giriş yapılıyor…</string>
   <string name="webview_reload">Tekrar deneyin</string>
+  <string name="cloud_full_space_tip_message">Tüm fotoğraflarınızı ve videolarınızı bulut ile eșitleyebilmek için bulut depolama planınızı yükseltin.</string>
+  <string name="cloud_full_space_tip_negative">Şimdi değil</string>
+  <string name="cloud_full_space_tip_positive">Yükselt</string>
+  <string name="cloud_full_space_tip_title">Yetersiz bulut depolama</string>
+  <string name="filter_food_orangeflavor">Mandalina</string>
+  <string name="filter_general_past">Eski zaman</string>
+  <string name="filter_popular_gingertea">Zencefil</string>
+  <string name="filter_popular_mango">Mango</string>
+  <string name="filter_popular_windchime">Çan</string>
+  <string name="filter_travel_charlotte">Charlotte</string>
+  <string name="mishare_all_devices">Tüm cihazlar</string>
+  <string name="synced_photo_video_count">%1$s ve %2$s eşitlendi</string>
 </resources>

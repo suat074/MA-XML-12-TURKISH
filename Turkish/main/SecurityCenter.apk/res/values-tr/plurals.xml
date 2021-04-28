@@ -877,4 +877,12 @@ Biraz ara verin!"</item>
     <item quantity="other">Cihazınız %d saniye içinde kapanacak</item>
     <item quantity="one">Cihazınız %d saniye içinde kapanacak</item>
   </plurals>
+  <plurals name="app_behavior_dashboard_title_desc">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
+  </plurals>
+  <plurals name="app_behavior_dashboard_total_usage_item">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
+  </plurals>
 </resources>

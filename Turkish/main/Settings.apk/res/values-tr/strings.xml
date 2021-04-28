@@ -2217,6 +2217,13 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
   <string name="external_code_size_label">USB Depolama Uygulaması</string>
   <string name="external_data_size_label">USB Depolama Verisi</string>
+  <string name="external_ram_dialog_btn_cancel">Sonra</string>
+  <string name="external_ram_dialog_btn_ok">Yeniden başlat</string>
+  <string name="external_ram_dialog_message">Değişiklikleri uygulamak için cihazınızı yeniden başlatın.</string>
+  <string name="external_ram_dialog_title">Cihazı yeniden başlatın</string>
+  <string name="external_ram_summary">Depolama alanını kullanarak %1$s %2$s RAM ekleyin. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın.</string>
+  <string name="external_ram_title">Bellek uzantısı</string>
+  <string name="external_ram_toast">Yetersiz depolama alanı nedeniyle bellek uzantısı kullanılamıyor</string>
   <string name="external_source_switch_title">Bu kaynaktan izin verin</string>
   <string name="external_source_trusted">İzin verildi</string>
   <string name="external_source_untrusted">İzin verilmiyor</string>
@@ -4029,6 +4036,8 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="permission_manage_title">%s izinler</string>
   <string name="permission_manager">İzinler</string>
   <string name="permission_mgr">İzinler</string>
+  <string name="permission_records">İzin kullanımı</string>
+  <string name="permission_records_summary">Uygulamaların izinleri nasıl kullandığının özeti</string>
   <string name="permission_settings_summary">Konum, depolama, telefon, mesajlar ve kişilerle ilgili izinleri yönetin.</string>
   <string name="permission_settings_title">Uygulama izinleri</string>
   <string name="permissions_label">İzinler</string>
@@ -7677,6 +7686,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="miheadset_key_config_volume_down">Sesi kıs</string>
   <string name="miheadset_key_config_volume_up">Sesi aç</string>
   <string name="miheadset_local_ota">Güncelle</string>
+  <string name="miheadset_network_not_available">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
   <string name="miheadset_next">Sonraki parça</string>
   <string name="miheadset_play_pause">Oynat/Duraklat</string>
   <string name="miheadset_soft">Yumuşak</string>
