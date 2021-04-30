@@ -7740,7 +7740,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="fold_rule_default">Önerilen</string>
   <string name="fold_rule_important">Önemli</string>
   <string name="fold_rule_unimportant">Önemsiz</string>
-  <string name="magic_window_name">Bölünmüş pencere</string>
+  <string name="magic_window_name">Paralel pencereler</string>
   <string name="truetone_summary">Renkleri ortam ışığına göre ayarlayın</string>
   <string name="truetone_title">Uyarlanabilir renkler</string>
   <string name="user_experience_open_url">Kullanıcı Deneyimi Programı hakkında daha fazla bilgi edinin</string>

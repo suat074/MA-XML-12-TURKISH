@@ -18,7 +18,7 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="actionbar_button_up_description">Geri</string>
-  <string name="adaptive_fps_tip">2. Yenileme hızını dinamik olarak ayarlayarak pürüzsüzlük ve pil ömrü arasındaki en iyi dengeyi elde edin.</string>
+  <string name="adaptive_fps_tip">- Yenileme hızını dinamik olarak ayarlayarak hareket pürüzsüzlüğü ve pil ömrü arasındaki en iyi dengeyi elde edin.</string>
   <string name="advanced_mode">Gelişmiş ayarlar</string>
   <string name="africa_introduction">Yaban hayatı Afrika\'da büyür - dünyanın en ünlü hayvanlarının çoğuna ev sahipliği yapar.</string>
   <string name="african_bush_elephant">Afrika çalı fili</string>
@@ -202,7 +202,7 @@
   <string name="fps_smooth_title">Yüksek</string>
   <string name="fps_standard_summary">Standart yenileme hızı pil tasarrufu sağlar</string>
   <string name="fps_standard_title">Standart</string>
-  <string name="fps_user_tip">1. Bu demo animasyonlar, referansınız için düşük hızda oynatılır. Gerçek performans, değişen faktörlere bağlı olarak farklı görünebilir.</string>
+  <string name="fps_user_tip">- Bu demo animasyonlar, referansınız için düşük hızda oynatılır. Gerçek performans, değişen faktörlere bağlı olarak farklı görünebilir.</string>
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>
@@ -405,6 +405,7 @@
   <string name="search_empty">Hiçbir uygulama bulunamadı</string>
   <string name="search_menu_title">Ara</string>
   <string name="send">Gönder</string>
+  <string name="service_ringtone_title">Servis zil sesi</string>
   <string name="several_days_use_time">Ekran süresi: %2$s</string>
   <string name="shortcut_created">Bu kısayol zaten var</string>
   <string name="silent_ringtone_hint">Ses şimdi susturuldu. Sesi açın ve tekrar deneyin.</string>
