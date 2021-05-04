@@ -149,6 +149,10 @@
     <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
     <item quantity="one">%d kez kontrol edildi</item>
   </plurals>
+  <plurals name="gb_toolbox_guide_known">
+    <item quantity="other">Anladım (%ds)</item>
+    <item quantity="one">Anladım (%ds)</item>
+  </plurals>
   <plurals name="hints_apps_perm_count">
     <item quantity="other">%d izin</item>
     <item quantity="one">%d izin</item>

@@ -4380,4 +4380,13 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="privacy_global_guide_permission_guide_text">Uygulamalar ses kaydettiğinde veya kamera kullandığında durum çubuğunda bir uyarı alacaksınız. Hangi uygulamanın bunu yaptığını öğrenmek için uyarıya dokunun.</string>
   <string name="privacy_hide_other_permissions">Diğer izinleri gizle</string>
   <string name="privacy_show_other_permissions">Diğer izinleri göster</string>
+  <string name="gamebox_micharge">Şarj sıcaklık kontrolü</string>
+  <string name="gamebox_micharge_dialog_message">Şarj cihazı bağlandığında şarjı kısıtlamak için bu özelliği açın. Şarj cihazı yalnızca güç kaynağı sağlamak için kullanılacaktır, bu da oyun oynarken aşırı ısınmayı önlemenize yardımcı olur.</string>
+  <string name="gamebox_micharge_dialog_title">Şarj sıcaklık kontrolü</string>
+  <string name="gamebox_micharge_settings_summray">Aşırı ısınmayı önlemek için şarj cihazını sadece güç kaynağı için kullanın</string>
+  <string name="gamebox_micharge_toast">Şarj sıcaklık kontrolü açık</string>
+  <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini aynı anda kullanın.</string>
+  <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo'yu başlatmak için her iki omuz düğmesini kullanın</string>
+  <string name="gb_shoulder_key_settings_title">Game Turbo için omuz düğmelerini kullanın</string>
+  <string name="gb_shoulder_key_settings_title_new">Game Turbo hızlı başlatma</string>
 </resources>
