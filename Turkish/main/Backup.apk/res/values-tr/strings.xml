@@ -718,4 +718,11 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="xiaomi_update_dialog_message">Tanıtım sürümü: %1$s\nBoyut: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Tanıtım sürümü: %1$s\nDelta güncelleme boyutu: %2$s</string>
   <string name="xiaomi_update_dialog_title">Güncelleme mevcut!</string>
+  <string name="backup_hint_pad">Cihazınızı açık tutun</string>
+  <string name="new_local_tab_backup_pad">Yedekle</string>
+  <string name="new_local_tab_restore_pad">Geri yükle</string>
+  <string name="new_pc_backup_restore_link_pad">Mobil cihaz</string>
+  <string name="new_pc_backup_summary2_pad">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın.</string>
+  <string name="new_pc_restore_content2_pad">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın.</string>
+  <string name="not_enough_storage_tips">Yetersiz depolama alanı. Biraz yer açın ve tekrar deneyin.</string>
 </resources>

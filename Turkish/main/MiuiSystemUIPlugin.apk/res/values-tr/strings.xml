@@ -349,4 +349,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="dnd_popup_message">Medya seslerini kapatmadan çağrıları ve bildirimleri sessize almak için Rahatız etme modunu açabilirsiniz.</string>
   <string name="miui_toast_zen_to_dnd_when_lock">Cihaz kilitlendiğinde çağrılar ve bildirimler sessize alınacak</string>
   <string name="wireless_charging_tips_sub_message">Diğer cihaz, Qi kablosuz şarj standardını desteklemelidir.</string>
+  <string name="wireless_charging_fg_control_cancel">İptal</string>
+  <string name="wireless_charging_fg_control_messgae">Pilin dolmasına %d%% değerinden daha az kaldığı için ters kablosuz şarj kapatıldı. Ters kablosuz şarjın daha uzun süre çalışmasını sağlamak için ayarları yapabilirsiniz.</string>
+  <string name="wireless_charging_fg_control_ok">Ayarla</string>
 </resources>

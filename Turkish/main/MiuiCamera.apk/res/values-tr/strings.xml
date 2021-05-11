@@ -580,6 +580,10 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="dual_camera_too_close_toast">Kamera nesneye çok yakın.</string>
   <string name="dual_camera_use_hint">Nesnenin 2 metreden daha fazla olmadığından emin olun.</string>
   <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+  <string name="dual_video_user_guide_main_content_new">"Çoklu kameralı videolar aynı anda birden fazla kamerayla çekilir.
+Çift telefon kaydı ayrıca diğer cihaza bağlanmanızı ve \"Birleştir\" seçeneğini seçerek çoklu kamera videosu oluşturmanızı sağlar."</string>
+  <string name="dual_video_user_guide_merge_content_new">İki kayıt, bölünmüş görünümde veya resim içinde resim videoda birleştirilebilir.</string>
+  <string name="dual_video_user_guide_standalone_content_new">Eşzamanlı olarak kaydedilen videolar da ayrılabilir ve iki dosya olarak kaydedilebilir.</string>
   <string name="edit_blusher">Ruj</string>
   <string name="edit_chin">Çeneler</string>
   <string name="edit_color_skin">Cilt tonu</string>
@@ -1721,8 +1725,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="dialog_button_scan">Cihaz ara</string>
   <string name="network_connection_failed">Bağlanamadı</string>
   <string name="network_connection_ongoing">Bağlanıyor…</string>
-  <string name="network_connection_prerequisites">Çift telefon kaydını kullanabilmek için Bluetooth ve Wi-Fi\'yi açın.</string>
-  <string name="network_connection_prerequisites_china">Çift telefon kaydını kullanabilmek için Bluetooth ve WLAN\'ı açın.</string>
+  <string name="network_connection_prerequisites">Çift telefon kaydını kullanabilmek için Kontrol merkezinden Bluetooth ve Wi-Fi\'yi açın.</string>
+  <string name="network_connection_prerequisites_china">Çift telefon kaydını kullanabilmek için Kontrol merkezinden Bluetooth ve Wi-Fi\'yi açın.</string>
   <string name="network_connection_rejected">Reddedildi</string>
   <string name="network_connection_timed_out">Bağlantı zaman aşımı</string>
   <string name="pref_video_cast_setting_summary">Birden çok cihazla bir video çekebilmek için açın</string>
@@ -1758,7 +1762,7 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="histogram_summary_tip">Gerçek zamanlı pozlama geri bildirimini göster</string>
   <string name="dialog_button_goto">Ayarlara git</string>
   <string name="dual_video_record_remote">Çift telefon kaydı</string>
-  <string name="dual_video_user_guide_remote_content">Çift telefon kaydı, iki farklı cihazdan gelen beslemelerin tek bir videoda birleştirilmesine izin verir. Bu cihazda hem beslemeleri hem de son videoyu önizleyebileceksiniz. Sesin yalnızca bu cihaz tarafından kaydedileceğini unutmayın.</string>
+  <string name="dual_video_user_guide_remote_content">İki farklı cihazdan gelen yayınları tek bir videoda birleştirin. Bu cihazda hem yayınları hem de son videoyu önizleyebileceksiniz. Sesin yalnızca bu cihaz tarafından kaydedileceğini unutmayın.</string>
   <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_remote_p1">Telefon 1</string>
   <string name="dual_video_user_guide_remote_p2">Telefon 2</string>

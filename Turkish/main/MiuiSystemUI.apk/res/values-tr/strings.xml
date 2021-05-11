@@ -993,7 +993,7 @@
   <string name="kg_invalid_confirm_pin_hint">PIN kodları eşleşmiyor</string>
   <string name="kg_invalid_puk">Doğru PUK kodunu tekrar girin. Tekrarlanan denemeler SIM\'i kalıcı olarak devre dışı bırakır.</string>
   <string name="kg_invalid_sim_pin_hint">4 ila 8 sayı olan bir PIN girin.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK kodu 8 sayı olmalıdır.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK kodu %1$d rakam içermelidir.</string>
   <string name="kg_login_too_many_attempts">Çok fazla desen denemesi</string>
   <string name="kg_password_instructions">Şifre girin</string>
   <string name="kg_password_pin_failed">SIM PIN kullanarak kilit açılamadı</string>

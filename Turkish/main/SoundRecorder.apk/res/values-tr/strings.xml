@@ -259,19 +259,19 @@
   <string name="playback_share_records">Kaydı paylaş</string>
   <string name="preference_clear_data">Verileri temizle</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-  <string name="preference_enable_earpiece_summary">Harici oynatmak için alıcı hoparlör kullanın</string>
-  <string name="preference_enable_earpiece_title">Ses çalmak için alıcı kullanın</string>
+  <string name="preference_enable_earpiece_summary">Kulaklık hoparlörünü kullanarak ses çalın</string>
+  <string name="preference_enable_earpiece_title">Kulaklık modu</string>
   <string name="preference_led_indicator">Kilit ekranı bildirimleri</string>
-  <string name="preference_led_indicator_prompt">Kayıt yaparken, durum çubuğu kısayolunu ve yanıp sönen bildirim ışığını göster</string>
+  <string name="preference_led_indicator_prompt">Kayıt sırasında Kilit ekranında mavi bir gösterge göster ve LED ışığını yanıp söndür</string>
   <string name="preference_online_orders">Çevrimiçi siparişler</string>
   <string name="preference_recog_faqs">Çevrimiçi dönüştürme SSS</string>
   <string name="preference_recog_terms">Hizmet Koşulları</string>
-  <string name="preference_record_desktop_indicator_summary">Kaydedici arka planda çalışırken Ana ekranda mavi bir gösterge göster</string>
+  <string name="preference_record_desktop_indicator_summary">Kayıt sırasında Ana ekranda mavi bir gösterge göster</string>
   <string name="preference_record_desktop_indicator_title">Ana ekran göstergesi</string>
   <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_scenes">Kayıt türü</string>
   <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
-  <string name="preference_status_bar_indicator_prompt">Kayıt sırasında durum çubuğunda kısayolu göster</string>
+  <string name="preference_status_bar_indicator_prompt">Kayıt sırasında Kilit ekranında mavi bir gösterge göster</string>
   <string name="preference_tip_rename">Kayıt adını elle gir</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="recognition_button_add_to_queue">Kuyruğa ekle</string>
@@ -371,7 +371,7 @@
   <string name="save_record_dialog_title">Kaydı kaydet</string>
   <string name="search_app">Kaydedici</string>
   <string name="search_empty">Sonuç bulunamadı</string>
-  <string name="search_enable_earpiece_title">Ses çalmak için alıcıyı kullan</string>
+  <string name="search_enable_earpiece_title">Kulaklık modu</string>
   <string name="search_hint">Ara</string>
   <string name="search_led_indicator">Kilit ekranı bildirimleri</string>
   <string name="search_led_indicator_prompt">Kayıt sırasında, Kilit ekranında durum çubuğu kısayolunu ve yanıpsönen bildirim ışığı göster</string>
@@ -451,4 +451,13 @@
   <string name="yesterday">Dün</string>
   <string name="notification_save_as_complete">Başarıyla kaydedildi</string>
   <string name="save_as">Farklı kaydet</string>
+  <string name="all_record">Tüm kayıtlar</string>
+  <string name="fm_record">Radyo</string>
+  <string name="no_content">Henüz burada öğe yok</string>
+  <string name="no_playback_file">Ayrıntıları görüntülemek için bir kayıt seçin</string>
+  <string name="normal_settings_pref_title">Genel ayarlar</string>
+  <string name="other_settings_pref_title">Ek ayarlar</string>
+  <string name="recorder_record">Ses</string>
+  <string name="remind_settings_pref_title">Bildirimler</string>
+  <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
 </resources>

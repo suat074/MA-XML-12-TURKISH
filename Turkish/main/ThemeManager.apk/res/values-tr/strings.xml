@@ -1157,4 +1157,24 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="scrollable_wallpaper_close">Kaydırma kapatıldı</string>
   <string name="scrollable_wallpaper_open">Kaydırma açıldı</string>
   <string name="set_as_colorring">Özel zil sesi olarak ayarla</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+  <string name="send">Gönder</string>
+  <string name="video_not_support_message">Bu video yanlış görüntülenebilir veya cihazınızı yavaşlatabilir. Yine de uygulansın mı?</string>
+  <string name="video_not_support_title">Bu video çok büyük</string>
+  <string name="wallpaper_dark_mode_image_preview_tip">Koyu mod önizlemesi</string>
+  <string name="wallpaper_light_mode_image_preview_tip">Aydınlık mod önizlemesi</string>
 </resources>
