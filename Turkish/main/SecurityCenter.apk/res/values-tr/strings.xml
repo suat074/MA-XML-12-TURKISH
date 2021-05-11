@@ -4386,7 +4386,7 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="gamebox_micharge_settings_summray">Aşırı ısınmayı önlemek için şarj cihazını sadece güç kaynağı için kullanın</string>
   <string name="gamebox_micharge_toast">Şarj sıcaklık kontrolü açık</string>
   <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini aynı anda kullanın.</string>
-  <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo'yu başlatmak için her iki omuz düğmesini kullanın</string>
+  <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini kullanın</string>
   <string name="gb_shoulder_key_settings_title">Game Turbo için omuz düğmelerini kullanın</string>
   <string name="gb_shoulder_key_settings_title_new">Game Turbo hızlı başlatma</string>
 </resources>
