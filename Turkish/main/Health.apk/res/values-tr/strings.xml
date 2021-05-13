@@ -1721,4 +1721,9 @@ Size öneriler sunmak için sağlık verilerinizi üçüncü taraf bir hizmet sa
   <string name="find_new_verision">%s sürümü şimdi kullanılabilir</string>
   <string name="immediately_experience">Güncelle</string>
   <string name="location_perm_description">Dış mekan egzersizlerini izlemek ve rotaları kaydetmek için</string>
+  <string name="add_model_card2">"Kart eklemek için yukarıdaki düğmeye dokunun.
+Egzersizlerinizi ve aktivitelerinizi takip edebileceksiniz."</string>
+  <string name="dialog_exit_use">Çık</string>
+  <string name="download_apk">%s indiriliyor…</string>
+  <string name="download_background">İndir</string>
 </resources>

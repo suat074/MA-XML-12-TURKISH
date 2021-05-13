@@ -77,8 +77,8 @@
   <string name="dock_tip_floatwindow">Bölünmüş ekran görünümüne girmek için çubuğa basılı tutun ve ekranın kenarına sürükleyin.</string>
   <string name="dock_tip_splitscreen_landscape_drag">İki uygulama penceresinin konumlarını değiştirmek için çubuğu yatay olarak sürükleyin.</string>
   <string name="dock_tip_splitscreen_landscape_float">Yüzer pencereye geçmek için basılı tutun ve aşağı sürükleyin.</string>
-  <string name="dock_tip_splitscreen_portrait_drag">İki uygulama penceresinin konumlarını değiştirmek için çubuğu dikey sürükleyin.</string>
-  <string name="dock_tip_splitscreen_portrait_float">Yüzer bir pencereye geçmek için basılı tutun ve ekranın soluna veya sağına sürükleyin.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">İki uygulama penceresinin konumlarını değiştirmek için çubuğu dikey olarak sürükleyin.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Yüzer bir pencereye geçmek için basılı tutun ve ekranın sol veya sağ tarafına sürükleyin.</string>
   <string name="eighthours">8 saat</string>
   <string name="enable_livetalk_summary">Arama ücretlerinden 70% tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>
@@ -160,7 +160,7 @@
   <string name="miaudiovisual_notification_title">Ses ve görsel efektler</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">Kapatılamıyor, cihaz kilitli.</string>
-  <string name="miui_multiwindow_not_support_split">%1$s, bölünmüş ekranı desteklemiyor.</string>
+  <string name="miui_multiwindow_not_support_split">%1$s bölünmüş ekranı desteklemiyor.</string>
   <string name="miui_screen_ratio_hint">Ekran oranı sorunları</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Tekrar gösterme</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Ayarlara git</string>
@@ -343,4 +343,6 @@
   <string name="disable_nfc_reverse">Ters kablosuz şarj için NFC kapatıldı</string>
   <string name="enable_nfc">Artık şarj etmiyor. NFC tekrar açıldı.</string>
   <string name="enable_nfc_reverse">Artık ters şarj yok. NFC tekrar açıldı.</string>
+  <string name="application_cannot_open_au_pay">Önce au PAY\'i yükleyin</string>
+  <string name="miui_multiwindow_not_support_small_window">%1$s yüzer pencereleri desteklemiyor</string>
 </resources>

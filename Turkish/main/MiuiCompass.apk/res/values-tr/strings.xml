@@ -106,4 +106,6 @@
   <string name="using_camera_confirm_ok">Katılıyorum</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="first_using_dialog_message_no_camera">Pusulanın normal çalışabilmesi için internete bağlanması ve konum bilgilerine erişmesi gerekir. Kabul et?</string>
+  <string name="open_perm_msg_no_camera">Pusulanın koordinatları belirleyebilmesi için konum bilgilerine erişmesi gerekir. İzin ver?</string>
 </resources>

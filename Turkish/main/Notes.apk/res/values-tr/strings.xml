@@ -305,6 +305,7 @@
   <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından kaydır</string>
   <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı sesini çal</string>
   <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
+  <string name="pref_remind_type_summary_new_2">Sessiz veya Rahatsız etme modu açık olsa bile sesi çal</string>
   <string name="pref_remind_type_title">Sessiz modu yoksay</string>
   <string name="pref_remind_type_title_new">Yüksek öncelikli hatırlatıcılar</string>
   <string name="pref_title_cloud_trash_bin">Buluttan silinmiş notlar</string>
