@@ -548,4 +548,18 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="tip_download_icon_retry">Kısayol eklenemedi. Tekrar deneyin.</string>
   <string name="toast_download_icon_restore_fail">Kısayol eklenemedi</string>
   <string name="toast_download_icon_restore_success">Başarıyla eklendi</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d aşıldı</string>
+  <string name="collect_diagnosis_log">Tanılama günlüğü topla</string>
+  <string name="diagnosis_log_send_failed">Tanılama günlüğü gönderilemedi.</string>
+  <string name="diagnosis_log_sent_format">"Tanılama günlüğü gönderildi.
+ID:%s
+Lütfen bu kodu teknisyene gönderin."</string>
+  <string name="for_diagnosis_usage_only">Bu bilgiyi yalnızca tanılama için kullanın.</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+  <string name="passport_oauth_actionbar_title">Mi Hesabı</string>
+  <string name="passport_oauth_sucess_tip">Başarıyla yetkilendirildi</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
+  <string name="send_diagnosis_log">Tanılama günlüğünü gönder</string>
+  <string name="sending">Gönderiliyor…</string>
+  <string name="temporary_not_available">geçici dosya mevcut değil</string>
 </resources>

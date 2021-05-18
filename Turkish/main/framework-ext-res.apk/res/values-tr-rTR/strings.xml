@@ -333,9 +333,9 @@
   <string name="voice_input_error_other">Bir hata oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="wifi_assistant_wifi_no_internet">Bu WLAN ağının internet erişimi yok</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Ayrıntıları görmek için dokunun</string>
-  <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
-  <string name="wireless_charging_notification_message2">Pil şarjı 30%\'dan az. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
-  <string name="wireless_charging_notification_message3">Şarj sırasında bir hata oluştu. Ters kablosuz şarj işlemi şimdi kapatıldı.</string>
+  <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Ters kablosuz şarj şimdi kapatıldı.</string>
+  <string name="wireless_charging_notification_message2">Pil şarjı %s değerinden az. Ters kablosuz şarj şimdi kapatıldı.</string>
+  <string name="wireless_charging_notification_message3">Şarj sırasında bir hata oluştu. Ters kablosuz şarj şimdi kapatıldı.</string>
   <string name="wireless_charging_notification_titile">Ters kablosuz şarj kapatıldı.</string>
   <string name="xspace_head">Klonlu uygulama</string>
   <string name="xspace_resolver_activity_title">Uygulama seç</string>
