@@ -558,6 +558,8 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="yesterday">Dün</string>
+  <string name="select_operation">Seç</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Cihazınız kapalıyken çalması için ayarlanmış alarmların kapanmasını sağlamak için açın. Yalnızca cihazı kapattıktan sonra en az %d dakika süreyle ayarlanmış alarmlar kapanacaktır.</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
   <string name="miuix_appcompat_select_all">Tümünü seç</string>

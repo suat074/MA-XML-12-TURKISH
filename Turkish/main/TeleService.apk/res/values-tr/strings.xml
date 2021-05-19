@@ -1995,4 +1995,6 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="unfold_close_camera_pref_title">Kamerayı kapatmak için açın</string>
   <string name="unfold_speaker_pref_summary">Hoparlörü açmak için bir çağrı sırasında cihazı açın</string>
   <string name="unfold_speaker_pref_title">Hoparlörü kullanmak için açın</string>
+  <string name="mobile_special_network_optimization_config_summary">Ağ anormal olduğunda, otomatik olarak onarmayı deneyin</string>
+  <string name="mobile_special_network_optimization_config_title">Özel Ağ Optimizasyonu</string>
 </resources>

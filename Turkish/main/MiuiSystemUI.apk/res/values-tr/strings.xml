@@ -1109,7 +1109,7 @@
   <string name="miui_ringer_standard_description">Gelen çağrılar ve bildirimler için zil sesleri sessiz</string>
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Alarm dışındaki tüm öğeler için sessiz ve titreşim kapalı</string>
-  <string name="miui_screen_rotation_freeze_message">Yatay modda ekran yönü kilitlendi</string>
+  <string name="miui_screen_rotation_freeze_message">Yatay modda ekran yönü kilitli</string>
   <string name="miui_snooze_always_float">Gizleme</string>
   <string name="miui_snooze_cancel">İptal</string>
   <string name="miui_snooze_default_time">%d dakika için </string>
@@ -2554,4 +2554,5 @@ WLAN Adresi (BSSID)
   <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDI için kullan</string>
   <string name="start_camera_error_try_again">Kamera başlatılamadı. Tekrar deneyin.</string>
   <string name="choose_clock_dual_clock_hint_text">Çift saat açıkken biçim değiştirilemez</string>
+  <string name="lock_screen_access_to_5G">5G\'ye erişim</string>
 </resources>

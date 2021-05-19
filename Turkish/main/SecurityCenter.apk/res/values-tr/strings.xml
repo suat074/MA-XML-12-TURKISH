@@ -4389,4 +4389,13 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini kullanın</string>
   <string name="gb_shoulder_key_settings_title">Game Turbo için omuz düğmelerini kullanın</string>
   <string name="gb_shoulder_key_settings_title_new">Game Turbo hızlı başlatma</string>
+  <string name="applock_mixtype_hidepwd_icon">Gizle</string>
+  <string name="applock_mixtype_showpwd_icon">Göster</string>
+  <string name="exception_checking">Kontrol ediliyor…</string>
+  <string name="gamebooster_network_dialog_cn_message">Güvenlik için internete bağlanmasına ve konumunuza erişmesine izin vermezseniz Game Turbo'yu kullanamazsınız. Şimdi izin verilsin mi?</string>
+  <string name="xspace_warning_dialog_button">Anladım</string>
+  <string name="xspace_warning_dialog_message">Android %d ile getirilen kısıtlamalar nedeniyle, tüm klonlu uygulamalar yalnızca ilgili klonlu uygulamanın içerisinde oluşturulan ve kaydedilen fotoğraflara ve videolara erişebilecek.</string>
+  <string name="xspace_warning_dialog_title">Dikkat</string>
+  <string name="gb_storage_game_dialog_message">Oyunları otomatik olarak Game Turbo\'da saklayabilirsiniz. Bu özelliği açarsanız Ana ekranda görünmezler. Şimdi açılsın mı?</string>
+  <string name="tips">Dikkat</string>
 </resources>
