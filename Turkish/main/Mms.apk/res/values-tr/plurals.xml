@@ -79,6 +79,10 @@
     <item quantity="other">%1$s mesaj</item>
     <item quantity="one">%1$s mesaj</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d öğe seçildi</item>
+    <item quantity="one">%d öğe seçildi</item>
+  </plurals>
   <plurals name="recipient_count">
     <item quantity="other">%1$s kişi</item>
     <item quantity="one">%1$s kişi</item>
