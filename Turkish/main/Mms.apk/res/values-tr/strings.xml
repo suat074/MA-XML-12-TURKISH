@@ -32,7 +32,6 @@
   <string name="action_get_otp">Kod al</string>
   <string name="action_sign_in">Oturum aç</string>
   <string name="action_sign_in_short">Oturum aç</string>
-  <string name="actionbar_button_up_description">Geri</string>
   <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="activity_not_found_uri">Bu işlemi yapabilecek uygulama bulunamadı</string>
   <string name="ad_close_button_text">Promosyon</string>
@@ -1244,7 +1243,6 @@ SIM kartınızı kontrol edin."</string>
   <string name="miuix_appcompat_cancel_description">İptal</string>
   <string name="miuix_appcompat_confirm_description">Onayla</string>
   <string name="miuix_appcompat_delete_description">Sil</string>
-  <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
   <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
   <string name="miuix_appcompat_search_input_description">Ara</string>
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
