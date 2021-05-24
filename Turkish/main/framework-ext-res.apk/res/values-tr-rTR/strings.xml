@@ -345,4 +345,6 @@
   <string name="enable_nfc_reverse">Artık ters şarj yok. NFC tekrar açıldı.</string>
   <string name="application_cannot_open_au_pay">Önce au PAY\'i yükleyin</string>
   <string name="miui_multiwindow_not_support_small_window">%1$s yüzer pencereleri desteklemiyor</string>
+  <string name="stylus_pen_mask_screenshot">Ekran görüntüsü almak için ekrana dokunun</string>
+  <string name="stylus_pen_mask_text">Yazmaya başlamak için ekrana dokunun</string>
 </resources>

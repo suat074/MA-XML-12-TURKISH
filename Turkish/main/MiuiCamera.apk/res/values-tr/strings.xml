@@ -760,7 +760,7 @@ kullanabilirsiniz"</string>
   <string name="live_sticker_tab_name">TikTok Sihirli Etiket</string>
   <string name="live_sticker_updating">Güncelleniyor…</string>
   <string name="local_music">Yerel müzikler</string>
-  <string name="location_access_allow">İzin ver</string>
+  <string name="location_access_allow">Kabul et</string>
   <string name="location_permission_des">Fotoğraflar ve videolar için konumlarını hatırla</string>
   <string name="location_permission_not_ask_again">Kamera\'nın Ayarlar\'dan konumunuza erişmesine izin verin.</string>
   <string name="location_permission_not_ask_again_go_to_settings">İzin ver</string>
@@ -1778,4 +1778,6 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">Ekranın arkasından gelen sesler yatay modda filtrelenir</string>
   <string name="process_tips_1">Video kaydedilene kadar cihazı katlamayın</string>
   <string name="process_tips_2">Video kaydedilene kadar cihazı açmayın</string>
+  <string name="close">Kapat</string>
+  <string name="send">Gönder</string>
 </resources>

@@ -579,7 +579,7 @@ Telefonunuzun kilidi, ikiziniz gibi size çok benzeyen başka biri tarafından d
   <string name="show_refresh_rate">Yenileme hızını göster</string>
   <string name="show_refresh_rate_summary">Mevcut ekranın yenileme hızını göster</string>
   <string name="silent_notifications_status_bar">Durum çubuğunda sessiz bildirimleri gizle</string>
-  <string name="sound_mode">Sessiz mod &amp; Rahatsız etme</string>
+  <string name="sound_mode">Sessiz mod</string>
   <string name="sound_settings_summary">Zil ve bildirim sesi %1$s düzeyinde</string>
   <string name="storage_category">Depolama</string>
   <string name="storage_type_external">harici depolama</string>

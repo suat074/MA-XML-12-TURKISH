@@ -88,17 +88,13 @@
     <item quantity="other">Bilinmeyen bir hata nedeniyle %d öğe geri yüklenemedi.</item>
     <item quantity="one">Bilinmeyen bir hata nedeniyle %d öğe geri yüklenemedi.</item>
   </plurals>
-  <plurals name="search_alll_records_hint">
-    <item quantity="other">%d kayıt arasında ara</item>
-    <item quantity="one">%d kayıt arasında ara</item>
+  <plurals name="search_fm_records_hint">
+  <item quantity="other">%d radyo kaydı</item>
+    <item quantity="one">%d radyo kaydı</item>
   </plurals>
-  <plurals name="search_app_records_hint">
-    <item quantity="other">%d kayıt arasında ara</item>
-    <item quantity="one">%d kayıt arasında ara</item>
-  </plurals>
-  <plurals name="search_call_records_hint">
-    <item quantity="other">%d çağrı kaydı arasında ara</item>
-    <item quantity="one">%d çağrı kaydı arasında ara</item>
+  <plurals name="search_recorder_records_hint">
+  <item quantity="other">%d ses kaydı</item>
+    <item quantity="one">%d ses kaydı</item>
   </plurals>
   <plurals name="search_result">
     <item quantity="other">%d kayıt bulundu</item>
