@@ -1177,4 +1177,10 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="video_not_support_title">Bu video çok büyük</string>
   <string name="wallpaper_dark_mode_image_preview_tip">Koyu mod önizlemesi</string>
   <string name="wallpaper_light_mode_image_preview_tip">Aydınlık mod önizlemesi</string>
+  <string name="multiwindow_no_support">Bu eylem Bölünmüş ekranda desteklenmiyor</string>
+  <string name="personalize_second_space_not_support_set_font">İkinci alanda yazı tipi değiştirilemez</string>
+  <string name="share_content_text_first_font">Buna bir bak! \"%1$s\" yazı tipi telefonuna tamamen yeni bir görünüm kazandırır.</string>
+  <string name="share_content_text_first_theme">Buna bir bak! \"%1$s\" teması telefonuna tamamen yeni bir görünüm kazandırır.</string>
+  <string name="share_content_text_first_wallpaper">Buna bir bak! \"%1$s\" duvar kağıdı telefonuna tamamen yeni bir görünüm kazandırır.</string>
+  <string name="share_content_text_second">" %1$s! içinde kendi tarzınızı bulun!"</string>
 </resources>

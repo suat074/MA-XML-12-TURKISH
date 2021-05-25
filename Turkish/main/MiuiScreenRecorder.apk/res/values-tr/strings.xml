@@ -136,5 +136,6 @@ Görüntülemek için dokunun"</string>
   <string name="using_record_confirm_ok">İzin ver</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="view_recorded_file">Kaydedilen dosyayı görüntülemek için dokunun</string>
   <string name="warning_recording_when_a2dp_connect">Cihazınızda Bluetooth kulaklık kullanılırken sistem seslerini kayıt desteklenmez.</string>
 </resources>

@@ -565,4 +565,10 @@
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
+  <string name="close_alarm_new">Durdur</string>
+  <string name="not_set_temporarily">Hayır teşekkürler</string>
+  <string name="set_now">Ayarla</string>
+  <string name="slider_text_new">Durdurmak için yukarı kaydır</string>
+  <string name="timer_got_it_new">Sessiz</string>
+  <string name="week_ringtone_recommend_desc">Doğa alarmı tarihe göre farklı sesler çalar. Varsayılan alarmınız olarak ayarlansın mı?</string>
 </resources>

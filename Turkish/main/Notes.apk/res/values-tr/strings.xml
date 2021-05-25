@@ -729,4 +729,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
+  <string name="data_empty_folder">Gösterilecek başka klasör yok</string>
+  <string name="handwrite_description">El yazısı notu</string>
+  <string name="menu_add_handwrite_description">El yazısı notu ekleyin</string>
 </resources>

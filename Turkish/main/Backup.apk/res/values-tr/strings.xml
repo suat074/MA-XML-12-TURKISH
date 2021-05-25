@@ -725,4 +725,6 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="new_pc_backup_summary2_pad">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın.</string>
   <string name="new_pc_restore_content2_pad">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın.</string>
   <string name="not_enough_storage_tips">Yetersiz depolama alanı. Biraz yer açın ve tekrar deneyin.</string>
+  <string name="apps_item_desc">Uygulama</string>
+  <string name="new_pc_restore_content1_pad">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın.</string>
 </resources>

@@ -157,8 +157,7 @@
   <string name="permission_group_title_privacy_related">Gizlilik</string>
   <string name="permission_group_title_sensitive_privacy_related">Hassas izinler</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
-  <string name="permission_list_include">"Aşağıdakiler dahil:
-"</string>
+  <string name="permission_list_include">Aşağıdakiler dahil</string>
   <string name="permission_reminders">İzin hatırlatıcıları</string>
   <string name="permission_warning_template">%1$s için %2$s izni verilsin mi?</string>
   <string name="permission_warning_template_ask">%1$s için aşağıdaki izinler verilsin mi?</string>

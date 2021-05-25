@@ -244,10 +244,10 @@
     <string name="subscreen_other_dialog_cancel">İptal et</string>
     <string name="subscreen_other_dialog_confirm">Aç</string>
     <string name="subscreen_other_dialog_goto">Ekle</string>
-    <string name="subscreen_other_dialog_message">Süper güç tasarrufu ana ekranı devre dışı bırakır. Arka ekranı kullanarak yalnızca saati kontrol edebilir, aramaları cevaplayabilir ve acil kişilerinizi arayabilirsiniz. Cihazınız Süper güç tasarrufu açık olduğunda tek bir şarjla %d güne kadar çalışabilir. Süper güç tasarrufu şimdi açılsın mı?</string>
+    <string name="subscreen_other_dialog_message">Süper güç tasarrufu ana ekranı devre dışı bırakır. Yalnızca saati kontrol edebilir, çağrıları kabul edebilir ve önceden ayarladığınız acil durum kişisini arayabilirsiniz. Testlerimiz, Süper güç tasarrufu açıkken cihazınızın tek bir şarjla %d güne kadar çalışabileceğini gösteriyor. Ancak bu süre, çeşitli faktörlerden dolayı daha kısa olabilir. Süper güç tasarrufu şimdi açılsın mı?</string>
     <string name="subscreen_other_dialog_title">Süper güç tasarrufu</string>
     <string name="subscreen_other_next_dialog_message">Süper güç tasarrufunu kullanmadan önce bir acil durum kişisi eklemeniz gerekmektedir. Şimdi ekle?</string>
-    <string name="subscreen_other_wilderness_summary">Süper güç tasarrufu ana ekranı devre dışı bırakır. Arka ekranı kullanarak yalnızca saati kontrol edebilir, aramaları cevaplayabilir ve acil kişilerinizi arayabilirsiniz. Cihazınız Süper güç tasarrufu açık olduğunda tek bir şarjla %d güne kadar çalışabilir.</string>
+    <string name="subscreen_other_wilderness_summary">Süper güç tasarrufu ana ekranı devre dışı bırakır. Yalnızca saati kontrol edebilir, çağrıları kabul edebilir ve önceden ayarladığınız acil durum kişisini arayabilirsiniz. Testlerimiz, Süper güç tasarrufu açıkken cihazınızın tek bir şarjla %d güne kadar çalışabileceğini gösteriyor. Ancak bu süre, çeşitli faktörlerden dolayı daha kısa olabilir.</string>
     <string name="subscreen_other_wilderness_title">Süper güç tasarrufu</string>
     <string name="subscreen_settings_fail">İşlem tamamlanamadı</string>
     <string name="subscreen_settings_mode">Sonra kapat</string>

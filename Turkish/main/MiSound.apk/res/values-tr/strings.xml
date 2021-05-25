@@ -238,4 +238,18 @@
   <string name="music_headset_audio_visual_unmute">Sesli önizleme</string>
   <string name="not_support_sound_transmission_content">Bu özellik, bağlı cihaz tarafından desteklenmiyor. Başka bir Bluetooth cihazı deneyin.</string>
   <string name="not_support_sound_transmission_prompt">Dikkat</string>
+  <string name="hearing_assist_bluetooth_headset">Bluetooth kulaklık</string>
+  <string name="hearing_assist_bluetooth_headset_disconnected">Bağlı değil</string>
+  <string name="hearing_assist_bluetooth_headset_not_supported">Desteklenmiyor</string>
+  <string name="hearing_assist_btn_headset_choice">Cihaz seç</string>
+  <string name="hearing_assist_btn_start">Başlat</string>
+  <string name="hearing_assist_btn_stop">Durdur</string>
+  <string name="hearing_assist_exit_btn_continue">Devam et</string>
+  <string name="hearing_assist_exit_btn_stop">Kapat</string>
+  <string name="hearing_assist_exit_tips_summary">Canlı kulak içi monitörü şu anda çalışıyor. Kapatılsın mı?</string>
+  <string name="hearing_assist_exit_tips_title">Canlı kulak içi monitörü kapat</string>
+  <string name="hearing_assist_tips_message_one">%d. Canlı kulak içi monitör anahtarı Kontrol merkezinde mevcuttur. Oraya ekleyebilirsiniz.</string>
+  <string name="hearing_assist_tips_message_two">%d. Bu özellik, belirli Bluetooth kulaklık modelleri tarafından desteklenmektedir.</string>
+  <string name="hearing_assist_title">Canlı kulak içi monitörü</string>
+  <string name="hearing_assist_volume">Mikrofonun ses seviyesi</string>
 </resources>
