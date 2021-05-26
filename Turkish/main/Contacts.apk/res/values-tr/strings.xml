@@ -1280,9 +1280,9 @@ Favori listenize kişi eklemek için:
   <string name="t9_search_empty_send_sms">Mesaj gönder</string>
   <string name="t9_search_empty_video_call">Görüntülü çağrı</string>
   <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">D</font>ebbie <font fgcolor="">S</font>mith kişisini aramak için %d ve %d girin</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Debbie Smith\'i aramak için %d ve %d girin</string>
   <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">J</font>ale <font fgcolor="">M</font>erve kişisini aramak için %d ve %d girin</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Jeff Max\'ı aramak için %d ve %d girin</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="theme_dialog_confirm_button">Anladım</string>
@@ -1462,4 +1462,6 @@ Favori listenize kişi eklemek için:
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
+  <string name="no_contact_selected">Ayrıntıları görüntülemek için bir kişi seçin</string>
+  <string name="residual_time_description">%1$sgün%2$ssaat</string>
 </resources>

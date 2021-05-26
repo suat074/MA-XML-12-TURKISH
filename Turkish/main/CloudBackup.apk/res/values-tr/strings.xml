@@ -300,6 +300,14 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>
+  <string name="backup_action_access_permission">Ayarlar</string>
+  <string name="backup_failed_reason_app_usage_denied">Öğeleri yedeklemek için gerekli izinleri verin</string>
+  <string name="backup_warning_reason_app_usage_denied">"Veriler eşitlenemedi.
+İzinler gerekli."</string>
+  <string name="dialog_app_usage_denied">Öğeleri yedekleyebilmek için Ayarlar\'dan Yedekleme için \"Kullanım erişimi\" izni verin.</string>
+  <string name="dialog_btn_confirm2">Anladım</string>
+  <string name="dialog_btn_enter">Ayarlar</string>
+  <string name="dialog_need_permission">İzinler gerekli</string>
   <string name="btn_restore_cancel_app_app">WeChat verilerini geri yükleme</string>
   <string name="cloud_backup_detail_app_data">WeChat verilerini yedekle</string>
   <string name="cloud_backup_detail_app_data_summary">Sohbet geçmişini, dosyaları ve diğer öğeleri yedekleyin</string>

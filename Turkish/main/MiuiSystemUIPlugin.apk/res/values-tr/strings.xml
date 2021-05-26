@@ -95,6 +95,15 @@
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>
+  <string name="hearing_assist_bluetooth_enable_tips_cancle">İptal</string>
+  <string name="hearing_assist_bluetooth_enable_tips_start">Aç</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">Canlı kulak içi monitör, Bluetooth açıkken çalışır. Bluetooth şimdi açılsın mı?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_title">Bluetooth\'u aç</string>
+  <string name="hearing_assist_transmission_label">Canlı kulak içi monitör</string>
+  <string name="hearing_assist_transmission_tips_cancel">İptal</string>
+  <string name="hearing_assist_transmission_tips_continue">Aç</string>
+  <string name="hearing_assist_transmission_tips_summary">Canlı kulak içi monitör, telefonunuzun mikrofon beslemesini bağlı Bluetooth kulaklıklara iletir. Şimdi açılsın mı?</string>
+  <string name="hearing_assist_transmission_tips_title">Canlı kulak içi monitör</string>
   <string name="loading">Durum bilinmiyor</string>
   <string name="midnight">Gece</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>

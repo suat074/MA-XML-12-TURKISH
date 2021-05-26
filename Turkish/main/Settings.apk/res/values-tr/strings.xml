@@ -5330,6 +5330,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="slot_number">(Yuva %1$d)</string>
   <string name="slot_status_title">IMEI Bilgileri</string>
   <string name="smallwindow_smartcover_title">Küçük pencereli ön kapak</string>
+  <string name="smart_home_select_smart_device">Akıllı ev cihazlarını yönetmek için uygulama</string>
   <string name="smart_space_clock">Bir Bakışta</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı kılıf</string>
   <string name="smartcover_sensitive_summary">Akıllı kılıf kullanarak telefonu otomatik olarak kilitleyin veya açın</string>
@@ -6035,8 +6036,11 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="update_new_version">Güncelleme mevcut</string>
   <string name="update_progress_for_updates">Güncelleniyor (%s)</string>
   <string name="upload_audio_log">Ses günlüğü almaya başla</string>
-  <string name="upload_debug_log_summary">Sorunları bulmamıza ve çözmemize yardımcı olan kullanım istatistikleri kişisel bilgilerinizi içerebilir</string>
-  <string name="upload_debug_log_title">Teşhis verilerini otomatik olarak gönder</string>
+  <string name="upload_debug_log_detail">"Teşhis için Xiaomi\'ye otomatik olarak cihaz ve uygulama kullanım verileri göndererek MIUI cihaz deneyiminizi geliştirmeye yardımcı olun. Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.
+Göndereceğiniz veriler, cihazınız ve onu nasıl kullandığınız (ör. Pil seviyesi, sistem ve uygulama etkinliği ve hatalar) hakkında genel bilgiler içerecektir. Veriler MIUI cihazlarını iyileştirmek için kullanılacaktır.
+Bu özelliği kapatmak, cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gerekli bilgilerin gönderilmesini etkilemez."</string>
+  <string name="upload_debug_log_summary">MIUI\'yi iyileştirmeye yardımcı olmak için verileri paylaşın</string>
+  <string name="upload_debug_log_title">Kullanım ve teşhis</string>
   <string name="upload_gps_log">GPS günlüğü almaya başla</string>
   <string name="upload_modem_log">Modem günlüğünü almaya başla</string>
   <string name="usage">Kullanım</string>
