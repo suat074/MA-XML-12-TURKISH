@@ -245,7 +245,7 @@ Aşağı indirilen alanı açmak için ekranın üst kısmından aşağı kaydı
   <string name="dark_ui_summary_on_auto_mode_custom">Şu saatte otomatik olarak kapatılacak: %1$s.</string>
   <string name="dark_ui_summary_on_auto_mode_never">hiçbir zaman otomatik olarak kapatılmayacak</string>
   <string name="dark_ui_text">Koyu tema, pilinizin daha uzun süre dayanmasına yardımcı olmak için siyah arka plan kullanır. Koyu tema, açılmak için ekranınızın kapanmasını beklemeye programlanır.</string>
-  <string name="dark_ui_title">Koyu Mod</string>
+  <string name="dark_ui_title">Koyu mod</string>
   <string name="data_preference">Veri tercihi</string>
   <string name="data_usage_chart_brief_content_description">%1$s-%2$s tarihleri arasındaki veri kullanımını gösteren grafik.</string>
   <string name="data_usage_chart_no_data_content_description">Bu tarih aralığında veri yok</string>

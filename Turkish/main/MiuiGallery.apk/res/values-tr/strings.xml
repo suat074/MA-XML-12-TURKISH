@@ -857,6 +857,9 @@ mevcut"</string>
   <string name="home_menu_collage">Kolaj</string>
   <string name="home_menu_photo_movie">Klip</string>
   <string name="home_menu_print">Fotoğrafları yazdır</string>
+  <string name="home_page_all_photos">Tümü</string>
+  <string name="home_page_camera">Kamera</string>
+  <string name="home_page_custom">Özel</string>
   <string name="home_page_empty_action">Fotoğraf çekin</string>
   <string name="home_page_label">Fotoğraf</string>
   <string name="how_to_set_relation">Grup oluşturmak için bir albüme uzunca basın</string>
@@ -2180,7 +2183,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="vlog_video_importing">Video içe aktarılıyor…</string>
   <string name="vlog_video_saved_in_my_create">Video başarıyla kaydedildi</string>
   <string name="vlog_video_selected_not_support">Seçilen video düzenlenemiyor</string>
-  <string name="vlog_video_trans_code_cons">Yüksek çözünürlüklü bir dosya işleniyor…</string>
+  <string name="vlog_video_trans_code_cons">İçe aktarılıyor…</string>
   <string name="voice_assistant">Ses girişi</string>
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çar</string>

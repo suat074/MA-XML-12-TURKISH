@@ -4610,7 +4610,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar Koyu modda yanlış görüntülenebilir. Burada uygulamalar için tek tek Koyu modunu kullanmayı kısıtlayabilirsiniz.</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Bireysel uygulamalar</string>
   <string name="screen_dark_mode_smart_dark_summary">Üçüncü taraf uygulamalara da Koyu modu uygulayın. Bazı uygulamalar yanlış görüntülenebilir</string>
-  <string name="screen_dark_mode_smart_dark_title">Küresel koyu mod</string>
+  <string name="screen_dark_mode_smart_dark_title">Küresel Koyu mod</string>
   <string name="screen_dark_mode_time_title">Koyu mod zamanlama</string>
   <string name="screen_effect">Renk uyumu</string>
   <string name="screen_enhance_engine_memc_note_2">%d. Bu özellik yalnızca video araç kutusu açıkken çalışır.</string>
@@ -7957,12 +7957,12 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="smooth_adjust_ligth">Geçişleri düzgünleştir</string>
   <string name="smooth_adjust_ligth_summary">Parlaklığı elle ayarlarken geçişleri daha pürüzsüz hale getirin. Bu özellik açıkken, bazı durumlarda hafif renk tutarsızlıkları görünebilir.</string>
   <string name="copyright">Telif hakkı</string>
-  <string name="dark_mode_auto_time_summary">Özel bir periyot için Koyu modu açın</string>
-  <string name="dark_mode_auto_time_title">Özel periyot</string>
-  <string name="dark_mode_day_night_mode_summary">Gün batımından sonra otomatik olarak Koyu moda geç</string>
-  <string name="dark_mode_day_night_mode_title">Koyu modda iyi geceler</string>
-  <string name="dark_mode_sunrise_sunset_notify_summary">Koyu Mod gün doğumu-gün batımı bildirim özeti</string>
-  <string name="dark_mode_sunrise_sunset_notify_title">Koyu Mod gün doğumu-gün batımı bildirim başlığı</string>
+  <string name="dark_mode_auto_time_summary">Koyu modu planlanan zamanda açıp kapatın</string>
+  <string name="dark_mode_auto_time_title">Özel</string>
+  <string name="dark_mode_day_night_mode_summary">Gün batımında Koyu moda geçin ve gün doğumunda kapatın</string>
+  <string name="dark_mode_day_night_mode_title">Gün batımından gün doğumuna</string>
+  <string name="dark_mode_sunrise_sunset_notify_summary">Koyu mod gün doğumu-gün batımı bildirim özeti</string>
+  <string name="dark_mode_sunrise_sunset_notify_title">Koyu mod gün doğumu-gün batımı bildirim başlığı</string>
   <string name="dark_mode_time_settings">Koyu modu planla</string>
   <string name="dark_mode_time_settings_summary">Koyu mod zaman ayarları özeti</string>
   <string name="headphone_assisted_summary">Telefonunuzun mikrofon beslemesini bağlı Bluetooth kulaklıklara aktarın</string>
