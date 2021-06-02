@@ -1648,11 +1648,12 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="cta_perm_storage_desc">Fotoğrafları görüntülemek ve kaydetmek için</string>
   <string name="cta_perm_voice">Mikrofon kullanımı</string>
   <string name="cta_perm_voice_desc">Video çekerken ses kaydetmek için</string>
-  <string name="dolly_zoom_capture_tip1">Nesnenizi çerçevenin içine yerleştirin ve cihazı en az %d metre uzak tutun</string>
-  <string name="dolly_zoom_capture_tip2">Cihazı nesnenizden sabit bir şekilde uzaklaştırın</string>
+  <string name="dolly_zoom_capture_tip1">Nesneyi çerçeveye yerleştirin</string>
+  <string name="dolly_zoom_capture_tip2">Nesneyi merkezde tutun ve cihazı sabit bir şekilde uzaklaştırın</string>
   <string name="dolly_zoom_capture_tip3">Nesne kayboldu. Tekrar başlayın.</string>
   <string name="dolly_zoom_capture_tip4">Cihazı çok uzaklaştırdınız. Tekrar başlayın.</string>
   <string name="dolly_zoom_capture_tip5">Video kaydedilemedi</string>
+  <string name="dolly_zoom_capture_tip6">Nesneyi çerçevenin ortasına taşıyın</string>
   <string name="dolly_zoom_guide_tip1">Nesneniz ve arka plan arasında yeterli alan olduğundan emin olun.</string>
   <string name="dolly_zoom_guide_tip2">Düz renkli geniş alanlardan kaçınmayı deneyin.</string>
   <string name="dolly_zoom_guide_tip3">Nesnenizi çerçeveye yerleştirin.</string>

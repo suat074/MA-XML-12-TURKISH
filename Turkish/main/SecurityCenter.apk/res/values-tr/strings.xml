@@ -4443,4 +4443,12 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="use_other_ime_warn">Üçüncü taraf klavyeler, şifreler ve diğer hassas bilgiler dahil olmak üzere yazdığınız her şeyi kaydedebilir.</string>
   <string name="exit_dialog_release_storage_message_new">Cihazınızda %s üzeri depolama alanı dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın.</string>
   <string name="vb_ve_settings_display_style_tips_new">*Efektler yalnızca video oynatma alanına uygulanacaktır</string>
+  <string name="oaid_apps_title">Sanal kimliği yönet</string>
+  <string name="oaid_tips_content">Sanal kimlikler (OAID), davranışlarınızı izlemek ve reklamları sizin için kişiselleştirmek için kullanılır. Hangi uygulamaların sanal kimliğinize erişmesine izin verileceğini seçebilirsiniz. Erişimi kısıtlarsanız, reklam önerilerinin alakasız hale gelebileceğini veya uygulamaların normal şekilde çalışamayabileceğini unutmayın.</string>
+  <string name="pc_hidemode_normal">Dengeli</string>
+  <string name="pc_hidemode_performance">Performans</string>
+  <string name="pc_hidemode_performance_title">Performans modu</string>
+  <string name="pc_hidemode_power_save">Güç</string>
+  <string name="pc_performance_mode_dialog_summary">Cihazınız %s için Performans modunda çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın.</string>
+  <string name="pc_performance_mode_dialog_title">Performans modu</string>
 </resources>

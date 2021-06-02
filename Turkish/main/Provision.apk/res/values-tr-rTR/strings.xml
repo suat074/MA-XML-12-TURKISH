@@ -305,4 +305,6 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="close">Kapat</string>
   <string name="send">Gönder</string>
+  <string name="disagreement_terminate_miuidaemon">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, bu hizmeti kullanmamayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz. İzinleri yalnızca, ekranı hasar gördüğünde cihazınızdan veri aktarmaya başlandığında kullanacağımızı unutmayın.</string>
+  <string name="require_miuidaemon_authority_statement">Size bu hizmeti verebilmemiz ve kişisel bilgilerinizi toplamamız için aşağıdaki izinleri almamız gerekiyor:</string>
 </resources>

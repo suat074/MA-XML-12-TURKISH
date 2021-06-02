@@ -347,4 +347,7 @@
   <string name="miui_multiwindow_not_support_small_window">%1$s yüzer pencereleri desteklemiyor</string>
   <string name="stylus_pen_mask_screenshot">Ekran görüntüsü almak için ekrana dokunun</string>
   <string name="stylus_pen_mask_text">Yazmaya başlamak için ekrana dokunun</string>
+  <string name="battery_authentic_failed_button">Anladım</string>
+  <string name="battery_authentic_failed_title">Dikkat</string>
+  <string name="other_ime">Diğer klavyeler</string>
 </resources>

@@ -1997,4 +1997,15 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="unfold_speaker_pref_title">Hoparlörü kullanmak için açın</string>
   <string name="mobile_special_network_optimization_config_summary">Ağ anormal olduğunda, otomatik olarak onarmayı deneyin</string>
   <string name="mobile_special_network_optimization_config_title">Özel Ağ Optimizasyonu</string>
+  <string name="invalid_secretcode_format_txt">Geçersiz gizli kod biçimi!</string>  
+  <string name="full_forwarding_number">Yönlendirme numarası</string>
+  <string name="full_forwarding_number_error_msg">Yalnızca \"0\" ile başlayan telefon numaraları desteklenir.</string>
+  <string name="full_forwarding_number_error_title">Geçersiz telefon numarası</string>
+  <string name="full_forwarding_number_prefix">"Telefon numarası: "</string>
+  <string name="full_forwarding_option_forwarding">Yönlendirme</string>
+  <string name="full_forwarding_option_off">KAPALI</string>
+  <string name="full_forwarding_option_voicemail">Sesli mesaj</string>
+  <string name="full_forwarding_settings">Tam yönlendirme</string>
+  <string name="play_voicemail_settings">Sesli mesajı çal</string>
+  <string name="voicemail_callforward_settings">Sesli mesaj ve çağrı yönlendirme</string>
 </resources>
