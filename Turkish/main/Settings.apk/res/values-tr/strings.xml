@@ -7986,4 +7986,15 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="switch_power_sound">Şarj sesi</string>
   <string name="oaid_apps_summary">Tek tek uygulamalar için erişime izin verin veya kısıtlayın</string>
   <string name="oaid_apps_title">Sanal kimliği yönet</string>
+  <string name="bt_audio_repair_property">Ses sorunlarını düzelt</string>
+  <string name="bt_audiorepair_dialog_open_success">Başarıyla düzeltildi. Cihaz yeniden bağlanana kadar bekleyin.</string>
+  <string name="bt_audiorepair_dialog_openok">Düzelt</string>
+  <string name="bt_audiorepair_open_dialog_summary">MIUI, Bluetooth ses kesintisine neden olan sorunları tespit edecek ve düzeltecektir. Bu işlem sırasında Bluetooth yeniden başlatılacak. Sonuçları görene kadar bu sayfadan ayrılmayın.</string>
+  <string name="bt_audiorepair_open_dialog_title">Fix audio stutter</string>
+  <string name="bt_audiorepair_pre_title">Ses takılmalarını düzelt</string>
+  <string name="bt_audiorepair_summary">Bağlı Bluetooth cihazlarındaki ses takılmalarını düzeltin</string>
+  <string name="bt_audiorepair_working">Ses takılmaları düzeltiliyor…</string>
+  <string name="risk_tip">Risk algılandı</string>
+  <string name="miui_input_method_attention">Dikkat</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Bu özellik, Xiaomi tarafından üretilen belirli giyilebilir cihazlarla çalışır</string>
 </resources>

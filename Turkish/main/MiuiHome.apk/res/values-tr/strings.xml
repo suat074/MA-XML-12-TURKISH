@@ -471,6 +471,7 @@
   <string name="recents_layout_style">Son Kullanılanlar bölümü düzeni</string>
   <string name="recents_layout_style_horizontal">Yatay olarak</string>
   <string name="recents_layout_style_vertical">Dikey olarak</string>
+  <string name="recents_smallwindow_drag_text">Sabitlemek için buraya sürükleyin</string>
   <string name="recents_smallwindow_text">Eklemek için bırakın</string>
   <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>

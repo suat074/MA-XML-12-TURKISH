@@ -34,6 +34,7 @@
   <string name="alert_message_delete_local_record">Bu kayıt silinsin mi?</string>
   <string name="alert_message_delete_record">Kayıt cihazdan silindiği zaman Xiaomi Bulut üzerinden de silinecek. Şimdi silinsin mi?</string>
   <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
+  <string name="all_record">Tüm kayıtlar</string>
   <string name="app_name">Kaydedici</string>
   <string name="app_record">Uygulama kayıtları</string>
   <string name="app_record_preference_title">Uygulama kayıtları</string>
@@ -66,6 +67,7 @@
   <string name="delete">Sil</string>
   <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
   <string name="delete_dialog_message">Kayıt silinsin mi?</string>
+  <string name="delete_recorder">Sil</string>
   <string name="deleting_message">Siliniyor…</string>
   <string name="details">Ayrıntılar</string>
   <string name="dialog_content_storage_full">Cihazınızda yeterli depolama alanı kalmadığı için kayıt durduruldu.</string>
@@ -104,6 +106,7 @@
   <string name="evening">Öğleden sonra</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="export_to_note">Dışa aktar</string>
+  <string name="fm_record">Radyo</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
@@ -213,14 +216,18 @@
   <string name="network_unavailable_tip">Lütfen ağa bağlanın.</string>
   <string name="new_record_name">Yeni kayıt</string>
   <string name="night">Akşam</string>
+  <string name="no_content">Henüz burada öğe yok</string>
   <string name="no_file">Boş</string>
   <string name="no_network">Ağa bağlanılamadı</string>
+  <string name="no_playback_file">Ayrıntıları görüntülemek için bir kayıt seçin</string>
   <string name="noon">Öğlen</string>
+  <string name="normal_settings_pref_title">Genel ayarlar</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="notification_message_all_paused">WLAN bağlantısı bekleniyor.</string>
   <string name="notification_playback">Oynatılıyor…</string>
   <string name="notification_recording">Kaydediliyor…</string>
   <string name="notification_recording_ticker">Telefon sessizde</string>
+  <string name="notification_save_as_complete">Başarıyla kaydedildi</string>
   <string name="notification_stopped">Kayıt durduruldu</string>
   <string name="notification_title_all_paused">İndirme duraklatıldı</string>
   <string name="offline_recognize_progress">%s çevrimdışı dönüştürülüyor…</string>
@@ -250,11 +257,13 @@
   <string name="online_recognize_service_unavailable">Servis şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin</string>
   <string name="order_item_duration">Süre: %s</string>
   <string name="order_item_number">Sipariş numarası: %s</string>
+  <string name="other_settings_pref_title">Ek ayarlar</string>
   <string name="path_soundrecorder_setting">Sistem uygulamaları/Kaydedici</string>
   <string name="pause">Duraklat</string>
   <string name="pay_error_cancel">Ödeme iptal edildi</string>
   <string name="pay_error_null">Ödeme tamamlanamadı. Hesabınızı kontrol edin.</string>
   <string name="pay_error_unknown">Bilinmeyen hata</string>
+  <string name="play_speed">%1$.1fX hız</string>
   <string name="playback_delete_records">Kaydı sil</string>
   <string name="playback_share_records">Kaydı paylaş</string>
   <string name="preference_clear_data">Verileri temizle</string>
@@ -337,6 +346,7 @@
   <string name="record_mark_point">%s işaret</string>
   <string name="record_quliaty_preference_title">Kayıt kalitesi</string>
   <string name="record_resotre">Kayıtları kurtar</string>
+  <string name="recorder_record">Ses</string>
   <string name="recording">Kayıt</string>
   <string name="recording_quality_high">Yüksek kalite</string>
   <string name="recording_quality_low">Düşük kalite</string>
@@ -356,6 +366,7 @@
   <string name="reg_error_server">Sunucu hatası oluştu. Bize bildirin ve tekrar deneyin.</string>
   <string name="reg_error_upload_audio">Dosya yüklenemedi, tekrar deneyin.</string>
   <string name="reg_error_upload_order">Yüklenemedi, tekrar deneyin.</string>
+  <string name="remind_settings_pref_title">Bildirimler</string>
   <string name="remove_icon_description_content">Kaydedici bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra kayıtları yönetemezsiniz.</string>
   <string name="remove_icon_description_title">\"Kaydedici\" Ana ekrandan kaldırılsın mı?</string>
   <string name="rename">Yeniden adlandır</string>
@@ -368,6 +379,7 @@
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>
+  <string name="save_as">Farklı kaydet</string>
   <string name="save_record_dialog_title">Kaydı kaydet</string>
   <string name="search_app">Kaydedici</string>
   <string name="search_empty">Sonuç bulunamadı</string>
@@ -397,6 +409,7 @@
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">Paz</string>
+  <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
   <string name="text_btn_backward_3_seconds">3 saniye geri</string>
   <string name="text_btn_complete">Durdur</string>
   <string name="text_btn_forward_3_seconds">3 saniye ileri</string>
@@ -449,15 +462,4 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="yesterday">Dün</string>
-  <string name="notification_save_as_complete">Başarıyla kaydedildi</string>
-  <string name="save_as">Farklı kaydet</string>
-  <string name="all_record">Tüm kayıtlar</string>
-  <string name="fm_record">Radyo</string>
-  <string name="no_content">Henüz burada öğe yok</string>
-  <string name="no_playback_file">Ayrıntıları görüntülemek için bir kayıt seçin</string>
-  <string name="normal_settings_pref_title">Genel ayarlar</string>
-  <string name="other_settings_pref_title">Ek ayarlar</string>
-  <string name="recorder_record">Ses</string>
-  <string name="remind_settings_pref_title">Bildirimler</string>
-  <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
 </resources>

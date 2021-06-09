@@ -455,6 +455,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_permission_use_neccesary">Gerekli izinler</string>
   <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
   <string name="app_permission_use_title">İzinler</string>
+  <string name="app_predict_dialog_button">Ana ekrana ekle</string>
+  <string name="app_predict_dialog_message">AI, anlık ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+  <string name="app_predict_dialog_success">Ana ekrana başarıyla eklendi</string>
+  <string name="app_predict_guide_button">Ekle</string>
+  <string name="app_predict_guide_message">AI, anlık ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+  <string name="app_predict_guide_title">Akıllı uygulama önerileri</string>
   <string name="app_running_tip_dialog_negative">İptal</string>
   <string name="app_running_tip_dialog_positive">Tamam</string>
   <string name="app_running_tip_dialog_text">Arka planda çalışmasını önlemek için %1$s uygulamasından çıkın. Bu, cihazınızı hızlandıracak ve güç tüketimini azaltacaktır.</string>
@@ -4451,4 +4457,18 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="pc_hidemode_power_save">Güç</string>
   <string name="pc_performance_mode_dialog_summary">Cihazınız %s için Performans modunda çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın.</string>
   <string name="pc_performance_mode_dialog_title">Performans modu</string>
+  <string name="power_setting_wireless_reverse_charging_fg_control_title">Şarj sınırı</string>
+  <string name="power_wireless_need_update_text">Güncelleniyor…</string>
+  <string name="power_wireless_update_button_text">Güncelle</string>
+  <string name="power_wireless_update_dialog_button">Anladım</string>
+  <string name="power_wireless_update_dialog_message">Kablosuz şarj ürün yazılımını güncelleyebilmek için cihazınızı en az %s şarj edin.</string>
+  <string name="power_wireless_update_dialog_title">Düşük pil</string>
+  <string name="power_wireless_update_driver">Ürün yazılım güncellemeleri</string>
+  <string name="power_wireless_update_notification_button">Görünüm</string>
+  <string name="power_wireless_update_notification_subtitle">Kablosuz şarjın kararlılığını artırmak için ürün yazılımını güncelleyin</string>
+  <string name="power_wireless_update_notification_title">Kablosuz şarj güncellemesi</string>
+  <string name="power_wireless_update_text">Güncel</string>
+  <string name="power_wireless_update_tv_text">Ürün yazılımı güncelleme 6 Cihazı kapatmayın.</string>
+  <string name="setting_wireless_reverse_charging_fg_control_summary">Bu cihazın pili %s değerine ulaştığında, ters kablosuz şarjı durdurun</string>
+  <string name="setting_wireless_reverse_charging_summary">Qi kablosuz şarjı destekleyen cihazı (ör. telefon veya giyilebilir cihaz) bu cihazın arka orta kısmına yerleştirin</string>
 </resources>
