@@ -2484,8 +2484,8 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="gesture_setting_off">Kapalı</string>
   <string name="gesture_setting_on">Açık</string>
   <string name="gesture_w">W desen</string>
-  <string name="gesture_wakeup_summary">Varsayılan veya Klasik tema uygulandığında ekranı kapatmak için iki kez dokunabilirsiniz</string>
-  <string name="gesture_wakeup_title">Ekranı uyandırmak veya kapatmak için iki kez dokun</string>
+  <string name="gesture_wakeup_summary">Yalnızca önceden yüklenmiş temalar uygulandığında ekranı kapatmak için iki kez dokunabilirsiniz.</string>
+  <string name="gesture_wakeup_title">Cihaz kilitliyken ekranı uyandırmak veya kapatmak için iki kez dokunun</string>
   <string name="gesture_z">Z desen</string>
   <string name="getConfiguredNetworks">Yapılandırılmış ağa bakın</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
@@ -3084,6 +3084,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="lockpassword_confirm_workspace_password">İş alanı şifresini doğrulayın</string>
   <string name="lockpassword_confirm_your_lock_password_header">Şifrenizi doğrulayın</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Deseni doğrulayın</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">PIN\'inizi onaylayın</string>
   <string name="lockpassword_confirm_your_password_generic">Devam etmek için cihaz şifresini girin.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Devam etmek için iş şifrenizi girin</string>
   <string name="lockpassword_confirm_your_password_header">Şifrenizi onaylayın</string>
@@ -4473,7 +4474,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="remove_managed_profile_label">İş profilini kaldır</string>
   <string name="repeat">Tekrarla</string>
   <string name="repeat_call">Tekrarlanan çağrıları bildir</string>
-  <string name="repeat_call_info">Sessiz modda 15 dakika içinde tekrarlanan aramalar için sese izin verin</string>
+  <string name="repeat_call_info">Rahatsız etme açıkken, %d dakika içinde aynı kişi veya numaradan gelen ikinci çağrıda çaldır veya titret</string>
   <string name="repeat_never">Asla</string>
   <string name="repeat_title">Tekrarla</string>
   <string name="reset_aaid">Reklam Tanımlayıcısını Sıfırla</string>
@@ -7948,7 +7949,8 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="miheadset_fitness_check_result_l_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="voip_assistant_settings">VoIP asistanı</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Pencerenin alt kısmına basılı tutun ve sağ üst köşeye sürükleyin</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Pencerenin alt kısmına basılı tutun ve sağ üst köşeye sürükleyin
+Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çalışır."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Uygulamayı küçültme</string>
   <string name="miheadset_double_press_left">Sol kulaklığa çift basın</string>
   <string name="miheadset_double_press_right">Sağ kulaklığa çift basın</string>

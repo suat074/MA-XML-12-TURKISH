@@ -38,6 +38,7 @@ Veriler silinmeyecek."</string>
   <string name="menu_title_current_version_log">Neler yeni?</string>
   <string name="menu_title_pick_rom_file">Güncelleme paketini seçin</string>
   <string name="menu_title_recovery">Kurtarma Modunda yeniden başlatın</string>
+  <string name="menu_title_show_notifications">Bildirimleri göster</string>
   <string name="message_checkbox">Xiaomi.eu ekibinden gelecek mesajları gizle</string>
   <string name="message_checkbox_device">Tekrar gösterme</string>
   <string name="message_title">NOT!</string>

@@ -173,4 +173,6 @@ Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafınd
   <string name="send_files_by">Dosyaları paylaşın</string>
   <string name="error_permission_denied">Bu özelliği kullanabilmek için, Mi Paylaşım için Ayarlar\'dan gerekli tüm izinleri verin.</string>
   <string name="nearby_share">Yakın Paylaşım</string>
+  <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyiniz.</string>
+  <string name="samsung_phone">Samsung telefon</string>
 </resources>

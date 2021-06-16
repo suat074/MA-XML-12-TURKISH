@@ -221,6 +221,7 @@
   <string name="resolver_other_method">Diğer seçenekler</string>
   <string name="resolver_recommend_options_tag">Önerilen seçenekler</string>
   <string name="resource_select">Seç</string>
+  <string name="samsung_phone">Samsung telefon</string>
   <string name="scanning_device_tips">Yakındaki cihazları aranıyor… Diğer cihazın keşfedilebilir modda olduğundan emin olun.</string>
   <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç düğmelerine aynı anda basın.</string>
   <string name="screen_button_notification_title">Gezinme tuşları kapatıldı</string>

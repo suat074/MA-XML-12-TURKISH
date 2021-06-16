@@ -846,7 +846,7 @@
   <string name="inactive_apps_title">Bekleyen uygulamalar</string>
   <string name="incorrect_pincode">PIN Kodu hatalı!</string>
   <string name="incorrect_pukcode">PUK kodu hatalı!</string>
-  <string name="input_password_after_boot_msg">Cihazın kilidini açmak için şifrenizi girin</string>
+  <string name="input_password_after_boot_msg">Yeniden başlatıldığında ekran kilidinizin onaylanması gerekir</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Görüşme esnasındaki boşluklar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamazsınız</string>
@@ -1658,6 +1658,8 @@
   <string name="show_silently">Bildirimleri sessizce göster</string>
   <string name="show_touches">Dokunmayı göster</string>
   <string name="show_touches_summary">Dokunmalarda görsel geri bildirim göster</string>
+  <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>&lt;img src=\"\"> görene kadar &lt;font color=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun.</Data></string>
+  <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6>[Verileri sil]&lt;/font> öğesini seçin ve ardından &lt;font color=#e6e6e6>[Yeniden başlat]&lt;/font> öğesine dokunun.</Data></string>
   <string name="sim_state_locked_dialog_title">Geçersiz SIM kart</string>
   <string name="sim_state_locked_puk_dialog_message">En az %d kez yanlış PUK kodu girdiniz. SIM kartınız şu anda geçersiz. Bu SIM kartı bir başkasıyla değiştirin.</string>
   <string name="simulate_color_space">Renk uzayını simüle et</string>
@@ -2652,4 +2654,8 @@ WLAN Adresi (BSSID)
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="device_locked_without_biometric">Üçüncü taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
+  <string name="miui_notification_menu_msg_unfold">%1$s bildirimleri ayrı olarak görüntülensin mi?</string>
+  <string name="miui_notification_menu_unfold">Önemli olarak işaretle</string>
+  <string name="miui_unimportant_notifications">Önemsiz bildirimler</string>
 </resources>
