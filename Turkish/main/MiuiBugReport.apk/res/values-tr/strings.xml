@@ -81,22 +81,22 @@
   <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
   <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
   <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
-  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel performansını etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve \"\İptal\" öğesine dokunun.</string>
+  <string name="catch_full_log_dialog_content">Bu durum cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönüp \"İptal\" seçeneğine dokunun.</string>
   <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
 2. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
   <string name="catch_full_log_item_content_need_open">"1. \"Günlük oluştur\"\'a dokunun.
 2. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
 3. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
-  <string name="catch_full_log_item_content_title">Adımlar:</string>
-  <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve sesli arama</string>
+  <string name="catch_full_log_item_content_title">Günlükler nasıl oluşturulur?</string>
+  <string name="catch_full_log_item_title_audio">Ses, çağrı sesi ve ses kaydı</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Gecikme</string>
   <string name="catch_full_log_item_title_gps">Konum hizmetleri</string>
   <string name="catch_full_log_item_title_sensor">Sensörler</string>
   <string name="catch_full_log_item_title_signal">Telefon, sinyal ve mobil ağlar</string>
-  <string name="catch_full_log_item_title_wifi">Wi-Fi ve Paylaşım</string>
-  <string name="catch_full_log_item_title_wifi_china">WLAN ve ShareMe</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+  <string name="catch_full_log_item_title_wifi_china">WLAN</string>
   <string name="catch_full_log_notification_content">Günlüklere geri dönmek için dokunun</string>
   <string name="catch_full_log_notification_title">Günlük oluşturuluyor…</string>
   <string name="catch_full_log_privacy_content_audio">Günlükleri oluşturuyorsunuz ve bunları cihazınıza kaydediyorsunuz. Günlükler, oynatma geçmişi ve kayıt geçmişi de dahil olmak üzere cihazınızdaki ses ile ilgili bilgileri içerebilir. Dikkatli olun ve bu günlükleri başkalarıyla paylaşmayın. Aşağıdaki \"Kabul\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından raporlayıp bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
@@ -727,4 +727,11 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
+  <string name="catch_full_log_dialog_title">Günlükler oluşturuluyor…</string>
+  <string name="catch_full_log_action_start">Başlat</string>
+  <string name="catch_full_log_category">Günlük türleri</string>
+  <string name="catch_full_log_item_content_catching">Günlükler oluşturuluyor…</string>
+  <string name="catch_full_log_item_content_need_open">"%1$d. Günlükleri oluşturmaya başlamak için \"Başlat\" seçeneğine dokunun.
+%2$d. Karşılaştığınız sorunu yeniden oluşturun.
+%3$d. Bu sayfaya geri dönün ve \"Bitir ve yükle\" seçeneğine dokunun."</string>
 </resources>

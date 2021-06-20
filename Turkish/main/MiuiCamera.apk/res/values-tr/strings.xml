@@ -1781,4 +1781,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="process_tips_2">Video kaydedilene kadar cihazı açmayın</string>
   <string name="close">Kapat</string>
   <string name="send">Gönder</string>
+  <string name="time_freeze_action_end_tip">Arka planı çözmek için düğmeye dokunun</string>
+  <string name="time_freeze_action_start_tip">Arka planı dondurmak için düğmeye dokunun</string>
+  <string name="time_freeze_adjust_button_title">Ayarla</string>
+  <string name="time_freeze_clipbox_tint">Dondur</string>
 </resources>

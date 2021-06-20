@@ -166,10 +166,12 @@
   <string name="permission_storage">Depolama</string>
   <string name="permission_storage_introduce">Cihazınıza öğe kaydetmek için</string>
   <string name="permission_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
+  <string name="public_authorize_now">Ayarlar</string>
   <string name="public_loading_text">Sadece bir saniye…</string>
   <string name="public_net_error_retry">Tekrar deneyin</string>
   <string name="public_net_error_sub_title">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
   <string name="public_net_error_title">Ağa bağlanılamadı</string>
+  <string name="public_please_authorize">Devam etmek için gerekli izinler</string>
   <string name="rationale_ask">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir.</string>
   <string name="rationale_ask_again">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir. Uygulama izinlerini değiştirmek için uygulama ayarları ekranını açın.</string>
   <string name="search_menu_title">Arama</string>

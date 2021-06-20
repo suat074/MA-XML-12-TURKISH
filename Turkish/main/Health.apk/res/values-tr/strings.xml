@@ -1726,4 +1726,7 @@ Egzersizlerinizi ve aktivitelerinizi takip edebileceksiniz."</string>
   <string name="dialog_exit_use">Çık</string>
   <string name="download_apk">%s indiriliyor…</string>
   <string name="download_background">İndir</string>
+  <string name="complete_progress">İlerleme</string>
+  <string name="tb_step_widget" formatted="false">Bugün. %1$s. İlerleme: %2$d%</string>
+  <string name="view_step_and_progress">Mevcut adım sayınızı görüntüleyin</string>
 </resources>

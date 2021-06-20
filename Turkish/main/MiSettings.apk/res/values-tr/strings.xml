@@ -817,4 +817,8 @@
   <string name="yellow_necked_spurfowl">Sarı boyunlu mahmuz kuşu</string>
   <string name="yellow_throated_marten">Sarı boğazlı sansar</string>
   <string name="yunnan_snub_nosed_monkey">Siyah kalkık burunlu maymun</string>
+  <string name="all_ringtone_summary_pad">Zil sesi seç</string>
+  <string name="steady_on_screen_notification_title_pad">Cihazınızı bırakın ve bir mola verin</string>
+  <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Odak modu yalnızca Kameranın kullanılmasına ve acil çağrı yapılmasına izin verir. Odak modunu zamanından önce kapatamazsınız.</string>
+  <string name="usage_state_focus_mode_warning_message_sim_pad">Odak modu yalnızca Kameranın kullanılmasına ve acil arama yapılmasına izin verir. Odak modunu zamanından önce kapatamazsınız.</string>
 </resources>

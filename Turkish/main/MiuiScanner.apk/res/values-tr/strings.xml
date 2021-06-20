@@ -129,6 +129,7 @@
   <string name="document_recognize_null_tip">Belge tanınamadı</string>
   <string name="document_rectify">Ayarla</string>
   <string name="document_rectify_tip_msg">Ayarlanıyor…</string>
+  <string name="document_rename_error">Yeniden adlandırma Hatası</string>
   <string name="document_save_succeed_tip">%1$s belge kaydedildi</string>
   <string name="document_spin">Döndür</string>
   <string name="document_title">Belgenin bir fotoğrafını çekin</string>

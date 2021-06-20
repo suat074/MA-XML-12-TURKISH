@@ -3363,6 +3363,8 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="miheadset_ancLow">Ofis</string>
   <string name="miheadset_ancMedium">Günlük</string>
   <string name="miheadset_Box">Kutu</string>
+  <string name="miheadset_dual_connect_mode">İki cihaza bağlanın</string>
+  <string name="miheadset_dual_connect_mode_summary">Kulaklığınızı aynı anda iki Bluetooth cihazına bağlamak için açın</string>
   <string name="miheadset_key_config_ANC_list_title">Gürültü kontrolü</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Çeşitli Dosyalar</string>

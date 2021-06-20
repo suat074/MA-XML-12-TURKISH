@@ -35,6 +35,7 @@
     <string name="am">ÖÖ</string>
     <string name="aod_component">Daima açık ekran</string>
     <string name="aod_show_date_and_time">Tarih ve saat</string>
+	<string name="app_name">Arka ekran</string>
     <string name="apply">Uygula</string>
     <string name="apply_succeed">Başarıyla uygulandı</string>
     <string name="background_icon">Arka plan</string>
