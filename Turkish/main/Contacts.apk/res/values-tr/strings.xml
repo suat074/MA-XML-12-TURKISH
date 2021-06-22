@@ -1360,6 +1360,7 @@ Favori listenize kişi eklemek için:
   <string name="voip_audio_description">VoIP çağrısı</string>
   <string name="voip_video_description">VoIP görüntülü çağrı</string>
   <string name="websiteLabelsGroup">İnternet sitesi</string>
+  <string name="wifi_pad_disable_phone">Bu cihazda çağrı yapılamıyor</string>
   <string name="wipe_data">Veriyi temizle</string>
   <string name="yellowpage_address_tag">Adres</string>
   <string name="yellowpage_fc_toast">Sarı sayfalar çöktüğünden bu özelliği kullanamazsınız.</string>

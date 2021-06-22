@@ -2008,4 +2008,12 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="full_forwarding_settings">Tam yönlendirme</string>
   <string name="play_voicemail_settings">Sesli mesajı çal</string>
   <string name="voicemail_callforward_settings">Sesli mesaj ve çağrı yönlendirme</string>
+  <string name="fiveg_carrier_aggregation_title">5G taşıyıcı toplama</string>
+  <string name="label_ndp_nck">SIM ağı NCK kilidini aç</string>
+  <string name="no_unlock_chance_hint">"Yeniden deneme süreniz yok.
+Lütfen operatörünüzle iletişime geçin"</string>
+  <string name="sim_me_lock_disabled">Simlock devre dışı.</string>
+  <string name="simmelock_name">SIM ME Kilidi</string>
+  <string name="strPasswordLengthIncorrect">4-16 numara!</string>
+  <string name="unlock_chances_left">Soldaki Yeniden Denemeler:</string>
 </resources>

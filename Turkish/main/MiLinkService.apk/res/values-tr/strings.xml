@@ -354,4 +354,10 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
+  <string name="audio_record_des">Mobil cihazınızdan harici monitörlere ses aktarmak için</string>
+  <string name="dialog_location_permission_message">Bu uygulamanın yakındaki harici monitörleri bulabilmesi için konumunuza erişmesi gerekiyor. Olası hataları önlemek için bu izni verirken \"Her zaman izin ver\" seçin.</string>
+  <string name="dialog_location_permission_title">Gerekli izinler</string>
+  <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek için</string>
+  <string name="notify">Yansıtma arka planda çalışıyor</string>
+  <string name="p2p_location_des">Mobil cihazınızı harici monitörlere bağlamak için</string>
 </resources>

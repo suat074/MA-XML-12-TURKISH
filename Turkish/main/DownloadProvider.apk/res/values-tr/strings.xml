@@ -31,6 +31,7 @@
   <string name="download_apk_desktop_pending">Bekliyor</string>
   <string name="download_apk_desktop_running">İndiriliyor</string>
   <string name="download_error">Başarısız oldu</string>
+  <string name="download_no_application">Bu biçimi destekleyen uygulama yok</string>
   <string name="download_no_application_title">Dosya açılamıyor</string>
   <string name="download_percent">%%%d</string>
   <string name="download_queued">Sıraya alındı</string>
@@ -38,7 +39,7 @@
   <string name="download_running">Devam ediyor</string>
   <string name="download_unknown_title">&lt;İsimsiz></string>
   <string name="enter_garbage_clean">Dahili depolama alanını temizleyin</string>
-  <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli boş alan yok</string>
+  <string name="insufficient_space">Yeterli depolama alanı yok</string>
   <string name="mobile_recommended_title">Mobil Veri Kullanımı</string>
   <string name="notif_text_engine_off">Xunlei Hızlandırıcı kapalı</string>
   <string name="notif_text_engine_on">Hızlandırıcı açık</string>

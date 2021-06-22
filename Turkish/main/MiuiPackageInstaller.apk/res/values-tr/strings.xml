@@ -416,4 +416,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="warning_msg_virus">Virüs tespit edildi</string>
   <string name="app_info_version_des">Sürüm:%1$s | Boyut:%2$s</string>
   <string name="app_info_version_des_replace">Sürüm: %1$s -&gt; %2$s | Boyut:%3$s</string>
+  <string name="anonymous_source_warning_tablet">Cihazlarınız ve kişisel verileriniz, bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yüklediğinizde uygulamanın kullanımından kaynaklanan cihazlarınızdaki hasarlardan veya veri kayıplarından sorumlu olduğunuzu kabul etmiş olursunuz.</string>
+  <string name="install_failed_incompatible_tablet">Bu uygulama cihazınızla uyumlu değil.</string>
+  <string name="install_failed_msg_tablet">%1$s cihazınıza yüklenemedi.</string>
 </resources>

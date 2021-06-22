@@ -200,6 +200,14 @@
     <item quantity="few">%1$s yeni video bulundu</item>
     <item quantity="many">%1$s yeni video bulundu</item>
   </plurals>
+  <plurals name="search_head_hint_all">
+    <item quantity="other">Arama sonuçları (%1$d öğe)</item>
+    <item quantity="zero">Arama sonuçları (%1$d öğe)</item>
+    <item quantity="one">Arama sonuçları (%1$d öğe)</item>
+    <item quantity="two">Arama sonuçları (%1$d öğe)</item>
+    <item quantity="few">Arama sonuçları (%1$d öğe)</item>
+    <item quantity="many">Arama sonuçları (%1$d öğe)</item>
+  </plurals>
   <plurals name="search_head_hint_app">
     <item quantity="other">Uygulama ile ilgili %1$s dosya (%2$d öğe)</item>
     <item quantity="zero">Uygulama ile ilgili %1$s dosya (%2$d öğe)</item>

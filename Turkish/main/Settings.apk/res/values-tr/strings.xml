@@ -8001,4 +8001,10 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="risk_tip">Risk algılandı</string>
   <string name="miui_input_method_attention">Dikkat</string>
   <string name="bluetooth_unlock_settings_unlock_summary">Bu özellik, Xiaomi tarafından üretilen belirli giyilebilir cihazlarla çalışır</string>
+  <string name="default_document_title">Belgeler</string>
+  <string name="document_default_status">Seç</string>
+  <string name="face_password_unlock">Yüz verileri &amp; ekran kilidi</string>
+  <string name="fingerprint_face_password_unlock">Parmak izleri, yüz verileri ve ekran kilidi</string>
+  <string name="fingerprint_password_unlock">Parmak izleri &amp; ekran kilidi</string>
+  <string name="password_unlock">Ekran kilidi</string>
 </resources>

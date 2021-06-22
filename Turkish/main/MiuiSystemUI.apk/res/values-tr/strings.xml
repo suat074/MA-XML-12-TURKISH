@@ -1293,6 +1293,8 @@
   <string name="other">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="overview">Genel bakış</string>
+  <string name="pad_zen_mode_warnings_all_time_content">Bildirimler susturulacak</string>
+  <string name="pad_zen_mode_warnings_keyguard_content">Cihaz kilitlendiğinde bildirimler susturulacak</string>
   <string name="partial_screenshot_edit">Düzenle</string>
   <string name="partial_screenshot_repaint">Baştan başla</string>
   <string name="partial_screenshot_save">Kaydet</string>
