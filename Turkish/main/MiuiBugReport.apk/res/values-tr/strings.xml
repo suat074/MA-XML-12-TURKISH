@@ -76,7 +76,6 @@
   <string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor (bir kaç dakika sürebilir)</string>
   <string name="catch_full_log_action_cancel">İptal</string>
   <string name="catch_full_log_action_complete">Bitir ve yükle</string>
-  <string name="catch_full_log_action_start">Günlük oluştur</string>
   <string name="catch_full_log_add_original_photo">Orijinal resim veya kısa video ekle</string>
   <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
   <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
@@ -85,9 +84,6 @@
   <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
 2. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
-  <string name="catch_full_log_item_content_need_open">"1. \"Günlük oluştur\"\'a dokunun.
-2. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
-3. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
   <string name="catch_full_log_item_content_title">Günlükler nasıl oluşturulur?</string>
   <string name="catch_full_log_item_title_audio">Ses, çağrı sesi ve ses kaydı</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
