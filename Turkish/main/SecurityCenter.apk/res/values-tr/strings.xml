@@ -4526,4 +4526,14 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="sp_system_security_title">Sistem güvenliği</string>
   <string name="sp_website_scan_summary">Güvenli web tarama</string>
   <string name="sp_website_scan_title">Web sitelerini kontrol edin</string>
+  <string name="app_settings_link">Uygulamadaki ek ayarlar</string>
+  <string name="confirm_open_shut_down_password_content">Kapatma onayını açmadan önce bir ekran kilidi ayarlayın.</string>
+  <string name="confirm_open_shut_down_password_title">Ekran kilidini ayarla</string>
+  <string name="scan_open_shut_down_password_content">Cihazınızı yetkisiz erişime karşı koruyun</string>
+  <string name="scan_open_shut_down_password_title">Kapatma onayı</string>
+  <string name="shut_down_password_content">Cihazınızı kaybederseniz, kapatma onayı onu bulan kişi tarafından kapatılmasını engeller.</string>
+  <string name="suggest_to_use_mi_sim">Ek operatör ücretleri oluşmasını önlemek için Mi Sim kullanın.</string>
+  <string name="traffic_usage_warning_body_go_to_mi_sim">Bu ay mobil verinin %s kadarını kullandınız, Mi SIM kullanmak için dokunun.</string>
+  <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapatılırsa ekran kilidinin onaylanması gerekir</string>
+  <string name="verify_shut_down_password_title">Kapatma onayı</string>
 </resources>

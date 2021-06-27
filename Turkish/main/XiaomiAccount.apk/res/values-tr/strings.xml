@@ -628,4 +628,9 @@
   <string name="password_view_hide_password">Şifreyi gizle</string>
   <string name="password_view_show_password">Şifreyi göster</string>
   <string name="weixin_login">WeChat ile oturum açın</string>
+  <string name="operator_mobile_agreement">China Mobile tarafından sağlanan doğrulama hizmetleri</string>
+  <string name="operator_other">Telefon numarası</string>
+  <string name="operator_telecom_agreement">eSurfing hesabı tarafından sağlanan doğrulama hizmetleri</string>
+  <string name="operator_unicom_agreement">China Unicom tarafından sağlanan doğrulama hizmetleri</string>
+  <string name="skip_query_account">Atla</string>
 </resources>

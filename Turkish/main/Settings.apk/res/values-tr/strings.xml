@@ -3947,6 +3947,35 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="owner_info_settings_title">Kilit ekranında kişisel bilgi</string>
   <string name="owner_space">İlk Alan</string>
   <string name="packages_subtitle">Dahil Paketler</string>
+  <string name="pad_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
+  <string name="pad_backup_title">Mobil cihaz</string>
+  <string name="pad_computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
+  <string name="pad_how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir.
+
+Mobil cihaz
+Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğeleri cihazınızda depolanan ayrı bir dosyaya kaydedin (MIUI-backup-AllBackup). Not: Fabrika ayarlarına sıfırlama yapmak, bu tür yedeklemeleri kalıcı olarak siler. Yedekleri bilgisayarınıza kopyalamayı unutmayın.
+
+Bilgisayar
+Bu cihazda bir yedek oluşturun, ardından MIUI-backup-AllBackup adresine gidin ve yedeği USB kablosu ile bilgisayarınıza kopyalayın.
+
+USB sürücüsü
+Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi bir USB sürücüsüne kaydedin.
+
+Xiaomi Bulut
+Kişilerinizi, fotoğraflarınızı, videolarınızı, uygulama listenizi, sistem ayarlarınızı ve Ana ekran düzeninizi bulutla eşitleyin."</string>
+  <string name="pad_how_restore_backup_content">"Farklı yöntemlerle yedeklenmiş öğeleri nasıl geri yükleyeceğiniz aşağıda açıklanmıştır:
+
+Mobil cihaz
+\"Mobil cihaz\" öğesine dokunun, öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin.
+
+Bilgisayar
+Yedeklemeyi bilgisayarınızdan USB kablosuyla MIUI-backup-AllBackup adresine kopyalayın ve öğeleri mobil cihazınızdan geri yükleyin.
+
+USB sürücüsü
+Yedeklemeyi USB sürücünüzden MIUI-backup-AllBackup adresine kopyalayın ve devam etmek için öğeleri bir USB sürücüsünden geri yükleme seçeneğini seçin.
+
+Xiaomi Bulut
+Xiaomi Bulut\'u açın ve öğeleri oradan geri yükleyin."</string>
   <string name="page_layout_1">16 Ağustos Pazar</string>
   <string name="page_layout_10">Ayarlar</string>
   <string name="page_layout_11">Hava Durumu</string>

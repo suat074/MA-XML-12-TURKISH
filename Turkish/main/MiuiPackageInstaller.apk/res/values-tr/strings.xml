@@ -417,6 +417,9 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="app_info_version_des">Sürüm:%1$s | Boyut:%2$s</string>
   <string name="app_info_version_des_replace">Sürüm: %1$s -&gt; %2$s | Boyut:%3$s</string>
   <string name="anonymous_source_warning_tablet">Cihazlarınız ve kişisel verileriniz, bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yüklediğinizde uygulamanın kullanımından kaynaklanan cihazlarınızdaki hasarlardan veya veri kayıplarından sorumlu olduğunuzu kabul etmiş olursunuz.</string>
+  <string name="install_confirm_question_des_10_tablet">Risk almaya hazırsanız ve yüklemeye devam etmek istiyorsanız, kurulumu Güvenlik > Uygulamaları yönet > İzinler > Olası riskleri olan uygulamalar bölümünden yetkilendirin. \"Olası riskleri olan uygulamalar\" bölümünü bulamıyorsanız, Güvenlik uygulamanızı güncelleyin ve tekrar deneyin.</string>
+  <string name="settings_warning_dialog_msg_tablet">Cihazınız güvenlik risklerine açıktır. Bu özelliği kapatırsanız, güvenli uygulama sürümlerini yüklemeniz istenmez. Yine de kapatılsın mı?</string>
+  <string name="untrusted_external_source_warning_summary_tablet">Cihazınız ve kişisel verileriniz, bilinmeyen kaynaklardan yüklenen uygulamaların saldırılarına açıktır. Bu kaynaktan uygulamaların yüklenmesine izin vererek, bu uygulamaları kullanırken oluşabilecek her türlü zarar veya veri kaybının sorumluluğunu kabul etmiş olursunuz.</string>
   <string name="install_failed_incompatible_tablet">Bu uygulama cihazınızla uyumlu değil.</string>
   <string name="install_failed_msg_tablet">%1$s cihazınıza yüklenemedi.</string>
 </resources>

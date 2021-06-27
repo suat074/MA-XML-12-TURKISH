@@ -18,6 +18,8 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="enable_find_device_error">Cihazı bul servisi açılamıyor. %1$s</string>
   <string name="enable_find_device_success">Cihazı bul açık</string>
   <string name="find_device">Cihazı bul</string>
+  <string name="find_device_capture_notification_content">Başka bir yetkili cihaz i.mi.com adresindeki Cihazı bul aracılığıyla uzaktan fotoğraf çekiyor.</string>
+  <string name="find_device_capture_notification_title">Cihazı bul uzaktan fotoğraf çekiyor…</string>
   <string name="find_device_crash">Cihazı bul uygulaması beklenmedik bir şekilde sonlandırıldı.</string>
   <string name="find_device_error_access_denied">Erişim engellendi.</string>
   <string name="find_device_error_account_sys_timeout">"Mi Hesabına bağlanılamadı. "</string>
@@ -27,7 +29,7 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="find_device_error_server">Sunucu hatası (%s).</string>
   <string name="find_device_error_unknown">Bilinmeyen hata (%s).</string>
   <string name="find_device_noise_title">Cihazı bul alarmı</string>
-  <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için, &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> adresine gidin.</string>
+  <string name="find_device_notice">&lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> adresinden cihazınızı bulup kilitleyebilir, kayıp olarak işaretleyebilir, verileri silebilir veya uzaktan fotoğraf çekebilirsiniz.</string>
   <string name="find_device_notice_sms_alert">SIM kartları değiştirirseniz, bu servisin yeniden etkinleştirilmesi için yeni bir SMS otomatik olarak gönderilebilir.</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"SIM durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için, SIM kartları değiştirdikten sonra &lt;font color=#0097FF>&lt;b>ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"SIM durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için, SIM kartlarını değiştirdikten sonra &lt;font color=#0097FF>&lt;b>yurtiçi ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir."</string>
