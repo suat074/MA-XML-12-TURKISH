@@ -26,6 +26,7 @@
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="copy">Kopyala</string>
   <string name="date_picker_lunar">Geleneksel Çin takvimi</string>
+  <string name="download_button">İndirme düğmesi</string>
   <string name="download_failed">İndirilemedi</string>
   <string name="early_morning">Sabah</string>
   <string name="earth_summary">Dünya insan uygarlığının beşiğidir</string>

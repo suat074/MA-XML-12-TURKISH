@@ -9,8 +9,8 @@
         <item quantity="one">%d bulut fotoğraflarına eklendi, görüntülemek için \"Sadece yerel albümleri göster\" özelliğini kapatın.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">%2$d öğe albüme eklenemiyor. %1$s.</item>
-        <item quantity="one">%2$d öğe albüme eklenemiyor. %1$s.</item>
+        <item quantity="other">" %2$d öğe albüme eklenemiyor. %1$s."</item>
+        <item quantity="one">" %2$d öğe albüme eklenemiyor. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">%2$d öğe özel albüme eklenemiyor. %1$s.</item>

@@ -65,6 +65,7 @@
   <string name="gb_game_macro_record_action">Kaydı başlatmak için dokunun</string>
   <string name="gb_game_macro_save">Kaydet</string>
   <string name="gb_game_macro_save_exit">Kaydet</string>
+  <string name="gb_macro_floatview_noti">Lütfen MiMacro\'nun diğer uygulamalar üzerinde görüntülenmesine izin verin</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="multiple_times">Hız</string>
   <string name="name_can_not_be_renamed">Bu ada sahip bir öğe zaten var</string>

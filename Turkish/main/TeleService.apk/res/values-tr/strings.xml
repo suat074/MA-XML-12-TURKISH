@@ -1048,7 +1048,10 @@
   <string name="mobile_data_status_roaming_turned_on_subtext">Veri dolaşımını aç</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Şu anda dolaşımda olan veri planı etkin</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Şu anda dolaşım, veri planına ihtiyaç duyuyor</string>
-  <string name="mobile_intelligent_connection_title">Akıllı mobil ağ bağlantısı</string>
+  <string name="mobile_geo_location_config_summary">Kullanıcı iletişim deneyimini geliştirmek için ağ sinyallerinin anormal konumlarını işaretleyin</string>
+  <string name="mobile_geo_location_config_title">Sabit nokta ağ kalitesi optimizasyonu</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Mobil ağ çift kart optimizasyonu</string>
+  <string name="mobile_intelligent_connection_title">Mobil ağ akıllı optimizasyon</string>
   <string name="mobile_network_settings_not_available">Bu kullanıcı için hücresel ağ ayarları mevcut değil</string>
   <string name="mobile_networks">Mobil ağ ayarları</string>
   <string name="mobile_property">Mobil ağ özellikleri</string>
@@ -1995,8 +1998,8 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="unfold_close_camera_pref_title">Kamerayı kapatmak için açın</string>
   <string name="unfold_speaker_pref_summary">Hoparlörü açmak için bir çağrı sırasında cihazı açın</string>
   <string name="unfold_speaker_pref_title">Hoparlörü kullanmak için açın</string>
-  <string name="mobile_special_network_optimization_config_summary">Ağ anormal olduğunda, otomatik olarak onarmayı deneyin</string>
-  <string name="mobile_special_network_optimization_config_title">Özel Ağ Optimizasyonu</string>
+  <string name="mobile_special_network_optimization_config_summary">İletişim deneyimini geliştirmek için ağdaki birden çok senaryoyu akıllıca algılayın</string>
+  <string name="mobile_special_network_optimization_config_title">Sahne uyarlamalı mod</string>
   <string name="invalid_secretcode_format_txt">Geçersiz gizli kod biçimi!</string>  
   <string name="full_forwarding_number">Yönlendirme numarası</string>
   <string name="full_forwarding_number_error_msg">Yalnızca \"0\" ile başlayan telefon numaraları desteklenir.</string>

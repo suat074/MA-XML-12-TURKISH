@@ -673,4 +673,14 @@
   <string name="size_lv6">%d GB\'den büyük</string>
   <string name="total_size">Toplam: %s</string>
   <string name="search_category">Kategoriye göre ara</string>
+  <string name="app_all_purpose_pad">Dosya Yöneticisine Hoş Geldiniz! Cihazınızda depolanan dosyaları yönetmek için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="enter">Dosya Yöneticisini aç</string>
+  <string name="guide_one_summary">Son öğeler tarihe göre birlikte gruplandırılır.</string>
+  <string name="guide_one_title">Zaman çizelgesinde düzenlenmiş öğeler</string>
+  <string name="guide_three_summary">Başlangıç sayfası kısayollarını ekleyin, kaldırın ve yeniden düzenleyin.</string>
+  <string name="guide_three_title">Kısayolları yeniden düzenle</string>
+  <string name="guide_two_summary">Galeri fotoğrafları ve ekran görüntüleri varsayılan olarak gizlidir.</string>
+  <string name="guide_two_title">Yalnızca temel öğeleri görün</string>
+  <string name="next">Sonraki</string>
+  <string name="start_all">Tümünü görüntüle</string>
 </resources>

@@ -48,5 +48,6 @@ görüntüsü almak için dokunun"</string>
     <string name="screenshot_insert_failed">"Ekran görüntüsü yüklenemedi. Yeni bir ekran görüntüsü alın veya resmi Galeri'de görüntüleyin."</string>
     <string name="screenshot_long_screenshot">Kaydır</string>
     <string name="screenshot_send">Gönder</string>
+	<string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
     <string name="search_menu_title">Ara</string>
 </resources>

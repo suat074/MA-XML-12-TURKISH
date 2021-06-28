@@ -1354,6 +1354,12 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="color_game_led_applications_title_summary">LED ışıkla çalışacak bireysel uygulamaları seçin</string>
   <string name="color_game_led_battery_title">Şarj olurken açık tut</string>
   <string name="color_game_led_charging_summary">Pil şarj olduğunda LED ışığı sönecek</string>
+  <string name="color_game_led_color_title">Işık rengi</string>
+  <string name="color_game_led_dialog_freq">saniye</string>
+  <string name="color_game_led_feature_off">Kapalı</string>
+  <string name="color_game_led_feature_on">Açık</string>
+  <string name="color_game_led_freq">%s saniye</string>
+  <string name="color_game_led_freq_title">Titreşim frekansı</string>
   <string name="color_game_led_end_time">Bitiş</string>
   <string name="color_game_led_game_mode_summary">Game Turbo açıkken oyunlar için efektleri göster</string>
   <string name="color_game_led_game_mode_title">Game Turbo için kullan</string>
@@ -6370,7 +6376,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="vibrate_on_touch_title">Dokunmatik titreşim</string>
   <string name="vibrate_on_unlock">Kilitlendiğinde titreşim</string>
   <string name="vibrate_title">Titreşim</string>
-  <string name="vibrate_when_ringing_title">Çağrılar için titreşim</string>
+  <string name="vibrate_when_ringing_title">Çalarken titret</string>
   <string name="video_tool_box_title">Video araç kutusu</string>
   <string name="vip_list">VIP listesi</string>
   <string name="virtual_keyboard_category">Sanal Klavye</string>
@@ -7781,7 +7787,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="fold_rule_default">Önerilen</string>
   <string name="fold_rule_important">Önemli</string>
   <string name="fold_rule_unimportant">Önemsiz</string>
-  <string name="magic_window_name">Paralel pencereler</string>
+  <string name="magic_window_name">Uygulamaları yatay görünüm için optimize edin</string>
   <string name="truetone_summary">Renkleri ortam ışığına göre ayarlayın</string>
   <string name="truetone_title">Uyarlanabilir renkler</string>
   <string name="user_experience_open_url">Kullanıcı Deneyimi Programı hakkında daha fazla bilgi edinin</string>
@@ -8036,4 +8042,7 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="fingerprint_face_password_unlock">Parmak izleri, yüz verileri ve ekran kilidi</string>
   <string name="fingerprint_password_unlock">Parmak izleri &amp; ekran kilidi</string>
   <string name="password_unlock">Ekran kilidi</string>
+  <string name="gxzw_anim_unlock_effect">%s parmak izi animasyonu</string>
+  <string name="magic_list_empty_text">Şu anda bu özellikle uyumlu uygulama yok</string>
+  <string name="reset_network_title_noSim">WLAN ve Bluetooth\'u Sıfırla</string>
 </resources>

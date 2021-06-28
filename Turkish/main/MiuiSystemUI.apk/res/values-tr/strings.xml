@@ -846,13 +846,15 @@
   <string name="inactive_apps_title">Bekleyen uygulamalar</string>
   <string name="incorrect_pincode">PIN Kodu hatalı!</string>
   <string name="incorrect_pukcode">PUK kodu hatalı!</string>
-  <string name="input_password_after_boot_msg">Yeniden başlatıldığında ekran kilidinizin onaylanması gerekir</string>
+  <string name="input_password_after_boot_msg">>Cihaz yeniden başlatıldığında şifrenizi girmeniz gerekir</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Görüşme esnasındaki boşluklar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamazsınız</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
+  <string name="input_pattern_after_boot_msg">Cihaz yeniden başlatıldığında deseninizi çizmeniz gerekir</string>
   <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
+  <string name="input_pin_after_boot_msg">Cihaz yeniden başlatıldığında PIN\'inizi girmeniz gerekir</string>
   <string name="input_pin_code">PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
   <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
@@ -2660,4 +2662,13 @@ WLAN Adresi (BSSID)
   <string name="miui_notification_menu_msg_unfold">%1$s bildirimleri ayrı olarak görüntülensin mi?</string>
   <string name="miui_notification_menu_unfold">Önemli olarak işaretle</string>
   <string name="miui_unimportant_notifications">Önemsiz bildirimler</string>
+  <string name="device_locked_without_biometric_face">Üç taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
+  <string name="device_locked_without_biometric_finger">Üç taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
+  <string name="fingerprint_again_identified_msg_password">Parmak izi işlevi geri yüklendi. Kilidi açmak için parmak izi veya karmaşık şifre kullanılabilir</string>
+  <string name="fingerprint_again_identified_msg_pattern">Parmak izi işlevi geri yüklendi, parmak izi veya grafik şifre ile kilidi açılabilir</string>
+  <string name="fingerprint_again_identified_msg_pin">Parmak izi işlevi geri yüklendi, parmak izi veya dijital şifre ile kilidi açılabilir</string>
+  <string name="fingerprint_not_identified_msg_password">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için karmaşık bir şifre kullanın</string>
+  <string name="fingerprint_not_identified_msg_pattern">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için grafik şifre kullanın</string>
+  <string name="fingerprint_not_identified_msg_pin">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için dijital bir şifre kullanın</string>
+  <string name="fs_gesture_final_see_more">Ayarlar > Ana Ekran > Sistem gezinme menüsünden daha fazla demo görüntüleyin</string>
 </resources>

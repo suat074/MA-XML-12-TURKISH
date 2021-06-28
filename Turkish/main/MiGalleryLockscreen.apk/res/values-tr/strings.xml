@@ -306,7 +306,7 @@
   <string name="local_default_category">Önceden ayarlanmış yerel</string>
   <string name="lock_screen_date">d MMMM, EEEE</string>
   <string name="lock_screen_date_12">d MMMM, EEEE</string>
-  <string name="lock_show_permission_exception">Bir hata oluştu. Duvar Kağıdı Döngüsü\'ne Güvenlik üzerinden Kilit ekranında gösterilmesine izin verin.</string>
+  <string name="lock_show_permission_exception">Duvar Kağıdı Döngüsü\'nün öğeleri Kilit ekranında göstermesine izin verin</string>
   <string name="lockscreen_h5_back_tv">Geri</string>
   <string name="lockscreen_h5_close_tv">Kapalı</string>
   <string name="lockscreen_h5_refresh_btn_tv">Yenile</string>

@@ -462,4 +462,6 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="yesterday">Dün</string>
+  <string name="low_battery_error_for_pad">Pil %s değerinden az kaldı. Kaydınızın kaybolmaması için kaydı durdurun ve kaydedin.</string>
+  <string name="notification_recording_ticker_for_pad">Cihazınız şimdi Sessiz modda ses kaydediyor. Sessiz modu kapatmak için ses düğmelerini kullanın.</string>
 </resources>

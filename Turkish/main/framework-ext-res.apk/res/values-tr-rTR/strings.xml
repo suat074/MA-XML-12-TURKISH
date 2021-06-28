@@ -263,6 +263,10 @@
   <string name="slavewifi_disconnect">Bağlantıyı kes</string>
   <string name="slavewifi_notification_title">Çift bant WLAN kullan</string>
   <string name="slavewifi_settings">Ayarları değiştirmek için dokunun</string>
+  <string name="small_freeform_enter_warning">Yüzer pencere</string>
+  <string name="small_freeform_exit_tip">Yüzer pencereyi kapat</string>
+  <string name="small_freeform_memory_toast_app_type">Şimdi açılamıyor. Bu uygulamanın çalışabilmesi için çok fazla bellek gerekiyor.</string>
+  <string name="small_freeform_memory_toast_game_type">Şimdi açılamıyor. Bu oyun çalışabilmesi için çok fazla bellek gerekiyor.</string>
   <string name="softap_notifif_summary">%d bağlandı</string>
   <string name="softap_notifif_title">İnternet paylaşımı \"%s\" açık</string>
   <string name="standard">Sessiz</string>

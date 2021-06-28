@@ -672,6 +672,11 @@
     <item>Paramaribo</item>
     <item>Quito</item>
   </string-array>
+  <string-array name="color_game_led_freq_entries">
+    <item>Her iki saniyede bir</item>
+    <item>Her üç saniyede bir</item>
+    <item>her beş saniyede bir</item>
+  </string-array>
   <string-array name="color_mode_descriptions">
     <item>Geliştirilmiş renkler</item>
     <item>Gözle görülen doğal renkler</item>

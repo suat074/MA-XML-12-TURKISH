@@ -936,4 +936,10 @@
   <string name="privacy_revoke_progress">Geri çekiliyor…</string>
   <string name="user_experience_program_title">Kullanıcı Deneyimi Programı</string>
   <string name="withdraw_network_error">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="label_investment_disclaimer">Yinelenen hesaplamalar için üç aylık bir bileşik dönem kullanıyoruz</string>
+  <string name="label_monthly_investment">Aylık yatırım</string>
+  <string name="xiaomi_calculator_delete_description">Hesap makinesi bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra birden fazla dönüştürücüyü ve ek özellikleri kullanamayacaksınız.</string>
+  <string name="xiaomi_calculator_delete_title">Hesap Makinesi kaldırılsın mı?</string>
+  <string name="xiaomi_calculator_remove_icon_description">Hesap makinesi bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra birden fazla dönüştürücüyü ve ek özellikleri kullanamayacaksınız.</string>
+  <string name="xiaomi_calculator_remove_icon_title">\"Hesap Makinesi\" Ana ekrandan kaldırılsın mı?</string>
 </resources>
