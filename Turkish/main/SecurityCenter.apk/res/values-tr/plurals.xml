@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="app_behavior_desc_duration_usage">
+    <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verildi</item>
+    <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verildi</item>
+  </plurals>
+  <plurals name="app_behavior_desc_duration_usage_time">
+    <item quantity="other">%1$d dakika kullanıldı</item>
+    <item quantity="one">%1$d dakika kullanıldı</item>
+  </plurals>
+  <plurals name="app_behavior_desc_duration_usage_time_end">
+    <item quantity="other">%2$s saatine kadar %1$d dakika kullanıldı</item>
+    <item quantity="one">%2$s saatine kadar %1$d dakika kullanıldı</item>
+  </plurals>
+  <plurals name="gtb_brightness_dialog_message">
+    <item quantity="other">Bu özellik güç tasarrufu için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık tutulsun mu?</item>
+    <item quantity="one">Bu özellik güç tasarrufu için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık tutulsun mu?</item>
+  </plurals>
+  <plurals name="gtb_setting_item_summary_brightness">
+    <item quantity="other">%d dakika işlem yapılmadığında güç tasarrufu için ekran parlaklığını otomatik olarak düşürün</item>
+    <item quantity="one">%d dakika işlem yapılmadığında güç tasarrufu için ekran parlaklığını otomatik olarak düşürün</item>
+  </plurals>
   <plurals name="applock_app_suggest_lock">
     <item quantity="other">%1$s uygulamaları ile Uygulama kilidini kullanabilirsiniz</item>
     <item quantity="one">%1$s uygulaması ile Uygulama kilidini kullanabilirsiniz</item>
