@@ -128,7 +128,7 @@ Bu özelliği Ayarlar > Şifreler &amp; güvenlik > Gizlilik > Kullanım ve teş
   <string name="other_settings_upload_debug_log_summary">Teşhis için Xiaomi\'ye, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi geliştirmeye yardımcı olun. Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.</string>
   <string name="other_settings_upload_debug_log_title">Kullanım ve teşhis verilerini gönder</string>
   <string name="other_settings_user_experience">Kullanıcı Deneyimi Programı</string>
-  <string name="other_settings_user_experience_summary">Kullanım istatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olun. Detayları göster</string>
+  <string name="other_settings_user_experience_summary">Kullanım istatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olun.</string>
   <string name="other_settings_user_experience_summary_index">Detayları göster</string>
   <string name="permission_account">Cihazınızdaki hesaplara erişim:</string>
   <string name="permission_account_introduction">Mi Hesabı ile giriş yapmak için</string>

@@ -7986,6 +7986,9 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="miheadset_fitness_check_result_l_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Kulaklığı yeniden ayarlayın</string>
   <string name="voip_assistant_settings">VoIP asistanı</string>
+  <string name="voip_assistant_settings_off">Kapalı</string>
+  <string name="voip_assistant_settings_on">Açık</string>
+  <string name="voip_assistant_settings_summary">VoIP aramalarını kaydedin ve sesli yazdırma optimizasyonunu kullanın</string>
   <string name="freeform_guide_slide_to_small_freeform_summary">"Pencerenin alt kısmına basılı tutun ve sağ üst köşeye sürükleyin
 Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çalışır."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Uygulamayı küçültme</string>
