@@ -36,6 +36,7 @@
   <string name="actionbar_button_up_description">Geri</string>
   <string name="afternoon">Öğleden sonra</string>
   <string name="already_in_small_freeform">Bazı uygulamalar yüzer pencerede açılır</string>
+  <string name="app_name">Sistem Arayüzü Eklentisi</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="controls_confirmation_message">%s için değişikliği onayla</string>
   <string name="controls_dialog_confirmation">Kontroller güncellendi</string>
@@ -288,9 +289,11 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Çalar saat dışındaki tüm öğeler için sesler sessiz ve titreşim kapalı</string>
   <string name="miui_toast_zen_dnd_to_off">Çağrılar ve bildirimler artık sessize alınmayacak</string>
+  <string name="miui_toast_zen_dnd_to_off_T">Bildirimler artık sessize alınmayacak</string>
   <string name="miui_toast_zen_standard_to_off">Sessiz mod kapalı</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Sessiz mod şimdi kapalı. Zil sesleri, bildirim ve medya sesleri çalacak.</string>
   <string name="miui_toast_zen_to_dnd">Çağrılar ve bildirimler susturulacak</string>
+  <string name="miui_toast_zen_to_dnd_T">Bildirimler susturulacak</string>
   <string name="miui_toast_zen_to_standard">Sessiz mod açık</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Sessiz moda geçildi. Zil sesleri, bildirim ve medya sesleri susturuldu.</string>
   <string name="power_off">Kapat</string>
