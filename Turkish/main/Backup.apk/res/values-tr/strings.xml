@@ -727,4 +727,10 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="not_enough_storage_tips">Yetersiz depolama alanı. Biraz yer açın ve tekrar deneyin.</string>
   <string name="apps_item_desc">Uygulama</string>
   <string name="new_pc_restore_content1_pad">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın.</string>
+  <string name="disable_local_backup">Yerel yedeklemeleri kapat</string>
+  <string name="disable_local_backup_and_restore">Yerel yedeklemeleri kapat</string>
+  <string name="disable_local_backup_tips">Bu özelliği kapattıktan sonra tüm yerel yedekler silinir. Yedekleme ayarları temizlenir ve öğeler artık otomatik olarak yedeklenmez. Cihazınızı her zamanki gibi kullanabileceksiniz. Yine de kapatılsın mı?</string>
+  <string name="enable_local_backup">Yerel yedeklemeleri aç</string>
+  <string name="enable_local_backup_and_restore">Yerel yedeklemeleri aç</string>
+  <string name="enable_local_backup_tips">Bu cihazdaki yedeklemeleri kaydedebilmek ve bunları bilgisayarınıza veya USB depolama cihazınıza kopyalayabilmek için bu özelliği açın. Şimdi açılsın mı?</string>
 </resources>

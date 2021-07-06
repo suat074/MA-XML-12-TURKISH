@@ -8048,4 +8048,12 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="gxzw_anim_unlock_effect">%s parmak izi animasyonu</string>
   <string name="magic_list_empty_text">Şu anda bu özellikle uyumlu uygulama yok</string>
   <string name="reset_network_title_noSim">WLAN ve Bluetooth\'u Sıfırla</string>
+  <string name="enable_local_backup">Aç</string>
+  <string name="enable_local_backup_cancel">İptal</string>
+  <string name="enable_local_backup_message">Bu cihazdaki yedeklemeleri kaydedebilmek ve bunları bilgisayarınıza veya USB depolama cihazınıza kopyalayabilmek için bu özelliği açın. Şimdi açılsın mı?</string>
+  <string name="enable_local_backup_ok">Tamam</string>
+  <string name="enable_local_backup_title">Yerel yedeklemeler</string>
+  <string name="local_backup_usestatus_title">Yerel yedeklemeler kapalı</string>
+  <string name="login_account_summary_temp">Hesapları, bulut hizmetlerini ve daha fazlasını yönetin</string>
+  <string name="micloud_service_summary_temp">Fotoğrafları, videoları, kişileri ve daha fazlasını eşitleyin</string>
 </resources>

@@ -515,6 +515,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_no_account_login">Mi Hesabınızda oturum açmadınız</string>
   <string name="applock_not_add_account"><u>Şimdi değil</u></string>
   <string name="applock_not_login_account">Oturum açmadınız</string>
+  <string name="applock_numeric_pwd_type_line">Şifredeki toplam basamak sayısı: %1$d. Girilen rakamlar: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Sadece ekrana bakarak uygulamaların kilidini açın</string>
   <string name="applock_operate_faceunlock_title">Yüz verilerini kullan</string>
   <string name="applock_operate_fingerprint_summary">Uygulama kilidi, birden fazla parmak izi eklemeyi destekler</string>
@@ -2052,6 +2053,9 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$ss %2$sd</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sg %2$ss kaldı</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$ss %2$sd kaldı</string>
+  <string name="pc_performance_mode_dialog_summary2">Cihaz performansı artacaktır. Bu durum, güç tüketimini arttırabilir ve aşırı ısınma sorunlarına neden olabilir. Yine de açılsın mı?</string>
+  <string name="pc_performance_mode_noti_summary">Performans modu güç tüketimini artırabilir ve aşırı ısınma sorunlarına neden olabilir</string>
+  <string name="pc_performance_mode_noti_title">Geliştirilmiş cihaz performansı</string>
   <string name="pc_search_keywords_battery">Pil</string>
   <string name="pc_search_keywords_battery_save">Pil tasarrufu</string>
   <string name="pc_search_keywords_battery_use">Pil kullanımı</string>
@@ -2343,6 +2347,20 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_settings_title">Ayarla</string>
   <string name="power_settings_top">Üst çubuk</string>
   <string name="power_wifi">WLAN</string>
+  <string name="pp_anti_track_summary">Etkinliğinizin izlenmesine izin vermeyin</string>
+  <string name="pp_antitrack_detail">Uygulamalar, kişisel tanımlayıcılar, konum bilgileri ve onlarla paylaşılan diğer kişisel bilgi türleri aracılığıyla etkinliğinizi izleyebilir. Farklı uygulamalardaki ve web sitelerindeki etkinliğinizi izlemek, reklamların kişiselleştirilmesine ve sizinle alakalı içerik önerilmesine olanak tanır.</string>
+  <string name="pp_block_mac">MAC adresine erişimi kısıtla</string>
+  <string name="pp_block_mac_summary">MAC adresinize erişim, tüm uygulamalar için varsayılan olarak kısıtlanmıştır.</string>
+  <string name="pp_identifier_protection">Kişisel tanımlayıcıları koru</string>
+  <string name="pp_manage_track">İzleyicileri izle</string>
+  <string name="pp_manage_track_summary">Uygulamalara yerleştirilmiş çeşitli izleyici türlerini algılayın ve devre dışı bırakın. Bu tür izleyiciler, öğelere erişerek ve bunları dahili depolamaya kaydederek kişisel tanımlayıcılarınızı paylaşabilir veya etkinliğinizi izlemek için paylaşılan SDK\'ları kullanabilir.</string>
+  <string name="pp_operator_get_number">Telefon numarasına erişim için onay iste</string>
+  <string name="pp_operator_get_number_summary">Uygulamalar, oturum açmak için telefon numaranıza erişmek istediklerinde sizden onay isteyecektir.</string>
+  <string name="pp_privacy_lab_operator_get_number">Telefon numarasına erişim için onay iste</string>
+  <string name="pp_privacy_lab_operator_get_number_summary">Uygulamaların, oturum açmak için telefon numaranıza erişmek istediklerinde sizden izin almasını isteyin</string>
+  <string name="pp_privacy_lab_operator_introduction">Dikkat</string>
+  <string name="pp_privacy_lab_operator_introduction_summary">Daha önce uygulamalar telefon numaranızı almışsa bunu saklayabilir. Bu izni değiştirmek, daha önce alınan telefon numaralarını silmez.</string>
+  <string name="pp_virtual_identity_summary">Gerçek tanımlayıcınız yerine uygulamalara sanal bir kimlik (OAID) sağlanabilir. Gizliliğinizi korur ve uygulamaların davranışınızı nasıl izlediğini kontrol etmenize olanak tanır.</string>
   <string name="pref_about_traffic_title">Veri kullanım ayarları</string>
   <string name="pref_adjust_data_usage">Operatör mesaj şablonu</string>
   <string name="pref_adjust_data_usage_summary">Kalibrasyon şablonunu değiştirdikten sonra, MIUI operatörünüzden veri kullanım istatistiklerini almak için kullanır</string>
@@ -3493,7 +3511,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
     <string name="privacy_search_key_5">Özel izinler</string>
     <string name="privacy_search_key_6">İzin bildirimleri</string>
     <string name="privacy_search_key_7">Konum bilgisi</string>
-    <string name="privacy_search_key_8">Privacy mask</string>
+    <string name="privacy_search_key_8">Takip etme</string>
     <string name="privacy_search_key_9">Sanal Kimlik</string>
     <string name="privacy_show_password">Şifreleri göster</string>
     <string name="privacy_show_password_summary">Kısa bir süre için şifreleri görünür tut</string>

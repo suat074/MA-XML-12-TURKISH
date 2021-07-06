@@ -947,6 +947,7 @@
   <string name="keyguard_indication_charging_time_slowly">Yavaş şarj (Tam doluma %s)</string>
   <string name="keyguard_indication_trust_disabled">Kilidi manuel açana kadar cihaz kilitli kalır</string>
   <string name="keyguard_instructions_when_pattern_disabled">Kilidi açmak için Menü\'ye basın.</string>
+  <string name="keyguard_invalid_sim_puk_hint">PUK kodu %1$d basamak içermelidir.</string>
   <string name="keyguard_left_calculator">Hesap Makinesi</string>
   <string name="keyguard_left_calendar">Takvim</string>
   <string name="keyguard_left_contacts">Kişiler</string>
@@ -2658,17 +2659,23 @@ WLAN Adresi (BSSID)
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
-  <string name="device_locked_without_biometric">Üçüncü taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
+  <string name="device_locked_without_biometric">Üçüncü taraf ekran kilidi kullanırken parmak izleri veya yüz verileriyle bu cihazın kilidini açamazsınız</string>
   <string name="miui_notification_menu_msg_unfold">%1$s bildirimleri ayrı olarak görüntülensin mi?</string>
   <string name="miui_notification_menu_unfold">Önemli olarak işaretle</string>
   <string name="miui_unimportant_notifications">Önemsiz bildirimler</string>
-  <string name="device_locked_without_biometric_face">Üç taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
-  <string name="device_locked_without_biometric_finger">Üç taraf tek tuşlu ekran kilidi işlevinin kullanılması nedeniyle biyometrik algılama gerçekleştirilemiyor</string>
-  <string name="fingerprint_again_identified_msg_password">Parmak izi işlevi geri yüklendi. Kilidi açmak için parmak izi veya karmaşık şifre kullanılabilir</string>
-  <string name="fingerprint_again_identified_msg_pattern">Parmak izi işlevi geri yüklendi, parmak izi veya grafik şifre ile kilidi açılabilir</string>
-  <string name="fingerprint_again_identified_msg_pin">Parmak izi işlevi geri yüklendi, parmak izi veya dijital şifre ile kilidi açılabilir</string>
-  <string name="fingerprint_not_identified_msg_password">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için karmaşık bir şifre kullanın</string>
-  <string name="fingerprint_not_identified_msg_pattern">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için grafik şifre kullanın</string>
-  <string name="fingerprint_not_identified_msg_pin">Parmak izi doğrulaması maksimum sayıda başarısız oldu. Lütfen daha sonra tekrar deneyin veya kilidi açmak için dijital bir şifre kullanın</string>
+  <string name="device_locked_without_biometric_face">Üçüncü taraf ekran kilidi kullanırken yüz verileriyle bu cihazın kilidini açamazsınız</string>
+  <string name="device_locked_without_biometric_finger">Üçüncü taraf ekran kilidi kullanırken bu cihazın kilidini parmak izleriyle açamazsınız</string>
+  <string name="fingerprint_again_identified_msg_password">"Parmak iziniz artık aktif.
+Cihazın kilidini açmak için kullanın, veya şifrenizi girin."</string>
+  <string name="fingerprint_again_identified_msg_pattern">"Parmak iziniz artık aktif.
+Cihazın kilidini açmak için kullanın, veya deseninizi çizin."</string>
+  <string name="fingerprint_again_identified_msg_pin">"Parmak iziniz artık aktif.
+Cihazın kilidini açmak için kullanın, veya PIN\'inizi girin."</string>
+  <string name="fingerprint_not_identified_msg_password">"Çok fazla başarısız deneme.
+Kilidi açmak için şifrenizi girin."</string>
+  <string name="fingerprint_not_identified_msg_pattern">"Çok fazla başarısız deneme.
+Kilidi açmak için deseninizi çizin."</string>
+  <string name="fingerprint_not_identified_msg_pin">"Çok fazla başarısız deneme.
+Kilidi açmak için PIN\'inizi girin."</string>
   <string name="fs_gesture_final_see_more">Ayarlar > Ana Ekran > Sistem gezinme menüsünden daha fazla demo görüntüleyin</string>
 </resources>

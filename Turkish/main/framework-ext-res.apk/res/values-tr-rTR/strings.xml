@@ -144,6 +144,12 @@
   <string name="international_livetalk_enable">Uluslararası aramalar için kontör paketini kullan</string>
   <string name="key_btn_ok">Tamam</string>
   <string name="key_btn_space">Boşluk tuşu</string>
+  <string name="keyboard_identity_reject_confirm">Anladım</string>
+  <string name="keyboard_identity_reject_message">Klavyeniz bu cihazla uyumlu değil gibi görünüyor.</string>
+  <string name="keyboard_identity_transfer_error_message">Klavye bağlanamadı. Tekrar deneyin.</string>
+  <string name="keyboard_upgrade_failed">Klavye güncellenemedi</string>
+  <string name="keyboard_upgrade_start">Klavye güncelleniyor…</string>
+  <string name="keyboard_upgrade_success">Klavye başarıyla güncellendi</string>
   <string name="livetalk_not_enable">Kontür paketi kapalı</string>
   <string name="location_usage_restricted_body">İzin vermek için dokunun.</string>
   <string name="location_usage_restricted_title">Arka plan konumu sınırlı</string>
