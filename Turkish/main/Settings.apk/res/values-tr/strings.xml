@@ -2468,7 +2468,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor</string>
   <string name="gadget_toggle_wifi">WLAN ayarı güncelleniyor</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="gallery_privacy_password_role_instruction">Özel fotoğraflarınız burada saklanır</string>
+  <string name="gallery_privacy_password_role_instruction">Özel yaptığınız öğeleri görüntülemek için \"Albümler\" bölümünde aşağı kaydırın.</string>
   <string name="game_booster">Oyun;Oyunlar;Turbo;Oyun;Oyun modu</string>
   <string name="game_booster_title">Game Turbo</string>
   <string name="game_controller_settings_category">Oyun Denetleyici</string>
@@ -8056,4 +8056,18 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="local_backup_usestatus_title">Yerel yedeklemeler kapalı</string>
   <string name="login_account_summary_temp">Hesapları, bulut hizmetlerini ve daha fazlasını yönetin</string>
   <string name="micloud_service_summary_temp">Fotoğrafları, videoları, kişileri ve daha fazlasını eşitleyin</string>
+  <string name="nfc_dnd_mode_summary">Sınırlı sayıda NDEF etiketiyle NFC etiketlerine yanıt verin</string>
+  <string name="nfc_dnd_mode_title">NFC Rahatsız etme</string>
+  <string name="sos_privacy_policy">Gizlilik Politikası</string>
+  <string name="stylus_ota_check_update">Güncellemeleri kontrol et</string>
+  <string name="stylus_ota_current_firmware_version">Yazılım sürümü</string>
+  <string name="stylus_ota_downloading_firmware">Yazılım indiriliyor</string>
+  <string name="stylus_ota_firmware_update">Ürün yazılımını güncelle</string>
+  <string name="stylus_ota_hardware_version">Donanım sürümü</string>
+  <string name="stylus_ota_latest">Güncel</string>
+  <string name="stylus_ota_model">Model</string>
+  <string name="stylus_ota_new_version">Güncelle</string>
+  <string name="stylus_ota_serial_number">Seri numarası</string>
+  <string name="stylus_ota_update">Güncelle</string>
+  <string name="stylus_ota_updating">Güncelleniyor</string>
 </resources>

@@ -345,6 +345,8 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="settings_notification_and_switch_second_space">İkinci alan ayarları</string>
   <string name="settings_notification_from_owner_space_title">İlk alandan bildirimleri göster</string>
   <string name="settings_notification_from_second_space_title">İkinci alandan bildirimleri göster</string>
+  <string name="settings_notification_second_space_show_in_locked_summary">Kilit ekranında İkinci alandan gelen bildirimler gösterilir</string>
+  <string name="settings_notification_second_space_show_in_locked_title">Kilit ekranında bildirimleri göster</string>
   <string name="settings_second_space_entrance_summary">Ayarlar\'da İkinci alan kısayolunu göster</string>
   <string name="settings_second_space_entrance_title">Ayarlar\'da kısayol</string>
   <string name="settings_set_password_for_owner_space">İlk alanda bir ekran kilidi ayarla</string>

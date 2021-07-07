@@ -51,6 +51,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="failure">Hata</string>
   <string name="hide_mode_desc">Bir uygulama arka planda çalışırken, etkinlikleri izlenir. Bu işlev %s üzerinden kullanıcı verilerini alır ve kullanır</string>
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
+  <string name="high_temp_benchmark_state">Aşırı ısınma</string>
+  <string name="high_temp_benchmark_state_message">Cihazınız aşırı ısınıyor. Lütfen cihaz soğuduğunda daha sonra deneyin:</string>
   <string name="high_temp_state">Aşırı ısınma</string>
   <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veri, WLAN noktaları, GPS ve kamera kısıtlanacak.</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>

@@ -737,4 +737,9 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="data_empty_folder">Gösterilecek başka klasör yok</string>
   <string name="handwrite_description">El yazısı notu</string>
   <string name="menu_add_handwrite_description">El yazısı notu ekleyin</string>
+  <string name="hybrid_provider">%1$s tarafından sağlandı</string>
+  <string name="no_network">Ağa bağlanılamıyor</string>
+  <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor</string>
+  <string name="web_sso_login_message">Giriş yapılıyor…</string>
+  <string name="webview_reload">Tekrar deneyin</string>
 </resources>

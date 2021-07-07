@@ -166,6 +166,7 @@
   <string name="permission_warning_template">%1$s için %2$s izni verilsin mi?</string>
   <string name="permission_warning_template_ask">%1$s için aşağıdaki izinler verilsin mi?</string>
   <string name="permisson_reject_notice_toast_text2">%1$s için izni yok.</string>
+  <string name="pp_privacy_lab_operator_introduction">Dikkat</string>
   <string name="screen_overlay_button">Ayarları aç</string>
   <string name="screen_overlay_message">Bu izni değiştirmek için Ayarlar &gt; Uygulamalar\'dan ekran kaplamasını kapatmanız gerekir.</string>
   <string name="screen_overlay_title">Ekran kaplaması algılandı</string>
