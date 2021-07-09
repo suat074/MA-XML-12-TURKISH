@@ -1776,7 +1776,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Bu Parmak izi silinsin mi?</string>
   <string name="delete_rule">Kuralları kaldır</string>
   <string name="delete_saved_network">Kaydedilen ağı sil</string>
-  <string name="delete_sound_effect">\"Silme\" sesi</string>
+  <string name="delete_sound_effect">Öğeleri silerken ses çal</string>
   <string name="deleted_apps">Silinen uygulamalar</string>
   <string name="deletion_helper_automatic_title">Otomatik</string>
   <string name="deletion_helper_manual_title">Manuel</string>
@@ -2560,7 +2560,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="hardware_info">Model ve donanım</string>
   <string name="hardware_revision">Donanım sürümü</string>
   <string name="hardware_version">Donanım Sürümü</string>
-  <string name="has_screenshot_sound">Ekran Görüntüsü Alma Sesi</string>
+  <string name="has_screenshot_sound">Ekran görüntüsü alırken ses çal</string>
   <string name="hdcp_checking_dialog_title">HDCP denetleme davranış ayarı</string>
   <string name="hdcp_checking_title">HDCP denetleniyor</string>
   <string name="hdmi_3d_display_enable_summary">3D Oyun Desteği</string>
@@ -7870,7 +7870,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="sound_settings_tab_haptic">Dokunma</string>
   <string name="sound_settings_tab_sound">Ses</string>
   <string name="special_preview">Demolar</string>
-  <string name="switch_bootup_sound">Önyükleme sesi</string>
+  <string name="switch_bootup_sound">Başlangıçta ses çal</string>
   <string name="system_touch">Dokunsal geribildirim</string>
   <string name="button_height_text">Genel bir onay düğmesi (örn. \"Tamam\", \"Bitti\")</string>
   <string name="button_normal_text">Normal düğme</string>
@@ -8025,7 +8025,7 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="time_floating_window">Yüzer saat</string>
   <string name="time_floating_window_summary">Diğer uygulamaların üzerinde yüzer pencerede saati göster</string>
   <string name="screen_timeout_subtitle">Statik içeriğin uzun süre görüntülenmesi renklerin düzensiz olmasına neden olabilir</string>
-  <string name="switch_power_sound">Şarj sesi</string>
+  <string name="switch_power_sound">Şarj cihazı bağlandığında ses çal</string>
   <string name="oaid_apps_summary">Tek tek uygulamalar için erişime izin verin veya kısıtlayın</string>
   <string name="oaid_apps_title">Sanal kimliği yönet</string>
   <string name="bt_audio_repair_property">Ses sorunlarını düzelt</string>
@@ -8070,4 +8070,7 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="stylus_ota_serial_number">Seri numarası</string>
   <string name="stylus_ota_update">Güncelle</string>
   <string name="stylus_ota_updating">Güncelleniyor</string>
+  <string name="app_uninstall_sounds_enable_title">Uygulamaları kaldırırken ses çal</string>
+  <string name="lock_sound_effect_enable_title">Cihazı kilitlerken ses çal</string>
+  <string name="unlock_sound_effect_enable_title">Cihazın kilidini açarken ses çal</string>
 </resources>

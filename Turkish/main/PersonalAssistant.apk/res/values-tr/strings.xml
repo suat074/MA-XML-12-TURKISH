@@ -96,6 +96,7 @@
   <string name="app_express_empty_title">Burada teslimat bilgisi yok</string>
   <string name="app_express_send">Gönder</string>
   <string name="app_express_tail_number">Sipariş: %1$s</string>
+  <string name="app_first_loading_txt">Sadece bir saniye…</string>
   <string name="app_health_card_completion">İlerleme</string>
   <string name="app_health_card_energy">Kalori</string>
   <string name="app_health_card_step">Adımlar</string>

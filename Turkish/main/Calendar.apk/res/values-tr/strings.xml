@@ -521,6 +521,19 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için \"Hesap ekle\" seçeneğine dokunun.</string>
   <string name="no_visiable_calendar_select_account">Hesap ekle</string>
   <string name="no_visiable_calendar_title">Hesap ekle</string>
+  <string name="none">Yok</string>
+  <string name="not_more_than_three_weekday">3 güne kadar seçebilirsiniz</string>
+  <string name="notes_hint">Görev eklemek için dokunun</string>
+  <string name="notes_reminders_channel">Not hatırlatıcıları</string>
+  <string name="notes_settings_summary">Günlük görevlerinizi ve notlarınızı Takvim\'e ekleyin</string>
+  <string name="notes_title">Notlar</string>
+  <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s, ve %5$s</string>
+  <string name="notes_week_name_four">%1$s, %2$s, %3$s, ve %4$s</string>
+  <string name="notes_week_name_seven">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, ve %7$s</string>
+  <string name="notes_week_name_six">%1$s, %2$s, %3$s, %4$s, %5$s, ve %6$s</string>
+  <string name="notes_week_name_three">%1$s, %2$s, ve %3$s</string>
+  <string name="notes_week_name_two">%1$s ve %2$s</string>
+  <string name="notes_weekly">Haftalık</string>
   <string name="noon">Öğlen</string>
   <string name="notification_channel_name">Düzenli hatırlatıcılar</string>
   <string name="notification_channel_name_no_sound">Sessiz hatırlatıcılar</string>
@@ -577,6 +590,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="premission_description_phone_state">Cihaz kimliğini temel alarak cihazınızı tanımlamak için</string>
   <string name="premission_description_ringtone">Zil sesleri ayarlamak için</string>
   <string name="premission_description_title">Zamanlanmış etkinlikleri görüntüleme ve yönetme</string>
+  <string name="privacy_card_description">Tüm özelliklere erişmek için Gizlilik Politikamızı kabul edin.</string>
+  <string name="privacy_policy_dialog_agree">Kabul et</string>
+  <string name="privacy_policy_dialog_dont_agree">Reddet</string>
+  <string name="privacy_policy_dialog_message"><Data>"Takvim\'e Hoş Geldiniz!&lt;br/>Etkinlikler oluşturmak ve yönetmek, hatırlatıcılar ayarlamak ve konumunuza özel ek bilgiler almak için bu uygulamayı kullanabilirsiniz.&lt;br/>Takvimin size temel hizmetleri sunabilmesi için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl ele aldığımızı &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> üzerinden öğrenebilirsiniz.&lt;br/>Takvim\'i kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. Takvim\'in Gizlilik Politikasına ilişkin onayınızı istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.&lt;br/> Gizlilik Politikamızı kabul etmiyorsanız, bu uygulamanın bazı özelliklerini kullanamazsınız; ancak, temel işlevleri sizin için kullanılabilir olmaya devam edecektir."</Data></string>
+  <string name="privacy_policy_dialog_title">Şartlar ve koşullar</string>
+  <string name="privacy_revoke_switch_text">Onayın geri çekilmesi</string>
   <string name="productivity_add_event">Etkinlik oluştur</string>
   <string name="productivity_cannot_move_event">Bu etkinlik taşınamıyor</string>
   <string name="productivity_move_event_failed">Bu etkinlik dd MMMM, yyyy tarihine taşınamıyor</string>
@@ -588,7 +607,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="pull_refresh_progress_load_finish">Başarıyla yüklendi</string>
   <string name="pull_refresh_progress_loading">Sadece bir saniye…</string>
   <string name="pull_refresh_progress_release_to_load">Yüklemek için bırakın</string>
-  <string name="pull_to_refresh_hint">%1$d faaliyetleri yenilemek için çekin</string>
+  <string name="pull_to_refresh_hint">%1$d konumundan etkinlikleri yüklemek için çekin</string>
   <string name="receive_net_mock_success">Net alay başarı alındı</string>
   <string name="recommend_card_add">Abone ol</string>
   <string name="recommend_card_adding">Abonelikler</string>
@@ -822,7 +841,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="view_event_organizer_label">Düzenleyen:</string>
   <string name="view_event_response_label">Katılıyor musun?</string>
   <string name="view_in_month_view">Ay görünümünde göster</string>
-  <string name="weather_huangli_card_no_data_hint">Hava durumu bilgisi almak için tıklayın</string>
+  <string name="weather">Hava</string>
+  <string name="weather_card_humidity_desc">Nem %1$s%%</string>
+  <string name="weather_card_no_data_hint">Hava durumu verilerini almak için tıklayın</string>
+  <string name="weather_info_settings_description">Yerel hava durumu bilgilerini ve HKİ\'ni alın</string>
+  <string name="weather_info_settings_title">Hava durumu bilgilerini göster</string>
+  <string name="week_number">Hafta numarasını göster</string>
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
