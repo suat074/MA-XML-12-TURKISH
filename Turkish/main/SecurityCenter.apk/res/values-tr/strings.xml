@@ -3199,6 +3199,12 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
   <string name="unlock_set_unlock_pin_summary">4 basamak girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="untrust_app_perm_install_list">Bu cihazda yüklü uygulamaların listesine erişime izin verir</string>
+  <string name="untrust_app_perm_network">Ağa bağlanmaya izin verir</string>
+  <string name="untrust_app_perm_notification">Bildirimlere izin verir</string>
+  <string name="untrust_app_perm_oaid">Sanal kimliğinize erişmeye izin verir</string>
+  <string name="untrust_app_perm_title">Bilinmeyen bir kaynaktan uygulama</string>
+  <string name="untrust_app_perm_warn">Bu uygulama bilinmeyen bir kaynaktan geliyor ve güvenlik riskleri oluşturabilir. Gizliliğinizi tehlikeye atabilecek aşağıdaki izinleri kullanabilir. Dikkatli bir değerlendirmeden sonra bu izinleri verin.</string>
   <string name="updating_diagnostic_botton">Veri analiz ediliyor…</string>
   <string name="usage_sorted_activity_lable">Veri kullanımı</string>
   <string name="usage_sorted_empty_text">Boş</string>
