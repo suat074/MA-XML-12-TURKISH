@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>  
   <string name="app_name">Yüzer pencereler</string>
   <string name="bottom_bar_smallwindow_text">Sabitlemek için bırakın</string>
   <string name="contentDescription">Pencereyi taşıma</string>
+  <string name="copy">Kopyala</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="freeform_demo_back">Geri</string>
   <string name="freeform_demo_final_over">Bitti</string>
   <string name="freeform_demo_final_restart">Baştan başla</string>
@@ -29,4 +31,8 @@
   <string name="how_to_slide_up_to_close">Yüzer pencereyi kapat</string>
   <string name="how_to_slide_up_to_close_summary">Yüzer bir pencerenin eylem çubuğundan yukarı kaydırın</string>
   <string name="how_to_use_freeform">Yüzer pencereler nasıl kullanılır?</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

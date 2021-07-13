@@ -5207,6 +5207,17 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="share_remote_bugreport_dialog_title">Hata raporu paylaşılsın mı?</string>
   <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için onlarla iletişime geçin.</string>
   <string name="short_summary_font_size">Metni büyüt veya küçült</string>
+  <string name="shoulder_key_game_light_settings">Oyun sahnesi ışık efekti</string>
+  <string name="shoulder_key_settings">Omuz düğmeleri</string>
+  <string name="shoulder_key_settings_title">Kaldırma omuz düğmesi</string>
+  <string name="shoulder_key_sound_settings">Omuz düğmesi ses efekti</string>
+  <string name="shoulder_key_sound_switch_title">Omuz düğmesi ses efekti</string>
+  <string name="shoulder_key_sound_text_bullet">Mermi yüklendi</string>
+  <string name="shoulder_key_sound_text_current">Geleceği uyandırma</string>
+  <string name="shoulder_key_sound_text_sword">Kılıç ışığı</string>
+  <string name="shoulder_key_sound_text_wind">Yarış motoru</string>
+  <string name="shoulder_key_switch_status_close">Kapalı</string>
+  <string name="shoulder_key_switch_status_open">Açık</string>
   <string name="show_all_anrs">Tüm ANR\'leri göster</string>
   <string name="show_all_anrs_summary">Arkaplan uygulamalar için Uygulama Yanıt Vermiyor mesajını göster</string>
   <string name="show_all_apps">Tam cihaz kullanımını göster</string>

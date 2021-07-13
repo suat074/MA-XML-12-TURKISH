@@ -4478,7 +4478,7 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="pc_hidemode_normal">Dengeli</string>
   <string name="pc_hidemode_performance">Performans</string>
   <string name="pc_hidemode_performance_title">Performans modu</string>
-  <string name="pc_hidemode_power_save">Güç</string>
+  <string name="pc_hidemode_power_save">Pil</string>
   <string name="pc_performance_mode_dialog_summary">Cihazınız %s için Performans modunda çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın.</string>
   <string name="pc_performance_mode_dialog_title">Performans modu</string>
   <string name="power_setting_wireless_reverse_charging_fg_control_title">Şarj sınırı</string>

@@ -1289,4 +1289,19 @@ SIM kartınızı kontrol edin."</string>
   <string name="zero_sms_feedback_message">Raporlanan mesajlar, gönderenlerin telefon numaralarıyla birlikte sunucularımıza yüklenir. Bu mesajlar yalnızca Engelleme Listesi işlevselliğini geliştirmek için kullanılır.</string>
   <string name="zero_sms_feedback_success">Başarıyla rapor edildi</string>
   <string name="zero_sms_feedback_title">Rapor</string>
+  <string name="aim_show_card">Kartı göster</string>
+  <string name="aim_show_original">Mesajı göster</string>
+  <string name="cancel">İptal</string>
+  <string name="go_close">Ayarlar</string>
+  <string name="invisible_mode_on">Gizlisiniz</string>
+  <string name="leave_mms_tips_context_app">Mesajlaşma\'dan ayrılıp uygulama şimdi açılsın mı?</string>
+  <string name="leave_mms_tips_context_app_name">Mesajlaşma\'dan ayrılıp \"%s\" şimdi açılsın mı?</string>
+  <string name="leave_mms_tips_context_browser">Mesajlaşma\'dan ayrılıp şimdi web tarayıcısı açılsın mı?</string>
+  <string name="leave_mms_tips_context_email">Mesajlaşma\'dan ayrılıp e-posta istemcisi şimdi açılsın mı?</string>
+  <string name="leave_mms_tips_context_map">Mesajlaşma\'dan ayrılıp harita şimdi açılsın mı?</string>
+  <string name="pref_summary_switch_aim_card">Videolar, resimler ve karmaşık biçimlendirme içeren mesajları kart olarak görüntüleyin</string>
+  <string name="pref_title_switch_aim_card">Mesajları kartlara dönüştürün</string>
+  <string name="unable_connect_camera">Gizlisiniz. Kamera şu anda kullanılamıyor.</string>
+  <string name="unable_get_location">Gizlisiniz. Konum servisleri şu anda kullanılamıyor.</string>
+  <string name="unable_use_microphone">Gizlisiniz. Mikrofon şu anda kullanılamıyor.</string>
 </resources>
