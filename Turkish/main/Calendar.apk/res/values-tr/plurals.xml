@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="a_hour_ago">
-    <item quantity="other">1 saat önce</item>
-  </plurals>
-  <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">1 saat önce</item>
-  </plurals>
-  <plurals name="abbrev_half_hour_ago">
-    <item quantity="other">Yarım saat önce</item>
-  </plurals>
-  <plurals name="abbrev_in_a_hour">
-    <item quantity="other">1 saat içinde</item>
-  </plurals>
-  <plurals name="abbrev_in_half_hour">
-    <item quantity="other">Yarım saat içinde</item>
-  </plurals>
-  <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="other">Hemen</item>
-  </plurals>
-  <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">%d dak içinde</item>
-    <item quantity="one">1 dak içinde</item>
-  </plurals>
-  <plurals name="abbrev_less_than_one_minute_ago">
-    <item quantity="other">Şu anda</item>
-  </plurals>
-  <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d dak önce</item>
-    <item quantity="one">1 dak önce</item>
-  </plurals>
-  <plurals name="half_hour_ago">
-    <item quantity="other">Yarım saat önce</item>
-  </plurals>
-  <plurals name="in_a_hour">
-    <item quantity="other">1 saat içinde</item>
-  </plurals>
-  <plurals name="in_half_hour">
-    <item quantity="other">Yarım saat içinde</item>
-  </plurals>
-  <plurals name="in_less_than_one_minute">
-    <item quantity="other">Hemen</item>
-  </plurals>
-  <plurals name="in_num_minutes">
-    <item quantity="other">%d dakika içinde</item>
-    <item quantity="one">1 dakika içinde</item>
-  </plurals>
-  <plurals name="less_than_one_minute_ago">
-    <item quantity="other">Şu anda</item>
-  </plurals>
-  <plurals name="miuix_appcompat_items_selected">
-    <item quantity="other">%d öğe seçildi</item>
-    <item quantity="one">%d öğe seçildi</item>
-  </plurals>
-  <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d yeni bildirim</item>
-    <item quantity="one">%d yeni bildirim</item>
-  </plurals>
-  <plurals name="n_attendees">
-    <item quantity="other">%d davetiye</item>
-    <item quantity="one">%d davetiye</item>
-  </plurals>
-  <plurals name="num_minutes_ago">
-    <item quantity="other">%d dakika önce</item>
-    <item quantity="one">1 dakika önce</item>
-  </plurals>
-  <plurals name="travel_time_range_hours">
-    <item quantity="other">%d saat</item>
-    <item quantity="one">%d sa</item>
-  </plurals>
-  <plurals name="travel_time_range_mins">
-    <item quantity="other">%d dak.</item>
-    <item quantity="one">%d dak</item>
-  </plurals>
   <plurals name="anniversary_day">
     <item quantity="other">%1$s gün</item>
     <item quantity="one">%1$s gün</item>
@@ -120,6 +48,10 @@
     <item quantity="other">%1$d gün önce</item>
     <item quantity="one">%1$d gün önce</item>
   </plurals>
+  <plurals name="day_index">
+    <item quantity="other">%1$d gün</item>
+    <item quantity="one">%1$d gün</item>
+  </plurals>
   <plurals name="edit_date_calculate_days_error_hint">
     <item quantity="other">%1$d güne kadar girebilirsiniz</item>
     <item quantity="one">%1$d güne kadar girebilirsiniz</item>
@@ -128,8 +60,21 @@
     <item quantity="other">%d hatırlatma ayarlayabilirsin</item>
     <item quantity="one">%d hatırlatma ayarlayabilirsin</item>
   </plurals>
-  <plurals name="feed_list_dislike_title">
-    <item quantity="other">%1$d neden seçildi</item>
+  <plurals name="hide_completed_notes">
+    <item quantity="other">%d tamamlanmış görevi gizle</item>
+    <item quantity="one">%d tamamlanmış görevi gizle</item>
+  </plurals>
+  <plurals name="mesens_card_title_day_in_predict">
+    <item quantity="other">Gün %1$d (beklenen)</item>
+    <item quantity="one">Gün %1$d (beklenen)</item>
+  </plurals>
+  <plurals name="mesens_card_title_days">
+    <item quantity="other">Gün %1$d</item>
+    <item quantity="one">Gün %1$d</item>
+  </plurals>
+  <plurals name="mesens_card_title_predict_date">
+    <item quantity="other">Sonraki dönem %1$d gün içinde</item>
+    <item quantity="one">Sonraki dönem %1$d gün içinde</item>
   </plurals>
   <plurals name="month_more_events">
     <item quantity="other">+%d</item>
@@ -163,13 +108,25 @@
     <item quantity="other">Etkinlikten %d dakika önce</item>
     <item quantity="one">Etkinlikten %d dakika önce</item>
   </plurals>
+  <plurals name="notes_custom_repeat_days">
+    <item quantity="other">gün</item>
+    <item quantity="one">gün</item>
+  </plurals>
+  <plurals name="notes_custom_repeat_weeks">
+    <item quantity="other">hafta</item>
+    <item quantity="one">hafta</item>
+  </plurals>
+  <plurals name="num_picker_hint">
+    <item quantity="other">" gün"</item>
+    <item quantity="one">" gün"</item>
+  </plurals>
   <plurals name="Nweeks">
     <item quantity="other">Etkinlikten %d hafta önce</item>
     <item quantity="one">Etkinlikten %d hafta önce</item>
   </plurals>
-  <plurals name="other_all_day_events">
-    <item quantity="other">%d etkinlik daha</item>
-    <item quantity="one">%d etkinlik daha</item>
+  <plurals name="repeat_custom_prompt">
+    <item quantity="other">%2$s üzerinde her %1$s</item>
+    <item quantity="one">%2$s üzerinde her %1$s</item>
   </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
     <item quantity="other">%1$d gün</item>
@@ -187,6 +144,38 @@
     <item quantity="other">%1$d yıl</item>
     <item quantity="one">%1$d yıl</item>
   </plurals>
+  <plurals name="show_completed_notes">
+    <item quantity="other">%d tamamlanmış görevi göster</item>
+    <item quantity="one">%d tamamlanmış görevi göster</item>
+  </plurals>
+  <plurals name="subtitle_add_record">
+    <item quantity="other">%1$d gün boyunca kayıt yapmadınız. Daha doğru tahminler için dönemlerinizi kaydedin.</item>
+    <item quantity="one">%1$d gün boyunca kayıt yapmadınız. Daha doğru tahminler için dönemlerinizi kaydedin.</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_continued_days">
+    <item quantity="other">Bu dönem toplam %1$d gün sürer</item>
+    <item quantity="one">Bu dönem toplam %1$d gün sürer</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_cycle_days">
+    <item quantity="other">Bu adet döngüsünün %1$d. günü</item>
+    <item quantity="one">Bu adet döngüsünün %1$d. günü</item>
+  </plurals>
+  <plurals name="title_menstruation_day">
+    <item quantity="other">Dönemin %1$d. günü</item>
+    <item quantity="one">Dönemin %1$d. günü</item>
+  </plurals>
+  <plurals name="title_menstruation_margin_next_time_days">
+    <item quantity="other">Sonraki döneme %1$d gün kaldı</item>
+    <item quantity="one">Sonraki döneme %1$d gün kaldı</item>
+  </plurals>
+  <plurals name="title_menstruation_predict_period">
+    <item quantity="other">Dönemin tahmini %1$d. günü</item>
+    <item quantity="one">Dönemin tahmini %1$d. günü</item>
+  </plurals>
+  <plurals name="travel_eta_advice">
+    <item quantity="other">%1$s için %2$s dakika sürüş.</item>
+    <item quantity="one">%1$s için %2$s dakika sürüş.</item>
+  </plurals>
   <plurals name="weekN">
     <item quantity="other">%d HAFTA</item>
   </plurals>
@@ -194,28 +183,4 @@
     <item quantity="other">%d çalışma günü</item>
     <item quantity="one">%d çalışma günü</item>
   </plurals>
-  <plurals name="repeat_custom_prompt">
-    <item quantity="other">%2$s üzerinde her %1$s</item>
-    <item quantity="one">%2$s üzerinde her %1$s</item>
-  </plurals>
-  <plurals name="travel_eta_advice">
-    <item quantity="other">%1$s için %2$s dakika sürüş.</item>
-    <item quantity="one">%1$s için %2$s dakika sürüş.</item>
-  </plurals>
-  <plurals name="reminder_later_toast">
-    <item quantity="other">Sonraki hatırlatma %1$d dakika içinde</item>
-    <item quantity="one">Sonraki hatırlatma %1$d dakika içinde</item>
-  </plurals>
-  <plurals name="reminder_custom_unit_day">
-    <item quantity="other">" gün"</item>
-    <item quantity="one">" gün"</item>
-  </plurals>
-  <plurals name="reminder_custom_unit_hour">
-    <item quantity="other">" saat"</item>
-    <item quantity="one">" saat"</item>
-  </plurals>
-  <plurals name="reminder_custom_unit_minute">
-    <item quantity="other">" dakika"</item>
-    <item quantity="one">" dakika"</item>
-  </plurals>  
 </resources>

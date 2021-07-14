@@ -1474,6 +1474,9 @@
   <string name="reject_via_sms">Hızlı yanıtlar</string>
   <string name="reject_via_sms_summary">Aramayı sonlandırma ve SMS gönderme düğmelerini göster</string>
   <string name="reject_via_sms_title">Hızlı yanıtlar</string>
+  <string name="relay_call_answered_by_other_devices">Bu çağrı başka bir cihazda yanıtlandı.</string>
+  <string name="relay_call_released_due_to_connect_lost">Bağlantı kesildi. Bağlantısı kesilen cihazda çağrıya devam edin.</string>
+  <string name="relay_connection_service_label">Dahili NAKİL çağrı</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="remove">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>

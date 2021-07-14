@@ -205,6 +205,9 @@
   <string name="picking_participant">Kişi bilgileri alınıyor...</string>
   <string name="private_num">Özel numara</string>
   <string name="prompt_no_volte_when_failed">Çağrı yapamıyorum. Cihazınızın VoLTE destekli bir 4G şebekesine bağlı olduğundan emin olun.</string>
+  <string name="relay_cal_from_device_name">%1$s üzerinden</string>
+  <string name="relay_call">Devir</string>
+  <string name="relay_call_device_name">Bağlı cihaz (%1$s)</string>
   <string name="remind_unlock_message">Cihazınız şimdi kilitlendi. \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir. Kilit şimdi açılsın mı?</string>
   <string name="respond_via_sms_custom_message">Özel SMS</string>
   <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
