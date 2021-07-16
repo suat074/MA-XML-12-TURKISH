@@ -2347,6 +2347,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_settings_title">Ayarla</string>
   <string name="power_settings_top">Üst çubuk</string>
   <string name="power_wifi">WLAN</string>
+  <string name="power_wireless_ubable_update_toast">Kablosuz şarj sırasında ürün yazılımı güncellenemiyor</string>
   <string name="pp_anti_track_summary">Etkinliğinizin izlenmesine izin vermeyin</string>
   <string name="pp_antitrack_detail">Uygulamalar, kişisel tanımlayıcılar, konum bilgileri ve onlarla paylaşılan diğer kişisel bilgi türleri aracılığıyla etkinliğinizi izleyebilir. Farklı uygulamalardaki ve web sitelerindeki etkinliğinizi izlemek, reklamların kişiselleştirilmesine ve sizinle alakalı içerik önerilmesine olanak tanır.</string>
   <string name="pp_block_mac">MAC adresine erişimi kısıtla</string>

@@ -84,6 +84,10 @@
     <item quantity="other">%d gün kaldı</item>
     <item quantity="one">%d gün kaldı</item>
   </plurals>
+  <plurals name="color_game_led_freq_entries">
+    <item quantity="other">Her %d saniyede bir</item>
+    <item quantity="one">Her %d saniyede bir</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d cihaz</item>
     <item quantity="one">%d cihaz</item>
