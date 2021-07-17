@@ -16,7 +16,7 @@
     <item>Önceki</item>
   </string-array>
   <string-array name="default_reminder_labels">
-    <item>Olay zamanında</item>
+    <item>Etkinlik zamanında</item>
     <item>5 dakika önce</item>
     <item>10 dakika önce</item>
     <item>15 dakika önce</item>
@@ -99,18 +99,18 @@
     <item>Say</item>
   </string-array>
   <string-array name="repeat_choose_month">
-    <item>Ocak</item>
-    <item>Şubat</item>
-    <item>Mart</item>
-    <item>Nisan</item>
-    <item>Mayıs</item>
-    <item>Haziran</item>
-    <item>Temmuz</item>
-    <item>Ağustos</item>
-    <item>Eylül</item>
-    <item>Ekim</item>
-    <item>Kasım</item>
-    <item>Aralık</item>
+    <item>Oca</item>
+    <item>Şub</item>
+    <item>Mar</item>
+    <item>Nis</item>
+    <item>May</item>
+    <item>Haz</item>
+    <item>Tem</item>
+    <item>Ağu</item>
+    <item>Eyl</item>
+    <item>Eki</item>
+    <item>Kas</item>
+    <item>Ara</item>
   </string-array>
   <string-array name="repeat_choose_week_left">
     <item>ilk</item>
@@ -120,17 +120,17 @@
     <item>sonuncu</item>
   </string-array>
   <string-array name="repeat_choose_week_right">
-    <item>Ptesi - Cuma</item>
+    <item>Pts - Cum</item>
     <item>Hafta sonu</item>
     <item>Bütün hafta</item>
   </string-array>
   <string-array name="repeat_choose_weekday">
-    <item>Ptesi</item>
-    <item>Salı</item>
+    <item>Pts</item>
+    <item>Sal</item>
     <item>Çrş</item>
     <item>Per</item>
     <item>Cum</item>
-    <item>Ctesi</item>
+    <item>Cts</item>
     <item>Pzr</item>
   </string-array>
   <string-array name="repeat_countdown">
@@ -247,16 +247,26 @@
   </string-array>
   <string-array name="week_header_name">
     <item>PZR</item>
-    <item>PTESİ</item>
+    <item>PTS</item>
     <item>SAL</item>
     <item>ÇAR</item>
     <item>PER</item>
     <item>CUM</item>
-    <item>CTESİ</item>
+    <item>CTS</item>
   </string-array>
   <string-array name="widget_style_list">
     <item>Şeffaf</item>
     <item>Beyaz arka plan</item>
+  </string-array>
+  <string-array name="year_view_week_header_name">
+    <item></item>
+    <item>P</item>
+    <item>P</item>
+    <item>S</item>
+    <item>Ç</item>
+    <item>P</item>
+    <item>C</item>
+    <item>C</item>
   </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
     <item>her zaman</item>
@@ -324,5 +334,33 @@
     <item>Kapalı</item>
     <item>Tüm etkinlikler için</item>
     <item>Zamana duyarlı olaylar için</item>
-  </string-array>  
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Açık</item>
+    <item>Bulutlu</item>
+    <item>Bulutlu</item>
+    <item>Sis</item>
+    <item>Şiddetli fırtına</item>
+    <item>Fırtına</item>
+    <item>Hafif fırtına</item>
+    <item>Fırtına</item>
+    <item>Hafif yağış</item>
+    <item>Yoğun yağış</item>
+    <item>Yağmur</item>
+    <item>Hafif yağmur</item>
+    <item>Yağmur ve kar</item>
+    <item>Kar fırtınası</item>
+    <item>Kar yağışı</item>
+    <item>Yoğun kar</item>
+    <item>Kar</item>
+    <item>Hafif kar</item>
+    <item>Güçlü kum fırtınası</item>
+    <item>Kum fırtınası</item>
+    <item>Toz</item>
+    <item>Hafif kum fırtınası</item>
+    <item>Dolu</item>
+    <item>Yüzen toz</item>
+    <item>Puslu</item>
+    <item>Dondurucu yağmur</item>
+    </string-array>
 </resources>

@@ -846,7 +846,7 @@
   <string name="inactive_apps_title">Bekleyen uygulamalar</string>
   <string name="incorrect_pincode">PIN Kodu hatalı!</string>
   <string name="incorrect_pukcode">PUK kodu hatalı!</string>
-  <string name="input_password_after_boot_msg">>Cihaz yeniden başlatıldığında şifrenizi girmeniz gerekir</string>
+  <string name="input_password_after_boot_msg">Cihaz yeniden başlatıldığında şifrenizi girmeniz gerekir</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Görüşme esnasındaki boşluklar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamazsınız</string>

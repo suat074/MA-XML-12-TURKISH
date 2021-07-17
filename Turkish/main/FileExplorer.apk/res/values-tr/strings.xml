@@ -650,7 +650,7 @@
   <string name="transfer_summary">Mi Paylaşım ile aktarılan öğeler ve indirmeler</string>
   <string name="added_category">Eklendi</string>
   <string name="available_size">Mevcut: %s</string>
-  <string name="by_date">Zaman değiştirildi</string>
+  <string name="by_date">Değişt. zamanı</string>
   <string name="by_name">İsim</string>
   <string name="by_size">Boyut</string>
   <string name="by_type">Tür</string>
