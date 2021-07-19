@@ -743,4 +743,9 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor</string>
   <string name="web_sso_login_message">Giriş yapılıyor…</string>
   <string name="webview_reload">Tekrar deneyin</string>
+  <string name="note_not_text_stub">Yazı yok</string>
+  <string name="toast_notes_hidden_pad">Bu not şimdi gizlendi. Gizli notları görüntülemek için yan paneli aşağı çekin.</string>
+  <string name="widget_create_select_size">Boyut seçin</string>
+  <string name="widget_empty_content">Bir not seçmek için dokunun</string>
+  <string name="widget_note_list_page_title">Not seçin</string>
 </resources>

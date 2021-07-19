@@ -735,6 +735,8 @@
   <string name="fingerprint_not_recognized">Tanınmadı</string>
   <string name="fingerprint_try_again_msg">Parmakizi doğrulanamadı, tekrar deneyin.</string>
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
+  <string name="fiveg_sa_switch_summary">Yalnızca test için, yardımcı SIM\'in SA işlevini etkinleştirin</string>
+  <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
   <string name="float_notification_snooze_strategy">Yüzer bildirimleri geçici olarak gizle</string>
@@ -1311,7 +1313,7 @@
   <string name="phone_locked_foget_password_method_content"><Data>Fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e>tüm verileri silmeniz &lt;/font>ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.</Data></string>
   <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı kapatın, Mi logosunu görene kadar  &lt;font color=#a5220e>Güç tuşu&lt;/font> ve &lt;font color=#a5220e>Ses açma tuşu&lt;/font>na aynı anda basılı tutun.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı kapatın, ardından &lt;font color=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini &lt;img src=\"\"> görene kadar basılı tutun.</Data></string>
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Sil &amp; Sıfırla\"&lt;/font> seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>

@@ -2352,7 +2352,9 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="firewall_temp_rule_reason">"%1$s için %2$s sınırlı internet bağlantısı "</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamayacak.</string>
-  <string name="firmware_version">Android sürümü</string>
+  <string name="firmware_version">Android sürümü</string>,
+  <string name="fiveg_sa_switch_summary">Yalnızca test için, yardımcı SIM\'in SA işlevini etkinleştirin</string>
+  <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="flash_drive_backup_restore">USB sürücüsü</string>
   <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>
   <string name="floating_window_switch_label">Kayan pencereleri aç</string>
@@ -8073,6 +8075,10 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="sos_privacy_policy">Gizlilik Politikası</string>
   <string name="stylus_ota_check_update">Güncellemeleri kontrol et</string>
   <string name="stylus_ota_current_firmware_version">Yazılım sürümü</string>
+  <string name="stylus_ota_demands">Bu cihazı Bluetooth aracılığıyla kaleme bağlı tutun. Güncelleme boyunca her iki cihaz da en az %1$s şarj edilmiş olmalıdır.</string>
+  <string name="stylus_ota_download_failed">Firmware indirilemedi</string>
+  <string name="stylus_ota_timeout_failed">Oturum zaman aşımına uğradı</string>
+  <string name="stylus_ota_update_failed">Firmware güncellenemedi</string>
   <string name="stylus_ota_downloading_firmware">Yazılım indiriliyor</string>
   <string name="stylus_ota_firmware_update">Ürün yazılımını güncelle</string>
   <string name="stylus_ota_hardware_version">Donanım sürümü</string>

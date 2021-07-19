@@ -648,4 +648,8 @@
   <string name="network_error">Ağa bağlanılamadı. Tekrar deneyin.</string>
   <string name="russia_preinstall_folder_name">Rusya</string>
   <string name="server_error">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="navigation_guide_finish_text">Anladım</string>
+  <string name="navigation_guide_prohibit_gesture_hint">Demoları izlerken tam ekran hareketleri kullanılamaz</string>
+  <string name="swipe_the_desktop_to_the_left">Ana ekranda sola kaydırın</string>
+  <string name="swipe_the_desktop_to_the_right">Ana ekranda sağa kaydırın</string>
 </resources>

@@ -252,6 +252,8 @@
   <string name="edit_event_title_edit_birthday">Doğum gününü düzenle</string>
   <string name="edit_event_title_edit_countdown">Geri sayımı düzenle</string>
   <string name="edit_event_to_label">Hedef</string>
+  <string name="ee_dd_short_month">dd MMM, EEE</string>
+  <string name="eee_dd_long_month">dd MMMM, EEEE</string>
   <string name="email_guests_label">Konuklar için e-posta</string>
   <string name="email_install_hint">Posta kaldırıldı. Takvim hesaplarını geri yüklemek veya yeni bir tane eklemek için Posta\'yı tekrar kurun.</string>
   <string name="email_picker_label">E-posta ile</string>
@@ -923,6 +925,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="widget_select_style">Bir stil seçin</string>
   <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
   <string name="wuxing">Beş Unsur</string>
+  <string name="xiaomi_calendar_delete_description">Takvim, etkinlikler oluşturmanıza ve yönetmenize olanak tanıyan bir sistem uygulamasıdır. Ana ekran kısayolu kaldırılsa bile bazı özellikleri kullanılabilir.</string>
+  <string name="xiaomi_calendar_delete_title">\"Takvim\" Ana ekrandan kaldırılsın mı?</string>
   <string name="xiaomi_calendar_display_name">Mi Hesabı Takvimi</string>
   <string name="xingxiu">Yıldız</string>
   <string name="yearly">Yıllık (her %s)</string>

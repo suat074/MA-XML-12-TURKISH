@@ -62,6 +62,9 @@
   <string name="category_video_title">Videolar</string>
   <string name="change_activate_email">E-posta adresini değiştir</string>
   <string name="change_password">Şifre değiştir</string>
+  <string name="channel_client_edit">Mobil cihazda düzenlendi</string>
+  <string name="channel_tablet_upload">Tabletten yüklendi</string>
+  <string name="channel_tablet_view">Tablette görüntülendi</string>
   <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d aşıldı</string>
   <string name="choose_to_signin">Evet</string>
   <string name="choose_to_signup">Hayır, bir tane oluşturacağım</string>
@@ -198,7 +201,7 @@
   <string name="micloud_space_applist_detail">Ana ekran düzeni yedeklemelerini mobil cihazınızda görüntüleyebilirsiniz.</string>
   <string name="micloud_space_duokan_detail">Telefonunuzda Duokan\'ı açın ve depolama alanını yönetmek için Kitaplık &gt; Bulut depolama\'ya gidin.\nGeçerli Mi Hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun.</string>
   <string name="micloud_space_duokan_title">Duokan depolama alanı</string>
-  <string name="micloud_space_soundrecorder_detail">Telefonunuzdaki Kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin.\nGeçerli Mi Hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun.</string>
+  <string name="micloud_space_soundrecorder_detail">Mobil cihazınızda Kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin.\nGeçerli Mi Hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun.</string>
   <string name="micloud_space_soundrecorder_title">Ses kayıtları</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
