@@ -2640,7 +2640,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="sim_location_error_dialog_message">Kullanmakta olduğunuz SIM: %1$s. Bu elle ayarladığınızdan farklı bir konumda (%2$s). %3$s SIM konumunu değiştirmek istiyor musunuz?</string>
   <string name="sim_location_error_notify_message">SIM konumunu değiştirmek için dokunun.</string>
   <string name="sim_location_error_notify_title">SIM kart hatası</string>
-    <string name="sim_lock_change_done_message"> Başarıyla ayarlandı!  Yeni PIN\'inizi hatırlayın.  Unutursanız, geri yükleyebilmek için operatörünüzün müşteri desteğine başvurmanız gerekir.</string>
+    <string name="sim_lock_change_done_message"> Başarıyla ayarlandı! Yeni PIN\'inizi hatırlayın. Unutursanız, geri yükleyebilmek için operatörünüzün müşteri desteğine başvurmanız gerekir.</string>
     <string name="sim_lock_cloud_notification_message">Bulut ile eşitleme kapalıyken PIN doğrulanamıyor</string>
     <string name="sim_lock_cloud_notification_title">SIM kart korumalı değil</string>
     <string name="sim_lock_confirm_pin_hint">Yeni PIN\'i onaylayın</string>
