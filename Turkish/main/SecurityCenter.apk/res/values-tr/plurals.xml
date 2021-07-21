@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="sim_lock_puk_dialog_message">
+    <item quantity="other">SIM PUK\'unuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış PUK girme limitine ulaşırsanız, SIM kartınız iptal edilecektir. Yine de devam edilsin mi?</item>
+    <item quantity="one">SIM PUK\'unuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış PUK girme limitine ulaşırsanız, SIM kartınız iptal edilecektir. Yine de devam edilsin mi?</item>
+  </plurals>
+  <plurals name="simlock_set_pin_error">
+    <item quantity="other">Girdiğiniz PIN yanlış. %d deneme kaldı.</item>
+    <item quantity="one">Girdiğiniz PIN yanlış. %d deneme kaldı.</item>
+  </plurals>
+  <plurals name="simlock_set_puk_error">
+    <item quantity="other">SIM PUK\'u girin. %d deneme kaldı.</item>
+    <item quantity="one">SIM PUK\'u girin. %d deneme kaldı.</item>
+  </plurals>
   <plurals name="app_behavior_desc_duration_usage">
     <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verildi</item>
     <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verildi</item>
