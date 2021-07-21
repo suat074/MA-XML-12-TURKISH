@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -50,4 +50,12 @@ görüntüsü almak için dokunun"</string>
     <string name="screenshot_send">Gönder</string>
 	<string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
     <string name="search_menu_title">Ara</string>
+    <string name="accessible_cancel">İptal</string>
+    <string name="accessible_ellipse">Elips</string>
+    <string name="accessible_irregular">Özel şekil</string>
+    <string name="accessible_rect">Dikdörtgen</string>
+    <string name="partial_screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almaya izin vermiyor</string>
+    <string name="partial_screenshot_failed_to_save_title">Kaydedilemedi.  Yeterli depolama alanı yok.</string>
+    <string name="partial_screenshot_insert_failed">Kaydedilemedi</string>
+    <string name="take_screenshot">Tüm ekran</string>
 </resources>
