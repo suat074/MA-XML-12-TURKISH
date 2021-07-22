@@ -81,7 +81,7 @@
   <string name="album_already_forced_top">Daima üstte</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_cloud_list_page_title">Eşitlenen albümleri yönet</string>
-  <string name="album_creative">Düzenlenmiş fotoğraflarım</string>
+  <string name="album_creative">Düzenlenenler</string>
   <string name="album_detail_default_sort_tip">Kronolojik sıraya geçildi</string>
   <string name="album_detail_page_empty">Fotoğraf veya video yok</string>
   <string name="album_download">İndirilenler</string>
@@ -1079,7 +1079,7 @@ mevcut"</string>
   <string name="movie_content_describe_delete">Fotoğrafları sil</string>
   <string name="movie_content_describe_pause">Duraklat</string>
   <string name="movie_content_describe_play">Oynat</string>
-  <string name="movie_customer_unsupport_audio_file">Desteklenmeyen ses dosyası</string>
+  <string name="movie_customer_unsupport_audio_file">Bu ses biçimi desteklenmiyor</string>
   <string name="movie_delete_disable">Bir klip oluşturmak için en az %d fotoğrafa ihtiyacınız var.</string>
   <string name="movie_download">İndir</string>
   <string name="movie_download_failed">İndirilemedi</string>
@@ -1405,7 +1405,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="pm">ÖS</string>
   <string name="preparing_data">Biraz bekleyin...</string>
   <string name="print_log">Günlüğü yazdır</string>
-  <string name="privacy_permission_request_message">Galerinin %3$s erişmesi gerekiyor. Topladığımız bilgiler %1$s ve %2$s ile uyumlu olarak kullanılacaktır. İzin ver?</string>
+  <string name="privacy_permission_request_message"><Data>Galeri\'nin %3$s erişimine ihtiyacı var. Topladığımız bilgiler &lt;a href=\"%1$s\">\"Hizmet Şartları\"&lt;/a> ve &lt;a href=\"%2$s\">\"Gizlilik Politikamıza\"&lt;/a> uygun olarak kullanılacaktır. İzin ver?</Data></string>
   <string name="privacy_permission_request_negative">Kısıtla</string>
   <string name="privacy_permission_request_positive">İzin ver</string>
   <string name="privacy_permission_request_title">İzin gerekli</string>
@@ -2017,7 +2017,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="video_editor_text_input_empty_tips">Herhangi bir metin girmediniz</string>
   <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Düzenle</string>
-  <string name="video_editor_unsupport_audio_file">Desteklenmeyen ses dosyası</string>
+  <string name="video_editor_unsupport_audio_file">Bu ses biçimi desteklenmiyor</string>
   <string name="video_editor_unzip_file_fail">Video açılamadı.</string>
   <string name="video_editor_video_is_short">Bu video düzenlenemiyor</string>
   <string name="video_editor_video_loading">Video hazırlanıyor… Bir iki saniye bekleyin ve tekrar deneyin.</string>
@@ -2181,7 +2181,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="vlog_unzip_file_fail">Dosya açılamadı</string>
   <string name="vlog_video_adjust_order">Videoları yeniden düzenle</string>
   <string name="vlog_video_importing">Video içe aktarılıyor…</string>
-  <string name="vlog_video_saved_in_my_create">Video başarıyla kaydedildi</string>
+  <string name="vlog_video_saved_in_my_create">Düzenlenenlere kaydedildi</string>
   <string name="vlog_video_selected_not_support">Seçilen video düzenlenemiyor</string>
   <string name="vlog_video_trans_code_cons">İçe aktarılıyor…</string>
   <string name="voice_assistant">Ses girişi</string>
@@ -2513,7 +2513,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
     <string name="magic_protrait_art_dsc">Son teknoloji efektlerimizi deneyin</string>
     <string name="magic_recycler_empty_msg">Sonuç bulunamadı</string>
     <string name="magic_save">Kaydet</string>
-    <string name="magic_save_ok">Başarıyla kaydedildi</string>
+    <string name="magic_save_ok">Düzenlenenlere kaydedildi</string>
     <string name="magic_select_people">Kişi seçin</string>
     <string name="magic_special_guide_text">Tek kişilik videolarla en iyi sonucu verir</string>
     <string name="magic_special_guide_title">Portre videoları</string>
@@ -2700,7 +2700,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="movie_audio_no_cd">Film müziği yok</string>
   <string name="movie_edit_photo">Fotoğraf</string>
   <string name="movie_full_screen">Tam ekran</string>
-  <string name="widget_label_custom">Görüntüler</string>
+  <string name="widget_label_custom">Seçilen resimler</string>
   <string name="widget_label_recommend">Anılar</string>
   <string name="widget_recommend_default_description_no_story">Burada henüz anı yok</string>
   <string name="widget_recommend_default_description_open_story">Ayarlar'ı açmak ve \"Anılar\"ı aktif etmek için dokunun</string>

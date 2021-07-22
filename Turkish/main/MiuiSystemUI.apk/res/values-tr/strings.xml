@@ -735,7 +735,7 @@
   <string name="fingerprint_not_recognized">Tanınmadı</string>
   <string name="fingerprint_try_again_msg">Parmakizi doğrulanamadı, tekrar deneyin.</string>
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
-  <string name="fiveg_sa_switch_summary">Yalnızca test için, yardımcı SIM\'in SA işlevini etkinleştirin</string>
+  <string name="fiveg_sa_switch_summary">SA ağını ikincil SIM\'de kullanın (yalnızca test için)</string>
   <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
