@@ -542,10 +542,10 @@
   <string name="usage_new_home_dashboard">Pano</string>
   <string name="usage_new_home_date_day_title">%s | Kullanım süresi</string>
   <string name="usage_new_home_day_category_title">Uygulama kategorileri</string>
-  <string name="usage_new_home_day_category_title_new">%s üzerindeki uygulama kategorileri için ekran süresi</string>
+  <string name="usage_new_home_day_category_title_new">%s tarihinde uygulama kategorileri için ekran süresi</string>
   <string name="usage_new_home_day_title">Gün</string>
   <string name="usage_new_home_day_usage_title">Bireysel uygulamalar</string>
-  <string name="usage_new_home_day_usage_title_new">%s üzerindeki ekran süresi</string>
+  <string name="usage_new_home_day_usage_title_new">%s tarihinde ekran süresi</string>
   <string name="usage_new_home_first_unlock">İlk kilit açma: %s</string>
   <string name="usage_new_home_name">Ad</string>
   <string name="usage_new_home_show_more_data_summary">Tek tek uygulamalar için ekran süresini sınırlayabilirsiniz</string>

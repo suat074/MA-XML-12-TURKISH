@@ -101,7 +101,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
-  <string name="multi_music_coexistence_summary">Gelen bildirimler sırasında veya başka bir kaynaktan gelen ses çalınırken medya ses seviyesini ayarlamayın</string>
+  <string name="multi_music_coexistence_summary">Gelen bildirimler sırasında veya başka bir kaynaktan gelen ses çalınırken medya sesini ayarlamayın</string>
   <string name="multi_music_coexistence_title">Çoklu ses kaynakları</string>
   <string name="music_add_my_sound">Özel hazır ayar ekle</string>
   <string name="music_app_unavailable">Mi Müzik uygulamasının kullanılabilir olduğundan emin olun.</string>

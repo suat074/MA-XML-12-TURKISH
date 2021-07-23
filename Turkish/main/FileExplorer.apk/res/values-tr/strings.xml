@@ -65,7 +65,7 @@
   <string name="category_other">Diğer</string>
   <string name="category_photo">Fotoğraflar</string>
   <string name="category_picture">Resimler</string>
-  <string name="category_recent">Sık kullanılan</string>
+  <string name="category_recent">Son kullanılan</string>
   <string name="category_source">Kaynak</string>
   <string name="category_theme">Temalar</string>
   <string name="category_time">Zaman</string>
@@ -657,7 +657,7 @@
   <string name="category_editor_mode">Düzenle</string>
   <string name="category_exit_editor_mode">Çık</string>
   <string name="category_more">Daha fazla</string>
-  <string name="display_setting">Displayed items</string>
+  <string name="display_setting">Görüntülenecek öğeler</string>
   <string name="edit_quick_category">Düzenle</string>
   <string name="entry_phone_storage_internal">Dahili depolama</string>
   <string name="entry_storage_cloned_app">Klonlu uygulamalar</string>
@@ -665,7 +665,7 @@
   <string name="least_quick_category_hint">En az %d kısayol ekle</string>
   <string name="most_quick_category_hint">En fazla %d kısayol ekleyebilirsiniz</string>
   <string name="not_added_category">Mevcut</string>
-  <string name="recent_hide_camera_and_screenshots">Son kullanılan dosyalar arasında Galeri öğelerini ve ekran görüntülerini gösterme</string>
+  <string name="recent_hide_camera_and_screenshots">Son kullanılanlarda Galeri öğel. ve ekran görüntül. gösterme</string>
   <string name="remainder_size">Kalan: %s</string>
   <string name="search_category_folder">Klasörler</string>
   <string name="search_more_category">Daha fazla</string>

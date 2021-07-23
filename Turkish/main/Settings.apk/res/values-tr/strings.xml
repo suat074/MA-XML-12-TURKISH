@@ -2021,6 +2021,10 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="doze_title">Her zaman açık ekran</string>
   <string name="draw_overlay">Diğ. uygl. üzerinde görüntüle</string>
   <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
+  <string name="dsu_is_running">DSG çalışıyor</string>
+  <string name="dsu_loader_description">Dinamik Sistem Güncelleme Görüntüsü Yükleyin</string>
+  <string name="dsu_loader_loading">Yükleniyor...</string>
+  <string name="dsu_loader_title">DSG Yükleyici</string>
   <string name="dtmf_tone_enable_title">Tuş takımı sesleri</string>
   <string name="dual_clock">Çift saat</string>
   <string name="dual_clock_aod_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kapalı ekran için, Ayarlar &gt; Görüntüle bölümünden öğelerin gösterilmesine izin verin; 2. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 3. Ana ekran için, varsayılan sistem saati widget\'ini kullandığınızdan emin olun."</string>
@@ -4973,7 +4977,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="search_slot_status_title">IMEI Bilgisi,IMEI</string>
   <string name="search_sms_delivered_sound_title">Mesaj teslim edildi</string>
   <string name="search_sms_received_sound_title">Mesaj alındı; mesaj sesi; alınan mesaj; mesaj zil sesi</string>
-  <string name="search_sound_effects_enable_title">Dokunma Sesleri</string>
+  <string name="search_sound_effects_enable_title">Dokunma sesleri;Dokunma seslerini aç</string>
   <string name="search_sound_settings">Ses;Sesler;Sessiz Mod;Alarm;Müzik;Titreşim;Telefon Zili;Varsayılan bildirim sesi;Mesaj alındı;Mesaj teslim edildi;Dokunma;Kilit Ekranı Sesi;Ses Ayarları;Gürültüyü önle</string>
   <string name="search_status_bar_settings">Bildirimler &amp; durum çubuğu;bildirimleri;durum çubuğu</string>
   <string name="search_status_bar_settings_custom_carrier">Şebeke Adını Düzenle</string>
@@ -5416,7 +5420,7 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="sound_category_sound_title">Genel</string>
   <string name="sound_category_system_title">Sistem</string>
   <string name="sound_dashboard_summary">Ses düzeyi, titreşim, Rahatsız Etmeyin</string>
-  <string name="sound_effects_enable_title">Dokunma Sesleri</string>
+  <string name="sound_effects_enable_title">Dokunma sesleri</string>
   <string name="sound_settings">Ses</string>
   <string name="sound_settings_example_summary">Zil sesi 80%</string>
   <string name="sound_settings_summary">Zil Seviyesi: %1$s</string>
