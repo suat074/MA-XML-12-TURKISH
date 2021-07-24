@@ -232,7 +232,8 @@
 Kimlik:%s
 Bu kodu yöneticiye gönderin."</string>
   <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okuyup kabul etmiş sayılırsınız.</string>
-  <string name="dialog_privacy_info_new3">Bu hizmeti kullanabilmek için, %1$s\'nun kişisel bilgilerinizi Gizlilik Politikası\'na uygun olarak toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıda \"Kabul et\" seçeneğine dokunarak Xiaomi\'nin &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> ve &lt;a href=%3$s>Kullanıcı Sözleşmesini&lt;/a> kabul etmiş olursunuz. &lt;br/>&lt;br/>\"Kabul et\" seçeneğine dokunmak, Mi Video\'nun cihazınızda yüklü uygulamaların listesine erişmesine de izin verir. Bu izinle Mi Video, öğeleri paylaşabilir, cihazınızda bir uygulamanın yüklü olup olmadığını, bir uygulamanın hangi sürümünün yüklü olduğunu ve bir uygulamanın güvenli olup olmadığını anlayabilir.</string>
+  <string name="dialog_privacy_info_new3">Bu hizmeti kullanabilmek için, %1$s\'nun kişisel bilgilerinizi Gizlilik Politikası\'na uygun olarak toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıda \"Kabul et\" seçeneğine dokunarak Xiaomi\'nin &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> ve &lt;a href=%3$s>Kullanıcı Sözleşmesini&lt;/a> kabul etmiş olursunuz. &lt;br/>&lt;br/>\"Kabul et\" seçeneğine dokunmak, Mi Video\'nun cihazınızda yüklü uygulamaların listesine erişmesine de izin verir. Bu izinle Mi Video, öğeleri paylaşabilir, cihazınızda bir uygulamanın yüklü olup olmadığını, bir uygulamanın hangi sürümünün yüklü olduğunu ve bir uygulamanın güvenli olup olmadığını anlayabilir.</string
+  <string name="dialog_privacy_info_new4">"Mi Video\'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlar:&lt;br>&lt;/br> - Çevrimiçi akış hizmetleri&lt;br>&lt;/br>- Yerel bir video oynatıcı&lt;br>&lt;/br>Mi Video\'nun size temel hizmetleri sunabilmesi için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl ele aldığımızı Gizlilik Politikamızdan öğrenebilirsiniz. Ayarlar > Şifreler &amp;amp; güvenlik bölümünde ilgili ayarları değiştirebilirsiniz.&lt;br>&lt;/br>Mi Video\'yu kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</string>
   <string name="dialog_privacy_title">Yetkilendirme</string>
   <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra, uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem, uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
   <string name="dialog_revoke_privacy_title">Yetki geri alınıyor</string>
@@ -432,6 +433,12 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="input_size_tips">1000 karaktere kadar girebilirsiniz</string>
   <string name="isornot_your_mi_account">Bu Mi Hesabı sizin mi?</string>
   <string name="issue">Sorun</string>
+  <string name="item_card_all_replies">Tüm yanıtlar</string>
+  <string name="item_card_continue_play">Otomatik oynat</string>
+  <string name="item_card_more_trailers">Daha fazla fragman</string>
+  <string name="item_card_open_in">"Şurada aç "</string>
+  <string name="item_card_related">İlişkili</string>
+  <string name="item_setting_go_back">Onayın geri çekilmesi</string>
   <string name="just_a_second">Yalnızca bir sn…</string>
   <string name="language_later_setting_tips">Dil tercihlerinizi Profil &gt; Dil menüsünde değiştirebilirsiniz.</string>
   <string name="language_select_tips">"Videolar için tercih ettiğiniz dili
@@ -966,6 +973,8 @@ Hesap güvenliğinizin artırılması."</string>
   <string name="plus_sort_type_time">Süre</string>
   <string name="plus_tab_gallery">Klasörler</string>
   <string name="plus_tab_time">Zaman tüneli</string>
+  <string name="privacy_revoke_setting">Anahtarı kapatarak Mi Video\'nun Gizlilik Politikası\'na verdiğiniz onayı geri çekersiniz.</string>
+  <string name="privacy_revoke_title">Onayın geri çekilmesi</string>
   <string name="psw_hint">Şifre</string>
   <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Yenilemek için yukarı doğru çekin…</string>

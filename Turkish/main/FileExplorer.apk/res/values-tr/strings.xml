@@ -46,9 +46,9 @@
   <string name="cancel">İptal</string>
   <string name="cancel_error">Kaldırılmadı, tekrar deneyin</string>
   <string name="cancel_msg">Tüm seçimleri kaldır?</string>
-  <string name="cancel_operation">Operasyonu iptal et</string>
+  <string name="cancel_operation">İşlemi iptal et</string>
   <string name="cancel_success">Başarıyla kaldırıldı, tüm dosyalar %s konumuna taşındı</string>
-  <string name="cancelled_by_user">Operasyon iptal edildi</string>
+  <string name="cancelled_by_user">İşlem iptal edildi</string>
   <string name="cannot_send">Harici depolama biriminden dosya gönderilemiyor</string>
   <string name="category">Kategoriler</string>
   <string name="category_all">Tümü</string>
@@ -229,7 +229,7 @@
   <string name="homepage_tab_recent">Geçmiş</string>
   <string name="hot_sticker">Etiketler</string>
   <string name="icon_content_description">İletişim Kutusu Simgesi</string>
-  <string name="if_cancel">Bu işlemi iptal edilsin mi?</string>
+  <string name="if_cancel">Bu işlem iptal edilsin mi?</string>
   <string name="image_loading_error">Resim yüklenemedi</string>
   <string name="imm_str_storage">Depolama</string>
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>

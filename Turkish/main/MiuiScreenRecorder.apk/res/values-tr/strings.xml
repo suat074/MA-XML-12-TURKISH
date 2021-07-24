@@ -102,7 +102,7 @@ Görüntülemek için dokunun"</string>
   <string name="permission_intro_storage">Ekran kayıtlarını kaydetmek için</string>
   <string name="permission_microphone_desc">Mikrofonu ekran kayıtları için ses kaynağı olarak kullanma</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-  <string name="quit_recording">Ekran Kaydediciden çık</string>
+  <string name="quit_recording">Ekran Kaydediciden çıkıldı</string>
   <string name="recording_without_mic">Mikrofon meşgul ve şimdi ses kaydedemiyor.</string>
   <string name="resolution">Çözünürlük</string>
   <string name="resolution_summary">Daha yüksek çözünürlüklü videolar daha keskin görünür</string>
