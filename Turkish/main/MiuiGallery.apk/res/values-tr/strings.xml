@@ -2920,9 +2920,34 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
     <string name="vlog_talkback_text_vlog">Mutlu bir gün</string>
     <string name="vlog_talkback_view_pause">Duraklat</string>
     <string name="vlog_talkback_view_play">Oynat</string>
-    <string name="widget_custom_store_detail_desc">Görmek istediğiniz resimleri seçin</string>
+    <string name="widget_custom_store_detail_desc">Widget ekleyin ve ardından fotoğrafları seçmek için ona dokunun</string>
     <string name="widget_editor_confirm">Bitti</string>
     <string name="widget_editor_reselect">Tekrar seç</string>
     <string name="widget_editor_title">Düzenle</string>
-    <string name="widget_recommend_store_detail_desc">Son fotoğraflar ve geçmişten gelen parlak anlar</string>
+    <string name="widget_recommend_store_detail_desc">Son fotoğraflar ve ışıltılı anlar</string>
+	<string name="album_screenshot_and_screen_recorder_name">Ekran görüntüleri ve ekran kayıtları</string>
+  <string name="assistant_page_community">Topluluk</string>
+  <string name="exif_title_smart_fusion">Görüntü geliştirme:</string>
+  <string name="slim_action">Optimize et</string>
+  <string name="slim_action_auto_backup">Aç</string>
+  <string name="slim_action_auto_backup_disable_description">Orijinal fotoğrafları ve videoları bulutta depolarken yüksek kaliteli daha küçük kopyaları bu cihazda saklayın.</string>
+  <string name="slim_action_auto_backup_enable_description">Öğeler buluta yükleniyor…</string>
+  <string name="slim_action_auto_backup_sub_tip">Depolama alanını boşaltın</string>
+  <string name="slim_action_auto_backup_tip">Bulut ile eşitlemeyi aç</string>
+  <string name="slim_complete_count">"%1$s ve %2$s optimize edildi. "</string>
+  <string name="slim_complete_download_tip">Orijinaller yerine yüksek kaliteli kopyalar otomatik olarak indirilecek.</string>
+  <string name="slim_dialog_empty_message">Optimize edilecek öğe bulunamadı.</string>
+  <string name="slim_dialog_empty_positive">Anladım</string>
+  <string name="slim_dialog_empty_title">Dikkat</string>
+  <string name="slim_dialog_message" formatted="false">"Öğeler oluşturulduktan %d gün sonra orijinal fotoğrafları ve videoları yüksek kaliteli kopyalarla değiştirin. Orijinal dosyalar bulutta saklanacaktır. Yerel depolama alanında yaklaşık %s yer açabileceksiniz."</string>
+  <string name="slim_dialog_positive">Optimize et</string>
+  <string name="slim_dialog_title">Depolamayı optimize edin</string>
+  <string name="slim_preference_scanning">Fotoğraflar ve videolar analiz ediliyor…</string>
+  <string name="slim_preference_summery">Orijinal fotoğrafları ve videoları bulutta depolarken yüksek kaliteli daha küçük kopyaları bu cihazda saklayın. Öğeler oluşturulduktan %d gün sonra daha küçük kopyalar orijinal dosyaların yerini alacak.</string>
+  <string name="slim_preference_title">Depolamayı optimize edin</string>
+  <string name="slim_stop_v2">Durdur</string>
+  <string name="slim_success_tip">%s depolama alanı boşaltıldı</string>
+  <string name="widget_editor_load_fail">Fotoğraf yüklenemedi</string>
+  <string name="widget_talkback_custom">Galeri. Seçili resimler.</string>
+  <string name="widget_talkback_recommend">Galeri. Anılar.</string>
 </resources>

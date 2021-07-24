@@ -551,5 +551,33 @@
   <plurals name="miuix_appcompat_items_selected">
     <item quantity="one">%d öğe seçildi</item>
     <item quantity="other">%d öğe seçildi</item>
+  </plurals>
+  <plurals name="photo_editor_talkback_crop_scale_value">
+    <item quantity="other">%d derece döndür</item>
+    <item quantity="one">%d derece döndür</item>
+  </plurals>
+  <plurals name="slim_complete_photo_count_v2">
+    <item quantity="other">Optimize edilmiş %d fotoğraf</item>
+    <item quantity="one">Optimize edilmiş %d fotoğraf</item>
+  </plurals>
+  <plurals name="slim_complete_video_count">
+    <item quantity="other">Optimize edilmiş %d video</item>
+    <item quantity="one">Optimize edilmiş %d video</item>
+  </plurals>
+  <plurals name="slim_photo_count">
+    <item quantity="other">%d fotoğraf </item>
+    <item quantity="one">%d fotoğraf </item>
+  </plurals>
+  <plurals name="slim_remain_photo_count_v2">
+    <item quantity="other">Optimize edilecek %d öğe kaldı</item>
+    <item quantity="one">Optimize edilecek %d öğe kaldı</item>
+  </plurals>
+  <plurals name="slim_videos_count">
+    <item quantity="other">%d video</item>
+    <item quantity="one">%d video</item>
+  </plurals>
+  <plurals name="talkback_album_item_content">
+    <item quantity="other">%1$s, %2$s öğe</item>
+    <item quantity="one">%1$s, %2$s öğe</item>
   </plurals>  
 </resources>

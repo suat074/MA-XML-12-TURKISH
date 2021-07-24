@@ -360,8 +360,16 @@
   <string name="hint_description">Açıklama</string>
   <string name="hint_what">Etkinlik ismi</string>
   <string name="hint_where">Konum</string>
-  <string name="holiday_card_title">Tatil</string>
-  <string name="holiday_detail_read_more">Daha</string>
+  <string name="holiday_card_title">Bugün</string>
+  <string name="holiday_date">Tarih</string>
+  <string name="holiday_date_title">Tatil tarihi</string>
+  <string name="holiday_detail_read_more">Daha fazla</string>
+  <string name="holiday_name">Tatil adı</string>
+  <string name="holiday_name_empty">Tatil adı boş olamaz</string>
+  <string name="holiday_name_exists">Bu tatil zaten var</string>
+  <string name="holiday_name_special_character_warning">Tatil adları özel karakterler içeremez</string>
+  <string name="holiday_saved">Başarıyla kaydedildi</string>
+  <string name="holidays_title">Tatiller</string>
   <string name="homepage_nowadays">Bugünkü</string>
   <string name="homepage_today">Şimdi</string>
   <string name="horoscope_card_comprehensive">Geniş Kismet:</string>
@@ -416,6 +424,12 @@
   <string name="login_caldav">Ekle</string>
   <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin</string>
   <string name="logining_caldav_account">Ekleniyor…</string>
+  <string name="long_holiday_date_place_holder">dd MMMM</string>
+  <string name="long_holiday_dates">%1$s tarihinden başlıyor</string>
+  <string name="long_holiday_month_off">Aylık izin günleri</string>
+  <string name="long_holiday_title_length_warning">Tatil adı çok uzun</string>
+  <string name="long_holiday_week_off">Haftalık izinler</string>
+  <string name="long_month_date_format">dd MMMM, yyyy</string>
   <string name="lottery_blue_ball_tip">Mavi top</string>
   <string name="lottery_red_ball_tip">Kırmızı top</string>
   <string name="lunar_date">Ay tarihi</string>
@@ -820,7 +834,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="talkback_festival_and">ve</string>
   <string name="talkback_festival_is">Tatil</string>
   <string name="template_announce_item_index">Etkinlik: %1$s / %2$s.</string>
-  <string name="text_year">" "</string>
+  <string name="three_selected_holiday">%1$s, %2$s, ve %3$s izin günleri</string>
   <string name="thursday">Perşembe</string>
   <string name="thursday_short">Prş</string>
   <string name="thursday_shortest">Prş</string>
@@ -911,6 +925,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">Sal</string>
+  <string name="two_selected_holiday">%1$s ve %2$s izin günleri</string>
   <string name="txt_account">Hesap</string>
   <string name="txt_account_exist">Hesap zaten var</string>
   <string name="txt_account_name_empty">Takvim adını girin</string>
@@ -1033,7 +1048,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="remind_title_record">Kaydetmeyi hatırlat</string>
   <string name="second_saturday_holiday">Her ikinci cumartesi izin günüdür</string>
   <string name="select_menstruation_end_date">Bu dönemin bitiş tarihini seçin</string>
-  <string name="select_weekly_off_dialog_title">İzin günleri seçin</string>
+  <string name="select_weekly_off_dialog_title">İzin günlerini seçin</string>
   <string name="set_interval">Aralığı ayarla</string>
   <string name="set_reminder">Hatırlatıcıyı ayarla</string>
   <string name="setting_change_language">Takvim dilini seçin</string>
