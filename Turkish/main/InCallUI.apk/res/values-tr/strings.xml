@@ -154,7 +154,7 @@
   <string name="incall_error_supp_service_transfer">Çağrı aktarılamıyor.</string>
   <string name="incall_error_supp_service_unknown">Bu hizmet desteklenmiyor.</string>
   <string name="incoming_answer_voice_text">Sesli cevap</string>
-  <string name="incoming_call_forwarded_title">Gelen aramaları yönlendir</string>
+  <string name="incoming_call_forwarded_title">Yönlendirilen çağrı</string>
   <string name="incoming_circle_text_answer">Serbest bırak</string>
   <string name="incoming_circle_text_answer_p">Yukarı kaydır</string>
   <string name="incoming_circle_text_message">Serbest bırak</string>

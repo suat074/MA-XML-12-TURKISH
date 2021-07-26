@@ -330,6 +330,7 @@
   <string name="passport_error_sim_not_ready">SIM kart bulunamıyor</string>
   <string name="passport_error_ssl_hand_shake">Sunucuya bağlantı kurulamadı</string>
   <string name="passport_error_unknown">Oturum açılamıyor</string>
+  <string name="passport_error_user_agreement_error">Önce şartlar ve koşulları kabul edin</string>
   <string name="passport_error_user_name">Girdiğiniz kullanıcı adı geçersiz.</string>
   <string name="passport_error_verify_activator_phone_message">SIM kart servisinizin aktif olduğundan ve cihazın ağa bağlı olduğundan emin olun.</string>
   <string name="passport_error_verify_activator_phone_title">Telefon numarası doğrulanamadı</string>
