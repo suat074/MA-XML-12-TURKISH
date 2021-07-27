@@ -1880,6 +1880,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="disable_overlays">Donanım yerleşimini devre dışı bırak</string>
   <string name="disable_overlays_summary">Ekran oluşturma için her zaman GPU kullanın</string>
   <string name="disable_power_key_long_press_under_keyguard">Güç düğmesi menüsünü kapat</string>
+  <string name="disable_quick_start">Hızlı başlatmayı kapat</string>
   <string name="disable_service_message">Tamam\'a dokununca %1$s duracak.</string>
   <string name="disable_service_title">%1$s durdurulsun mu?</string>
   <string name="disable_text">Pasif</string>
@@ -2094,7 +2095,8 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="enable_gpu_debug_layers_summary">Hata ayıklama uygulamaları için GPU hata ayıklama katmanlarının yüklenmesine izin ver</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobil veri de etkinleştirilsin mi?</string>
   <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-  <string name="enable_quick_setting">Hızlı Ayarlarda göster</string>
+  <string name="enable_quick_setting">Hızlı ayarlarda göster</string>
+  <string name="enable_quick_start">Hızlı başlatmayı aç</string>
   <string name="enable_screen_by_charging">Şarj olurken ekranı aç</string>
   <string name="enable_screen_projection_summary">Ekran içeriğini harici bir monitöre yansıt</string>
   <string name="enable_service_encryption_warning">%1$s servisini açarsanız, cihazınız gelişmiş veri şifreleme için ekran kilidi kullanmaz.</string>

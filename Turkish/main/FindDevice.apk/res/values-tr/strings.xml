@@ -18,8 +18,10 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="enable_find_device_error">Cihazı bul servisi açılamıyor. %1$s</string>
   <string name="enable_find_device_success">Cihazı bul açık</string>
   <string name="find_device">Cihazı bul</string>
-  <string name="find_device_capture_notification_content">Başka bir yetkili cihaz i.mi.com adresindeki Cihazı bul aracılığıyla uzaktan fotoğraf çekiyor.</string>
-  <string name="find_device_capture_notification_title">Cihazı bul uzaktan fotoğraf çekiyor…</string>
+  <string name="find_device_capture_done_notification_content">Fotoğrafı i.mi.com adresinde görüntüle</string>
+  <string name="find_device_capture_done_notification_title">Cihazı bul uzaktan fotoğraf çekti</string>
+  <string name="find_device_capture_notification_content">Hesabınız tarafından, bu cihazla uzaktan fotoğraf çekme isteği gönderildi</string>
+  <string name="find_device_capture_notification_title">Cihazı bul fotoğraf çekmek üzere</string>
   <string name="find_device_crash">Cihazı bul uygulaması beklenmedik bir şekilde sonlandırıldı.</string>
   <string name="find_device_error_access_denied">Erişim engellendi.</string>
   <string name="find_device_error_account_sys_timeout">"Mi Hesabına bağlanılamadı. "</string>
