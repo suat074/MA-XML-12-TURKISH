@@ -35,8 +35,8 @@
   <string name="downloading">İndiriliyor…</string>
   <string name="early_morning">Sabah</string>
   <string name="enable_wifi_alert_cancel">İptal</string>
-  <string name="enable_wifi_alert_message">MIUI+ Beta, Wifi kullanarak cihazları bağlar.  Wi-Fi şimdi açılsın mı?</string>
-  <string name="enable_wifi_alert_message_china">MIUI+ Beta, WLAN kullanarak cihazları bağlar.  WLAN şimdi açılsın mı?</string>
+  <string name="enable_wifi_alert_message">MIUI+, Wi-Fi kullanarak cihazları birbirine bağlar. Wi-Fi şimdi açılsın mı?</string>
+  <string name="enable_wifi_alert_message_china">MIUI+, WLAN kullanarak cihazları birbirine bağlar. WLAN şimdi açılsın mı?</string>
   <string name="enable_wifi_alert_ok">Aç</string>
   <string name="enable_wifi_alert_title">Wi-Fi\'ı aç</string>
   <string name="enable_wifi_alert_title_china">WLAN\'ı aç</string>
@@ -246,4 +246,19 @@
   <string name="settings_trusted_tips">Bluetooth ve Wi-Fi açıkken yakındaki seçili cihazlara otomatik olarak bağlanın</string>
   <string name="worker_authorization_trusted">Her zaman bağlan</string>
   <string name="worker_authorization_trusted_only_once">Bir kez bağlan</string>
+  <string name="clipboard_tip">%1$s konumundan kopyalandı</string>
+  <string name="fullscreen_sink_activity_label">Telefonum</string>
+  <string name="settings_connect_pc_group">Bilgisayarınızla çalışın</string>
+  <string name="settings_feature_intro">Bu özellik hakkında</string>
+  <string name="settings_how_use">Handoff kullanımı</string>
+  <string name="settings_pc_history_title">Bağlantı geçmişi</string>
+  <string name="settings_pc_trusted_title">Otomatik bağlan</string>
+  <string name="settings_pc_use_tile">Bu özellik hakkında</string>
+  <string name="settings_scanner_summary">Bir QR kodu kullanarak MIUI+\'ya bağlanın</string>
+  <string name="settings_trusted_tips_china">Bluetooth ve WLAN açıkken yakındaki seçilen cihazlara otomatik olarak bağlanın</string>
+  <string name="softap_notification_action">Bağlan</string>
+  <string name="softap_notification_message">Kullanılabilir Wi-Fi ağı yok. Bu erişim noktasına bağlanılsın mı?</string>
+  <string name="softap_notification_message_china">Kullanılabilir WLAN ağı yok. Bu erişim noktasına bağlanılsın mı?</string>
+  <string name="softap_notification_title">%1$ erişim noktasına bağlan</string>
+  <string name="permission_access_nearby_device">Yakındaki cihazlara erişim</string>
 </resources>

@@ -7394,7 +7394,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
     <string name="face_data_siggesstion_next">Sonraki</string>
     <string name="face_data_siggesstion_next_time">Sonraki (%ds)</string>
     <string name="face_data_suggesstion_first">Yüz tanıma kilidi bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi, fotoğrafınızın yanı sıra benzer görünüme sahip kişiler veya nesneler tarafından da açılabilir.</string>
-    <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin nesnelerle kaplı olmadığından ve açıkça görülebildiğinden emin olun. Yüzünüz iyi aydınlatılmış olmalıdır.</string>
+    <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin açıkça görülebildiğinden emin olun. Yüzünüzü kapatabilecek herhangi bir aksesuar takmayın. Yüzünüzü eşit şekilde aydınlatın ve doğrudan ışıktan kaçının.</string>
     <string name="face_unlock">Yüz tanıma kilidi</string>
     <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
     <string name="face_unlock_by_notification_screen_on_msg">Ekran, gelen bildirimler için her aydınlandığında yüz verilerini kullanarak cihazın kilidini açabilirsiniz. Bu, pili daha hızlı boşaltabilir.</string>
