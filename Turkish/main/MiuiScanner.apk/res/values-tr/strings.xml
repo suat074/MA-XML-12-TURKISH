@@ -295,6 +295,7 @@
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preparing_sd">SD kart hazırlanıyor…</string>
   <string name="previous">Geri</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="prompt">Dikkat</string>
   <string name="qr_code_details">QR kod detayları:</string>
   <string name="queryNum">Sipariş kontrolü</string>

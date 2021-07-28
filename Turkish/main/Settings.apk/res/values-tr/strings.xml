@@ -2358,7 +2358,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="firewall_temp_rule_reason">"%1$s için %2$s sınırlı internet bağlantısı "</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamayacak.</string>
-  <string name="firmware_version">Android sürümü</string>,
+  <string name="firmware_version">Android sürümü</string>
   <string name="fiveg_sa_switch_summary">SA ağını ikincil SIM\'de kullanın (yalnızca test için)</string>
   <string name="fiveg_sa_vice_switch_title">İkincil SIM\'de SA</string>
   <string name="flash_drive_backup_restore">USB sürücüsü</string>
