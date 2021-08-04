@@ -35,6 +35,9 @@
   <string name="dolby_dax_profile_dynamic">Hareketli</string>
   <string name="dolby_dax_setting">Dolby efektleri</string>
   <string name="dolby_dax_title">Surround ses</string>
+  <string name="effect_3dsurround">Surround ses</string>
+  <string name="effect_3dsurround_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
+  <string name="effect_3dsurround_summary_headphone">Kulaklıklar için ses üretiminin derinliğini artırın</string>
   <string name="end_wireless_transmission">Durdur</string>
   <string name="eq_auto">Özel</string>
   <string name="eq_blues">Hüzün</string>
