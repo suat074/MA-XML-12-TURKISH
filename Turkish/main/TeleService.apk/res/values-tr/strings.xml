@@ -1985,6 +1985,8 @@ Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmel
   <string name="wild_prompt_str">Joker karakteri değiştirin</string>
   <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
   <string name="wrong_password">Girdiğiniz şifre yanlış</string>
+  <string name="xcap_setting_summary">Çağrı engelleme, Sesli posta &amp; çağrı yönlendirme ve Çağrı bekletme </string>
+  <string name="xcap_setting_title">Çağrı hizmeti ayarları</string>
   <string name="zen_alarm_warning">Bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_alarm_warning_indef">Bunu daha önce kapatmazsan bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_interruption_level_priority">Sadece öncelik</string>

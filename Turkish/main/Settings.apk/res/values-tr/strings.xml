@@ -5764,6 +5764,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="summary_range_verbal_combination">" %2$s / %1$s"</string>
   <string name="sunlight_mode">Güneş ışığı modu</string>
   <string name="sunlight_mode_summary">Otomatik parlaklık kapalıyken parlaklığı güçlü ortam ışığına ayarlayın</string>
+  <string name="sunlight_mode_summary_new">Ekranın çok karanlık olmasını önlemek için parlaklığı güçlü ortam ışığına ayarlayın. Ortam ışığı güçlü olduğunda ekranın üst kısmında küçük bir güneş simgesi görünecektir.</string>
   <string name="super_resolution_access_title">Erişilebilir uygulamalar</string>
   <string name="super_resolution_desc">Bir AI algoritması kullanarak görüntüleri daha canlı hale getirin</string>
   <string name="super_resolution_maintain">Süper çözünürlük henüz mevcut değil.</string>
@@ -8103,4 +8104,6 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="app_uninstall_sounds_enable_title">Uygulamaları kaldırırken ses çal</string>
   <string name="lock_sound_effect_enable_title">Cihazı kilitlerken ses çal</string>
   <string name="unlock_sound_effect_enable_title">Cihazın kilidini açarken ses çal</string>
+  <string name="disable_uft">Uft\'yi kapat</string>
+  <string name="enable_uft">Uft\'yi aç</string>
 </resources>
