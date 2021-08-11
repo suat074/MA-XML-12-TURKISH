@@ -104,6 +104,14 @@
     <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
     <item quantity="one">En az %s uygulamayı koruyabilirsiniz</item>
   </plurals>
+  <plurals name="behavior_widget_app_text">
+    <item quantity="other">%1$s dahil %2$d uygulama</item>
+    <item quantity="one">%1$s dahil %2$d uygulama</item>
+  </plurals>
+  <plurals name="behavior_widget_perm_counts">
+    <item quantity="other">%d kez</item>
+    <item quantity="one">%d kez</item>
+  </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d uygulama arka planda ağa bağlanabilir</item>
     <item quantity="one">%d uygulama arka planda ağa bağlanabilir</item>

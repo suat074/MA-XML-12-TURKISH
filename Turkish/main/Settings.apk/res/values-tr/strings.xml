@@ -8106,4 +8106,10 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="unlock_sound_effect_enable_title">Cihazın kilidini açarken ses çal</string>
   <string name="disable_uft">Uft\'yi kapat</string>
   <string name="enable_uft">Uft\'yi aç</string>
+  <string name="enable_local_backup_message_intledition">Bu cihaza yedekleri kaydedebilmek ve bunu bilgisayarınıza kopyalayabilmek için bu özelliği açın. Şimdi açılsın mı?</string>
+  <string name="settings_charging_at_fast_speed">Hızlı şarj</string>
+  <string name="settings_charging_at_normal_speed">Şarj oluyor</string>
+  <string name="settings_charging_at_top_speed">En hızlı şarj</string>
+  <string name="settings_charging_fully_charged">Tam şarj</string>
+  <string name="settings_charging_not_charging">Şarj olmuyor</string>
 </resources>

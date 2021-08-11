@@ -4415,7 +4415,7 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="warningcenter_policeassist_noti_send">Konumunuz polisle paylaşıldı</string>
   <string name="warningcenter_policeassist_noti_title">Acil çağrılar sırasında konum paylaşın</string>
   <string name="warningcenter_policeassist_open_btn">Aç</string>
-  <string name="warningcenter_policeassist_open_content">110, 120, 119, 122 veya 12122\'yi ararken konum bilgilerinizi otomatik olarak SMS veya mobil veri kullanarak polise gönderin.</string>
+  <string name="warningcenter_policeassist_open_content">110, 120, 119, veya 122\'yi ararken konum bilgilerinizi otomatik olarak SMS veya mobil veri kullanarak polise gönderin.</string>
   <string name="warningcenter_policeassist_open_title">Acil çağrılar sırasında konumunuzu polisle paylaşın</string>
   <string name="warningcenter_policeassist_privacy"><Data>"&lt;a href=\"%1$s\">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ediyorum."</Data></string>
   <string name="warningcenter_policeassist_title">Acil konum</string>
@@ -4689,4 +4689,38 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="virus_info_title">Açıklama</string>
   <string name="virus_news_title">İlgili bilgiler</string>
   <string name="virus_type_title">Tür</string>
+  <string name="behavior_widget_get_installed_apps">Uygulamalara erişildi</string>
+  <string name="behavior_widget_get_location">Konuma erişildi</string>
+  <string name="behavior_widget_read_clipboard">Panoya erişildi</string>
+  <string name="behavior_widget_read_contact">Kişilere erişildi</string>
+  <string name="behavior_widget_read_write_external_storage">Dosyalara erişildi</string>
+  <string name="gamebox_brightness">Parlaklık</string>
+  <string name="gamebox_mem_clean">Hafızayı temizle</string>
+  <string name="gamebox_screenrecord">Kayıt</string>
+  <string name="gamebox_screenshot">Ekran görüntüsü</string>
+  <string name="gb_performance_balance">Dengeli</string>
+  <string name="gb_performance_high">Performans</string>
+  <string name="gb_performance_mode">Oyun modu</string>
+  <string name="gb_performance_tips">"Performans modunu uzun süre kullanmak
+pili tüketebilir ve ısınmaya neden olabilir"</string>
+  <string name="gb_turbo_collimator_subtitle">Hedef cihazı kullan</string>
+  <string name="gb_turbo_macro_subtitle">Üst düzey eylemler gerçekleştirin </string>
+  <string name="gb_turbo_shoulder_subtitle">Oyun kontrollerini ayarla</string>
+  <string name="gb_turbo_time_subtitle">Oturumlarınızı zamanlayın</string>
+  <string name="gb_turbo_voice_subtitle">Konuşmalarınıza renk katın</string>
+  <string name="gb_turbo_wonder_subtitle">Önemli anları kaydedin</string>
+  <string name="gb_voice_change_audition_tip">Demo</string>
+  <string name="gb_voice_changer_user_vip_expired">Süresi doldu</string>
+  <string name="gb_voice_changer_user_vip_remain_time">Son kul. tarihi: %s</string>
+  <string name="gtb_guide_finish">Atla</string>
+  <string name="gtb_guide_gtb_button_done">Bitti</string>
+  <string name="gtb_guide_gtb_community_desc">Deneyiminizi diğer oyuncularla paylaşın</string>
+  <string name="gtb_guide_gtb_community_title">Topluluk</string>
+  <string name="gtb_guide_gtb_func_desc">Oyununuzu hızlandırın</string>
+  <string name="gtb_guide_gtb_func_title">Game Turbo</string>
+  <string name="gtb_guide_gtb_game_effected">Uygulandı</string>
+  <string name="gtb_guide_gtb_game_new">Yeni</string>
+  <string name="gtb_guide_gtb_line_new">Yepyeni Game Turbo ile oyununuzu hızlandırın!</string>
+  <string name="gtb_guide_small_window_app_desc">Oynarken diğer uygulamaları kullanın</string>
+  <string name="gtb_guide_small_window_app_title">Yüzer pencereler</string>
 </resources>

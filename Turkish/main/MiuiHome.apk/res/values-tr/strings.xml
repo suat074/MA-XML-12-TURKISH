@@ -629,6 +629,10 @@
   <string name="navigation_guide_recent_summary">Ekranın altından yukarı doğru kaydırın ve duraklatın</string>
   <string name="navigation_guide_recent_title">Son kullanılanları aç</string>
   <string name="navigation_guide_settings">Hareket önizlemeleri</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">İptal</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">Üçüncü taraf başlatıcılarla tam ekran hareketlerini kullanamazsınız. Sistem başlatıcısına geçip tam ekran hareketleri açılsın mı?</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">Tamam</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Dikkat</string>
   <string name="switch_screen_button_order">Tuşları ters çevir</string>
   <string name="switch_screen_button_order_desc">Geri ve Menü tuşlarının yerini değiştir</string>
   <string name="menu_new_display_open">Yeni pencerede aç</string>
