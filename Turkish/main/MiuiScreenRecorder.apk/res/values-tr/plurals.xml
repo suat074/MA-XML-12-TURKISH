@@ -8,4 +8,8 @@
         <item quantity="other">%1$d ekran kaydı silinsin mi?</item>
         <item quantity="one">%1$d ekran kaydı silinsin mi?</item>
     </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
 </resources>

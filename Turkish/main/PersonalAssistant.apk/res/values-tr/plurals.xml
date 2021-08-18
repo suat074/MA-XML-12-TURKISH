@@ -133,6 +133,10 @@
   <plurals name="mins_ago">
     <item quantity="other">%1$ddak önce</item>
   </plurals>
+  <plurals name="pa_edit_text_min_length">
+    <item quantity="other">En az %1$d karakter</item>
+    <item quantity="one">En az %1$d karakter</item>
+  </plurals>
   <plurals name="payment_record_dialog_delete_message">
     <item quantity="other">%s öğeleri ödemeden silinsin mi?</item>
     <item quantity="one">%s öğesi ödemeden silinsin mi?</item>

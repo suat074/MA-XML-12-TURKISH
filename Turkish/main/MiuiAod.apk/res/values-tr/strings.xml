@@ -190,6 +190,7 @@ dd/MM"</string>
   <string name="notification_anim_pulse">Titreşim</string>
   <string name="notification_anim_rhythm">Ritim</string>
   <string name="notification_anim_star">Yıldız ışığı</string>
+  <string name="notification_channel_alerts">Uyarılar</string>
   <string name="notification_nothing">Yok</string>
   <string name="notification_screen_on">Ekranı aydınlat</string>
   <string name="only_show_bg_description">Saati, tarihi ve diğer öğeleri gösterme</string>

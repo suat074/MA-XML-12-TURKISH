@@ -354,6 +354,14 @@
   <string name="lock_screen_failed_message">Kilit ekranı duvar kağıdı ayarlanamıyor</string>
   <string name="lock_screen_success_message">Kilit ekranına uygulandı</string>
   <string name="lock_screen_wallpaper">Kilit ekranı duvar kağıdı</string>
+  <string name="maml_download_dialog_cancel_text">Wİ-Fİ\'yi bekleyin</string>
+  <string name="maml_download_dialog_cancel_text_china">Wlan\'ı bekleyin</string>
+  <string name="maml_download_dialog_checkbox_text">Tekrar gösterme</string>
+  <string name="maml_download_dialog_confirm_text">İndir</string>
+  <string name="maml_download_dialog_message">Bu öğeyi indirmek için %s MB mobil veri kullanılacak. Yine de indirilsin mi?</string>
+  <string name="maml_download_dialog_title">Veri kullanım uyarısı</string>
+  <string name="maml_download_tip_wait_wifi">Bu öğe, Wİ-Fİ\'ye bağlandığınızda indirilecek</string>
+  <string name="maml_download_tip_wait_wifi_china">Bu öğe, Wlan\'a bağlandığınızda indirilecek</string>
   <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
   <string name="memory_clear_nothing_result">Önbellekte temizlenecek bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi</string>
@@ -656,4 +664,7 @@
   <string name="navigation_guide_prohibit_gesture_hint">Demoları izlerken tam ekran hareketleri kullanılamaz</string>
   <string name="swipe_the_desktop_to_the_left">Ana ekranda sola kaydırın</string>
   <string name="swipe_the_desktop_to_the_right">Ana ekranda sağa kaydırın</string>
+  <string name="open_personal_assistant_settings">Uygulama kasası ayarları</string>
+  <string name="system_shortcuts_edit">Düzenle</string>
+  <string name="toast_drag_to_assistant_reject">Uygulama kasası başlatılıyor…</string>
 </resources>

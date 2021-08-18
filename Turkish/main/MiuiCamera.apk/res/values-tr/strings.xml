@@ -1755,6 +1755,7 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="video_cast_service_name">Çift telefon</string>
   <string name="video_cast_state_exited">Çift telefonlu kayıttan çıkıldı</string>
   <string name="video_cast_state_paused">Duraklatıldı</string>
+  <string name="video_overheat_tip_content">Görünüşe göre cihazınız çok sıcak. Daha düşük çözünürlükte video çekmeyi deneyin.</string>
   <string name="mimoji_eyelid">Göz kapakları</string>
   <string name="accessibility_preview_remote">Çift telefonlu kayıt önizlemesi</string>
   <string name="pref_multi_camera_dual_video_remote">Çift telefonlu kayıt</string>

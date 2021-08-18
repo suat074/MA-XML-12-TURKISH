@@ -42,7 +42,7 @@
   <string name="v7_preference_on">AÇIK</string>
   <string name="access_denied">Erişim engellendi</string>
   <string name="account_related">Cihazınız varolan Mi Hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
-  <string name="activate_find_device_success">Cihazı bul etkinleştirildi.</string>
+  <string name="activate_find_device_success">Cihazı bul başarıyla etkinleştirildi</string>
   <string name="activate_finddevice">Cihazı etkinleştirmek için ağa bağlanın</string>
   <string name="activating">Etkinleştiriliyor…</string>
   <string name="add_short_cut">Ekle</string>
@@ -105,7 +105,7 @@
   <string name="find_device_dspt_provision">Cihazınızı kaybederseniz, yerini belirlemek, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>%s&lt;/font> adresine gidebilirsiniz. Ayarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="find_device_error_network">Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
-  <string name="find_device_gdpr_prompt">Cihazı bul özelliğini açarak <a href="app://com.miui.cloudservice.gdpr.license"><u>Gizlilik Politikamızı</u></a> kabul etmiş olursunuz. Yetkilendirmeyi iptal etmeniz gerekirse, bu özelliği kapatın.</string>
+  <string name="find_device_gdpr_prompt">"Cihazı bul özelliğini açarak "<a href="app://com.miui.cloudservice.gdpr.license"><u>Gizlilik Politikamızı</u></a> kabul etmiş olursunuz. Onayınızı geri çekmek istiyorsanız bu özelliği kapatın.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik Politikası</string>
   <string name="find_device_operation_failure_rpc">RPC hatası nedeniyle işlem gerçekleştirilemedi.</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS daha gönderilebilir.</string>
@@ -229,7 +229,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_guide_button">Cihazı bul özelliğini aç</string>
   <string name="micloud_find_device_guide_desc_pad">Cihazınız kaybolursa, kaybolan cihazdaki verileri bulmak, uzaktan kilitlemek veya silmek için başka bir cihazdan &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Ayrıntıları görüntüle&lt;/a>.</string>
   <string name="micloud_find_device_guide_desc_phone">Cihazınız kaybolursa, kaybolan cihazdaki verileri bulmak, uzaktan kilitlemek veya silmek için başka bir cihazdan &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Ayrıntıları görüntüle&lt;/a>.</string>
-  <string name="micloud_find_device_guide_fail_reopen">Mi Hesabı - Xiaomi Bulut içinde Cihazı bul\'u açabilirsiniz</string>
+  <string name="micloud_find_device_guide_fail_reopen">Xiaomi Bulut içerisinden Cihazı bul\'u açın</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ağ bağlantınız kontrol edin ve tekrar deneyin.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Kişileri, fotoğrafları, notları ve daha fazlasını Xiaomi Bulut ile eşitle</string>
   <string name="micloud_find_device_guide_noti_content">Cihazınız kaybolsa bile verilerinizi koruyun</string>
@@ -248,7 +248,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_sms_alert">Bu hizmeti etkinleştirmek için bir SMS mesajı gönderilmesi gereklidir. Operatörünüz bu mesaj için sizden ücret alabilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.</string>
   <string name="micloud_find_device_verify_button">Cihazı bul\'u tekrar etkinleştir</string>
   <string name="micloud_find_device_verify_close">Cihazı bul özelliğini kapat</string>
-  <string name="micloud_find_device_verify_fail">Cihazı bul yeniden etkinleştirilemedi</string>
+  <string name="micloud_find_device_verify_fail">Cihazı bul etkinleştirilemedi</string>
   <string name="micloud_find_device_verify_progress">Cihazı bul yeniden etkinleştiriliyor…</string>
   <string name="micloud_last_sync_canceled">Eşitleme iptal edildi. Tekrar deneyin.</string>
   <string name="micloud_main_button_set_internet">Ayar</string>

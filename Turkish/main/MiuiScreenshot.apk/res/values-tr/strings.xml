@@ -35,6 +35,7 @@ görüntüsü almak için dokunun"</string>
     <string name="long_screenshot_stop">Bitti</string>
     <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor…</string>
     <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
+	<string name="notification_channel_alerts">Uyarılar</string>
     <string name="partial_screenshot_edit">Düzenle</string>
     <string name="partial_screenshot_repaint">Baştan başlat</string>
     <string name="partial_screenshot_save">Kaydet</string>

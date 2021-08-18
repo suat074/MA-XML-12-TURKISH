@@ -2251,10 +2251,12 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_center_super_wireless_charge_dialog_summary">Bu mod, kablosuz şarj cihazının soğutucusunun fan hızını artırır. Cihazınızı daha hızlı şarj etmek için bu modu açık tutun veya gürültünün çok yüksek olduğunu düşünüyorsanız kapatın.</string>
   <string name="power_center_super_wireless_charge_dialog_summary2">Daha fazla seçenek için Güvenlik > Pil > Ayarlar\'a gidin.</string>
   <string name="power_center_super_wireless_charge_dialog_title">Hızlı kablosuz şarj</string>
+  <string name="power_center_super_wireless_charge_enter_noti_summary">Daha hızlı şarj etmek için soğutucunun fan hızını artırın</string>
+  <string name="power_center_super_wireless_charge_enter_noti_title">Hızlı kablosuz şarjı deneyin</string>
   <string name="power_center_super_wireless_charge_noti_summary">Ayarları açmak için dokunun</string>
   <string name="power_center_super_wireless_charge_noti_switch">Hızlı kablosuz şarj hakkında bildirim</string>
   <string name="power_center_super_wireless_charge_noti_title">Hızlı kablosuz şarj açık</string>
-  <string name="power_center_super_wireless_charge_summary">Kablosuz şarj cihazının soğutucusunun fan hızını artırın</string>
+  <string name="power_center_super_wireless_charge_summary">Daha hızlı şarj etmek için soğutucunun fan hızını artırın</string>
   <string name="power_center_super_wireless_charge_toast_close">Hızlı kablosuz şarj kapalı</string>
   <string name="power_center_time_to_boot">Gücün açılacağı zaman</string>
   <string name="power_center_time_to_shutdown">Gücün kapanacağı zaman</string>

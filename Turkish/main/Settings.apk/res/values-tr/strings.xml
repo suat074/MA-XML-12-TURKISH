@@ -3206,6 +3206,8 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="lost_internet_access_text">Kablosuz ağın internet bağlantısı sorunlu olduğunda mobil ağa geçiş yapabilirsiniz. Veri kullanımı ücretleri geçerli olabilir.</string>
   <string name="lost_internet_access_title">Kablosuz ağ İnternet\'e bağlı değil</string>
   <string name="macaddr_label">MAC Adresi:</string>
+  <string name="magic_list_empty_text_pad">Artık bu özellik ile uyumlu uygulama yok</string>
+  <string name="magic_window_name_pad">Uygulamaları yatay görünüm için optimize edin</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Ağ oluşturma sorunları için deneme bağlantısı</string>
   <string name="main_running_process_description">Ana işlem kullanımda.</string>
@@ -7829,7 +7831,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="fold_rule_default">Önerilen</string>
   <string name="fold_rule_important">Önemli</string>
   <string name="fold_rule_unimportant">Önemsiz</string>
-  <string name="magic_window_name">Uygulamaları yatay görünüm için optimize edin</string>
+  <string name="magic_window_name">Paralel pencereler</string>
   <string name="truetone_summary">Renkleri ortam ışığına göre ayarlayın</string>
   <string name="truetone_title">Uyarlanabilir renkler</string>
   <string name="user_experience_open_url">Kullanıcı Deneyimi Programı hakkında daha fazla bilgi edinin</string>

@@ -1183,4 +1183,8 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="share_content_text_first_theme">Buna bir bak! \"%1$s\" teması telefonuna tamamen yeni bir görünüm kazandırır.</string>
   <string name="share_content_text_first_wallpaper">Buna bir bak! \"%1$s\" duvar kağıdı telefonuna tamamen yeni bir görünüm kazandırır.</string>
   <string name="share_content_text_second">" %1$s! içinde kendi tarzınızı bulun!"</string>
+  <string name="apply_warning_tip_get_device_status">Bu uygulama için önce, Profil > Ayarlar bölümünden cihaz kimliğinize erişmesine izin verin.</string>
+  <string name="dialog_content_get_device_status">Diğer cihazlarınızda satın alınan öğelerin kimliğini doğrulayabilmek için bu uygulamanın cihaz kimliğinize erişmesi gerekiyor. Bu özelliği kapattıktan sonra satın alınan öğelerden bazılarını kullanamayabilirsiniz. Yine de kapatılsın mı?</string>
+  <string name="preference_subtitle_get_device_status">Diğer cihazlarınızda satın alınan öğeleri indirebilmek için uygulamanın cihaz kimliğinize erişmesine izin verin</string>
+  <string name="preference_title_get_device_status">Cihaz kimliğine erişim</string>
 </resources>

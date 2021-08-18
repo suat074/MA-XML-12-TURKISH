@@ -57,8 +57,8 @@
   <string name="backup_successfully">Başarıyla yedeklendi</string>
   <string name="backup_to_cloud">Uygulamayı Yedekle</string>
   <string name="backup_warning_reason_cloud_space_not_enough">Yedeklenemiyor</string>
-  <string name="backup_warning_reason_disk_space_not_enough">"Yeterli depolama alanı yok
-Yedeklenemiyor"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Yedeklenemiyor.
+Yeterli depolama alanı yok."</string>
   <string name="backup_warning_reason_network_error">"Ağ hatası
 Yedeklenemiyor"</string>
   <string name="backup_warning_reason_no_server_response">"Bağlantı kesildi
@@ -86,7 +86,7 @@ Tekrar deneyin"</string>
   <string name="cloud_app_backup_success">Uygulamalar başarıyla yedeklendi</string>
   <string name="cloud_app_check_data">Xiaomi Bulut ile haberleşiyor…</string>
   <string name="cloud_app_current_device">Geçerli Cihaz</string>
-  <string name="cloud_app_dont_restore">Yeni cihaz olarak kur</string>
+  <string name="cloud_app_dont_restore">Yeni bir cihaz olarak kullan</string>
   <string name="cloud_app_no_data">Yedekleme yok</string>
   <string name="cloud_app_no_network">Ağa bağlanamıyor</string>
   <string name="cloud_app_other_devices">Diğer cihazlar</string>
@@ -271,6 +271,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_init_description">Geri yüklemeyi başlat</string>
   <string name="restore_network_pause">Mobil veri tasarrufu için duraklatıldı. Devam ettirmek için dokunun.</string>
   <string name="restore_network_unconnect">%s (Bağlantı için bekleniyor)</string>
+  <string name="restore_prepare_item_type_enable">Kullanılabilir yedekler</string>
+  <string name="restore_prepare_item_type_other">Diğer yedekler</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
   <string name="restore_task_unfinished">Geri yüklenemedi</string>
@@ -282,8 +284,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="retry">Yeniden dene</string>
   <string name="search_menu_title">Ara</string>
   <string name="selected">Seçili</string>
-  <string name="self_device_main_space">Bu telefonun İlk alanı</string>
-  <string name="self_device_second_space">Bu telefonun ikinci alanı</string>
+  <string name="self_device_main_space">İlk alan</string>
+  <string name="self_device_second_space">İkinci alan</string>
   <string name="settings_backup">Sistem Ayarları</string>
   <string name="size_unknown">Boyut bilinmiyor</string>
   <string name="start_backup_to_micloud">Uygulamaları Xiaomi Bulut\'a yedekle</string>
@@ -312,7 +314,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="cloud_backup_detail_app_data">WeChat verilerini yedekle</string>
   <string name="cloud_backup_detail_app_data_summary">Sohbet geçmişini, dosyaları ve diğer öğeleri yedekleyin</string>
   <string name="confirm_restore_app_data">Uygulama verilerinin üzerine yazma</string>
-  <string name="confirm_restore_app_data_summary">WeChat verilerini geri yükleyince, bu cihazdaki uygulama verilerinin mevcut sürümünün üzerine yazılır.  Yine de geri yüklensin mi?</string>
+  <string name="confirm_restore_app_data_summary">Görünüşe göre WeChat bu cihazda zaten veri oluşturmuş. Yedekleme verileri üzerine yazılsın mı?</string>
   <string name="dialog_backup_failed">Yedeklenemedi</string>
   <string name="dialog_buy_cloud_space">Yükselt</string>
   <string name="dialog_cloud_space_not_enough">Bu yedekleme için %1$s boş bulut depolama alanı gerekir. Öğeleri yedeklemek için depolama planınızı yükseltin.</string>

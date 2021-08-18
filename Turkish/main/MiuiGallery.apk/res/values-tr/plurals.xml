@@ -579,5 +579,21 @@
   <plurals name="talkback_album_item_content">
     <item quantity="other">%1$s, %2$s öğe</item>
     <item quantity="one">%1$s, %2$s öğe</item>
+  </plurals>
+  <plurals name="cloud_storage_warn_title_link">
+    <item quantity="other">Yetersiz bulut depolama alanı nedeniyle %d öğe eşitlenemedi</item>
+    <item quantity="one">Yetersiz bulut depolama alanı nedeniyle %d öğe eşitlenemedi</item>
+  </plurals>
+  <plurals name="downloading_title_link">
+    <item quantity="other">Öğeler buluttan indiriliyor (%2$d/%1$d)</item>
+    <item quantity="one">Öğeler buluttan indiriliyor (%2$d/%1$d)</item>
+  </plurals>
+  <plurals name="syncing_gprs_title_link">
+    <item quantity="other">%d öğe mobil veri kullanılarak eşitleniyor</item>
+    <item quantity="one">%d öğe mobil veri kullanılarak eşitleniyor</item>
+  </plurals>
+  <plurals name="syncing_title_link">
+    <item quantity="other">%d öğe eşitleniyor</item>
+    <item quantity="one">%d öğe eşitleniyor</item>
   </plurals>  
 </resources>
