@@ -110,7 +110,7 @@
   <string name="find_device_operation_failure_rpc">RPC hatası nedeniyle işlem gerçekleştirilemedi.</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS daha gönderilebilir.</string>
   <string name="find_device_service_title">Cihazı bul</string>
-  <string name="find_device_status_summary">Cihazınızı bulun ve kilitleyin, ayrıca verileri uzaktan silin</string>
+  <string name="find_device_status_summary">Cihazınızı bulun ve kilitleyin, verileri uzaktan silin</string>
   <string name="find_device_status_title_pad">Cihazı bul</string>
   <string name="find_device_status_title_phone">Cihazı bul</string>
   <string name="finddevice_miservice_notification_content">Kaybolursa cihazınızı uzaktan kilitleyin</string>
@@ -455,7 +455,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
   <string name="reading_status">Durum yükleniyor…</string>
   <string name="reading_status_failure">Durum yüklenemedi.</string>
-  <string name="retain_data_high_quality_photo_waring_message">Oturumu kapattıktan sonra yüksek kaliteli resimler Galerinizden silinecek. İlgili orijinal dosyalar yine de bulutta saklanacak. Ayrıca çıkış yapmadan önce orijinal dosyaları da indirebilirsiniz.</string>
+  <string name="retain_data_high_quality_photo_waring_message">Çıkış yaptıktan sonra fotoğraflarınızın ve videolarınızın yüksek kaliteli kopyaları Galeri\'den silinecek. İlgili orijinal dosyalar bulutta depolanmaya devam edecek. Ayrıca oturumu kapatmadan önce orijinal dosyaları indirebilirsiniz.</string>
   <string name="retain_data_high_quality_photo_waring_title">Yüksek kaliteli resimler kullanılamayacak</string>
   <string name="search_cloudbackup_pref">Bulut Yedekleme</string>
   <string name="search_cloudbackup_pref_desc">Bulut Yedeklemeyi aç/kapat</string>

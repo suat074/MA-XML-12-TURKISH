@@ -185,7 +185,7 @@
   <string name="find_device_clear_data">Verileri sil</string>
   <string name="find_device_close">Kapalı</string>
   <string name="find_device_error_password_not_confirmed">Cihazı bul özelliği kapatılamıyor. Mi Hesap şifrenizi tekrar girin.</string>
-  <string name="find_device_error_password_recently_changed">Şifrenizi son 3 gün içinde değiştirdiniz. Güvenlik nedeniyle, Cihazı bul artık kapatılamıyor.</string>
+  <string name="find_device_error_password_recently_changed">Şifrenizi son %d gün içinde değiştirdiniz. Güvenlik nedeniyle Cihazı bul şimdi kapatılamıyor.</string>
   <string name="find_device_interrupted">İşlem kesintiye uğradı, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_io_error">Ağa bağlanamadı</string>
   <string name="find_device_location">Konumlandır</string>

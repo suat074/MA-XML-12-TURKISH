@@ -154,10 +154,14 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="device_corrupt">Mi Telefon (Veri bozulmuş)</string>
   <string name="device_delete_prompt">%s yedek silinsin mi?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_app_usage_consent_message">Bu özelliğin, WeChat yedeklemelerinin boyutunu tahmin edebilmesi için uygulama kullanım verilerine erişmesi gerekir.</string>
+  <string name="dialog_app_usage_consent_title">Uygulama kullanım verilerine erişime izin ver</string>
   <string name="dialog_btn_cancel_backup">İptal</string>
   <string name="dialog_btn_next">Sonraki</string>
   <string name="dialog_btn_overwrite_backup">Üzerine yaz</string>
   <string name="dialog_btn_restore_skip">Daha sonra geri yükle</string>
+  <string name="dialog_button_agree">İzin ver</string>
+  <string name="dialog_button_disagree">Reddet</string>
   <string name="dialog_cancel_backup_cancel">İptal</string>
   <string name="dialog_cancel_backup_confirm">Tamam</string>
   <string name="dialog_cancel_backup_msg">Anahtarı değiştirdiğinizde devam eden yedeklemeler sona erer.</string>
@@ -176,6 +180,11 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="download_meta_failed">Veri yüklenemedi.</string>
   <string name="download_settings">Ana Ekran Ayarları indiriliyor: %%%s</string>
   <string name="download_settings_fail">Ana Ekran Ayarları indirilemedi</string>
+  <string name="dump_app_data_record_complete_msg">Dosya konumları: %s</string>
+  <string name="dump_app_data_record_complete_title">WeChat verileri başarıyla yedeklendi</string>
+  <string name="dump_app_data_record_not_found_msg">Görünüşe göre daha önce WeChat verilerini yedeklememişsiniz</string>
+  <string name="dump_app_data_record_not_found_title">WeChat yedekleri bulunamadı</string>
+  <string name="dump_app_data_record_running_title">WeChat verileri yedekleniyor…</string>
   <string name="error_retry_later">Eylem tamamlanamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_unknown">Bazı şeyler ters gitti</string>
   <string name="expand_button_title">Gelişmiş</string>
