@@ -20,6 +20,14 @@
     <item quantity="other">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
     <item quantity="one">Aynı anda en fazla %d klon oluşturabilirsiniz.</item>
   </plurals>
+  <plurals name="exit_camera_hint">
+    <item quantity="other"><Data>"Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d san&lt;/b>&lt;/font> içinde kapatılacak. Bundan sonra, bir iki dakika bekleyin ve tekrar deneyin."</Data></item>
+    <item quantity="one"><Data>"Kameraya bağlanılamıyor.&lt;br>Bu uygulama &lt;font color=#FFCE16>&lt;b>%1$d san&lt;/b>&lt;/font> içinde kapatılacak. Bundan sonra, bir iki dakika bekleyin ve tekrar deneyin."</Data></item>
+  </plurals>
+  <plurals name="exit_thermal_hint">
+    <item quantity="other"><Data>Bu cihaz şimdi çok sıcak.&lt;br>Uygulama &lt;font color=#FFCE16>&lt;b>%1$d san&lt;/b>&lt;/font> içinde kapatılacak. Mevcut ilerleme otomatik olarak kaydedildi.</Data></item>
+    <item quantity="one"><Data>Bu cihaz şimdi çok sıcak.&lt;br>Uygulama &lt;font color=#FFCE16>&lt;b>%1$d san&lt;/b>&lt;/font> içinde kapatılacak. Mevcut ilerleme otomatik olarak kaydedildi.</Data></item>
+  </plurals>
   <plurals name="fastmotion_pro_min_unit">
     <item quantity="other">%1$d dak.</item>
     <item quantity="one">%1$d dak.</item>

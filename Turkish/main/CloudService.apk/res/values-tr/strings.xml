@@ -24,6 +24,9 @@
   <string name="mi_drive_not_publish_toast">Mi Drive yakında kullanıma sunulacak</string>
   <string name="mi_drive_summary">Birden fazla cihazdan Xiaomi Bulut üzerindeki belgelere erişin</string>
   <string name="mi_drive_title">Mi Drive</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">Seçili %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
@@ -716,8 +719,8 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="loading_enable_keybag">Parola yöneticisi açılıyor…</string>
   <string name="loading_server_key_info">Öğeler yükleniyor…</string>
   <string name="notification_reinstall_key_text">Kimliğinizi doğrulayın ve tekrar deneyin</string>
-  <string name="notification_sync_fail_title">Eşitlenemedi</string>
-  <string name="notification_update_key_text">Parolanız sıfırlandı</string>
+  <string name="notification_sync_fail_title">Şifreler eşitlenemedi</string>
+  <string name="notification_update_key_text">Şifre yöneticisi şifresi değişti. Yeni şifreyi doğrulayın.</string>
   <string name="sync_item_autofill_summary">Parolalarınızı şifreleyin ve bulutla otomatik olarak eşitleyin</string>
   <string name="sync_item_autofill_title">Otomatik olarak eşitle</string>
   <string name="sync_off_confirm_content">Parola yöneticisini kapattıktan sonra yeni parolaları eşitleyemezsiniz.</string>

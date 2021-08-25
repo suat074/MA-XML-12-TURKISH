@@ -175,4 +175,18 @@ Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafınd
   <string name="nearby_share">Yakın Paylaşım</string>
   <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyiniz.</string>
   <string name="samsung_phone">Samsung telefon</string>
+  <string name="device_list_all">Tüm cihazlar</string>
+  <string name="device_list_more">Daha fazla</string>
+  <string name="transfer_to_pc_summary_new"><Data>Mi Notebook\'larda yüklü olan en son MIUI+ sürümü Mi Paylaşım ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI+ web sitesinde kontrol edebilirsiniz (&lt;a href=%1$s>%2$s&lt;/a>). Dizüstü bilgisayarınız listedeyse ancak MIUI+ yüklü değilse dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcı sürücüsünü güncelleyin ve MIUI+\'yı indirin.</Data></string>
+  <string name="transfer_to_summary">Bildirim alanındaki düğmeyi kullanarak Mi Paylaşım\'ı açın. Bundan sonra, bir fotoğraf veya dosya paylaşmaya başladığınızda yakındaki cihazları görebileceksiniz. Paylaştığınız öğeyi göndermek için alıcı cihaza dokunun.</string>
+  <string name="transfer_to_title">Dosyaları mobil cihazlara gönderin</string>
+  <string name="uwb_guide_summary_1">Hedef cihazı bulamazsanız, diğer kişiden Kontrol merkezinde Mi Paylaşım düğmesine dokunmasını isteyin.</string>
+  <string name="uwb_guide_title_1">Diğer kişiden Paylaşım\'ı açmasını isteyin</string>
+  <string name="uwb_guide_title_2">Beam ile hedef cihazı daha hızlı bulun</string>
+  <string name="uwb_setting_guide">Daha fazla bilgi edin</string>
+  <string name="uwb_setting_guide_summary">Beam, hedef cihazları kablosuz olarak tanımak için UWB teknolojisini kullanır. Hedef cihaz tanındığında simgesi ön plana çıkar.</string>
+  <string name="uwb_setting_guide_title">Bu cihazı uyumlu hedef cihazın tam karşısında tutun</string>
+  <string name="uwb_summary">Beam, hedef cihazları kablosuz olarak tanımak için UWB teknolojisini kullanır. UWB teknolojisiyle güçlendirilen cihazlar arasında öğe aktarımı daha hızlı ve daha kolaydır.</string>
+  <string name="uwb_support_device">"Uyumlu cihazlar: "</string>
+  <string name="uwb_title">Beam</string>
 </resources>

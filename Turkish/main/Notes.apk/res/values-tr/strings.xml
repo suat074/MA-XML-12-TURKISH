@@ -748,4 +748,9 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="widget_create_select_size">Boyut seçin</string>
   <string name="widget_empty_content">Bir not seçmek için dokunun</string>
   <string name="widget_note_list_page_title">Not seçin</string>
+  <string name="app_widget_name_new">Notlar</string>
+  <string name="hand_write_only_support_tablet_editing">El yazısı notlar yalnızca tabletlerde düzenlenebilir</string>
+  <string name="widget_take_notes_title">Notlar</string>
+  <string name="miui_penengine_ppw_shortcut_primary_key">Yazma düğmesi</string>
+  <string name="miui_penengine_ppw_shortcut_secondary_key">Ekran görüntüsü düğmesi</string>
 </resources>

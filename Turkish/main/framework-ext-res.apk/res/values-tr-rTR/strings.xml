@@ -144,6 +144,7 @@
   <string name="international_livetalk_enable">Uluslararası aramalar için kontör paketini kullan</string>
   <string name="key_btn_ok">Tamam</string>
   <string name="key_btn_space">Boşluk tuşu</string>
+  <string name="keyboard_connect_failed">Klavye bağlanamadı. Tekrar takın.</string>
   <string name="keyboard_identity_reject_confirm">Anladım</string>
   <string name="keyboard_identity_reject_message">Klavyeniz bu cihazla uyumlu değil gibi görünüyor.</string>
   <string name="keyboard_identity_transfer_error_message">Klavye bağlanamadı. Tekrar deneyin.</string>

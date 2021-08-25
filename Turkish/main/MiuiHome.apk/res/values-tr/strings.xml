@@ -493,10 +493,10 @@
   <string name="recommend_app">Uygulama önerileri</string>
   <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_no_data">Veri yok</string>
-  <string name="recommend_apps_no_data_toast">Şimdilik hiçbir öneri yok.</string>
-  <string name="recommend_apps_notice">Tanıtılan uygulamalar</string>
-  <string name="recommend_apps_notice_nodata">Tanıtılan uygulamalar (Veri yok)</string>
-  <string name="recommend_apps_switch_title">Tanıtılan uygulamalar</string>
+  <string name="recommend_apps_no_data_toast">Henüz \"Bugünün önerileri\" için öğe yok</string>
+  <string name="recommend_apps_notice">Bugünün önerileri</string>
+  <string name="recommend_apps_notice_nodata">Bugünün önerileri (öğe yok)</string>
+  <string name="recommend_apps_switch_title">Bugünün önerileri</string>
   <string name="recommend_apps_tips">Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kapatmak için bu klasörün adına dokunun.</string>
   <string name="recommend_loading">Yükleniyor</string>
   <string name="recommend_refresh">Yenile</string>

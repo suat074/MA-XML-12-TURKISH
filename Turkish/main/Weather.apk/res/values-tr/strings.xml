@@ -297,6 +297,9 @@
   <string name="notif_aqi_title">Bugün %2$s\'da HKE %1$d</string>
   <string name="notif_weather_title">Bugün %2$s\'da %1$s</string>
   <string name="other_settings">Diğer ayarlar</string>
+  <string name="pad_keyboard_add_city">Konum ekle</string>
+  <string name="pad_keyboard_left_switch">Önceki konum</string>
+  <string name="pad_keyboard_right_switch">Sonraki konum</string>
   <string name="particulate_matter_exceeded">Yüksek</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Çok yüksek</string>

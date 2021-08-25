@@ -8114,4 +8114,7 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="settings_charging_at_top_speed">En hızlı şarj</string>
   <string name="settings_charging_fully_charged">Tam şarj</string>
   <string name="settings_charging_not_charging">Şarj olmuyor</string>
+  <string name="params_interpretation">Ayrıntılı özellikler</string>
+  <string name="vip_service_settings">Hizmetlerim</string>
+  <string name="headset_toast_tip_disconnect_others">Kulaklık şu anda ayarlanamıyor, kulaklığınız başka bir telefona bağlı olabilir</string>
 </resources>

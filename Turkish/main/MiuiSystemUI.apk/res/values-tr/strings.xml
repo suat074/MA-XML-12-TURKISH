@@ -1290,6 +1290,7 @@
   <string name="open_extreme_power_save_mode_title">Aşırı pil tasarrufunu aç</string>
   <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydırın</string>
   <string name="open_remote_center_hint_text">Kısayollar için sağa kaydırın</string>
+  <string name="open_xmyzl_hint_text">Xiaomi Sihirli Kontrol\'ü açmak için sağa kaydırın</string>
   <string name="osu_completing_sign_up">Kaydolma tamamlanıyor…</string>
   <string name="osu_connect_failed">Bağlantı kurulamadı</string>
   <string name="osu_opening_provider">%1$s açılıyor</string>

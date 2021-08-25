@@ -2601,8 +2601,8 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
   <string name="security_scan_optimizing">Optimize ediliyor…</string>
   <string name="security_guide_bubble_text">Aç</string>
-  <string name="security_guide_summary">Araçlar ve servisler için tek nokta</string>
-  <string name="security_guide_title">MIUI Yardımcı Program Kiti</string>
+  <string name="security_guide_summary">Tüm araçlar tek bir yerde</string>
+  <string name="security_guide_title">Araç kutusu</string>
   <string name="securityadd_install_fail">Eklenti güncellenemedi. Tekrar deneyin.</string>
   <string name="securityadd_update_tips_cancle">Şimdi değil</string>
   <string name="securityadd_update_tips_message">En yeni oyun özelliklerine erişmek için Güvenlik hizmeti eklentisini güncelleyin. %1$dMB indirilecek.</string>
@@ -4725,4 +4725,22 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
   <string name="gtb_guide_gtb_line_new">Yepyeni Game Turbo ile oyununuzu hızlandırın!</string>
   <string name="gtb_guide_small_window_app_desc">Oynarken diğer uygulamaları kullanın</string>
   <string name="gtb_guide_small_window_app_title">Yüzer pencereler</string>
+  <string name="bottom_notice_title">Araç kutusunu açmak için yukarı kaydırın</string>
+  <string name="commonly_used_func_card_title">Ortak özellikler</string>
+  <string name="commonly_used_func_edit_too_many_func">Daha fazla öğe eklenemiyor</string>
+  <string name="ew_alert_emergency_text_single">Sağlık kartını göster</string>
+  <string name="phone_manager_edit_commonly_used_func_title">Ortak özellikleri düzenle</string>
+  <string name="phone_manager_title">Araç kutusu</string>
+  <string name="sim_car_absent__tip">Kayıp modunu kapatmak için ekran kilidini onaylayın</string>
+  <string name="sim_car_absent_intercept_action">Ekran kilidini onayla (%d)</string>
+  <string name="sim_car_absent_intercept_action_last">Ekran kilidini onayla</string>
+  <string name="sim_car_absent_intercept_item_summary">Cihazı bul açık. Cihazı kapatmak veya SIM kartı çıkarmak için ekran kilidinin onaylanması gerekir.</string>
+  <string name="sim_car_absent_intercept_item_summary_last">Cihazı bul açık. Cihazı kapatmak veya SIM kartı çıkarmak için ekran kilidinin onaylanması gerekir. Kayıp modu etkinleştirildi.</string>
+  <string name="sim_car_absent_intercept_item_title">Koruma mekanizmaları tetiklendi</string>
+  <string name="sim_car_absent_intercept_summary">SIM kart çıkartıldı. Bu cihazı kullanabilmek için ekran kilidini onaylayın.</string>
+  <string name="sim_car_absent_intercept_title">Ekran kilidini onayla</string>
+  <string name="sim_car_absent_summary">Bu cihazı kullanabilmek için ekran kilidini onaylayın.</string>
+  <string name="sim_car_absent_title">Bu cihaz kayboldu</string>
+  <string name="sim_card_absent_intercept_tip">Ekran kilidini onaylamazsanız Kayıp modu etkinleştirilecek.</string>
+  <string name="sim_card_absent_warning_voice">SIM kart çıkartıldı. Ekran kilidini onaylayın.</string>
 </resources>
