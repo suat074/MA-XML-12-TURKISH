@@ -897,6 +897,8 @@ mevcut"</string>
   <string name="input_or_select_a_name">Bir ad seçin veya girin</string>
   <string name="input_relation_name">Grup adını girin</string>
   <string name="install_fail">Bir hata nedeniyle eklenti yüklenemedi.</string>
+  <string name="install_media_editor_message">Öğeleri düzenleyebilmek için önce eklentiyi indirin. Şimdi indirilsin mi?</string>
+  <string name="install_media_editor_title">Eklentiyi indir</string>
   <string name="invalid_invition_url">Geçersiz URL davetiyesi</string>
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
   <string name="invite_sharer_confirm_button_text">Davet</string>

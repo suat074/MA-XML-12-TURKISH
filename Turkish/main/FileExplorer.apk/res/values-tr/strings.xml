@@ -78,6 +78,7 @@
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d / %2$d aşıldı</string>
   <string name="chip_text">Çentik metni</string>
   <string name="clean_hint">Alan boşaltmak için dokunun</string>
+  <string name="clean_hint_pad">Depolama alanını boşaltmak için çöp kutusunu temizleyin</string>
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="click_to_switch_volume">Birimler arasında geçiş yapmak için dokunun</string>
