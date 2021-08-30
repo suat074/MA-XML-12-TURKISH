@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="acc_category_color_description">
+    <item>Beyaz</item>
+    <item>Koyu mavi</item>
+    <item>Açık mavi</item>
+    <item>Kırmızı</item>
+    <item>Yeşil</item>
+    <item>Pembe</item>
+    <item>Kahverengi</item>
+    <item>Gri</item>
+  </string-array>
+  <string-array name="acc_magic_matting_background_description">
+    <item>Resim seç</item>
+    <item>Şeffaf arka plan</item>
+  </string-array>
+  <string-array name="magic_effects_audio_titles">
+    <item></item>
+    <item></item>
+    <item>Boş zaman</item>
+    <item>Esinti</item>
+    <item>Düşler</item>
+    <item>Bulutlar</item>
+    <item>Düşünceler</item>
+    <item>Tomurcuklar</item>
+    <item>Metamorfoz</item>
+    <item>Derinlik</item>
+    <item>Düşünceler</item>
+    <item>Minimalist</item>
+    <item>Gizem</item>
+    <item>Sis</item>
+  </string-array>
+  <string-array name="magic_effects_description">
+    <item>Arka planları eskizlere dönüştürün</item>
+    <item>Suluboya tarzı arka planlar</item>
+    <item>Cyberpunk retro</item>
+    <item>Yanlış yerleştirilmiş dikey segmentler</item>
+    <item>Puslu bulanıklık</item>
+    <item>Fütüristik his</item>
+  </string-array>
+  <string-array name="magic_effects_title">
+    <item>Eskiz</item>
+    <item>Suluboya</item>
+    <item>RGB</item>
+    <item>Perde</item>
+    <item>Sisli pencere</item>
+    <item>Teknoloji</item>
+  </string-array>
+  <string-array name="magic_effects_video_titles">
+    <item></item>
+    <item>Renkli anahat</item>
+    <item>Kesikli anahat</item>
+    <item>Floresan anahat</item>
+    <item>Renkli gölge</item>
+    <item>Elektrik dalgası</item>
+    <item>Güncel</item>
+    <item>Dalgalar</item>
+    <item>Parçacıklar</item>
+    <item>Metin</item>
+    <item>Kanatlar</item>
+    <item>Melek</item>
+  </string-array>
+  <string-array name="magic_idp_size_category">
+    <item>Genel</item>
+    <item>Seyahat</item>
+    <item>İş</item>
+    <item>Belgeler</item>
+    <item>Eğitim</item>
+    <item>Sınavlar</item>
+  </string-array>
+  <string-array name="magic_idp_size_category_certificates">
+    <item>Sosyal güvenlik</item>
+    <item>Sağlık beyanı</item>
+    <item>Sağlık sigortası</item>
+    <item>Kimlik</item>
+    <item>Oturma izni</item>
+  </string-array>
+  <string-array name="magic_idp_size_category_common">
+    <item></item>
+    <item>Bir cun</item>
+    <item>İki cun</item>
+    <item>Daha küçük bir cun</item>
+    <item>Daha küçük iki cun</item>
+  </string-array>
+  <string-array name="magic_idp_size_category_education">
+    <item>Giriş başvurusu</item>
+    <item>Öğrenci ağı</item>
+    <item>İlkokullar için öğrenci ağı</item>
+    <item>Öğrenci ağ profili</item>
+    <item>Üniversiteye giriş</item>
+    <item>NCEE</item>
+    <item>Devam et</item>
+  </string-array>
+  <string-array name="magic_idp_size_category_profession">
+    <item>İlk ve ortaokul öğretmen sertifikası</item>
+    <item>Öğretmen sertifikası</item>
+    <item>Ehliyet</item>
+    <item>Rehber izni</item>
+    <item>Elektronik rehber izni</item>
+    <item>Ulusal adli sınav</item>
+    <item>Elektronik birinci sınıf yapıcı sertifikası</item>
+    <item>İkinci sınıf yapıcı sertifikası</item>
+    <item>Genç muhasebe ünvan sınavı</item>
+    <item>Yeminli mali müşavir</item>
+    <item>Pekin rehber izni</item>
+    <item>Ara muhasebe unvan incelemesi</item>
+    <item>Kıdemli muhasebe unvan incelemesi</item>
+    <item>Muhasebe yeterlilik belgesi</item>
+    <item>Yeminli mali müşavir muayenesi</item>
+  </string-array>
+  <string-array name="magic_idp_size_category_visa">
+    <item>ABD</item>
+    <item>Vietnam</item>
+    <item>Japonya</item>
+    <item>Hong Kong ve Makao</item>
+    <item>Güney Kore</item>
+    <item>Tayland (turist)</item>
+    <item>Tayland (varışta)</item>
+    <item>Hindistan</item>
+    <item>İsrail</item>
+    <item>Tayvan</item>
+    <item>Malezya</item>
+    <item>Yeni Zelanda</item>
+    <item>İtalya</item>
+    <item>Arjantin</item>
+    <item>Brezilya</item>
+    <item>İzlanda</item>
+    <item>Kenya</item>
+  </string-array>
+</resources>
