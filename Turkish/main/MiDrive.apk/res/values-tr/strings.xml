@@ -165,7 +165,7 @@
   <string name="file_size_is_zero">Dosya boyutu 0\'dan büyük olmalıdır</string>
   <string name="file_size_lager_than_4g">Dosya boyutu 4 GB\'ı aşamaz</string>
   <string name="file_upload_dialog_cancel">İptal</string>
-  <string name="file_upload_dialog_title">Kategori seç</string>
+  <string name="file_upload_dialog_title">Ekle</string>
   <string name="find_psw">Parolayı unuttum</string>
   <string name="for_diagnosis_usage_only">Günlükler yalnızca tanılama için kullanılır.</string>
   <string name="get_back_pwd">Parola sıfırlanıyor</string>

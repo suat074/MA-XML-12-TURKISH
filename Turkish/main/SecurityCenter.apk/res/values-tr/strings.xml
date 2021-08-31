@@ -4743,4 +4743,9 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
   <string name="sim_car_absent_title">Bu cihaz kayboldu</string>
   <string name="sim_card_absent_intercept_tip">Ekran kilidini onaylamazsanız Kayıp modu etkinleştirilecek.</string>
   <string name="sim_card_absent_warning_voice">SIM kart çıkartıldı. Ekran kilidini onaylayın.</string>
+  <string name="gtb_content_switch">İçerik önerileri</string>
+  <string name="gtb_content_switch_summary">Oyunla ilgili içerik önerileri alın</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

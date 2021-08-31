@@ -213,6 +213,8 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="detail_reward_user_limited_to_display">Sadece ilk 100 kişi görüntüleniyor</string>
   <string name="dev_options">Geliştirici seçenekleri</string>
   <string name="dev_options_summary">Web kaynakları</string>
+  <string name="dialog_apply_lock_screen_wallpaper_content">Mevcut tema, Kilit ekranı duvar kağıdının değiştirilmesini desteklemeyebilir.</string>
+  <string name="dialog_apply_lock_screen_wallpaper_warning">Kilit ekranı duvar kağıdı</string>
   <string name="dialog_show_never">Tekrar gösterme.</string>
   <string name="display">Görüntüle</string>
   <string name="download_failed">İndirilemedi</string>
@@ -798,7 +800,7 @@ EEE"</string>
   <string name="system_cta_main_purpose">Çevrimiçi ve çevrimdışı temaları, duvar kağıtlarını, zil seslerini, yazı tiplerini ve video duvar kağıtlarını yönetin ve kullanın</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">IMEI\'ye erişmek ve indirme hizmetleri sağlamak için</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Cihazınızı tanımlamak için cihaz kimliğine erişir</string>
-  <string name="system_cta_runtime_perm_desc_storage">Kaydedilmiş temaları ve diğer öğeleri saklamak için</string>
+  <string name="system_cta_runtime_perm_desc_storage">Kişiselleştirme amacıyla cihazınızda saklanan öğeleri kullanmak ve satın alınan öğeleri kaydetmek için</string>
   <string name="system_precust">Sistemde olan</string>
   <string name="tag_ad">Reklam</string>
   <string name="the_picture_is_not_support">resim desteklenmiyor</string>

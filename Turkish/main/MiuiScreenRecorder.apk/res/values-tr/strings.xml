@@ -116,7 +116,9 @@ Görüntülemek için dokunun"</string>
   <string name="settings_other">Diğer</string>
   <string name="settings_privacy">Gizlilik Politikası</string>
   <string name="show_hard_key">Gezinme düğmelerini görselleştir</string>
+  <string name="show_hard_key_new">Düğme dokunuşlarını göster</string>
   <string name="show_hard_key_summary">Ev, menü ve geri düğmelerine basıldığında istemleri göster</string>
+  <string name="show_hard_key_summary_new">Gezinme düğmesi dokunuşlarını görselleştirin</string>
   <string name="show_screen_touch">Dokunma hareketlerini göster</string>
   <string name="show_screen_touch_summary">Beyaz bir nokta kullanarak hareketleri görselleştirin</string>
   <string name="sound_source">Ses Kaynağı</string>
