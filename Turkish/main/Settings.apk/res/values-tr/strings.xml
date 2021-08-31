@@ -3207,7 +3207,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="lost_internet_access_title">Kablosuz ağ İnternet\'e bağlı değil</string>
   <string name="macaddr_label">MAC Adresi:</string>
   <string name="magic_list_empty_text_pad">Artık bu özellik ile uyumlu uygulama yok</string>
-  <string name="magic_window_name_pad">Uygulamaları yatay görünüm için optimize edin</string>
+  <string name="magic_window_name_pad">Yatay görünüm optimizasyonu</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Ağ oluşturma sorunları için deneme bağlantısı</string>
   <string name="main_running_process_description">Ana işlem kullanımda.</string>

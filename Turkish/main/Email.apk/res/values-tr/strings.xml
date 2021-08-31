@@ -59,6 +59,7 @@
   <string name="login_manual">Manuel Ayar</string>
   <string name="mailbox_setting_preference_sync_summary_close">Eşitleme: Kapalı</string>
   <string name="mailbox_setting_preference_sync_summary_open">Eşitleme: Açık</string>
+  <string name="new_mail_notification_str">Hatırlatıcılara izin ver</string>
   <string name="ntes_authorization_code_to_login">Bu doğrulama kodunu kullanarak oturum açın</string>
   <string name="ntes_copy_and_login">Kopyala ve oturum aç</string>
   <string name="ntes_do_not_sms_uplink">İlişkili telefon numarasından SMS gönderin ve \"Mesaj gönderildi\" öğesine dokunun.</string>

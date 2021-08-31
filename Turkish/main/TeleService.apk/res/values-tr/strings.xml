@@ -2024,4 +2024,13 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="simmelock_name">SIM ME Kilidi</string>
   <string name="strPasswordLengthIncorrect">4-16 numara!</string>
   <string name="unlock_chances_left">Soldaki Yeniden Denemeler:</string>
+  <string name="activity_title_fakecell">Sahte baz istasyonlarına karşı koruma</string>
+  <string name="detect_fakecell">Sahte baz istasyonlarından gelen SMS\'leri tanıma</string>
+  <string name="forbidden_fakecell">Sahte baz istasyonlarına bağlanmayın</string>
+  <string name="forbidden_fakecell_summary">Telefonunuzun sahte baz istasyonlarına bağlanmasını önleyin</string>
+  <string name="not_support_forbidden_fakecell">Cihazınız sahte baz istasyonlarına karşı çip düzeyinde korumayı desteklemiyor.</string>
+  <string name="restart_details">Bu özelliği açmak veya kapatmak, cihazın yeniden başlatılmasını gerektirir. Şimdi yeniden başlatılsın mı?</string>
+  <string name="restart_later">Daha sonra</string>
+  <string name="restart_now">Şimdi yeniden başlat</string>
+  <string name="support_forbidden_fakecell">Not: Bağlantının sahte baz istasyonlarına karşı sınırlandırılması, kapsama alanının zayıf olduğu bölgelerde sinyali azaltabilir.</string>
 </resources>
