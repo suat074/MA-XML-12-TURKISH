@@ -192,4 +192,5 @@ Ayrıntılar için Ayarlar\'a bakın."</string>
   <string name="fast_connect_same_accout_devices_title">%1$s aygıtını diğer cihazlara bağladınız</string>
   <string name="fast_connect_sound_normalizer_content">"Sesli çağrılarda daha iyi ses.
 Daha hızlı bağlantı protokolü."</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
 </resources>

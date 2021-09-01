@@ -2033,4 +2033,17 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="restart_later">Daha sonra</string>
   <string name="restart_now">Şimdi yeniden başlat</string>
   <string name="support_forbidden_fakecell">Not: Bağlantının sahte baz istasyonlarına karşı sınırlandırılması, kapsama alanının zayıf olduğu bölgelerde sinyali azaltabilir.</string>
+  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
+  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
+  <string name="bluetooth_profile_bc">BC Profili</string>
+  <string name="bluetooth_profile_broadcast">Yayın</string>
+  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
+  <string name="bluetooth_talkback_group">Grup Cihazları</string>
+  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
+  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
+  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
+  <string name="radio_info_nr_available">NR Mevcut:</string>
+  <string name="radio_info_nr_frequency">NR Frekansı:</string>
+  <string name="radio_info_nr_state">NR Durumu:</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
 </resources>

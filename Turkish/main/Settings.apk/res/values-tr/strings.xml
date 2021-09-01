@@ -6728,6 +6728,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Tekrar gösterme</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC bağlandı</string>
   <string name="wifi_connect_failed_message">WLAN ağına bağlanılamadı</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="wifi_connected_mac_randomization">Bağlı MAC randomizasyonu</string>
   <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>
   <string name="wifi_connected_no_internet">Bağlandı, internet yok</string>

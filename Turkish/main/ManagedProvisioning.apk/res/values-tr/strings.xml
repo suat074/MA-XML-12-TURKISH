@@ -10,6 +10,7 @@
   <string name="cancel_setup_and_factory_reset_dialog_msg">Bu kurulumu bitirdiğinizde cihazınız fabrika ayarlarına sıfırlanır ve sizi ilk ana ekrana geri götürür.</string>
   <string name="cancel_setup_and_factory_reset_dialog_ok">Cihazı Sıfırla</string>
   <string name="cancel_setup_and_factory_reset_dialog_title">Kurulum bitirilip, fabrika ayarlarına sıfırlansın mı?</string>
+  <string name="car_ui_scrolling_limited_message">Sürüş sırasında sınırlı kaydırma</string>
   <string name="company_controls_device">Kuruluşunuz bu cihazı kontrol edebilir ve güvenliğini sağlayabilir.</string>
   <string name="company_controls_workspace">Kuruluşunuz bu profili kontrol eder ve güvenliği sağlar. Cihazınızda ki her şeyi kontrol edebilirsiniz.</string>
   <string name="contact_your_admin_for_more_info">"Kuruluşunuzun gizlilik politikaları da dahil olmak üzere daha fazla bilgi için yöneticinizle iletişime geçin."</string>

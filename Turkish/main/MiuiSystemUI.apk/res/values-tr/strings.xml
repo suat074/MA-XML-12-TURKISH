@@ -2017,6 +2017,7 @@
   <string name="wifi_cant_connect">Bağlanılamıyor</string>
   <string name="wifi_cant_connect_to_ap">\'%1$s\' noktasına bağlanılamıyor</string>
   <string name="wifi_check_password_try_again">Şifreyi kontrol edin ve tekrar deneyin</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="wifi_connected_mac_randomization">MAC randomizasyonu bağlı</string>
   <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>
   <string name="wifi_connected_no_internet">Bağlı, İnternet yok</string>

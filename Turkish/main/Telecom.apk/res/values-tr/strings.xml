@@ -572,4 +572,17 @@
   <string name="scam_message_2">**21*Yönlendirme numarası# çağrı yönlendirme kodudur. Herhangi bir sorunuz varsa operatörünüzle iletişime geçin.</string>
   <string name="scam_ok">Çevir</string>
   <string name="scam_title">Dolandırıcılık riski hatırlatma</string>
+  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
+  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
+  <string name="bluetooth_profile_bc">BC Profili</string>
+  <string name="bluetooth_profile_broadcast">Yayın</string>
+  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
+  <string name="bluetooth_talkback_group">Grup Cihazları</string>
+  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
+  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
+  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
+  <string name="radio_info_nr_available">NR Mevcut:</string>
+  <string name="radio_info_nr_frequency">NR Frekansı:</string>
+  <string name="radio_info_nr_state">NR Durumu:</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
 </resources>

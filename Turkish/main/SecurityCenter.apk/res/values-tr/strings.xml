@@ -4748,4 +4748,17 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
+  <string name="pc_fast_charge_notifi_action_text_on">Artır</string>
+  <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatıcılar için pil seviyesini ayarlayın</string>
+  <string name="pc_fast_charge_notifi_summary">Normalden %s daha hızlı şarj oluyor…</string>
+  <string name="pc_fast_charge_notifi_summary_on">Bu özellik cihazınızı ısıtabilir</string>
+  <string name="pc_fast_charge_notifi_switch_summary">Ürünle verilen %dW şarj cihazı bağlandığında ve pil ayarlanan seviyenin altında olduğunda şarj hızını artırma hakkında bilgi verin</string>
+  <string name="pc_fast_charge_notifi_switch_title">Artırma hakkında bilgilendir</string>
+  <string name="pc_fast_charge_notifi_title">%dW şarj</string>
+  <string name="pc_fast_charge_notifi_title_on">Şarj hızını artırmayı durdur</string>
+  <string name="pc_fast_charge_switch_summary">Şarj işlemini hızlandırmak için açın. MIUI, cihazınızın güvenliğini sağlarken şarj hızına öncelik verir. Piliniz ne kadar düşükse, o kadar hızlı şarj olur. Bu özellik cihazınızı ısıtabilir.</string>
+  <string name="pc_fast_charge_switch_title">Şarj hızını artır</string>
+  <string name="pc_fast_charge_switch_toast_message">Değişiklikler bu cihazı bir sonraki şarj edişinizde uygulanacaktır</string>
+  <string name="pc_fast_charge_title">Şarj hızını artır</string>
 </resources>
