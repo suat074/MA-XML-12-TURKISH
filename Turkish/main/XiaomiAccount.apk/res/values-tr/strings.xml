@@ -637,4 +637,19 @@
   <string name="operator_telecom_agreement">eSurfing hesabı tarafından sağlanan doğrulama hizmetleri</string>
   <string name="operator_unicom_agreement">China Unicom tarafından sağlanan doğrulama hizmetleri</string>
   <string name="skip_query_account">Atla</string>
+  <string name="account_and_password">Şifre</string>
+  <string name="account_user_phone_show">Telefon: %s</string>
+  <string name="account_verify_guide_bind_mail_desc">Kurtarma e-postası ekle</string>
+  <string name="account_verify_guide_bind_phone_desc">Kurtarma telefonu ekle</string>
+  <string name="account_verify_guide_set_password_desc">Bir şifre ayarlayın</string>
+  <string name="family_share">Aile paylaşımı</string>
+  <string name="find_equipment">Cihazı bul</string>
+  <string name="get_back_password">Şifreyi sıfırla</string>
+  <string name="no_install">Yüklü değil</string>
+  <string name="no_password_set">Ayarlanmadı</string>
+  <string name="notify_bind_security_phone">Kurtarma telefonu ekle</string>
+  <string name="notify_complete_security_info">Kurtarma bilgisi ekle</string>
+  <string name="personal_info_desc">Fotoğraf, takma ad ve daha fazlası</string>
+  <string name="self_account_info">Kişisel bilgi</string>
+  <string name="third_party_login">Üçüncü taraf hesapları</string>
 </resources>

@@ -93,6 +93,11 @@
   <string name="data_merge_dialog_title">Öğeleri birleştir</string>
   <string name="data_protection_title">Verileri koru</string>
   <string name="detect_sim_card">SIM kart ara</string>
+  <string name="dialog_add_shortcut_content">Bulut depolamanızı daha verimli bir şekilde yönetebilmek için Xiaomi Bulut için bir Ana ekran kısayolu ekleyin.</string>
+  <string name="dialog_add_shortcut_title">Kısayol ekle</string>
+  <string name="dialog_storage_full_title">Bulut depolama alanı dolu</string>
+  <string name="dialog_storage_low_content">Öğeleri normal şekilde eşitleyebilmek için bulut depolama planınızı yükseltin.</string>
+  <string name="dialog_storage_low_title">Yetersiz bulut depolama</string>
   <string name="disable_find_device_error">Cihazı bul kapatılamıyor. %1$s</string>
   <string name="do_not_merge">İptal</string>
   <string name="enable_find_device_error">Cihazı bul açılamıyor. %1$s</string>
@@ -255,7 +260,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_verify_progress">Cihazı bul yeniden etkinleştiriliyor…</string>
   <string name="micloud_last_sync_canceled">Eşitleme iptal edildi. Tekrar deneyin.</string>
   <string name="micloud_main_button_set_internet">Ayar</string>
-  <string name="micloud_main_head_menu_cloud_backup">Ana ekran yedekleme</string>
+  <string name="micloud_main_head_menu_cloud_backup">Yedeklemeler</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Sistem ayarları ve Ana ekran düzeni</string>
   <string name="micloud_main_head_menu_finddevice_summary">Cihazınızı bulun ve kilitleyin</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cihazı bul ikinci alanda kullanılamaz, ilk alanda kullanabilirsiniz.</string>
@@ -367,11 +372,16 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_soundrecorder_detail">Cihazınızda saklanan kayıtları yönetin</string>
   <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
+  <string name="micloud_storage_detail">Ayrıntılar</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Aboneliğinizi yenilemeniz gerekiyor.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Aboneliğinizi yenilemeniz gerekiyor.</string>
   <string name="micloud_storage_expires_soon_title">Xiaomi Bulut depolama yakında sona eriyor</string>
   <string name="micloud_storage_expires_very_soon_title">Xiaomi Bulut depolama yakında sona eriyor</string>
+  <string name="micloud_storage_family_quota">Aile paylaşımı</string>
   <string name="micloud_storage_full">Bulut doldu</string>
+  <string name="micloud_storage_full_tip">Depolama alanı dolu</string>
+  <string name="micloud_storage_normal_tip">%s kaldı</string>
+  <string name="micloud_storage_share_family">Aile paylaşımı</string>
   <string name="micloud_sync_alert_dialog_message">Tüm cihazlarınızda fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını eşitleyin.</string>
   <string name="micloud_sync_alert_dialog_negative">İptal</string>
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
@@ -394,6 +404,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. Wi-Fi\'a bağlandığında eşitleyin.</string>
   <string name="micloud_sync_result_wifi_only_china">Bu öğe çok büyük. WLAN\'a bağlandığında eşitleyin.</string>
   <string name="micloud_upgrade_member">Depolama al</string>
+  <string name="micloud_upgrade_storage">Depolama planını yükseltin</string>
   <string name="micloud_user_space_title">Depolama alanı</string>
   <string name="micloud_warn_full_sum">Yeni öğeler Xiaomi Bulut ile eşitlenmeyecek.</string>
   <string name="micloud_warn_full_title">Yetersiz alan</string>

@@ -25,7 +25,11 @@
   <string name="change_passwork_dialog_title">Şifreyi güncelle?</string>
   <string name="delete">Sil</string>
   <string name="invalid_package_signature">Geçersiz uygulama imzası</string>
+  <string name="login_mi_account_alert">Dikkat</string>
+  <string name="login_mi_account_summary">Şifre yöneticisi, şifreleri Mi Hesabınızla eşitler. Şimdi giriş yapılsın mı?</string>
   <string name="ok">Tamam</string>
+  <string name="password_manager">Şifre yöneticisi</string>
+  <string name="password_manager_summary">Şifrelerinizi bulutla eşitleyin</string>
   <string name="save_content_tip">Aşağıdaki öğeler kaydedilecek:</string>
   <string name="search">Arama</string>
   <string name="settings_clear_data_confirmation_description">"Şifreleri şimdi silerseniz, bir sonraki oturum açışınızda manuel olarak girmeniz gerekir.

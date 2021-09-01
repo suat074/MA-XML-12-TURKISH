@@ -534,4 +534,6 @@
   <string name="wifi_low_version_prompt">WLAN\'ın manuel olarak açılması gerekiyor</string>
   <string name="picture">Galeri</string>
   <string name="translate_overtime">Servis zaman aşımı</string>
+  <string name="error_not_found_activity">PDF formatında açılacak uygulama bulunamadı</string>
+  <string name="personalassistant_not_install">Bu özellik henüz desteklenmiyor!</string>
 </resources>
