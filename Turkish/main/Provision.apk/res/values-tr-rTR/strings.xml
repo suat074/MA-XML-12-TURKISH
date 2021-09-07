@@ -121,7 +121,7 @@
   <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. %1$s ve %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Son Kullanıcı Lisans Sözleşmesi</string>
   <string name="other_settings_location">Konum</string>
-  <string name="other_settings_location_summary">Uygulamaların konumunuza erişmesine izin verin</string>
+  <string name="other_settings_location_summary">Konum tabanlı hizmetler sağlamak için uygulamaların ve web sitelerinin konum bilgilerinize erişmesine izin verin</string>
   <string name="other_settings_upload_debug_log_detail">"Teşhis için Xiaomi\'ye, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi geliştirmeye yardımcı olun. Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.
 Göndereceğiniz veriler, cihazınız ve onu nasıl kullandığınız (ör. Pil seviyesi, sistem ve uygulama etkinliği ve hatalar) hakkında genel bilgiler içerecektir. Veriler MIUI cihazlarını iyileştirmek için kullanılacaktır.
 Bu özelliği kapatmak, cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gerekli bilgilerin gönderilmesini etkilemez.

@@ -1318,6 +1318,8 @@
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Sil &amp; Sıfırla\"&lt;/font> seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
+  <string name="phone_locked_string_owner_user">İlk alan parolasını girmek için çok fazla başarısız deneme. Bu cihaz şimdi kilitlendi.</string>
+  <string name="phone_locked_string_second_user">İkinci alan parolasını girmek için çok fazla başarısız deneme. Bu cihaz şimdi kilitlendi.</string>
   <string name="picture_color_mode">Resim rengi modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pip_close">Resim içinde resimi kapat</string>

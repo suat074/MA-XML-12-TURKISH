@@ -652,4 +652,6 @@
   <string name="personal_info_desc">Fotoğraf, takma ad ve daha fazlası</string>
   <string name="self_account_info">Kişisel bilgi</string>
   <string name="third_party_login">Üçüncü taraf hesapları</string>
+  <string name="passport_area_code_others">Farklı bir önek kullan</string>
+  <string name="passport_tz_invalid">Güvenlik riskleri bulundu. Bu cihaz rootlanmış veya flaş edilmiş olabilir. Diğer oturum açma seçeneklerini deneyin.</string>
 </resources>

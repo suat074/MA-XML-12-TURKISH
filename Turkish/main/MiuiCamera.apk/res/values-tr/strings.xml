@@ -1805,4 +1805,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_i">3D ses</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_original">Orijinal</string>
+  <string name="pref_camera_tap_shoot_summary">Fotoğraf çekmek için önizleme ekranına dokunun</string>
+  <string name="pref_camera_tap_shoot_title">Fotoğraf çekmek için dokunun</string>
+  <string name="pref_cup_camera_position_summary">Kullanılırken ön kamera konumunu göster</string>
+  <string name="pref_cup_camera_position_title">Ön kamerayı göster</string>
 </resources>

@@ -452,4 +452,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="virus_install_authorize_dialog_negative">Doğrula</string>
   <string name="virus_install_authorize_dialog_title">Kimlik doğrulama gerekli</string>
   <string name="warning_msg_virus_name">Bu uygulama virüs içeriyor: %1$s</string>
+  <string name="uri_no_permission">Dosya okunamıyor, izin reddedildi</string>
+  <string name="install_package_error">Kurulum paketi uyumsuz</string>
+  <string name="install_package_error_des">Uyumlu uygulamayı yüklemek için geliştiriciyle iletişime geçin veya Mi App Store\'a gidin.</string>
 </resources>

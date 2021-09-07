@@ -1526,4 +1526,7 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="weixin_info_summary">WeChat hesabı: %s. Kopyalamak için dokunun.</string>
   <string name="x_account_settings_mibill_resolve_label_summary">Kredi kartı faturalarını otomatik olarak algıla</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Takvim ve Kişi bilgileri gerçek zamanlı eşitlemeli değildi, Kişiler izni her zaman izin verilecek şekilde ayarlandı.</string>
+  <string name="hide_attachment">Eki gizle</string>
+  <string name="show_attachment">Eki göster</string>
+  <string name="folder_list_current_account">Geçerli posta kutusu</string>
 </resources>

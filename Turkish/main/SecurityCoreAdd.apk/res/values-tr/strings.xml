@@ -487,4 +487,7 @@ uygulamasını hak eder"</string>
   <string name="xspace_install_complete">&lt;font>Klonlu uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font>.</string>
   <string name="xspace_notification_button">Dene</string>
   <string name="xspace_start">Oluştur</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

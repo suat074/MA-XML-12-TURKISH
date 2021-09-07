@@ -2977,4 +2977,21 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="screen_talkback_shape">Şekil</string>
   <string name="screen_talkback_small">Çok küçük</string>
   <string name="screen_talkback_text">Metin</string>
+  <string name="app_summary_2">Bu cihazda fotoğraf ve videoları depolama, yönetme ve düzenleme</string>
+  <string name="cta_agreement_declare"><Data>Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, bu uygulamayı kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="cta_network_declare">Fotoğrafları ve videoları Xiaomi Bulut ile eşitlemek için bu uygulamanın internete bağlanması gerekiyor.</string>
+  <string name="grant_permission_go_and_set_2">Ayarlar</string>
+  <string name="grant_permission_go_and_set_3">Ayarlar</string>
+  <string name="grant_permission_shortcut">Bu uygulamanın önce Ana ekran kısayolları oluşturmasına izin verin.</string>
+  <string name="grant_permission_storage">Önce bu uygulamanın depolama alanına erişmesine izin verin.</string>
+  <string name="grant_permission_storage_unlock">Cihazınızın kilidini açın ve önce bu uygulamanın depolama alanına erişmesine izin verin.</string>
+  <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
+  <string name="grant_permission_write_clipboard">Öğeleri kopyalayabilmek için bu uygulamanın öğeleri panoya kaydetmesine izin verin.</string>
+  <string name="permission_account_desc">Oturum açmak ve sistem hesabını yönetmek için</string>
+  <string name="permission_account_name">Hesaplara erişir</string>
+  <string name="permission_clipboard_desc">Öğelere erişmek ve panoya kaydetmek için</string>
+  <string name="permission_clipboard_name">Öğelere erişir veya panoya kaydeder</string>
+  <string name="permission_contacts_desc_2">Fotoğraflardaki kişileri, kişilerle ilişkilendirmek için</string>
+  <string name="permission_contacts_name_2">Kişilere erişim</string>
+  <string name="permission_storage_name_2">Cihazdaki fotoğraflara ve dosyalara erişir ve kaydeder</string>
 </resources>
