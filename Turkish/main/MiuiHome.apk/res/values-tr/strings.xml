@@ -423,6 +423,9 @@
   <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
   <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
   <string name="open_personal_assistant_title">Uygulama kasası</string>
+  <string name="ota_layout_adjustment_button_text">Anladım</string>
+  <string name="ota_layout_adjustment_content">Yeni sürümde iç ve dış Ana ekran düzenleri eşitlendi.</string>
+  <string name="ota_layout_adjustment_title">Ana ekran düzenleri</string>
   <string name="out_of_space">Bu Ana ekranda daha fazla yer yok</string>
   <string name="perfect_icons_switch_summary">Üçüncü taraf uygulama simgelerinde animasyonlar oluştur</string>
   <string name="perfect_icons_switch_title">Global simge animasyonları</string>

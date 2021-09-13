@@ -2810,6 +2810,7 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="keyboard_and_input_methods_category">Klavye</string>
   <string name="keyboard_assistance_category">Klavye yardımı</string>
   <string name="keyboard_disconnected">Bağlı değil</string>
+  <string name="keyboard_funtion_key">Fonksiyon tuşu</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
   <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarla</string>
   <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için Kontrol-Boşluk tuşlarına basın</string>

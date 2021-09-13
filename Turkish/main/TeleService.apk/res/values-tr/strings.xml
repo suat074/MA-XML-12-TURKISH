@@ -756,6 +756,7 @@
   <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
   <string name="enhanced_4g_lte_mode_title_variant">Gelişmiş arama seçenekleri</string>
   <string name="enter_callbarring_password">Çağrı engellleme şifresini girin (%d basamaklı)</string>
+  <string name="enter_esim_manager">eSIM\'i yönet</string>
   <string name="enter_input" formatted="false">USSD mesajı %d ve %d karakter arasında olmalıdır. Lütfen tekrar deneyin.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
@@ -764,7 +765,11 @@
   <string name="eo_enable">İstihdam Olanakları açık</string>
   <string name="eps_only_set_button">sadece eps ayarla</string>
   <string name="eps_only_set_title">bu düğme sadece eps ayarlamak içindir</string>
-  <string name="error_updating_title">Çağrı Ayarları Hatası</string>
+  <string name="error_updating_title">Çağrı ayarları hatası</string>
+  <string name="esim_goto_active">Etkinleştir</string>
+  <string name="esim_inactive_message">eSIM etkin değil</string>
+  <string name="esim_inactive_notification_message">SIM kart algılanmadı. eSIM\'i etkinleştirmek için dokunun.</string>
+  <string name="esim_inactive_settings_title">Çift SIM &amp; mobil ağlar</string>
   <string name="exception_error">Ağ veya SIM kart hatası.</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="external_source_trusted">İzinli</string>
