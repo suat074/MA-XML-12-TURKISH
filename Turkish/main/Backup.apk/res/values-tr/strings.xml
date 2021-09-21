@@ -733,4 +733,7 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="enable_local_backup">Yerel yedeklemeleri aç</string>
   <string name="enable_local_backup_and_restore">Yerel yedeklemeleri aç</string>
   <string name="enable_local_backup_tips">Bu cihazdaki yedeklemeleri kaydedebilmek ve bunları bilgisayarınıza veya USB depolama cihazınıza kopyalayabilmek için bu özelliği açın. Şimdi açılsın mı?</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

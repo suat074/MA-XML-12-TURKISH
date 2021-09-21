@@ -502,7 +502,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_bind_account_dialog_content">Mi Hesabınız, unutmanız durumunda Uygulama kilidini geri yüklemenin tek yoludur. Mi Hesabınızı eklemek için oturum açın.</string>
   <string name="applock_bind_account_dialog_title">Mi Hesabınızı ekleyin</string>
   <string name="applock_bind_account_title">Şifreyi unuttum</string>
-  <string name="applock_close_dialog_summary">Tüm gizli uygulamalar görünecek, Ana ekran kısayolları geri yüklenecek ve Uygulama kilidi şifreniz silinecek. Uygulama kilidini kapat?</string>
+  <string name="applock_close_dialog_summary">Uygulama kilidi şifreniz silinecek. Uygulama kilidi şimdi kapatılsın mı?</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
   <string name="applock_exit_account_info">Hesap çıkış yaptığınızda otomatik olarak kaldırılacak</string>
   <string name="applock_face_unlock_summary">Yüz verisi kullanarak uygulamaların kilidini açın</string>
@@ -2471,9 +2471,9 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="privacy_apps_manage_dialog_title">Gizli uygulamalar hakkında</string>
   <string name="privacy_apps_manager_dialog_message">Bu uygulamayı gizledikten sonra bu uygulamanın simgesi Ana ekranda görüntülenmeyecek. Bu uygulama şimdi gizlensin mi?</string>
   <string name="privacy_apps_next_stup">Sonraki</string>
-  <string name="privacy_apps_shield_message_summary">Korunan uygulamalar için bildirimleri gösterme</string>
-  <string name="privacy_apps_shield_message_title">Bildirimleri gösterme</string>
-  <string name="privacy_apps_tutorial">Öğretici</string>
+  <string name="privacy_apps_shield_message_summary">Gizli uygulamalardan gelen bildirimleri gösterme</string>
+  <string name="privacy_apps_shield_message_title">Bildirimi gizle</string>
+  <string name="privacy_apps_tutorial">Hareketler</string>
   <string name="privacy_apps_tutorial_dlg_title">Gizli uygulamalar nasıl bulunur</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Bu özellik, uygulama simgelerini gizlemenize izin verir, böylece artık Ana Ekranınızda görünmezler.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
@@ -4762,4 +4762,19 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
   <string name="pc_fast_charge_switch_title">Şarj hızını artır</string>
   <string name="pc_fast_charge_switch_toast_message">Değişiklikler bu cihazı bir sonraki şarj edişinizde uygulanacaktır</string>
   <string name="pc_fast_charge_title">Şarj hızını artır</string>
+  <string name="charge_high_temp_warning_dialog_ok">Anladım</string>
+  <string name="charge_high_temp_warning_dialog_text">Görünüşe göre şarj portu aşırı ısınmış. Yeniden şarj etmeye başlamadan önce şarj cihazını çıkarın ve pilin soğumasını bekleyin.</string>
+  <string name="charge_high_temp_warning_text">Şarj cihazını çıkarın ve pilin soğumasını bekleyin</string>
+  <string name="charge_high_temp_warning_title">Şarj portu çok sıcak</string>
+  <string name="privacy_apps_add">Ekle</string>
+  <string name="privacy_apps_password_enable_summay">Uygulama kilidi ile özel dosyaları koruyun</string>
+  <string name="privacy_apps_password_enable_title">Uygulama kilidi</string>
+  <string name="privacy_apps_tutorial_dlg_message_1">Gizli uygulamaları görüntülemek için Ana ekranda iki parmağınızı birbirinden ayırın</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Not: Bir uygulamayı gizlediğinizde, yalnızca Ana ekran kısayolu gizlenir.</string>
+  <string name="privacy_search_keyword_1">Gizlilik</string>
+  <string name="privacy_search_keyword_2">Uygulamaları gizle</string>
+  <string name="privacy_search_keyword_3">Simgeleri gizle</string>
+  <string name="privacy_search_keyword_4">Ana ekran kısayollarını gizle</string>
+  <string name="privacy_search_keyword_5">Özel uygulamalar</string>
+  <string name="privacy_search_keyword_6">Gizle</string>
 </resources>

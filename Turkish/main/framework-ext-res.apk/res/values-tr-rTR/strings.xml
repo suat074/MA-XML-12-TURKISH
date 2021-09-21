@@ -91,6 +91,7 @@
   <string name="first_back_long_press_message">Gezinme düğmeleri için özel basılı tutma eylemlerini ayarlamak için Ayarlar &gt; Ek ayarlar &gt; Düğmeler\'e gidin</string>
   <string name="flip_screen_camera_tip">Kamerayı kullanmak için cihazı çevirin</string>
   <string name="fm_record_smaple_prefix_miui">FM kaydı</string>
+  <string name="fold_small_not_split">Bölünmüş ekran, dış ekranda desteklenmiyor</string>
   <string name="force_exit_message">%1$s zorla kapatıldı</string>
   <string name="force_exit_skip_message">%1$s sistemde gerekli olduğu için kapatılamıyor</string>
   <string name="fourhours">2 saat</string>

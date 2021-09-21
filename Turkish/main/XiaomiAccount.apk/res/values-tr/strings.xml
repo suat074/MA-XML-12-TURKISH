@@ -654,4 +654,20 @@
   <string name="third_party_login">Üçüncü taraf hesapları</string>
   <string name="passport_area_code_others">Farklı bir önek kullan</string>
   <string name="passport_tz_invalid">Güvenlik riskleri bulundu. Bu cihaz rootlanmış veya flaş edilmiş olabilir. Diğer oturum açma seçeneklerini deneyin.</string>
+  <string name="accept">İzin ver</string>
+  <string name="cancel">İptal</string>
+  <string name="deny">Reddet</string>
+  <string name="enable">Ayarlar</string>
+  <string name="permission_desc_read_sms">Otomatik doldurma doğrulama kodları için</string>
+  <string name="permission_desc_write_external_storage">Geri bildirim yaparken günlükleri yüklemek için</string>
+  <string name="permission_read_sms">Mesajlara erişim</string>
+  <string name="permission_write_external_storage">Öğelere erişin ve depoya kaydedin</string>
+  <string name="request_open_permission">Gerekli izinler</string>
+  <string name="request_use_camera_message">Mi Hesabının telefonunuzun kamerasına erişmesine izin verilsin mi?</string>
+  <string name="request_use_camera_title">Kameraya erişim</string>
+  <string name="request_use_gallery_message">Mi Hesabının Galeri\'ye erişmesine izin verilsin mi?</string>
+  <string name="request_use_gallery_title">Galeriye erişim</string>
+  <string name="request_use_writing_clipboard_message">Mi Hesabı Kimliğinizi kopyalamak için Mi Hesabının öğeleri panoya kaydetmesine izin verin.</string>
+  <string name="user_instruction_all_purpose">Mi Hesabı\'na hoş geldiniz! Bir hesap oluşturabilir, oturum açabilir ve Xiaomi ve Mi.com, Xiaomi Bulut ve GetApps gibi bağlı şirketler tarafından sağlanan hizmetlere erişebilirsiniz. Mi Para alabilir, sanal ürünler satın alabilir ve oyunlar, temalar, e-kitaplar dahil katma değerli hizmetlerden yararlanabilirsiniz.</string>
+  <string name="user_instruction_tip">Giriş yapabilmek, şartlar ve koşulları okuyup kabul edebilmek için.</string>
 </resources>

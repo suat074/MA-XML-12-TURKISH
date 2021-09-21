@@ -826,4 +826,24 @@
   <string name="steady_on_screen_notification_title_pad">Cihazınızı bırakın ve bir mola verin</string>
   <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Odak modu yalnızca Kameranın kullanılmasına ve acil çağrı yapılmasına izin verir. Odak modunu zamanından önce kapatamazsınız.</string>
   <string name="usage_state_focus_mode_warning_message_sim_pad">Odak modu yalnızca Kameranın kullanılmasına ve acil arama yapılmasına izin verir. Odak modunu zamanından önce kapatamazsınız.</string>
+  <string name="customize_radio_btn_summary">Seçilen yenileme hızını tercih et</string>
+  <string name="customize_radio_btn_title">Özel</string>
+  <string name="dc_light_hint_normal_anit">Titreme önleme modu, bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+  <string name="dc_light_hint_normal_other">Titreme önleme modu, yenileme hızını ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+  <string name="dc_light_hint_unnormal_low">Düşük ışık titreme önleme modu, bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+  <string name="dc_light_hint_unnormal_other">Düşük ışık titreme önleme modu, yenileme hızını ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+  <string name="fps_high">Yüksek</string>
+  <string name="fps_normal">Standart</string>
+  <string name="fps_radio_btn_title">Yenileme hızı</string>
+  <string name="fps_save_battery_tips">Pil tasarrufu açık. Yenileme hızı %d Hz olarak ayarlandı.</string>
+  <string name="fps_user_tip_footer">"%1$d. Daha yüksek ve daha düşük yenileme hızları arasındaki farkı anlamanız için burada demolar daha yavaş oynatılır. Normal kullanım sırasında farkı anlamanız daha zor olabilir.
+%2$d. Bazı durumlarda, yenileme hızı, hangi öğelerin görüntülendiğine bağlı olarak dinamik olarak ayarlanabilir."</string>
+  <string name="high_fps_tip_footer">Daha yüksek yenileme hızlarının kullanılması, görüntüleme deneyimini daha sorunsuz hale getirir ancak daha fazla güç tüketir.</string>
+  <string name="intelligent_radio_btn_summary">Performansı güç tüketimiyle dengelemek için senaryolara göre yenileme hızını dinamik olarak ayarlayın</string>
+  <string name="intelligent_radio_btn_title">Oto. (önerilen)</string>
+  <string name="low_flicker_mode">Düşük ışık</string>
+  <string name="low_flicker_mode_summary">Göz yorgunluğunu azaltmak için düşük ışık koşullarında titremeyi önleyin</string>
+  <string name="normal_mode_summary_new">Düşük ışık koşullarında titremeye izin ver</string>
+  <string name="split_page_authorization">Ekran süresine hoş geldiniz! Burada ekran süresi sınırlarını ayarlayabilir ve istatistikleri görüntüleyebilirsiniz. Bu özelliği açmak için \"Başlat\" öğesine dokunun.</string>
+  <string name="split_page_start">Başlat</string>
 </resources>

@@ -8123,4 +8123,8 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="params_interpretation">Ayrıntılı özellikler</string>
   <string name="vip_service_settings">Hizmetlerim</string>
   <string name="headset_toast_tip_disconnect_others">Kulaklık şu anda ayarlanamıyor, kulaklığınız başka bir telefona bağlı olabilir</string>
+  <string name="low_dc_light_title">Düşük ışık titreme önleme modu</string>
+  <string name="forbidden_set_unlock_password_msg">Şu anda bakım modunda, şifre ayarlanamaz veya değiştirilemez.</string>
+  <string name="miheadset_windnoise">Rüzgar</string>
+  <string name="bluetooth_plugins_check_summary_new">Bluetooth eklentisinin yeni sürümü bulundu</string>
 </resources>

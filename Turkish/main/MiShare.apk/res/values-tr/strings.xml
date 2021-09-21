@@ -189,4 +189,7 @@ Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafınd
   <string name="uwb_summary">Beam, hedef cihazları kablosuz olarak tanımak için UWB teknolojisini kullanır. UWB teknolojisiyle güçlendirilen cihazlar arasında öğe aktarımı daha hızlı ve daha kolaydır.</string>
   <string name="uwb_support_device">"Uyumlu cihazlar: "</string>
   <string name="uwb_title">Beam</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

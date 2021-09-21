@@ -194,4 +194,24 @@ Ayrıntılar için Ayarlar\'a bakın."</string>
   <string name="fast_connect_sound_normalizer_content">"Sesli çağrılarda daha iyi ses.
 Daha hızlı bağlantı protokolü."</string>
   <string name="wifi_connected_low_quality">Düşük kalite</string>
+  <string name="plugin_alert_cancel">Daha sonra</string>
+  <string name="plugin_alert_kill">Durdur</string>
+  <string name="plugin_alert_text">Değişiklikleri uygulamak için Ayarlar\'ı durdurun ve Bluetooth hizmetini yeniden başlatın.</string>
+  <string name="plugin_alert_title">Eklenti Güncellemesi</string>
+  <string name="plugin_download_create_client_failed">İstemci oluşturulamadı.</string>
+  <string name="plugin_download_get_object_failed">Sunucudan bilgi alınamadı.</string>
+  <string name="plugin_download_network_timeout">Ağ zaman aşımı.</string>
+  <string name="plugin_download_no_storage">Depolama yok.</string>
+  <string name="plugin_download_rejected">Ölçülen trafik sınırı nedeniyle.</string>
+  <string name="plugin_download_unexpected_files">Beklenmeyen dosyaları indirin.</string>
+  <string name="plugin_download_unknown_error">Bilinmeyen hata.</string>
+  <string name="plugin_install_failed">Eklenti yükseltmesinin bir kısmı başarısız oldu.</string>
+  <string name="plugin_install_timeout">Kurulum zaman aşımı bekleniyor.</string>
+  <string name="plugin_last_update_going">Son güncelleme gidiyor.</string>
+  <string name="plugin_no_update">Zaten en son sürüm.</string>
+  <string name="plugin_start_update">Eklenti güncelleme başlatılıyor...</string>
+  <string name="plugin_update_failed">Güncelleme başarısız:</string>
+  <string name="plugin_update_notification_summary">Bluetooth eklenti güncellemesi tamamlandı. Değişiklikleri uygulamak için ayarları ve bluetoothu yeniden başlatın.</string>
+  <string name="plugin_update_notification_title">Bluetooth Eklenti Güncellemesi</string>
+  <string name="plugin_update_success">Bluetooth eklentisi başarıyla güncellendi.</string>
 </resources>

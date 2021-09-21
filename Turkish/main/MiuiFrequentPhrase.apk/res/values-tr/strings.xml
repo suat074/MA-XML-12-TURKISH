@@ -48,4 +48,7 @@
   <string name="menu_delete">Sil</string>
   <string name="menu_edit">Düzenle</string>
   <string name="sync_phrase_label">Sık Kullanılan İfadeler</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

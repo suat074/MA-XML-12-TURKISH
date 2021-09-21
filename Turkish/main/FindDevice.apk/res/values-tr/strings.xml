@@ -8,7 +8,7 @@
   <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödemesi nedeniyle kilitlendi.
 Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="default_lock_msg_words">Bu cihaz mevcut bir Mi Hesabı ile ilişkilendirilmiş durumda. Güvenlik nedenlerinden dolayı cihazı doğrulamak için parolanızı girmeniz gerekmektedir.</string>
-  <string name="default_lock_msg_words_with_phone">Merhabalar! Telefonumu kaybettim. Lütfen benimle iletişime geçer misiniz? Teşekkürler!</string>
+  <string name="default_lock_msg_words_with_phone">Merhaba! Bu cihazı kaybettim. Lütfen benimle iletişime geçebilir misiniz? Teşekkürler!</string>
   <string name="device_locked">Cihaz kilitli</string>
   <string name="device_lost">Bu cihaz kayıp</string>
   <string name="disable_find_device_error">Cihazı bul servisi kapatılamıyor. %1$s</string>

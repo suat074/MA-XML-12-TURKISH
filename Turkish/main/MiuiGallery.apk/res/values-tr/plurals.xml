@@ -484,6 +484,14 @@
         <item quantity="one">%d video</item>
         <item quantity="other">%d video</item>
     </plurals>
+	<plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d seçili öğe buluttan ve tüm eşitlenmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
+        <item quantity="one">%d seçili öğe buluttan ve tüm eşitlenmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d seçili öğe kalıcı olarak silinecek. Yine de silinsin mi?</item>
+        <item quantity="one">%d seçili öğe kalıcı olarak silinecek. Yine de silinsin mi?</item>
+    </plurals>
   <plurals name="a_hour_ago">
     <item quantity="other">1 saat önce</item>
   </plurals>

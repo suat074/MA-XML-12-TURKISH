@@ -143,4 +143,7 @@ Görüntülemek için dokunun"</string>
   <string name="low_battery_for_pad">Kayda başlamadan önce cihazınızı şarj edin</string>
   <string name="low_memory_for_pad">%1$d GB\'tan az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz.</string>
   <string name="view_recorded_videos">Kayıtları görüntüle</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

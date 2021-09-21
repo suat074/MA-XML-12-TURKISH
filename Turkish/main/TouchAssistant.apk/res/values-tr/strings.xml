@@ -92,4 +92,7 @@
   <string name="three_seconds_auto_hide">3 saniye boyunca işlem yapılmadığında kenarda gizle</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

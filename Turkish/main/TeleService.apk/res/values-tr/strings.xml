@@ -289,6 +289,7 @@
   <string name="callFailed_cdma_activation">Bu sim kartının hizmeti etkinleştirildi ve telefonun dolaşım kapasitesi güncellendi</string>
   <string name="callFailed_cdma_call_limit">Çok fazla aktif çağrı var. Yenisini etkinleştirmeden önce mevcut çağrıları bitirin veya birleştirin.</string>
   <string name="callFailed_channel_unacceptable">Kanal kabul edilemez</string>
+  <string name="callFailed_concurrent_calls_not_possible">Eşzamanlı çağrı mümkün olmadığı için çağrı sonlandırıldı.</string>
   <string name="callFailed_conditional_IE_error">Koşullu IE hatası</string>
   <string name="callFailed_congestion">Ağ meşgul</string>
   <string name="callFailed_data_disabled">Çağrı, hücresel veri devre dışı bırakıldığı için sona erdi.</string>

@@ -1644,6 +1644,7 @@
     <string name="pa_cta_dialog_desc_location">İşe gidip gelme önerileri sağlamak için</string>
     <string name="pa_cta_dialog_desc_phone_state">IMEI\'ye göre cihazınızı tanımlamak için</string>
     <string name="pa_cta_dialog_desc_storage">Öğeleri önbelleğe almak için</string>
+	<string name="pa_download">İndir</string>
     <string name="pa_edit">Düzenle</string>
     <string name="pa_edit_color">Renk düzeni</string>
     <string name="pa_edit_color_group">Renk düzeni</string>
@@ -1695,7 +1696,7 @@
     <string name="pa_net_unavailable">Ağa bağlanılamadı</string>
     <string name="pa_notification_chanel_name_widget_offline">Bulut bildirimleri</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Bulutla ilgili eylem bildirimleri</string>
-    <string name="pa_picker_classic_widget">Klasik widget\'lar</string>
+    <string name="pa_picker_classic_widget">Android widget\'ları</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
     <string name="pa_picker_detail_add_to_home">Ana ekrana ekle</string>
     <string name="pa_picker_detail_add_to_minus">Uygulama kasasına ekle</string>
@@ -1797,6 +1798,8 @@
     <string name="pa_sports_all_match">Tümünü görüntüle</string>
     <string name="pa_sports_all_title">Takım ve etkinlik ekleyin</string>
     <string name="pa_sports_concern_club">Ekle</string>
+	<string name="pa_sports_download_douyu_tip">Spor etkinlikleriyle ilgili bilgileri görüntülemek için Douyu yükleyin.</string>
+    <string name="pa_sports_download_hupu_tip">Spor etkinlikleriyle ilgili bilgileri görüntülemek için Hupu yükleyin.</string>
     <string name="pa_sports_fav_add">Ekle</string>
     <string name="pa_sports_fav_cancel_club">Bu takım gizlensin mi?</string>
     <string name="pa_sports_fav_cancel_league">Bu etkinlikler gizlensin mi?</string>

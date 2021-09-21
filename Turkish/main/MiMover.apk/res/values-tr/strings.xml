@@ -1056,5 +1056,21 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="summary_request_alert_window_prem">Transfer işleminin istikrarını sağlamak için Mi Mover\'ın bu izne ihtiyacı var.</string>
   <string name="summary_request_write_settings_prem">Mi Mover\'ın WLAN\'ı açması ve dosyaları aktarmak için bir bağlantı noktası oluşturması için bu izne ihtiyacı var.</string>
   <string name="title_open_wlan">WLAN\'ı aç</string>
-  <string name="title_request_alert_window_perm">Yüzer pencerelere izin ver</string> 
+  <string name="title_request_alert_window_perm">Yüzer pencerelere izin ver</string>
+  <string name="calendar_permission_desc">Etkinlikleri diğer cihazlara aktarmak için</string>
+  <string name="contact_records_permission_desc">Çağrı geçmişini diğer cihazlara aktarmak için</string>
+  <string name="contacts_permission_desc">Kişileri diğer cihazlara aktarmak için</string>
+  <string name="data_read_white_permission_desc">Öğeleri diğer cihazlara aktarmak için</string>
+  <string name="location_permission_desc">Yakındaki cihazları bulmak için</string>
+  <string name="msg_permission_desc">Mesajları diğer cihazlara aktarmak için</string>
+  <string name="permission_grant_request">Bu öğeyi aktarabilmek için Mi Mover\'ın \"%1$s\" iznine ihtiyacı var.</string>
+  <string name="permission_request_title">\"%1$s\" izni gerekli</string>
+  <string name="permission_setting_button">Ayarlar</string>
+  <string name="request_all_permission_content">"Öğeleri yeni bir cihaza aktarabilmek için Mi Mover\'ın aşağıdakilere erişmesi gerekir:
+- Konum
+- Kişiler
+- Çağrı geçmişi
+- Metin mesajları
+- Depolama"</string>
+  <string name="request_all_permission_title">Gerekli izinler</string>
 </resources>
