@@ -5,19 +5,19 @@
         <item>Bulutlu</item>
         <item>Kapalı Bulutlu</item>
         <item>Sisli</item>
-        <item>Yoğun Sağanak Yağışlı</item>
+        <item>Yoğun Sağanak Yağmur</item>
         <item>Şiddetli Yağmur</item>
-        <item>Sağnak Yağmurlu</item>
-        <item>Gök Gürültülü Yağmurlu</item>
+        <item>Sağanak Yağmur</item>
+        <item>Gökgürültülü Yağmurlu</item>
         <item>Yeryer Yağmurlu</item>
-        <item>Ağır Yağmurlu</item>
-        <item>Orta Dereceli Yağmurlu</item>
+        <item>Yoğun Yağmurlu</item>
+        <item>Orta Kuvette Yağmurlu</item>
         <item>Hafif Yağmurlu</item>
         <item>Karla Karışık Yağmur</item>
-        <item>Tipili</item>
+        <item>Tipi Şeklinde Karlı</item>
         <item>Karlı</item>
-        <item>Ağır Karlı</item>
-        <item>Orta Derecede Karlı</item>
+        <item>Yoğun Karlı</item>
+        <item>Orta Kuvvette Karlı</item>
         <item>Hafif Karlı</item>
         <item>Kuvvetli Kum Fırtınası</item>
         <item>Kum Fırtınalı</item>
@@ -26,7 +26,7 @@
         <item>Dolu</item>
         <item>Tozlu</item>
         <item>Puslu</item>
-        <item>Dondurucu Yağmur</item>
+        <item>Donan Yağmur</item>
         <item>Veri yok</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
