@@ -50,7 +50,7 @@
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>Ağır</item>
+        <item>Yoğun</item>
         <item>Orta</item>
         <item>Hafif</item>
     </string-array>
