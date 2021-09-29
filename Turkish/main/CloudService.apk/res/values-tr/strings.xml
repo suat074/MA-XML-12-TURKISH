@@ -708,15 +708,15 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="keybag_dialog_ok">Tamam</string>
   <string name="keybag_password_check_screen_lock">Ekran kilidini girin</string>
   <string name="keybag_password_checking_screen_lock">Ekran kilidi doğrulanıyor…</string>
-  <string name="keybag_password_create_prompt">Parolayı ayarla</string>
+  <string name="keybag_password_create_prompt">Parola yöneticisi için şifre ayarlayın</string>
   <string name="keybag_password_error_inconsistent">Parolalar eşleşmiyor</string>
   <string name="keybag_password_forget"><u>Parolayı unuttunuz mu?</u></string>
   <string name="keybag_password_input_cancel">İptal</string>
   <string name="keybag_password_input_hint">Parolayı girin</string>
   <string name="keybag_password_input_next">Sonraki</string>
   <string name="keybag_password_input_prompt">Parolayı girin</string>
-  <string name="keybag_password_length_prompt">%d rakam ve harf kombinasyonu</string>
-  <string name="keybag_password_reset_tip">Bulutta depolanan şifreli öğeler, parolayı sıfırladığınızda otomatik olarak temizlenir. Yine de sıfırlansın mı?</string>
+  <string name="keybag_password_length_prompt">En az %d rakam ve harf girin</string>
+  <string name="keybag_password_reset_tip">Bulutta depolanan tüm Parola yöneticisi verileri, şifreyi sıfırladıktan sonra silinecektir. Yine de sıfırlansın mı?</string>
   <string name="keybag_password_screen_lock_unknown">Ekran kilidi şu anda doğrulanamıyor. Bunun yerine bir parola ayarlayın.</string>
   <string name="keybag_password_screen_lock_wrong">Girdiğiniz ekran kilidi yanlış</string>
   <string name="keybag_password_too_short">Parola biçimi yanlış</string>
@@ -776,4 +776,9 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="web_sso_login_fail">Tekrar giriş yapmanız gerekiyor</string>
   <string name="web_sso_login_message">Giriş yapılıyor…</string>
   <string name="webview_reload">Tekrar deneyin</string>
+  <string name="error_reset_retry_exceed_limit_with_retry">Çok fazla başarısız deneme. %s içinde tekrar deneyin.</string>
+  <string name="error_retry_exceed_limit_with_retry">Çok fazla başarısız deneme. %s içinde tekrar deneyin.</string>
+  <string name="keybag_create_by_new_passcode_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Bu şifreyi unutursanız onlara erişemezsiniz."</string>
+  <string name="keybag_create_by_screen_password_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Parola yöneticisi\'nin şifresi olarak ayarlamak için ekran kilidinizi girin.</string>
+  <string name="keybag_install_by_passcode_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Parola yöneticisi için bulut eşitlemeyi açtığınızda zaten ayarladınız.</string>
 </resources>

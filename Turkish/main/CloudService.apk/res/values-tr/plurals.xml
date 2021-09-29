@@ -111,5 +111,17 @@
   <plurals name="time_format_min">
     <item quantity="other">%1$s dak</item>
     <item quantity="one">%1$s dak</item>
+  </plurals>
+  <plurals name="error_retry_hour">
+    <item quantity="other">%s saat</item>
+    <item quantity="one">%s saat</item>
+  </plurals>
+  <plurals name="error_retry_minute">
+    <item quantity="other">%s dakika</item>
+    <item quantity="one">%s dakika</item>
+  </plurals>
+  <plurals name="error_retry_second">
+    <item quantity="other">%s saniye</item>
+    <item quantity="one">%s saniye</item>
   </plurals>  
 </resources>

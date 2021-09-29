@@ -55,11 +55,6 @@
         <item>Tümü</item>
         <item>Sadece gönderenler</item>
     </string-array>
-    <string-array name="sign_in_dialog_item">
-        <item>Outlook oauth imap protokol girişi</item>
-        <item>IMAP (takvim olmadan)</item>
-        <item>EXCHANGE (takvim ile)</item>
-    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>

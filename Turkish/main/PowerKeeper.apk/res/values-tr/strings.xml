@@ -118,6 +118,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="sleepmode_privacy_link">Gizlilik ve güvenlik hakkında daha fazla bilgi edinin</string>
   <string name="sleepmode_privacy_title">Uyku modu</string>
   <string name="sucess">Bitti</string>
+  <string name="title_history">Geçmiş</string>
+  <string name="title_home">Ev</string>
   <string name="update_profile_failture_not_connect_wifi">Güncellenemedi. WLAN\'a bağlanın ve tekrar deneyin.</string>
   <string name="update_profile_sucess">Sunucudan başarıyla güncellendi</string>
   <string name="vip_feedback">Vip Geribildirim</string>

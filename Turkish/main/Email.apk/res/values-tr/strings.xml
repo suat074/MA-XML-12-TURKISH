@@ -1529,4 +1529,11 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="hide_attachment">Eki gizle</string>
   <string name="show_attachment">Eki göster</string>
   <string name="folder_list_current_account">Geçerli posta kutusu</string>
+  <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
+  <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
+  <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
+  <string name="fallback_menu_item_share_link">Bağlantıyı paylaş</string>
+  <string name="sign_in_dialog_outlook_enterprise">İşletmeler için Outlook (takvimsiz)</string>
+  <string name="sign_in_dialog_outlook_exchange">EXCHANGE (takvimli)</string>
+  <string name="sign_in_dialog_outlook_imap">IMAP (takvimsiz)</string>
 </resources>
