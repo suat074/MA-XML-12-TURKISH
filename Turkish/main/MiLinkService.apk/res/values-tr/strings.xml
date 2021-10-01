@@ -294,6 +294,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="time_picker_label_minute">D</string>
   <string name="toast_guide_show_more">Daha fazla bilgi edin</string>
   <string name="toast_guide_title">Yeni özelliklerimizi buradan keşfedin</string>
+  <string name="toast_invisible_mode">Gizli moddasınız. Şu anda yansıtmayı kullanamazsınız.</string>
   <string name="toast_msg_for_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
   <string name="toast_msg_for_small_window">Telefonunuzun diğer özelliklerini yansıtma işlemini durdurmadan kullanabilmek için açılan pencereyi simge durumuna küçültebilirsiniz.</string>
   <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>

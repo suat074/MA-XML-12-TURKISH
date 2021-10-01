@@ -246,6 +246,7 @@
   <string name="filter_movie_to">T&amp;O</string>
   <string name="filter_movie_wonderful">Mucize</string>
   <string name="filter_original">Yok</string>
+  <string name="filter_popular_agave">Agave</string>
   <string name="filter_popular_autumn">Sonbahar</string>
   <string name="filter_popular_blackred">Sangria</string>
   <string name="filter_popular_bluedream">Pijama</string>
@@ -260,8 +261,11 @@
   <string name="filter_popular_icesnow">Kar yağışı</string>
   <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_mango">Mango</string>
+  <string name="filter_popular_navy">Donanma</string>
+  <string name="filter_popular_pearl">İnci</string>
   <string name="filter_popular_pinellia">Pinellia</string>
   <string name="filter_popular_purple">Mor</string>
+  <string name="filter_popular_retro_powder">Pudra</string>
   <string name="filter_popular_shallow_summer">Haziran</string>
   <string name="filter_popular_summercloud">Akşam yıldızı</string>
   <string name="filter_popular_sunset">Olay zamanı</string>
@@ -271,9 +275,14 @@
   <string name="filter_popular_youth">Juventas</string>
   <string name="filter_portrait_greyish">Kül</string>
   <string name="filter_portrait_hint">Renk odaklama</string>
+  <string name="filter_portrait_holiday">Tatil</string>
+  <string name="filter_portrait_light_oxygen">Oksijen</string>
+  <string name="filter_portrait_mint">Mint</string>
   <string name="filter_portrait_mist">Sis</string>
   <string name="filter_portrait_mojito">Mojito</string>
   <string name="filter_portrait_painting">Boyama</string>
+  <string name="filter_portrait_pink_orange">Narenciye</string>
+  <string name="filter_portrait_protist">Orijinal</string>
   <string name="filter_single_sky">Gökyüzü değişimi</string>
   <string name="filter_sky_bikong">Bulutsuz</string>
   <string name="filter_sky_chenguang">Şafak</string>

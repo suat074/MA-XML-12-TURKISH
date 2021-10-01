@@ -195,7 +195,7 @@ Ayrıntılar için Ayarlar\'a bakın."</string>
 Daha hızlı bağlantı protokolü."</string>
   <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="plugin_alert_cancel">Daha sonra</string>
-  <string name="plugin_alert_kill">Durdur</string>
+  <string name="plugin_alert_kill">Tekrar başlat</string>
   <string name="plugin_alert_text">Değişiklikleri uygulamak için Ayarlar\'ı durdurun ve Bluetooth hizmetini yeniden başlatın.</string>
   <string name="plugin_alert_title">Eklenti Güncellemesi</string>
   <string name="plugin_download_create_client_failed">İstemci oluşturulamadı.</string>

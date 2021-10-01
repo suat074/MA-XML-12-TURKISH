@@ -8122,9 +8122,21 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="settings_charging_not_charging">Şarj olmuyor</string>
   <string name="params_interpretation">Ayrıntılı özellikler</string>
   <string name="vip_service_settings">Hizmetlerim</string>
-  <string name="headset_toast_tip_disconnect_others">Kulaklık şu anda ayarlanamıyor, kulaklığınız başka bir telefona bağlı olabilir</string>
+  <string name="headset_toast_tip_disconnect_others">Görünüşe göre kulaklığınız şimdi başka bir cihaza bağlı</string>
   <string name="low_dc_light_title">Düşük ışık titreme önleme modu</string>
   <string name="forbidden_set_unlock_password_msg">Şu anda bakım modunda, şifre ayarlanamaz veya değiştirilemez.</string>
   <string name="miheadset_windnoise">Rüzgar</string>
-  <string name="bluetooth_plugins_check_summary_new">Bluetooth eklentisinin yeni sürümü bulundu</string>
+  <string name="bluetooth_plugins_check_summary">Güncellemeleri kontrol etmek için ağa bağlanın</string>
+  <string name="bluetooth_plugins_check_summary_new">Bir güncelleme mevcut</string>
+  <string name="bluetooth_plugins_check_title">Bluetooth eklentisini güncelle</string>
+  <string name="stylus_connect_fail">Bağlanılamadı. Tekrar ekle.</string>
+  <string name="stylus_connect_fail_no_battery">Kaleminizi şimdi şarj edin</string>
+  <string name="stylus_connect_fail_no_reason">Bağlanılamadı</string>
+  <string name="stylus_connect_fail_not_open_gps">Bağlanılamadı. Konum hizmetlerini açın ve tekrar deneyin.</string>
+  <string name="stylus_connecting">Bağlanılıyor…</string>
+  <string name="beauty_fc_assistant">Ön kamera asistanı</string>
+  <string name="headset_spatial_audio">Uzamsal ses</string>
+  <string name="handy_mode_no_touch_assistant">Tek elle kullanım modu yalnızca sistemde gezinme için düğmeleri kullanıyorsanız çalışır. Ayarlar’da \"Sistemde gezinme\" bölümünde, hareketler ve düğmeler arasında geçiş yapabilirsiniz.</string>
+  <string name="insert_sim_card_and_try_again">SIM kartınızı takın ve tekrar deneyin.</string>
+  <string name="unsupported_usim_card">Desteklenmeyen USIM kartı.</string>
 </resources>

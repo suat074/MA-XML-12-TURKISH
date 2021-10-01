@@ -451,4 +451,7 @@
   <string name="xiaomi_weather_description_title_remove">\"Hava Durumu\" Ana ekrandan kaldırılsın mı?</string>
   <string name="yes_vote_ratio">Evet %%%1$s</string>
   <string name="yesterday">Dün</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="send">Gönder</string>
 </resources>

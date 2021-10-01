@@ -536,4 +536,10 @@
   <string name="translate_overtime">Servis zaman aşımı</string>
   <string name="error_not_found_activity">PDF formatında açılacak uygulama bulunamadı</string>
   <string name="personalassistant_not_install">Bu özellik henüz desteklenmiyor!</string>
+  <string name="camera_stealth_mode_message">Kameraya bağlanılamıyor. Kamera gerekiyorsa, gizli modu kapatın.</string>
+  <string name="camera_stealth_mode_title">Gizli mod etkinleştirildi</string>
+  <string name="go_shut_down">Kapatmak için</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
 </resources>

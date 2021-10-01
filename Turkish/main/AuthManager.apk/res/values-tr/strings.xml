@@ -233,4 +233,13 @@
   <string name="stop_blur_location">Evet</string>
   <string name="close">Kapat</string>
   <string name="send">Gönder</string>
+  <string name="copy">Kopyala</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

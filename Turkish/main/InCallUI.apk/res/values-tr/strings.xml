@@ -165,6 +165,9 @@
   <string name="incoming_circle_text_video_answer_p">Video ile cevaplamak için yukarı kaydırın</string>
   <string name="manageConferenceLabel">Konferans görüşmesini yönet</string>
   <string name="manager_conference_done">Tamamlandı</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="notification_action_accept">Kabul</string>
   <string name="notification_action_answer_video">Video</string>
