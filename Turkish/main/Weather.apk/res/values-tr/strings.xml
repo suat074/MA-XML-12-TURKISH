@@ -202,11 +202,11 @@
   <string name="indices_title_pressure">Basınç</string>
   <string name="indices_title_wind_speed">Rüzgar hızı</string>
   <string name="information_settings_title">Hava durumu bilgileri</string>
-  <string name="international_details_chance_of_rain">YAĞMUR OLASILIĞI</string>
-  <string name="international_details_humidity">NEM</string>
-  <string name="international_details_pressure_title">BASINÇ</string>
-  <string name="international_details_uv_index_title">UV ENDEKSİ</string>
-  <string name="international_details_wind_title">RÜZGAR</string>
+  <string name="international_details_chance_of_rain">Yağmur olasılığı</string>
+  <string name="international_details_humidity">Nem</string>
+  <string name="international_details_pressure_title">Basınç</string>
+  <string name="international_details_uv_index_title">Uv endeksi</string>
+  <string name="international_details_wind_title">Rüzgar</string>
   <string name="location_provider_btn_text">Hava Durumunun konumunuza erişmesine izin verin</string>
   <string name="location_tag">Konum</string>
   <string name="manager_city_option_add_home">Açılış sayfasına ekle</string>
