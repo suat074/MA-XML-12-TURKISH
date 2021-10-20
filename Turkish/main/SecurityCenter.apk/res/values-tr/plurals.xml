@@ -12,6 +12,22 @@
     <item quantity="other">SIM PUK\'u girin. %d deneme kaldı.</item>
     <item quantity="one">SIM PUK\'u girin. %d deneme kaldı.</item>
   </plurals>
+  <plurals name="summary_absorbed_time_foramt">
+    <item quantity="other">%d dakika boyunca Odak modunu aç</item>
+    <item quantity="one">%d dakika boyunca Odak modunu aç</item>
+  </plurals>
+  <plurals name="summary_condition_lock_screen_format">
+    <item quantity="other">Ekran %d dakika kilitlendikten sonra</item>
+    <item quantity="one">Ekran %d dakika kilitlendikten sonra</item>
+  </plurals>
+  <plurals name="summary_result_absorbed_time_format">
+    <item quantity="other">%d dak</item>
+    <item quantity="one">%d dak</item>
+  </plurals>
+  <plurals name="summary_result_lock_screen_format">
+    <item quantity="other">%d dakika sonra ekranı kilitle</item>
+    <item quantity="one">%d dakika sonra ekranı kilitle</item>
+  </plurals>
   <plurals name="app_behavior_desc_duration_usage">
     <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verildi</item>
     <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verildi</item>

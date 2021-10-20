@@ -53,6 +53,19 @@
     <item>Cihazınızı tanımlamak için</item>
     <item>Cihazınızı bulmak ve kayıp moduna geçmek için</item>
   </string-array>
+  <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+    <item>Cihazınızı bulmak ve kayıp moduna geçmek için</item>
+    <item>Bu cihazı internete bağlı değilken bulmak için</item>
+    <item>Bu cihazı internete bağlı değilken bulmak amacıyla telefon numarasına erişmek için</item>
+  </string-array>
+  <string-array name="privacy_dialog_sync_runtime_perm_title">
+    <item>Takvim etkinliklerine erişim</item>
+    <item>Send SMS</item>
+    <item>MMS oku</item>
+    <item>Kişilere erişim</item>
+    <item>Kişileri düzenle ve sil</item>
+    <item>Cihazdaki fotoğraflara ve dosyalara erişim</item>
+  </string-array>
   <string-array name="settings_search_backup_manage">
     <item>Yedekler</item>
     <item>Yedeklenen öğeler</item>

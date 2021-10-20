@@ -5423,6 +5423,23 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sos_privacy_dialog_message">"Bu özelliği kullanmadan önce %s sayfamızı okuyun ve kabul edin.
 Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma için izinlere ihtiyaç duyuyor. Kabul?"</string>
   <string name="sos_privacy_dialog_title">Şartlar ve Koşullar</string>
+  <string name="sos_privacy_policy_change_endtitle">Devam etmeden önce %s yeni sürümünü okuyun ve kabul edin.</string>
+  <string name="sos_privacy_policy_change_message_reject">Gizlilik Politikasının yeni sürümünü kabul etmedikçe Acil SOS\'u kullanmaya devam edemezsiniz. Güncellenen %s şimdi kabul ediyor musunuz?</string>
+  <string name="sos_privacy_policy_change_subtitle">Acil SOS Gizlilik Politikası güncellendi:</string>
+  <string name="sos_privacy_policy_change_title">Güncellenmiş Gizlilik Politikası</string>
+  <string name="sos_privacy_policy_change_title_reject">Uygulama kullanılamıyor</string>
+  <string name="sos_privacy_policy_no_net_button">Anladım</string>
+  <string name="sos_privacy_policy_no_net_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="sos_privacy_policy_no_net_title">Ağa bağlanılamadı</string>
+  <string name="sos_privacy_policy_revoke">Onayın geri çekilmesi</string>
+  <string name="sos_privacy_policy_revoke_message_reject">"Devam ederseniz, Acil Durum SOS Gizlilik Politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir.
+
+Acil Durum SOS hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Güvenlik hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir.
+
+%s için onayınız şimdi geri çekilsin mi?"</string>
+  <string name="sos_privacy_policy_revoke_title_reject">Dikkat</string>
+  <string name="sos_privacy_revoke_failed_dialog_content">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="sos_privacy_revoke_failed_dialog_title">Onay geri çekilemedi</string>
   <string name="sound_category_call_ringtone_vibrate_title">Zil &amp; Bildirim Sesi</string>
   <string name="sound_category_sound_title">Genel</string>
   <string name="sound_category_system_title">Sistem</string>

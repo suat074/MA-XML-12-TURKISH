@@ -5,6 +5,9 @@
   <string name="app_name">Cihazı bul</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Kilit açılamadı. %s.</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">İnternete bağlı değilken bu cihazı bulmak amacıyla telefon numarasına erişmek için</string>
+  <string name="custom_define_permission_desc_android.permission.SEND_SMS">Bu cihazı internete bağlı değilken bulmak için</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazınızı bulmak ve kayıp moduna geçmek için</string>
   <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödemesi nedeniyle kilitlendi.
 Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="default_lock_msg_words">Bu cihaz mevcut bir Mi Hesabı ile ilişkilendirilmiş durumda. Güvenlik nedenlerinden dolayı cihazı doğrulamak için parolanızı girmeniz gerekmektedir.</string>

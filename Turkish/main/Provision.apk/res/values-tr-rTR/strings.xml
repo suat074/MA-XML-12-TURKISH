@@ -246,12 +246,61 @@ Bu özelliği Ayarlar > Şifreler &amp; güvenlik > Gizlilik > Kullanım ve teş
   <string name="terms_of_use_label">"Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun.
 MIUI\'yı kullanabilmeniz için önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı kabul etmeniz gerekir.
 %s ve Mi Hesap bileşenleri internete bağlanacak ve konumunuzu alacak."</string>
-  <string name="terms_of_use_label_Mistore">, Mi Mağaza sistemi eklentisi</string>
-  <string name="terms_of_use_label_mab">, MAB</string>
-  <string name="terms_of_use_label_package">, Paket  yükleyici</string>
-  <string name="terms_of_use_label_phrase">, Sık kullanılan ifadeler</string>
-  <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
-  <string name="terms_of_use_label_updater">, Güncelleyici</string>
+  <string name="access_non_personal_data">Cihazınızdan kişisel olmayan verilere erişim ve kullanım onayını geri çekerseniz, Duvar Kağıdı Döngüsü hizmetleri devre dışı bırakılır ve toplanan veriler geçerli yasa ve yönetmeliklerde belirtilen süre içinde silinir.</string>
+  <string name="agree_cookie">Çerezleri kabul et</string>
+  <string name="agreement_declare_use_network_and_location_china">"Ayrıca, aşağıdaki hizmetler ağa bağlanacak ve konumunuza erişecektir: "</string>
+  <string name="agreement_declare_use_network_china">Ağa bağlanacak.</string>
+  <string name="cookies_content_one">"Duvar Kağıdı Döngüsü\'ndeki resimlere ve hikayelere dokunduğunuzda, tarayıcınızda tam sürümlerini açacağız. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola, daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz, Taboola, Taboola\'nın &lt;a href =%1$s>Çerez Politikası&lt;/a> ile açıkladığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz, Duvar Kağıdı Döngü öğeleri Kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak, ancak ek öneriler sizin için özel olarak seçilmeyecek. Tercihlerinizi istediğiniz zaman Ayarlar\'dan değiştirebilirsiniz."</string>
+  <string name="cookies_content_two">Güvenilir üçüncü taraf içerik sağlayıcılarımızın içerik önerilerini ve reklamları ilgi alanlarınıza göre kişiselleştirmek için tanımlama bilgilerini kullanmasını isteyip istemediğinize karar verin.</string>
+  <string name="cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
+  <string name="privacy_content_one">"Duvar Kağıdı Döngüsü önerileri, güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola\'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola\'nın toplanan verileri nasıl kullandığını Taboola\'nın &lt;a href =%1$s>Gizlilik Politikası&lt;/a> ve &lt;a href =%2$s>Kullanıcı Sözleşmesi&lt;/a> ile öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz, Duvar Kağıdı Döngüsü hizmetleri devre dışı bırakılacaktır."</string>
+  <string name="privacy_refuse">Reddet</string>
+  <string name="privacy_title">Şartlar &amp; Gizlilik Politikası</string>
+  <string name="refuse_cookie">Çerezleri reddet</string>
+  <string name="term_condition_detail">"Kilit ekranınıza günlük olarak gönderilen çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik, onayınız olmadan verilerinizi kişiselleştirmek için kullanmaz. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcının &lt;a href =%1$s>Gizlilik Politikası&lt;/a> ve &lt;a href =%2$s>Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin."</string>
+  <string name="terms_of_use_label_MSA">MSA</string>
+  <string name="terms_of_use_label_Mistore">Mi Mağaza sistem eklentisi</string>
+  <string name="terms_of_use_label_RMS">İzin Yöneticisi</string>
+  <string name="terms_of_use_label_ai_assistant">AI Yardımcısı</string>
+  <string name="terms_of_use_label_app_vault">Uygulama kasası</string>
+  <string name="terms_of_use_label_back">Yedekleme hizmeti</string>
+  <string name="terms_of_use_label_ble">Sigortalı konum sağlayıcı</string>
+  <string name="terms_of_use_label_cloud">Xiaomi Bulut</string>
+  <string name="terms_of_use_label_communication_service">Xiaomi İnternet İletişim Hizmeti</string>
+  <string name="terms_of_use_label_finddevice">Cihazı bul</string>
+  <string name="terms_of_use_label_game">Oyunlar</string>
+  <string name="terms_of_use_label_home">Ana ekran</string>
+  <string name="terms_of_use_label_htmlViewer">HTML Görüntüleyici</string>
+  <string name="terms_of_use_label_htmlviewer">HTML Görüntüleyici</string>
+  <string name="terms_of_use_label_info_assistant">Mi Link</string>
+  <string name="terms_of_use_label_joyose">Joyose</string>
+  <string name="terms_of_use_label_landscape">Yatay görünüm optimizasyonu işlevi</string>
+  <string name="terms_of_use_label_mab">MAB</string>
+  <string name="terms_of_use_label_mi_account">Mi Hesabı bileşenleri</string>
+  <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
+  <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+  <string name="terms_of_use_label_os">OS AI Ayarı</string>
+  <string name="terms_of_use_label_package">Paket yükleyici</string>
+  <string name="terms_of_use_label_parallel_windows">Paralel pencereler</string>
+  <string name="terms_of_use_label_phrase">Sık kullanılan ifadeler</string>
+  <string name="terms_of_use_label_power_detection">Güç dedektörü</string>
+  <string name="terms_of_use_label_power_performance">Pil ve performans</string>
+  <string name="terms_of_use_label_quickapp">Hızlı uygulamalar</string>
+  <string name="terms_of_use_label_secure">Güvenli Eleman Uygulaması</string>
+  <string name="terms_of_use_label_simcard">Mi SIM etkinleştirme hizmetleri</string>
+  <string name="terms_of_use_label_smart_service">Akıllı hizmetler</string>
+  <string name="terms_of_use_label_statistics">İstatistik</string>
+  <string name="terms_of_use_label_systemhelper">Kendi kendine kayıt hizmeti</string>
+  <string name="terms_of_use_label_translation">Çeviri servisi</string>
+  <string name="terms_of_use_label_updater">Güncelleyici</string>
+  <string name="terms_of_use_label_use_location_and_network_global">"MIUI\'yi kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken aşağıdaki hizmetler ağa bağlanacak ve konumunuza erişecektir: "</string>
+  <string name="terms_of_use_label_use_network_china">"MIUI\'yi kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyup kabul etmelisiniz. Cihazınız etkinleştirilirken aşağıdaki hizmetler ağa bağlanacaktır: "</string>
+  <string name="terms_of_use_label_wallpaper">Duvar kağıdı</string>
+  <string name="terms_of_use_lable_gms">Google Play hizmetleri</string>
+  <string name="terms_of_use_lable_smart_cards">Akıllı kartlar</string>
+  <string name="terms_of_use_lable_vsimcore">MConn Hizmeti</string>
+  <string name="terms_of_use_lable_xmsf">Xiaomi hizmet çerçevesi</string>
+  <string name="withdraw_consent">Onayınızı geri çekerseniz, Duvar Kağıdı Döngüsü hizmetleri devre dışı bırakılır.</string>
   <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyunlar, MIUI Daemon, MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
   
@@ -262,9 +311,6 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="terms_of_use_lable_default_input_method_mint">"
 
 Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmelisiniz."</string>
-  <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
-  <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>
-  <string name="terms_of_use_lable_vsimcore">, MConn Hizmeti</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
   <string name="title_fingerprint">Ekran kilidini ayarla</string>

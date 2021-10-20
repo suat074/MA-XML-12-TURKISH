@@ -34,7 +34,7 @@
     <string name="align_type">Hizalama</string>
     <string name="am">ÖÖ</string>
     <string name="aod_component">Daima açık ekran</string>
-    <string name="aod_show_date_and_time">Tarih ve saat</string>
+    <string name="aod_show_date_and_time">Zaman</string>
 	<string name="app_name">Arka ekran</string>
     <string name="apply">Uygula</string>
     <string name="apply_succeed">Başarıyla uygulandı</string>
@@ -49,7 +49,7 @@
     <string name="color_change_with_time_description">Gün boyunca metin rengini otomatik olarak değiştirin</string>
     <string name="color_change_with_time_title">Renkleri otomatik olarak değiştir</string>
     <string name="component_battery">Pil</string>
-    <string name="component_date_time">Tarih ve saat</string>
+    <string name="component_date_time">Zaman</string>
     <string name="component_notification">Bildirimler</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_label_day" />
@@ -339,4 +339,13 @@
     <string name="wilderness_dcalling">Bağlandı</string>
     <string name="wilderness_dialing">Çevirme</string>
     <string name="wilderness_is_starting">Süper güç tasarrufu açılıyor…</string>
+	<string name="contentDescripton_back">Geri</string>
+    <string name="contentDescripton_horizontal_center">Yatay düzen. Merkeze hizalanmış.</string>
+    <string name="contentDescripton_horizontal_left">Yatay düzen. Sola hizalanmış.</string>
+    <string name="contentDescripton_horizontal_right">Yatay düzen. Sağa hizalanmış.</string>
+    <string name="contentDescripton_increase">Daha fazla</string>
+    <string name="contentDescripton_reduce">Daha az</string>
+    <string name="contentDescripton_vertical_center">Dikey düzen. Merkeze hizalanmış.</string>
+    <string name="contentDescripton_vertical_left">Dikey düzen. Sola hizalanmış.</string>
+    <string name="contentDescripton_vertical_right">Dikey düzen. Sağa hizalanmış.</string>
 </resources>

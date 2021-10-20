@@ -790,4 +790,30 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="keybag_create_by_new_passcode_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Bu şifreyi unutursanız onlara erişemezsiniz."</string>
   <string name="keybag_create_by_screen_password_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Parola yöneticisi\'nin şifresi olarak ayarlamak için ekran kilidinizi girin.</string>
   <string name="keybag_install_by_passcode_prompt">Bu şifre, bulutta depolanan şifrelerinizi korur. Parola yöneticisi için bulut eşitlemeyi açtığınızda zaten ayarladınız.</string>
+  <string name="agree_and_continue">Kabul et</string>
+  <string name="agreement_and_privacy_description">"Devam etmeden önce Xiaomi Bulut\'un &lt;a href=%1$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> ve &lt;a href=%2$s>&lt;u>Kullanıcı Sözleşmesi&lt;/u>&lt;/a> okuyun ve kabul edin."</string>
+  <string name="button_agree">Kabul et</string>
+  <string name="button_quit">Çıkış</string>
+  <string name="button_revoke">Geri çek</string>
+  <string name="dialog_title_prompt">Dikkat</string>
+  <string name="find_device_privacy_policy_update_msg">Cihazı bul Gizlilik Politikası güncellendi:&lt;br/>%1$s&lt;br/>Devam etmeden önce &lt;a href=%2$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü okuyun ve kabul edin.</string>
+  <string name="find_permission_location_summary">Bu cihazı bulmak için</string>
+  <string name="find_permission_location_title">Konum erişimi</string>
+  <string name="find_permission_phone_summary">İnternete bağlı değilken bu cihazı bulmak amacıyla telefon numarasına erişmek için</string>
+  <string name="find_permission_phone_title">Cihaz bilgilerine erişim</string>
+  <string name="find_permission_sms_summary">Bu cihazı internete bağlı değilken bulmak için</string>
+  <string name="find_permission_sms_title">SMS gönder</string>
+  <string name="permission_management">İzin ayrıntıları</string>
+  <string name="privacy_policy_reject_confirm_msg">"&lt;a href=%1$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü kabul etmediğiniz sürece Xiaomi Bulut\'u kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
+  <string name="privacy_policy_reject_confirm_title">Dikkat</string>
+  <string name="privacy_policy_revoked_msg">Bu hesap için Xiaomi Bulut\'un Gizlilik Politikasına verilen onay geri çekildi. Farklı bir hesap kullanmayı deneyin.</string>
+  <string name="privacy_policy_update_msg">Xiaomi Bulut Gizlilik Politikası güncellendi:&lt;br/>%1$s&lt;br/>Devam etmeden önce &lt;a href=%2$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü okuyun ve kabul edin.</string>
+  <string name="privacy_policy_update_title">Güncellenen Gizlilik Politikası</string>
+  <string name="privacy_settings">Gizlilik</string>
+  <string name="revoke_block_by_find_device">Onayınızı geri çekmeniz ayrıca Cihazı bul özelliğini de kapatacak. Devam ettikten sonra şifrenizi doğrulamanız gerekecek.</string>
+  <string name="revoke_privacy_agreement_msg">Devam ederseniz, Xiaomi Bulut Gizlilik Politikasına olan onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Xiaomi Bulut hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Xiaomi Bulut hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onay şimdi geri çekilsin mi?</string>
+  <string name="revoke_privacy_confirm">Geri çek</string>
+  <string name="revoke_privacy_content">"Devam ederseniz, Cihazı bul\'un &lt;a href=app://com.miui.cloudservice.gdpr.license>Gizlilik Politikası&lt;/a> için onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Cihazı bul, hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri almanız, Cihazı bul hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onayınız şimdi geri çekilsin mi?"</string>
+  <string name="revoke_privacy_failed">Onay geri çekilemedi</string>
+  <string name="revoke_privacy_title">Onayın geri çekilmesi</string>
 </resources>

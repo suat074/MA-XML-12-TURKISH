@@ -214,4 +214,12 @@ Daha hızlı bağlantı protokolü."</string>
   <string name="plugin_update_notification_summary">Bluetooth eklenti güncellemesi tamamlandı. Değişiklikleri uygulamak için ayarları ve bluetoothu yeniden başlatın.</string>
   <string name="plugin_update_notification_title">Bluetooth Eklenti Güncellemesi</string>
   <string name="plugin_update_success">Bluetooth eklentisi başarıyla güncellendi.</string>
+  <string name="plugin_ota_tip_text">Lütfen Bluetooth ve ilgili sistem hizmetlerini yeniden başlatın, Bluetooth kulaklıkları bağlayın</string>
+  <string name="stylus_firmware_failed_summary">Kalemi yeniden takın, Bluetooth\'u yeniden başlatın ve tekrar deneyin.</string>
+  <string name="stylus_firmware_failed_title">Firmware güncellenemedi</string>
+  <string name="stylus_firmware_success_summary">Eşleştirmek için kalemi takın.</string>
+  <string name="stylus_firmware_success_title">Firmware başarıyla güncellendi</string>
+  <string name="stylus_firmware_timeout_summary">Bağlantı zaman aşımı. Tekrar deneyin.</string>
+  <string name="stylus_firmware_update_summary">Kalem yazılımı güncelleniyor…</string>
+  <string name="stylus_firmware_update_title">Kalem yazılımı</string>
 </resources>

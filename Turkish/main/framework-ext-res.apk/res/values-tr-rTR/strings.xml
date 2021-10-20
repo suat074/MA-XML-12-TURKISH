@@ -260,6 +260,7 @@
   <string name="set_password_action">Şifreyi ayarla</string>
   <string name="set_password_message">Bu özelliği kullanmak için bir şifre ayarlayın.</string>
   <string name="set_password_title">Bir şifre ayarlayın</string>
+  <string name="shortcut_no_support_on_pc_mode">Bu hareket PC modunda desteklenmiyor</string>
   <string name="shutdown_confirm_title">Cihaz şimdi kapatılsın mı?</string>
   <string name="shutdown_progress">Kapatılıyor…</string>
   <string name="silence_mode">Sessiz mod</string>
