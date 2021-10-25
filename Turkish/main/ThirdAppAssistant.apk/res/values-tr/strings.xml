@@ -143,4 +143,11 @@
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="incompatible_page_summary">Bu uygulamalar, Android\'in en son sürümüyle uyumlu değil. Uyumluluk sorunları, gelecek uygulama güncellemeleriyle çözülebilir.</string>
+  <string name="incompatible_summary">Android\'in en son sürümüyle uyumlu olmayan uygulamalar</string>
+  <string name="incompatible_title">uyumsuz uygulamalar</string>
+  <string name="list_title">Uygulamalar</string>
+  <string name="lowbit_version_page_summary">32 bit uygulamalar daha düşük performans ve daha yüksek güç tüketimi gösterir. Sanal bellek eksikliği nedeniyle de çökebilirler. Google, Android\'in yeni sürümlerinde artık 32 bit uygulamaları desteklemeyecektir.</string>
+  <string name="lowbit_version_summary">32 bit uygulamalar çökebilir ve pili tüketebilir</string>
+  <string name="lowbit_version_title">32 bit uygulamalar</string>
 </resources>

@@ -779,4 +779,14 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="widget_take_notes_title">Notlar</string>
   <string name="miui_penengine_ppw_shortcut_primary_key">Yazma düğmesi</string>
   <string name="miui_penengine_ppw_shortcut_secondary_key">Ekran görüntüsü düğmesi</string>
+  <string name="note_item_default_title">Boş not</string>
+  <string name="pref_permission_allowed">Onaylı</string>
+  <string name="pref_permission_manage">İzin ayrıntıları</string>
+  <string name="pref_permission_manage_key_contact">Kişilere erişim</string>
+  <string name="pref_permission_manage_key_recording">Ses kaydı</string>
+  <string name="pref_permission_manage_key_storage">Depolama alanına erişim</string>
+  <string name="pref_permission_not_allowed">Onaylanmamış</string>
+  <string name="widget_size_item_big">Büyük</string>
+  <string name="widget_size_item_medium">Orta</string>
+  <string name="widget_size_item_small">Küçük</string>
 </resources>

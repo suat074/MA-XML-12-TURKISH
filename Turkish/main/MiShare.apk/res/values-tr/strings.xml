@@ -192,4 +192,7 @@ Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafınd
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth ve WLAN kullanarak dosya aktarmak için</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Dosya göndermek ve almak için</string>
+  <string name="menu_item_permission_title">İzin ayrıntıları</string>
 </resources>

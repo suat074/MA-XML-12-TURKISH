@@ -95,7 +95,7 @@
   <string name="HIPS_Perm_Read_MMS_Desc">multimedya mesajlarını okur</string>
   <string name="HIPS_Perm_read_notification_sms">Servis SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">servis SMS\'lerini okur</string>
-  <string name="HIPS_Perm_Read_SMS">SMS mesajları okuma</string>
+  <string name="HIPS_Perm_Read_SMS">SMS ve MMS oku</string>
   <string name="HIPS_Perm_Read_SMS_Desc">SMS mesajlarını okur</string>
   <string name="HIPS_Perm_recognition">Etkinlik bilgilerine erişme</string>
   <string name="HIPS_Perm_recognition_Desc">Uygulamanın etkinlik bilgilerinize erişmesine izin verir</string>

@@ -108,4 +108,14 @@
   <string name="v7_preference_on">AÇIK</string>
   <string name="first_using_dialog_message_no_camera">Pusulanın normal çalışabilmesi için internete bağlanması ve konum bilgilerine erişmesi gerekir. Kabul et?</string>
   <string name="open_perm_msg_no_camera">Pusulanın koordinatları belirleyebilmesi için konum bilgilerine erişmesi gerekir. İzin ver?</string>
+  <string name="allowed">Onaylı</string>
+  <string name="get_location">Konuma erişim</string>
+  <string name="new_cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut rakımı gösterme</string>
+  <string name="new_permission_camera_desc">Kalibrasyon için</string>
+  <string name="new_permission_location_desc">Koordinatları görüntülemek için</string>
+  <string name="not_allowed">Onaylanmamış</string>
+  <string name="open_camera">Kamera kullan</string>
+  <string name="permission_description">İzin ayrıntıları</string>
+  <string name="preference_privacy_policy">Gizlilik Politikasını görüntüle</string>
+  <string name="preference_privacy_setting">Gizlilik</string>
 </resources>

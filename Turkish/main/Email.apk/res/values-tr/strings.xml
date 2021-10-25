@@ -1536,4 +1536,17 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="sign_in_dialog_outlook_enterprise">İşletmeler için Outlook (takvimsiz)</string>
   <string name="sign_in_dialog_outlook_exchange">EXCHANGE (takvimli)</string>
   <string name="sign_in_dialog_outlook_imap">IMAP (takvimsiz)</string>
+  <string name="permission_calendar_subtitle">Etkinlikleri e-postadan Takviminizle eşitlemek için</string>
+  <string name="permission_calendar_title">Takvim etkinliklerine erişme ve ekleme</string>
+  <string name="permission_get_accounts_subtitle">Sistem hesaplarında oturum açmak ve yönetmek için</string>
+  <string name="permission_phone_status_subtitle">Farklı cihazları tanımlamak için</string>
+  <string name="permission_phone_status_title">Cihazdaki hesaplara erişim</string>
+  <string name="permission_write_contacts_subtitle">Kişilerin e-posta adreslerini görüntülemek ve değiştirmek için</string>
+  <string name="permission_write_external_storage_title">Cihazdaki fotoğraflara ve dosyalara erişme ve kaydetme</string>
+  <string name="folder_list_current_account">Mevcut hesap</string>
+  <string name="gmail_invalid_tip_cancel">İptal</string>
+  <string name="gmail_invalid_tip_confirm">Oturum aç</string>
+  <string name="gmail_invalid_tip_message">Google\'ın şartları ve koşulları değişti. Gmail\'de tekrar oturum açın.</string>
+  <string name="gmail_invalid_tip_title">Gmail\'de oturum açın</string>
+  <string name="new_mail_notification_str">Hatırlatıcılara izin ver</string>
 </resources>

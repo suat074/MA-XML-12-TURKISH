@@ -685,4 +685,17 @@
   <string name="guide_two_title">Yalnızca temel öğeleri görün</string>
   <string name="next">Sonraki</string>
   <string name="start_all">Tümünü görüntüle</string>
+  <string name="agree">Kabul et</string>
+  <string name="exit">Çıkış</string>
+  <string name="open_or_close_wlan">Wi-Fi\'yi açma ve kapatma</string>
+  <string name="permission_description">İzin ayrıntıları</string>
+  <string name="pref_permission_allowed">Onaylı</string>
+  <string name="pref_permission_manage_key_storage">Cihazdaki fotoğraflara ve dosyalara erişim</string>
+  <string name="pref_permission_not_allowed">Onaylanmamış</string>
+  <string name="privacy_policy_renew">Güncellenen Gizlilik Politikası</string>
+  <string name="privacy_policy_renew_content"><Data>"Dosya Yöneticisi &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, devam etmeden önce Gizlilik Politikasının yeni sürümünü okuyun ve kabul edin."</Data></string>
+  <string name="withdraw">Geri çek</string>
+  <string name="withdraw_consent">Onayın geri çekilmesi</string>
+  <string name="withdraw_consent_content">Devam ederseniz, Dosya Yöneticisi\'nin Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosya Yöneticisi hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Dosya Yöneticisi hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir.</string>
+  <string name="withdraw_consent_summary">Dosya Yöneticisi\'nin Gizlilik Politikasına onayınızı geri çekme</string>
 </resources>

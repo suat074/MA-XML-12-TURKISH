@@ -1189,4 +1189,12 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="dialog_content_get_device_status">Diğer cihazlarınızda satın alınan öğelerin kimliğini doğrulayabilmek için bu uygulamanın cihaz kimliğinize erişmesi gerekiyor. Bu özelliği kapattıktan sonra satın alınan öğelerden bazılarını kullanamayabilirsiniz. Yine de kapatılsın mı?</string>
   <string name="preference_subtitle_get_device_status">Diğer cihazlarınızda satın alınan öğeleri indirebilmek için uygulamanın cihaz kimliğinize erişmesine izin verin</string>
   <string name="preference_title_get_device_status">Cihaz kimliğine erişim</string>
+  <string name="application_list_permission_desc">Şeffaf duvar kağıtları ile uyumlu uygulamaları göstermek için</string>
+  <string name="head_portraits">Profil resmi</string>
+  <string name="need_to_open_application_permission_desc">Hangi uygulamaların şeffaf duvar kağıtlarıyla uyumlu olduğunu öğrenebilmek için Temaların cihazınızda yüklü uygulamaların listesine erişmesine izin verin.</string>
+  <string name="need_to_open_permission">Gerekli izinler</string>
+  <string name="need_to_open_storage_permission_desc">Temalardaki öğeleri kullanabilmek ve indirebilmek için önce uygulamanın depolama alanına erişmesine izin verin.</string>
+  <string name="privacy_settings">Gizlilik</string>
+  <string name="storage_migration_exit_msg">Temaları Android\'in gelecek sürümleriyle uyumlu hale getirmek için indirdiğiniz öğeleri yeni bir konuma taşıdık. Değişiklikleri uygulamak ve indirdiğiniz içeriği görüntülemek için uygulamayı yeniden başlatın.</string>
+  <string name="storage_permission_denied_desc">Öğeleri görüntüleyebilmek için Temaların depolama alanına erişmesine izin verin</string>
 </resources>

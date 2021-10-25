@@ -432,4 +432,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdaki öğeleri yedeklemek için yeterli bulut depolama alanı yok. Kullanabileceğiniz bulut depolama seçeneklerini görüntülemek için dokunun.</string>
+  <string name="backup_action_no_space_with_wechat_off_title">Öğeler yedeklenemedi</string>
+  <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli bulut depolama alanı yok. Öğeleri yedeklemek için depolama planınızı yükseltin.</string>
+  <string name="backup_action_no_space_with_wechat_on_title">WeChat verileri yedeklenemedi</string>
 </resources>

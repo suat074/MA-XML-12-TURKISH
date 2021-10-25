@@ -95,4 +95,7 @@
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="permission_desc">İzin ayrıntıları</string>
+  <string name="privacy_settings">Gizlilik</string>
+  <string name="view_privacy">Gizlilik Politikasını görüntüle</string>
 </resources>

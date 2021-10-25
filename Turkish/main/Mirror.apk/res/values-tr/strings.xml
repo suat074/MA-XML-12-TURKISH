@@ -261,4 +261,7 @@
   <string name="softap_notification_message_china">Kullanılabilir WLAN ağı yok. Bu erişim noktasına bağlanılsın mı?</string>
   <string name="softap_notification_title">%1$ erişim noktasına bağlan</string>
   <string name="permission_access_nearby_device">Yakındaki cihazlara erişim</string>
+  <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Yansıtma sırasında ses iletmek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Cihazlar arasında dosya aktarımı için</string>
+  <string name="settings_permission_description">İzin ayrıntıları</string>
 </resources>

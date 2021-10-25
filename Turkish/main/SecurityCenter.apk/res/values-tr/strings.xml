@@ -875,6 +875,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_main_purpose">Güvenlik uygulamasına hoş geldiniz! Depolama alanını boşaltma, cihazda virüs taraması yapma, pil kullanımını kontrol etme, cihazı oyun oynamak için optimize etme, uygulamaları yönetme ve daha fazlası için bu uygulamayı kullanabilirsiniz.</string>
   <string name="cta_settings">İnternet bağlantısına ve konum erişimine izin verin</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engelli listesine öğe eklemek için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Engelli öğeleri görüntülemek amacıyla çağrı geçmişine erişmek için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelli listesi işlevi sağlamak ve acil durumda irtibat kurulacak kişileri aramak için</string>
+  <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engelli kişilere mesaj göndermek için</string>
+  <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Çağrı geçmişine öğe eklemek ve engelli çağrıları silmek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
   <string name="customize_limit_pkg">%s (özel)</string>
   <string name="customizer_mode_user_define_name">Kurallarım</string>
   <string name="daily_card_setting_fragment_daily_card_brand">Operatör</string>

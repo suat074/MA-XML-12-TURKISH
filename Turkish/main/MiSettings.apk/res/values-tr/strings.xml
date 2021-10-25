@@ -495,6 +495,8 @@
   <string name="usage_app_over_content">Bu uygulamayı zaten bugün %s için kullandınız.</string>
   <string name="usage_app_over_summary">Sınırınıza ulaştınız. Zaman doldu!</string>
   <string name="usage_app_set_limit_time">Sınırı ayarla</string>
+  <string name="usage_app_stop_desc">Bu özelliği kapattıktan sonra, yerel olarak depolanan ilgili öğelerin yanı sıra bireysel ayarlar da dahil olmak üzere tüm Ekran süresi verileri ve izinleri silinecektir.​</string>
+  <string name="usage_cta_desc">Ayarlar\'a hoş geldiniz! Size Ekran süresi ve Odak modu istatistikleri sağlamak için, bu uygulamanın aşağıdaki verileri toplaması gerekir: cihazın kilidini açma sayısı, uygulamalarınızın listesi ve ilgili kullanım süresi, ekranınızın kaç kez açıldığı ve Odak modu ayarları. Toplanan veriler yalnızca bu cihazda yerel olarak saklanacaktır.</string>
   <string name="usage_app_system_app_summary">Sistem uygulamaları için ekran süresi sınırlandırılamıyor</string>
   <string name="usage_app_weekday_limit">Hafta içi</string>
   <string name="usage_app_weekend_limit">Hafta sonları</string>
