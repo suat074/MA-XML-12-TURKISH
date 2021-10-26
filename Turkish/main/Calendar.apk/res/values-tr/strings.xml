@@ -27,8 +27,6 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
-  <string name="accessbility_suggestion_dropdown_closed">Mevcut öneri yok</string>
-  <string name="accessbility_suggestion_dropdown_opened">Kişi önerileri açıldı</string>
   <string name="accessibility_add_attendee">Katılımcı ekle</string>
   <string name="accessibility_alarm_remind">Alarm hatırlatıcıları</string>
   <string name="accessibility_all_day">Tüm gün etkinlik</string>
@@ -60,7 +58,6 @@
   <string name="action_bar_cancel">İptal</string>
   <string name="action_bar_confirm">Tamam</string>
   <string name="action_bar_return">Geri</string>
-  <string name="action_label">Girin</string>
   <string name="action_text_card_manager">Kanal</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="ad_card_download_count">%1$s indir</string>
@@ -91,7 +88,6 @@
   <string name="app_label">Takvim</string>
   <string name="app_not_found">Seçilen uygulama bulunamadı</string>
   <string name="aqi_level">HKİ %d</string>
-  <string name="attendees">Katılımcılar</string>
   <string name="birthday_born">Doğum günü</string>
   <string name="birthday_calendar_display_name">Doğum günü hatırlatmaları</string>
   <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
@@ -136,9 +132,6 @@
   <string name="childrens_day">çocuk bayramı</string>
   <string name="chinese_youth_day">gençlik festivali</string>
   <string name="chip_text">Çentik metni</string>
-  <string name="chips_action_cancel">İptal</string>
-  <string name="chips_action_copy">Kopyala</string>
-  <string name="chips_permission_text">Kişi önerilerine izin ver</string>
   <string name="clear_net_mock_success">Net sahte net başarı</string>
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
@@ -210,7 +203,6 @@
   <string name="display_to_calendar">Takvimde göster</string>
   <string name="does_not_repeat">Tek seferlik etkinlik</string>
   <string name="downloading">İndiriliyor...</string>
-  <string name="dropdown_delete_button_desc">%s\'yi alıcılardan kaldır</string>
   <string name="early_morning">Sabah</string>
   <string name="edit_date_calculate_days_backward_error_hint">İleriye doğru hesaplanamıyor</string>
   <string name="edit_date_calculate_days_empty_hint">Gün sayısını girin</string>
@@ -627,7 +619,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="olympic_rank">Rütbe</string>
   <string name="olympic_total">Tamam</string>
   <string name="online_reminder_header_text">Hatırlat</string>
-  <string name="pack_up">Gizle</string>
   <string name="passenger">Yolcu</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="path_calendar_settings">Sistem Uygulamaları/Takvim/Ayarlar</string>
@@ -667,9 +658,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="premission_description_agree">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri almasına izin verin.</string>
   <string name="premission_description_calendar">Etkinliklerinizi eklemek ve görüntülemek için</string>
   <string name="premission_description_contact">Kişilerinizin doğum günlerini görüntülemek için</string>
-  <string name="premission_description_log">Günlükleri kaydetmek için</string>
   <string name="premission_description_phone_state">Cihaz kimliğini temel alarak cihazınızı tanımlamak için</string>
-  <string name="premission_description_ringtone">Zil sesleri ayarlamak için</string>
   <string name="premission_description_title">Zamanlanmış etkinlikleri görüntüleme ve yönetme</string>
   <string name="privacy_card_description">Tüm özelliklere erişmek için Gizlilik Politikamızı kabul edin.</string>
   <string name="privacy_policy_dialog_agree">Kabul et</string>
@@ -979,7 +968,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-  <string name="prefsx_notify_sound_none">Sessiz</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="year">Yıl</string>
