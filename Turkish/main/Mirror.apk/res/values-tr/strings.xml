@@ -261,11 +261,9 @@
   <string name="softap_notification_message_china">Kullanılabilir WLAN ağı yok. Bu erişim noktasına bağlanılsın mı?</string>
   <string name="softap_notification_title">%1$ erişim noktasına bağlan</string>
   <string name="permission_access_nearby_device">Yakındaki cihazlara erişim</string>
-<<<<<<< Updated upstream
   <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Yansıtma sırasında ses iletmek için</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Cihazlar arasında dosya aktarımı için</string>
   <string name="settings_permission_description">İzin ayrıntıları</string>
-=======
   <string name="guide_window_btn_know">Anladım</string>
   <string name="guide_window_operation">Ekranın kenarından ortasına doğru kaydırın</string>
   <string name="guide_window_title">Geri dön</string>
@@ -275,5 +273,4 @@
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
   <string name="pcmode_not_support_multi_window">Pc modu birden fazla pencerenin gösterilmesini desteklemiyor.</string>
->>>>>>> Stashed changes
 </resources>
