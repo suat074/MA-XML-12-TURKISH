@@ -532,4 +532,16 @@
   <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
   <string name="warning_field_empty">%1$s girişi</string>
   <string name="warning_field_invalid">Geçerli bir %1$s seçin</string>
+  <string name="catch_full_log_item_title_camera">Kamera</string>
+  <string name="catch_full_log_item_title_charge">Şarj</string>
+  <string name="catch_full_log_item_title_trace">İzleme</string>
+  <string name="catch_full_log_privacy_content_camera">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler Kamera kullanım bilgilerini (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="catch_full_log_privacy_content_charge">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Şarj bilgisi içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="catch_full_log_privacy_content_trace">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Program çalıştırma kaydını (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="withdraw">Geri çek</string>
+  <string name="withdraw_consent">Onayın geri çekilmesi</string>
+  <string name="withdraw_consent_hint">Devam ederseniz, %1$s Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinir. %2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından, izninizi geri çekmeniz, %3$s hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Onay şimdi geri çekilsin mi?</string>
 </resources>

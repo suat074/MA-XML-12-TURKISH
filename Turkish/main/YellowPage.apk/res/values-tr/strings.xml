@@ -319,7 +319,7 @@
   <string name="user_notice_identify_summary_format_cta">Telefonunuz Wi-Fi ağına bağlandığında istenmeyen aramaları engellemek için MIUI veritabanını kullanır. Bu hizmeti kullanarak, %1$s ve %2$s kabul etmiş olursunuz.</string>
   <string name="user_notice_main_purpose_palmhall">CMCC Çevrimiçi Servis Salonu</string>
   <string name="user_notice_main_purpose_yellowpage">Telefon numaralarını tanımlama</string>
-  <string name="user_notice_permission_desc_location">Satıcıların yerel hizmetlerini Sarı sayfalardan önermek için</string>
+  <string name="user_notice_permission_desc_location">Mevcut konum hizmetlerini görüntülemek için</string>
   <string name="user_notice_permission_desc_read_call_log">Çağrı geçmişini Sarı sayfaların kişi bilgilerinde göstermek için</string>
   <string name="user_notice_permission_desc_read_phone_state">IMEI ve IMSI\'ye erişmek için</string>
   <string name="user_notice_permission_desc_read_sms">Tanıma verimliliğini artırmak için iletileri anonim olarak işaretlemek için</string>
@@ -363,4 +363,56 @@
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="yellowpage_search_the_yellowpage">Sarı sayfalarda ara</string>
   <string name="yellowpage_user_profile">Profil</string>
+  <string name="agree_bt">Kabul et</string>
+  <string name="allowed">Onaylı</string>
+  <string name="disagree_bt">İptal</string>
+  <string name="konw">Anladım</string>
+  <string name="main_content">"Sarı sayfalar Gizlilik Politikası güncellendi:
+Devam etmeden önce "<a href="https://privacy.mi.com/yellowpage/en_US" style="text-decoration:none">Gizlilik Politikası</a> yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="net_error_dialog_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="net_error_dialog_title">Ağa bağlanılamadı</string>
+  <string name="not_allowed">Onaylanmamış</string>
+  <string name="notice_main_content">"You won't be able to keep using Yellow pages unless you agree to the new version of its "<a href="https://privacy.mi.com/yellowpage/en_US" style="text-decoration:none">Privacy Policy</a>. Agree to the updated Privacy Policy now?</string>
+  <string name="obtain_location_information">Konuma erişim</string>
+  <string name="obtain_location_information_summary">Mevcut konum hizmetlerini görüntülemek için</string>
+  <string name="permission_description_title">İzin ayrıntıları</string>
+  <string name="permission_notice_cta_desc_purpose">Sarı sayfalara hoş geldiniz! Arayan Kimliklerini tanımak ve muhtemelen sahte aramaları belirlemek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması gerekir.</string>
+  <string name="permission_notice_cta_desc_runtime">Uygulamayı kullanırken size ek hizmetler sağlamak için şu izinlere ihtiyacımız olabilir: çağrı geçmişini düzenleme, cihazda depolanan fotoğraflara ve dosyalara erişim, konuma erişim. İzin tercihlerinizi istediğiniz zaman Ayarlar\'dan düzenleyebilirsiniz.</string>
+  <string name="permission_notice_desc_title">Gerekli izinler</string>
+  <string name="permission_notice_privacy_change_desc">Gizlilik Politikasının yeni sürümünü kabul etmedikçe Sarı sayfaları kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?</string>
+  <string name="permission_notice_privacy_change_request_desc">"Sarı sayfalar Gizlilik Politikası güncellendi:
+Devam etmeden önce Gizlilik Politikasının yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="permission_notice_privacy_change_title_desc">Güncellenen Gizlilik Politikası</string>
+  <string name="permission_retry_deny">İptal</string>
+  <string name="permission_retry_dialog_msg">Sarı sayfalardan Arayan Kimlikleri ile ilişkili ilgili çağrı geçmişini görüntüleyebilmek ve bu bilgileri güncel tutabilmek için bu uygulamanın çağrı geçmişine erişmesine ve düzenlemesine izin verin.</string>
+  <string name="permission_retry_setting">Ayarlar</string>
+  <string name="policy_update_dialog_title">Güncellenen Gizlilik Politikası</string>
+  <string name="preference_check_privacy">Gizlilik Politikasını görüntüle</string>
+  <string name="preference_permission_description">İzin ayrıntıları</string>
+  <string name="preference_permission_related">İzinler</string>
+  <string name="preference_privacy_policy">Gizlilik Politikası</string>
+  <string name="preference_withdraw_of_consent">Onayın geri çekilmesi</string>
+  <string name="privacy_policy_withdrawal_consent">Onayın geri çekilmesi</string>
+  <string name="privacy_policy_withdrawal_consent_summary">Sarı sayfaların Gizlilik Politikasına ilişkin onayınızı geri çekin</string>
+  <string name="privacy_setting">Gizlilik</string>
+  <string name="read_call_log">Çağrı geçmişine erişim</string>
+  <string name="read_call_log_summary">Sarı sayfaların kişi bilgilerinde çağrı geçmişini göstermek için</string>
+  <string name="read_photos_and_files">Cihazda depolanan fotoğraflara ve dosyalara erişim</string>
+  <string name="read_photos_and_files_summary">Yerel Arayan Kimliği veritabanlarını güncellemek için</string>
+  <string name="sign_out_bt">Çıkış</string>
+  <string name="toast_not_show_location_perm_req">Bölgenizde bulunan hizmetleri görüntüleyebilmek için önce bu uygulamanın konumunuza erişmesine izin verin.</string>
+  <string name="toast_not_show_read_call_log_perm_req">Sarı sayfalardan Arayan Kimlikleri ile ilişkili çağrı geçmişini görüntüleyebilmek için önce bu uygulamanın çağrı geçmişine erişmesine izin verin.</string>
+  <string name="toast_not_show_storage_perm_req">Arayan Kimliği tanıma paketini güncel tutabilmek için önce bu uygulamanın bu cihazda depolanan fotoğraflara ve dosyalara erişmesine izin verin.</string>
+  <string name="toast_not_show_write_call_log_perm_req">Sarı sayfalardan Arayan Kimlikleri ile ilişkili çağrı geçmişini görüntüleyebilmek için, önce bu uygulamanın çağrı geçmişini düzenlemesine izin verin.</string>
+  <string name="user_notice_dialog_title">Dikkat</string>
+  <string name="withdraw_fail_dialog_message">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="withdraw_fail_dialog_title">Onay geri alınamadı</string>
+  <string name="withdraw_privacy_dialog_message_first">Devam ederseniz, Sarı sayfaların Gizlilik Politikasına verdiğiniz onayı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir.</string>
+  <string name="withdraw_privacy_dialog_message_seconde">Sarı sayfalar hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan, onayınızı geri çekmeniz, Xiaomi Bulut hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Bazı Sarı sayfalar, bazı hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izninizi geri çekmeniz, bu tür hizmetleri kabul etmeyi reddetmeniz olarak değerlendirilecektir. Yine de uygulamanın temel özelliklerini kullanabileceksiniz. İzin şimdi geri çekilsin mi?</string>
+  <string name="withdraw_privacy_dialog_negativebt">Geri çek</string>
+  <string name="withdraw_privacy_dialog_positivebt">İptal</string>
+  <string name="withdraw_privacy_dialog_title">Onayın geri çekilmesi</string>
+  <string name="withdraw_privacy_success">Onay başarıyla geri çekildi</string>
+  <string name="write_delete_call_log">Çağrı geçmişini düzenle</string>
+  <string name="write_delete_call_log_summary">Arayan Kimliği veritabanını güncellemek için</string>
 </resources>

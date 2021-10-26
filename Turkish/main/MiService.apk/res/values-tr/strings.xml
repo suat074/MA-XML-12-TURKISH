@@ -103,6 +103,7 @@
   <string name="miui_feedback_main_search_no_answer">Sonuç bulunamadı</string>
   <string name="miui_feedback_main_menu_catch_full_log">Günlükleri oluştur</string>
   <string name="miui_feedback_main_menu_feedback_list">Geri bildirim geçmişini görüntüle</string>
+  <string name="miui_feedback_main_menu_view_withdraw_consent">Onayın geri çekilmesi</string>
   <string name="miui_feedback_main_search_footer">Sormak istediğin sorular bunlar değil mi?</string>
   <string name="miui_feedback_main_search_footer_submit">Geri bildirim gönder</string>
   <string name="miui_feedback_main_search_issue">Aranacak anahtar kelimeleri girin</string>
@@ -111,6 +112,8 @@
   <string name="miui_feedback_main_submit_dialog_content">Sorununuza bir çözüm bulamadık gibi görünüyor. Bize geri bildiriminizi gönderebilirsiniz.</string>
   <string name="miui_feedback_main_submit_dialog_title">Geri bildirim gönder</string>
   <string name="miui_feedback_main_title">Geri bildirim</string>
+  <string name="miui_feedback_main_withdraw">Geri çek</string>
+  <string name="miui_feedback_main_withdraw_consent_hint">Devam ederseniz, %1$s Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinir. %2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, %3$s hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir. Onay şimdi geri çekilsin mi?</string>
   <string name="miui_guide_accessibility_image_desc">Görüntü</string>
   <string name="miui_guide_clear_db_service">\"Hizmetler ve geri bildirim\" dil önbelleğini temizliyor…</string>
   <string name="miui_guide_footer_desc">Başlangıç ​​kılavuzu, cihazınız ve MIUI hakkında daha fazla bilgi edinmenize yardımcı olmak için tasarlanmıştır. Kılavuzdaki bazı resimler ve videolar yalnızca referans amaçlı oluşturulmuştur ve gerçek üründen farklı olabilir. Bu kılavuzda açıklanan özellikler cihaz modelinize, MIUI sürümüne ve kullanım ortamına bağlı olarak değişebilir.</string>
@@ -174,9 +177,9 @@
   <string name="public_net_error_retry">Tekrar deneyin</string>
   <string name="public_net_error_sub_title">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
   <string name="public_net_error_title">Ağa bağlanılamadı</string>
-  <string name="public_open_feedback_service">Açık hizmet</string>
+  <string name="public_open_feedback_service">Başlangıç</string>
   <string name="public_please_authorize">Devam etmek için gerekli izinler</string>
-  <string name="public_welcome_use_feedback_service">Hizmeti ve geri bildirimi kullanmaya hoş geldiniz. Xiaomi ürünlerini kullanma sürecinde herhangi bir sorunuz varsa, servis ve geri bildirim bölümünden kullanıcı geri bildirimi gönderebilir, genel sorunları görüntüleyebilir ve ürün satış sonrası uygulamalarını iletebilirsiniz.</string>
+  <string name="public_welcome_use_feedback_service">Hizmetler ve geri bildirime hoş geldiniz! Bu uygulamayı geri bildirim göndermek, sık sorulan soruları görüntülemek, ürün iadeleri ve değişimleri için başvurmak ve daha fazlası için kullanabilirsiniz.</string>
   <string name="rationale_ask">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir.</string>
   <string name="rationale_ask_again">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir. Uygulama izinlerini değiştirmek için uygulama ayarları ekranını açın.</string>
   <string name="search_menu_title">Arama</string>

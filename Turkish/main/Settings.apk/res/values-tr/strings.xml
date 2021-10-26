@@ -810,6 +810,10 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_ask_lasting_discovery">%1$s telefonunuzu diğer Bluetooth cihazlarına görünür yapmak istiyor. Bunu daha sonra Bluetooth ayarlarından değiştirebilirsiniz.</string>
   <string name="bluetooth_ask_lasting_discovery_no_name">Bir uygulama, telefonunuzu diğer Bluetooth cihazlara görünebilir yapmak istiyor. Bunu daha sonra Bluetooth ayarlarından değiştirebilirsiniz.</string>
   <string name="bluetooth_auto_connect">Otomatik Bağlan</string>
+  <string name="bluetooth_ble_audio_source_remove_fail">Yayın kaynağı kaldırılamadı, lütfen tekrar deneyin!</string>
+  <string name="bluetooth_ble_audio_stop_synchronize_confirmed">Tamam</string>
+  <string name="bluetooth_ble_audio_stop_synchronize_message">Durduktan sonra, kulaklık Bluetooth radyo sesini dinleyemez</string>
+  <string name="bluetooth_ble_audio_stop_synchronize_title">Ses eşitlemesini durdur</string>
   <string name="bluetooth_broadcasting">Yayın</string>
   <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Bu şifreyi gösterdiğinden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
@@ -2490,6 +2494,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="game_mode_settings">Oyun modu</string>
   <string name="game_mode_summary">Diğer uygulamalar için eşitleme ve arka plan ağ bağlantısını kısıtlarken, oyunlar için performansı artırın.</string>
   <string name="game_storage_settings">Oyunlar</string>
+  <string name="gd_setting_title">Akıllı araç kutusu</string>
   <string name="gesture_c">C desen</string>
   <string name="gesture_m">M desen</string>
   <string name="gesture_open_alipay">Alipay\'i aç</string>

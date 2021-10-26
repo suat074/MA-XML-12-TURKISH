@@ -435,4 +435,24 @@
   <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor</string>
   <string name="web_sso_login_message">Giriş yapılıyor…</string>
   <string name="webview_reload">Tekrar deneyin</string>
+  <string name="agree">Kabul et</string>
+  <string name="auto_task_now_city">Mevcut konum</string>
+  <string name="auto_task_search_address_point">Konum ara</string>
+  <string name="auto_task_select_city">Şehir seç</string>
+  <string name="gtb_dialog_privacy_speed_message">Xunyou Oyun Güçlendirici kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır.</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou Oyun Güçlendirici &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
+  <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Güçlendirici</string>
+  <string name="privacy_name">Gizlilik Politikası</string>
+  <string name="privacy_title">Gizlilik Politikası</string>
+  <string name="privacy_update">Gizlilik Politikası güncellemesi</string>
+  <string name="privacy_update_content" formatted="false">"Çocuk Alanı Gizlilik Politikası aşağıdaki şekilde güncellendi.
+%s
+Lütfen güncellenen %s okuyun ve kabul edin." </string>
+  <string name="recall_confirm">Geri çek</string>
+  <string name="recall_failed">Onay geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="recall_kid_mode">Onayın geri çekilmesi</string>
+  <string name="recall_kid_mode_summary">Çocuk alanının Gizlilik Politikasına ilişkin onayınızı geri çekin</string>
+  <string name="recall_kid_mode_tips">Çocuk alanı gizlilik politikasına onayınızı geri çekerseniz, uygulama tarafından toplanan verileri yasalara uygun olarak sileceğiz ve alandaki tüm veriler kalıcı olarak kaybolacak. Onayın geri çekilmesi, size çocuk alanı hizmetleri sunmaya devam etmemizi kabul etmediğiniz olarak kabul edilecektir. Onayınızı geri çekiyor musunuz?</string>
+  <string name="user_notification">Dikkat</string>
+  <string name="user_notification_content">Size hizmet sağlamaya devam edebilmemiz için %s kabul etmeniz gerekiyor. Güncellenmiş Gizlilik politikasını kabul ediyor musunuz?</string>
 </resources>
