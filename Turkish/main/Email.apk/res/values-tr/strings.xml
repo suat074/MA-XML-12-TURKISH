@@ -1528,7 +1528,6 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Takvim ve Kişi bilgileri gerçek zamanlı eşitlemeli değildi, Kişiler izni her zaman izin verilecek şekilde ayarlandı.</string>
   <string name="hide_attachment">Eki gizle</string>
   <string name="show_attachment">Eki göster</string>
-  <string name="folder_list_current_account">Geçerli posta kutusu</string>
   <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
   <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
   <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
@@ -1548,5 +1547,4 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="gmail_invalid_tip_confirm">Oturum aç</string>
   <string name="gmail_invalid_tip_message">Google\'ın şartları ve koşulları değişti. Gmail\'de tekrar oturum açın.</string>
   <string name="gmail_invalid_tip_title">Gmail\'de oturum açın</string>
-  <string name="new_mail_notification_str">Hatırlatıcılara izin ver</string>
 </resources>
