@@ -492,6 +492,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="send_last_location_title">Kapatmadan önce bulun</string>
   <string name="share_cancel">Paylaşım iptal edildi</string>
   <string name="share_failed">Paylaşılamıyor</string>
+  <string name="share_location_guide_action_btn_loading_text">Sadece bir saniye…</string>
   <string name="share_location_menu_create_shortcut">Ana ekran kısayolu</string>
   <string name="share_miliao_not_installed">Mi Talk yüklenmedi.</string>
   <string name="share_sdk_btn_already_shared_text">Davet teslim edildi</string>

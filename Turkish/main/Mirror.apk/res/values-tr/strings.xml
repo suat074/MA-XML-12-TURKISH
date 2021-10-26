@@ -141,7 +141,7 @@
   <string name="settings_home">MIUI+ Beta</string>
   <string name="settings_home_device_disconnect">Bağlantıyı kes</string>
   <string name="settings_home_device_group">Bağlı cihaz</string>
-  <string name="settings_home_tips">Ekran Kombo, telefonunuzun ekranının bir kopyasını bağlı bir bilgisayara yerleştirerek dosyaları aktarmanıza ve orada mobil cihazınızla etkileşim kurmanıza olanak tanır.</string>
+  <string name="settings_home_tips">Screen Combo, telefonunuzun ekranının bir kopyasını bağlı bir bilgisayara yerleştirir ve burada dosya aktarmanıza ve mobil cihazınızla etkileşim kurmanıza olanak tanır.</string>
   <string name="settings_more_help">Yardım</string>
   <string name="settings_privacy_policy">Gizlilik Politikası</string>
   <string name="settings_scanner_button">Tarayıcı</string>
@@ -261,7 +261,19 @@
   <string name="softap_notification_message_china">Kullanılabilir WLAN ağı yok. Bu erişim noktasına bağlanılsın mı?</string>
   <string name="softap_notification_title">%1$ erişim noktasına bağlan</string>
   <string name="permission_access_nearby_device">Yakındaki cihazlara erişim</string>
+<<<<<<< Updated upstream
   <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Yansıtma sırasında ses iletmek için</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Cihazlar arasında dosya aktarımı için</string>
   <string name="settings_permission_description">İzin ayrıntıları</string>
+=======
+  <string name="guide_window_btn_know">Anladım</string>
+  <string name="guide_window_operation">Ekranın kenarından ortasına doğru kaydırın</string>
+  <string name="guide_window_title">Geri dön</string>
+  <string name="low_version_dialog_message">Bilgisayarınızda MIUI+\'yı güncelleyin veya plus.miui.com adresinden en son sürümü indirin.</string>
+  <string name="low_version_dialog_title">MIUI+\'yı güncelle</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="pcmode_not_support_multi_window">Pc modu birden fazla pencerenin gösterilmesini desteklemiyor.</string>
+>>>>>>> Stashed changes
 </resources>

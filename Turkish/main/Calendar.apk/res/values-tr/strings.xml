@@ -1086,4 +1086,18 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="title_no_record_menstruation">Henüz adetlerinizi kaydetmediniz.</string>
   <string name="title_p_tracker">Regl</string>
   <string name="title_start_use_menstruation_assistant">Adet döngünüzü kaydedin</string>
+  <string name="accessbility_suggestion_dropdown_closed">Kullanılabilir öneri yok</string>
+  <string name="accessbility_suggestion_dropdown_opened">Kişi önerileri açıldı</string>
+  <string name="action_label">Geri dön</string>
+  <string name="chips_action_cancel">İptal</string>
+  <string name="chips_action_copy">Kopyala</string>
+  <string name="chips_permission_text">Kişi önerilerine izin ver</string>
+  <string name="dropdown_delete_button_desc">%s öğesini alıcılardan kaldır</string>
+  <string name="hide_menstruation_info">Regl bilgilerini gizle</string>
+  <string name="prefsx_notify_sound_none">Sessiz</string>
+  <string name="premission_description_log">Günlükleri kaydetmek için</string>
+  <string name="premission_description_ringtone">Zil seslerini ayarlamak için</string>
+  <string name="show_menstruation_info">Regl bilgilerini göster</string>
+  <string name="attendees">Katılımcı</string>
+  <string name="pack_up">Kaldır</string>
 </resources>

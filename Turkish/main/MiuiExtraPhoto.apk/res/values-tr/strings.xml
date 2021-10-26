@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="doc_photo_adjust_section_talkback">Kırp ve düzenle</string>
   <string name="doc_photo_adjust_section_title">Ayarlamak için sürükleyin</string>
   <string name="doc_photo_cancel">İptal</string>
   <string name="doc_photo_confirm">Çık</string>

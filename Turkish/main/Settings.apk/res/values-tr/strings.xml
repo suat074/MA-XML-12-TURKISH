@@ -823,7 +823,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon veya medya yok) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (telefon veya medya yok) | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">Bağlandı (mesaj erişimi yok) %1$s</string>
-  <string name="bluetooth_connect_settings">Bluetooth bağlantı ayarları</string>
+  <string name="bluetooth_connect_settings">Bağlantı</string>
   <string name="bluetooth_connected_summary">%1$s cihazına bağlı</string>
   <string name="bluetooth_connecting">Bağlanıyor...</string>
   <string name="bluetooth_connecting_error_message">%1$s için bağlanamadı.\"</string>
@@ -876,7 +876,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor...</string>
   <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Üzerine yazın:&lt;br>&lt;b>%2$s&lt;/b>, daha sonra Return veya Enter tuşuna basın.</string>
-  <string name="bluetooth_display_settings">Bluetooth ekran ayarları</string>
+  <string name="bluetooth_display_settings">Görüntülenen öğeler</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -920,7 +920,7 @@ Sorun şunlar olabilir:
   <string name="bluetooth_max_connected_audio_devices_string">Maksimum bağlı Bluetooth ses cihazı</string>
   <string name="bluetooth_menu_advanced">Gelişmiş</string>
   <string name="bluetooth_mi_fast_connect">Uyumlu cihazları eşleştir</string>
-  <string name="bluetooth_mi_fast_connect_summary">Basitleştirilmiş bir eşleştirme işlemi kullanarak yakındaki cihazlara bağlanın</string>
+  <string name="bluetooth_mi_fast_connect_summary">Kulaklıkları, hoparlörleri ve diğer uyumlu cihazları hızlı bir şekilde bağlayın</string>
   <string name="bluetooth_middle_name">Durum</string>
   <string name="bluetooth_name_not_set">İsim ayarlanmadı, hesap adı kullanılıyor</string>
   <string name="bluetooth_no_devices_found">Yakınlarda Bluetooth cihazı bulunamadı.</string>
@@ -8157,4 +8157,24 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="handy_mode_no_touch_assistant">Tek elle kullanım modu yalnızca sistemde gezinme için düğmeleri kullanıyorsanız çalışır. Ayarlar’da \"Sistemde gezinme\" bölümünde, hareketler ve düğmeler arasında geçiş yapabilirsiniz.</string>
   <string name="insert_sim_card_and_try_again">SIM kartınızı takın ve tekrar deneyin.</string>
   <string name="unsupported_usim_card">Desteklenmeyen USIM kartı.</string>
+  <string name="blank_screen_no_device">Cihaz yok</string>
+  <string name="bluetooth_other_settings">Ek ayarlar</string>
+  <string name="current_use_default_wallet"> Otomatik olarak seçildi</string>
+  <string name="dclight_unavailable_prompt">Titreme önleme modu yalnızca dış ekran tarafından desteklenir</string>
+  <string name="display_prompt_confirm">Anladım</string>
+  <string name="screen_refresh_unavailable_prompt">Yenileme hızının değiştirilmesi yalnızca dış ekran tarafından desteklenir</string>
+  <string name="se_route_default">Otomatik olarak seç</string>
+  <string name="blank_screen_no_record">Burada henüz kayıt yok</string>
+  <string name="bluetooth_version">Bluetooth sürümü</string>
+  <string name="bluetooth_version_message">Güncelle</string>
+  <string name="face_data_suggesstion_first_cn">"Yüz ile kilit açma özelliğini kullanabilmeniz için yüz verilerinizi toplamamız gerekiyor. Yüz verileri bu cihazda yerel olarak depolanacak. Silmek için Ayarlar\'da \"Yüz ile kilit aç\" ifadesini arayın ve ardından Yüz ile kilit açma > Yüz verileri\'ni seçin.
+Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi hem fotoğrafınızla hem de benzer görünüme sahip kişiler veya nesneler tarafından açılabilir."</string>
+  <string name="finger_add_user_info_dialog_cancel">İptal</string>
+  <string name="finger_add_user_info_dialog_message">"Parmak izi ile kilit açma özelliğini kullanabilmeniz ve parmak izi ödemesi yapabilmeniz için parmak izinizi almamız gerekmektedir. Parmak izi bu cihazda yerel olarak depolanacak. Silmek için Ayarlar'da \"Parmak izi ile kilit açma\" ifadesini arayın ve ardından Parmak izi ile kilit açma > Parmak izi öğesini seçin. Kabul etmezseniz bu özelliği kullanamazsınız."</string>
+  <string name="finger_add_user_info_dialog_next">Kabul et</string>
+  <string name="finger_add_user_info_dialog_title">Dikkat</string>
+  <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
+  <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
+  <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="miui_face_enroll_risk_warning_title_text_cn">Güvenlikle ilgili açıklama</string>
 </resources>

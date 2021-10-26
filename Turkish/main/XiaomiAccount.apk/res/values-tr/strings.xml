@@ -588,6 +588,8 @@
   <string name="user_avatar_uploading">Biraz bekleyin...</string>
   <string name="user_license_with_3rd_app"><Data>"Mi Hesabımla oturum açarak, &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> ve Mi Hesabının &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> okuduğumu ve kabul ettiğimi onaylıyorum."</Data></string>
   <string name="user_license_without_3rd_app"><Data>"Mi Hesabının &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
+  <string name="user_license_with_3rd_app_no_operator"><Data>"&lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> ve Mi Hesabının &lt;a href=%3$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
+  <string name="user_license_with_out_3rd_app_no_operator"><Data>"Mi Hesabının &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
   <string name="vip_account_settings">VIP Ayarları</string>
   <string name="vip_settings_info">VIP ayarları</string>
   <string name="weixin">WeChat</string>
@@ -674,4 +676,16 @@
   <string name="request_use_writing_clipboard_message">Mi Hesabı Kimliğinizi kopyalamak için Mi Hesabının öğeleri panoya kaydetmesine izin verin.</string>
   <string name="user_instruction_all_purpose">Mi Hesabı\'na hoş geldiniz! Bir hesap oluşturabilir, oturum açabilir ve Xiaomi ve Mi.com, Xiaomi Bulut ve GetApps gibi bağlı şirketler tarafından sağlanan hizmetlere erişebilirsiniz. Mi Para alabilir, sanal ürünler satın alabilir ve oyunlar, temalar, e-kitaplar dahil katma değerli hizmetlerden yararlanabilirsiniz.</string>
   <string name="user_instruction_tip">Giriş yapabilmek, şartlar ve koşulları okuyup kabul edebilmek için.</string>
+  <string name="button_agree">Kabul et</string>
+  <string name="button_close">Kapat</string>
+  <string name="button_refuse">Reddet</string>
+  <string name="permission_instructions">İzin kullanımı</string>
+  <string name="permission_withdraw">Geri çek</string>
+  <string name="privacy_policy_reject_confirm_msg">Gizlilik Politikasının yeni sürümünü kabul etmedikçe Mi Hesabını kullanmaya devam edemezsiniz. Güncellenen Mi Hesabı &lt;a href=%1$s>Gizlilik Politikası&lt;/a> şimdi kabul ediyor musunuz?</string>
+  <string name="privacy_policy_reject_confirm_title">Mi Hesabını kullanamıyorum</string>
+  <string name="privacy_policy_update_msg">Mi Hesabı Gizlilik Politikası güncellendi:&lt;br/>%1$s&lt;br/>Devam etmeden önce &lt;a href=%2$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü okuyun ve kabul edin.</string>
+  <string name="privacy_policy_update_title">Güncellenmiş Gizlilik Politikası</string>
+  <string name="revoke_privacy_policy">Onayın geri çekilmesi</string>
+  <string name="revoke_privacy_policy_instructions">"Devam ederseniz, Mi Hesabı Gizlilik Politikasına verdiğiniz onayı geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Mi Hesap, hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan, onayınızı geri çekmeniz, Mi Hesap hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Onayınız şimdi geri çekilsin mi?"</string>
+  <string name="revoke_privacy_policy_title">Onayın geri çekilmesi</string>
 </resources>

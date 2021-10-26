@@ -696,6 +696,7 @@
   <string name="emergency_enable_radio_dialog_message">Radyo açılıyor…</string>
   <string name="emergency_enable_radio_dialog_retry">Hizmet yok. Yeniden deneniyor…</string>
   <string name="emergency_enable_radio_dialog_title">Acil durum çağrısı</string>
+  <string name="emergency_medical_records">Tıbbi kayıtlar</string>
   <string name="emm_cause_11">Mevcut operatör bu servisi desteklemiyor.</string>
   <string name="emm_cause_14">Mevcut operatör mobil veri servislerini desteklemiyor.</string>
   <string name="emm_cause_2">Telefon numarası kaydedilemedi. Cihazınızı kapatıp açın ve tekrar deneyin.</string>

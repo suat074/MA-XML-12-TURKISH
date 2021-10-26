@@ -936,6 +936,7 @@ Başka bir SIM kart için kablosuz servis sağlayıcınıza başvurun."</string>
   <string name="permgrouprequest_sms">&lt;b>%1$s&lt;/b> için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
   <string name="permgrouprequest_storage">&lt;b>%1$s&lt;/b> için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
   <string name="permission_remember_choice">Hatırla</string>
+  <string name="permission_request_notification_for_app_with_subtitle">%1$s tarafından %2$s hesabı için izin istendi.</string>
   <string name="permission_request_notification_title">İzin isteği</string>
   <string name="permission_request_notification_with_subtitle">"%s hesabı için
 izin istendi."</string>
