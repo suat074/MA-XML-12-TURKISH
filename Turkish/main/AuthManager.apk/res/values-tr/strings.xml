@@ -76,6 +76,8 @@
   <string name="HIPS_Perm_Location_Desc">kesin konumu alır (GPS ve ağ tabanlı)</string>
   <string name="HIPS_Perm_mediaVolume">Medya ses seviyesini ayarla</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Uygulamanın medya ses seviyesini ayarlamasına izin ver</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES">Yakındaki Cihazlara Bağlanma</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Yakındaki cihazları keşfedin ve bunlara bağlanın</string>
   <string name="HIPS_Perm_operator_get_phonenumbner">Oturum açmak için telefon numarasına erişim</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Oturum açmak için operatörden telefon numarası alır</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Şimdi tek dokunuşla oturum açamıyorsanız, oturum açma sayfasına geri dönün ve tekrar deneyin.</string>

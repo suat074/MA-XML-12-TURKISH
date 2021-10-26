@@ -542,4 +542,19 @@
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="call_phone_permissions_text">Bu özelliği kullanabilmek için Tarayıcının çağrı yapmasına izin verin.</string>
+  <string name="logout_service">Onayı geri çek</string>
+  <string name="permission_management">İzinler</string>
+  <string name="picture_default_original_image">Orijinal</string>
+  <string name="picture_editor">Editör</string>
+  <string name="privacy_policy_update">Güncellenen Gizlilik Politikası</string>
+  <string name="privacy_policy_update_message"><Data>"&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> yeni sürümünü kabul etmedikçe Tarayıcı\'yı kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</Data></string>
+  <string name="privacy_policy_update_welcome">Tarayıcı Gizlilik Politikası güncellendi:</string>
+  <string name="privacy_policy_withdrawal_error">Onay geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="privacy_policy_withdrawal_message"><Data>"Devam ederseniz, Tarayıcının Gizlilik Politikasına verdiğiniz onayı geri çekersiniz. Bu, Tarayıcı hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Tarayıcı kullanmaya karar verirseniz &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> tekrar kabul etmeniz gerekecektir. Onayınız şimdi geri çekilsin mi?"</Data></string>
+  <string name="read_contacts_permissions_text">Bu özelliği kullanabilmek için Tarayıcının kişilere erişmesine izin verin.</string>
+  <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_notification">Onayın geri çekilmesi</string>
+  <string name="version_code">"Sürüm: "</string>
+  <string name="picture_original_image">Orijinal (%1$s)</string>
 </resources>

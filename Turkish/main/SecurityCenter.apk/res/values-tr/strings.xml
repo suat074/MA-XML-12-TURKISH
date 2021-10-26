@@ -875,12 +875,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_main_purpose">Güvenlik uygulamasına hoş geldiniz! Depolama alanını boşaltma, cihazda virüs taraması yapma, pil kullanımını kontrol etme, cihazı oyun oynamak için optimize etme, uygulamaları yönetme ve daha fazlası için bu uygulamayı kullanabilirsiniz.</string>
   <string name="cta_settings">İnternet bağlantısına ve konum erişimine izin verin</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
-  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engelli listesine öğe eklemek için</string>
-  <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Engelli öğeleri görüntülemek amacıyla çağrı geçmişine erişmek için</string>
-  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelli listesi işlevi sağlamak ve acil durumda irtibat kurulacak kişileri aramak için</string>
-  <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engelli kişilere mesaj göndermek için</string>
-  <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Çağrı geçmişine öğe eklemek ve engelli çağrıları silmek için</string>
-  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engelli listesini kullanmak ve deprem uyarısı verildiğinde acil durum kişilerini aramak için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Çağrı geçmişinizde engellenen çağrıları görüntülemek için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelli listesini kullanmak için</string>
+  <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engelli listesini kullanmak ve operatörünüze kalibrasyon mesajları göndermek için</string>
+  <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Engelli listenizden mesajları silmek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Çöpü temizlemek ve antivirüs taramaları yapmak için</string>
   <string name="customize_limit_pkg">%s (özel)</string>
   <string name="customizer_mode_user_define_name">Kurallarım</string>
   <string name="daily_card_setting_fragment_daily_card_brand">Operatör</string>
@@ -4918,7 +4918,7 @@ Onayınız şimdi geri çekilsin mi?"</string>
     <string name="share_uid_app">Paylaşılan izinlere sahip uygulamalar</string>
     <string name="share_uid_instruction">Bu uygulamanın, ilgili sistem hizmetlerini sağlamak için izinleri aşağıdaki uygulamalarla paylaşması gerekir. Bu uygulama için bir iznin durumunu her değiştirdiğinizde, aşağıdaki uygulamalar için de ilgili durum değişecektir.</string>
     <string name="summary_condition_charge_to_target">Pil, belirlenen seviyeye kadar şarj edildiğinde</string>
-    <string name="summary_condition_charge_to_target_percent">Pil %s şarj edildiğinde</string>
+    <string name="summary_condition_charge_to_target_percent">Pil %d%% şarj edildiğinde</string>
     <string name="summary_condition_close_absorbed_mode">Odak modunu kapattıktan sonra</string>
     <string name="summary_condition_in_charge">Şarj olurken</string>
     <string name="summary_condition_insert_headset">Kablolu kulaklıkları bağlayın</string>
@@ -4926,7 +4926,7 @@ Onayınız şimdi geri çekilsin mi?"</string>
     <string name="summary_condition_no_in_charge">Şarj olmadığında</string>
     <string name="summary_condition_open_absorbed_mode">Odak modunu açtıktan sonra</string>
     <string name="summary_condition_reduce_to_target">Pil ayarlanan seviyedeyken</string>
-    <string name="summary_condition_reduce_to_target_percent">Pil %s olduğunda</string>
+    <string name="summary_condition_reduce_to_target_percent">Pil %d%% olduğunda</string>
     <string name="summary_condition_scan_rubbish">Temizleyici</string>
     <string name="summary_condition_scan_virus">Virüs tarama</string>
     <string name="summary_condition_unplug_headset">Kablolu kulaklık bağlantısını kesin</string>
@@ -4941,7 +4941,7 @@ Onayınız şimdi geri çekilsin mi?"</string>
     <string name="summary_open_phone_check">Güvenlik taraması çalıştır</string>
     <string name="summary_result_screen_brightness_format">Ekran parlaklığını %s olarak ayarla</string>
     <string name="system_app_permission_instruction">Bu uygulama, temel sistem hizmetlerini sağlamak için aşağıdaki izinlere ihtiyaç duyar. İzin durumlarının değiştirilmesi sistem çalışmasında anormalliklere yol açacağından, bu uygulama için izinlerin yönetimi kısıtlanmıştır.</string>
-    <string name="system_permission_declare_optional">Uygulamayı kullanırken size ek hizmetler sağlamak için şu izinlere ihtiyacımız olabilir: %s.</string>
+    <string name="system_permission_declare_optional">Uygulamayı kullanırken size ek hizmetler sağlamak için şu izinlere ihtiyacımız olabilir: %s. İzin tercihlerinizi istediğiniz zaman Ayarlar\'dan ayarlayabilirsiniz.</string>
     <string name="task_summary_close_airplane">Uçak modunu kapat</string>
     <string name="task_summary_close_auto_brightness">Otomatik parlaklığı kapat</string>
     <string name="task_summary_close_bluetooth">Bluetooth\'u kapat</string>
@@ -5039,4 +5039,12 @@ Onayınız şimdi geri çekilsin mi?"</string>
     <string name="type_face_condition_summary">Metin boyutunu ve yazı tipi kalınlığını ayarlayın</string>
     <string name="weight_heavy">Kalın</string>
     <string name="weight_light">İnce</string>
+	<string name="custom_define_permission_desc_android.permission.READ_SMS">Engelli listesini kullanmak ve operatörünüzden gelen mesajları tanımak için</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum bilgilerinizi MIUI Uyarı Merkezine ve Acil SOS\'a sağlamak için</string>
+  <string name="gtb_dialog_privacy_speed_message">Xunyou Oyun Güçlendirici kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır.</string>
+  <string name="gtb_dialog_privacy_speed_tips">Xunyou Oyun Güçlendirici Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Güçlendirici</string>
+  <string name="gtb_dialog_privacy_voice_message">Xunyou Oyun Ses Değiştirici kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır.</string>
+  <string name="gtb_dialog_privacy_voice_tips">Xunyou Oyun Ses Değiştirici Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="gtb_dialog_privacy_voice_title">Xunyou Oyun Ses Değiştirici</string>
 </resources>

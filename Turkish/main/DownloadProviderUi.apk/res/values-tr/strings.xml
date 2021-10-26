@@ -562,4 +562,15 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="send_diagnosis_log">Tanılama günlüğünü gönder</string>
   <string name="sending">Gönderiliyor…</string>
   <string name="temporary_not_available">geçici dosya mevcut değil</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Öğeleri indirmek ve ayrıca indirmeleri görüntülemek ve yönetmek için</string>
+  <string name="dialog_privacy_update_button1">İptal</string>
+  <string name="dialog_privacy_update_button2">Kabul et</string>
+  <string name="dialog_privacy_update_title">Güncellenen Gizlilik Politikası</string>
+  <string name="dialog_user_know_button1">Çıkış</string>
+  <string name="dialog_user_know_button2">Kabul et</string>
+  <string name="dialog_user_know_content"><Data>"&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> yeni sürümünü kabul etmediğiniz sürece bu özelliği kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</Data></string>
+  <string name="dialog_user_know_title">Dikkat</string>
+  <string name="permission">İzinler</string>
+  <string name="pref_permission_description">İzin ayrıntıları</string>
+  <string name="privacy">Gizlilik</string>
 </resources>

@@ -1071,4 +1071,35 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
 - Metin mesajları
 - Depolama"</string>
   <string name="request_all_permission_title">Gerekli izinler</string>
+  <string name="cancel_tranfer">İptal</string>
+  <string name="guest_wainting_title">Yeni cihazınızda devam edin</string>
+  <string name="host_verify_lock_hint">Ekran kilidini girin</string>
+  <string name="host_verify_lock_retry">Ekran kilidini onaylayın</string>
+  <string name="host_verify_lock_summary">Bu, yeni cihazınızın ekran kilidi olacak</string>
+  <string name="host_verify_lock_title">Eski cihazınızın ekran kilidini girin</string>
+  <string name="idm_discovery_positive_text">Aktarma</string>
+  <string name="idm_discovery_summary">Görünüşe göre şimdi yeni bir cihazı etkinleştiriyorsunuz. Öğeler bu cihazdan yenisine aktarılsın mı?</string>
+  <string name="idm_discovery_title">Öğeleri yeni cihazınıza aktarın</string>
+  <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
+  <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
+  <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
+  <string name="manual_connection_hint">Eski cihazınızda \"Manuel bağlan\" öğesine dokunun.</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="provision_cta_title">Eski cihazdan aktarma</string>
+  <string name="provision_select_data_null">Aktarılacak öğeleri seçin</string>
+  <string name="receiver">Al</string>
+  <string name="receiver_video_summary">Eski cihazınızın kilidini açın, \"Aktar\" öğesine dokunun ve bu resmi tarayın</string>
+  <string name="receiver_video_title">Eski cihazdan aktarma</string>
+  <string name="revoke">Onayı geri çek</string>
+  <string name="revoke_agree">Onayın geri çekilmesi</string>
+  <string name="revoke_confirm_dialog_statement">Devam ederseniz, Mi Mover\'ın Gizlilik Politikasına onayını geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Mi Mover hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Mi Mover hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir.</string>
+  <string name="revoke_confirm_dialog_yes">Tamam</string>
+  <string name="sender_scanning_code">Resmi çerçeveye yerleştirin</string>
+  <string name="sender_scanning_connecting">Yeni cihaza bağlanılıyor…</string>
+  <string name="skip_transfer">Atla</string>
+  <string name="trans_show_qr_code_label_for_pad">Eski cihazda Mi Mover\'ı açın</string>
+  <string name="trans_sync_transfer_data_list_hint">Sadece bir saniye…</string>
+  <string name="trans_sync_transfer_data_list_summary_for_pad">Eski cihazınızda öğeleri seçin ve \"Gönder\" seçeneğine dokunun.</string>
 </resources>

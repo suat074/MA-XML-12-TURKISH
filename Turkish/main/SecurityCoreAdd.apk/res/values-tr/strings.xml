@@ -168,8 +168,7 @@
   <string name="green_guard_title3">Uygulamaları yönet</string>
   <string name="greenguard_child_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
   <string name="greenguard_child_des_title">Cihaz eklemek için QR kodunu tarayın</string>
-  <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,
-yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
+  <string name="greenguard_functional_description">Cihazları uzaktan yönetin, konum bilgilerini görüntüleyin ve yüklü uygulamaları kontrol edin</string>
   <string name="greenguard_install_cancle">Hayır teşekkürler</string>
   <string name="greenguard_install_confirm">Yükle</string>
   <string name="greenguard_install_message">Aile Koruması bir sistem uygulamasıdır. Yüklemek için internete ihtiyacınız yok.</string>

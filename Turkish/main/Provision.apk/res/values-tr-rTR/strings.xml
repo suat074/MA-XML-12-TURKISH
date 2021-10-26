@@ -107,7 +107,7 @@
   <string name="next">Sonraki</string>
   <string name="next_fingerprint">Sonraki</string>
   <string name="note_introduction">Bu uygulama notlar oluşturmanıza, görüntülemenize ve düzenlemenize olanak sağlar.</string>
-  <string name="other_settings">Ek ayarlar</string>
+  <string name="other_settings">Temel ayarlar</string>
   <string name="other_settings_ad_dialog_agree">Aç</string>
   <string name="other_settings_ad_dialog_content">Kişiselleştirilmiş reklam önerileri devre dışı bırakıldığında, özellik açık olduğundaki gibi aynı miktarda reklam görmeye devam edeceksiniz. Bununla birlikte, reklamlar kişisel tercihlerinize dayalı olmayacağından artık alakalı olmayacaktır.</string>
   <string name="other_settings_ad_dialog_disagree">Kapat</string>
