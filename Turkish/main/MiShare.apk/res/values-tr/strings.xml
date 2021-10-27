@@ -96,6 +96,9 @@
   <string name="file_transfer_progress">İlerleme: %1$d%%</string>
   <string name="file_transfer_progress_title">İlerleme</string>
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>
+  <string name="global_pad">Tabletim</string>
+  <string name="global_pc">Laptopum</string>
+  <string name="global_phone">Telefonum</string>
   <string name="go_to_settings">Ayarlar</string>
   <string name="help">Cihazlar bulunamıyor mu?</string>
   <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız, diğer kişiden Mi Paylaşım\'ı açmasını isteyin.</string>

@@ -389,4 +389,10 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına neden olabilir."</stri
   <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
   <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="close">Kapat</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="send">Gönder</string>
 </resources>

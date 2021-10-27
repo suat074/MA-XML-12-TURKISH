@@ -66,6 +66,9 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="sys_notification_async_open_failed_title">Cihazı bul açılamadı</string>
   <string name="sys_notification_async_verify_content">Güncellenen Güvenlik Politikamız, Cihazı bul özelliğinin yeniden etkinleştirilmesini gerektiriyor.</string>
   <string name="sys_notification_async_verify_title">Cihazı bul özelliğini yeniden etkinleştir</string>
+  <string name="talkback_back">Geri</string>
+  <string name="talkback_hide_pwd">Şifreyi gizle</string>
+  <string name="talkback_show_pwd">Şifreyi göster</string>
   <string name="time_correction_failure">Zaman doğrulanamıyor. %s</string>
   <string name="time_correction_success">Zaman doğrulandı</string>
   <string name="unlock">Etkinleştir</string>

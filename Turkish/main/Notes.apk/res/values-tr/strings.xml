@@ -789,4 +789,8 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="widget_size_item_big">Büyük</string>
   <string name="widget_size_item_medium">Orta</string>
   <string name="widget_size_item_small">Küçük</string>
+  <string name="action_collapse">Gizle</string>
+  <string name="action_expand">Daha fazla göster</string>
+  <string name="canvas_is_too_large_to_share_phone">Bu öğe paylaşılamayacak kadar büyük</string>
+  <string name="hand_write_syncing_phone">Eşitleniyor…</string>
 </resources>

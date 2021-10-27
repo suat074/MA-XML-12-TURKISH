@@ -1470,6 +1470,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="confirm_privacy_password">Gizlilik koruması parolasını girin</string>
   <string name="confirm_privacy_password_fingerprint">Parmak izini tarayın veya Gizlilik koruması şifrenizi girin</string>
   <string name="confirm_reset_aaid">Tamam</string>
+  <string name="connect_help">Bağlantı yardımı</string>
   <string name="connect_mode">Bağlantı Modu</string>
   <string name="connect_to_internet">Ağa bağlan</string>
   <string name="connected">Bağlı</string>
