@@ -1476,4 +1476,8 @@
   <string name="permission_contacts_desc_2">Fotoğraflardaki kişileri, kişilerle ilişkilendirmek için</string>
   <string name="permission_contacts_name_2">Kişilere erişim</string>
   <string name="permission_storage_name_2">Cihazdaki fotoğraflara ve dosyalara erişme ve kaydetme</string>
+  <string name="filter_popular_blues">Maviler</string>
+  <string name="filter_popular_sunset_gold">Parlaklık</string>
+  <string name="onekey_beautify_tag_done">Uygulanan efektler</string>
+  <string name="sticker_tab_talkback_halloween">Cadılar bayramı</string>
 </resources>

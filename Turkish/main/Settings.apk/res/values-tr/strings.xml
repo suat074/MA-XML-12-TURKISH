@@ -4650,6 +4650,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="runningservices_settings_title">Çalışan Hizmetler</string>
   <string name="runtime_permissions_summary_no_permissions_granted">İzni garanti edilemez</string>
   <string name="runtime_permissions_summary_no_permissions_requested">İzin isteği yok</string>
+  <string name="safe_install_mode_settings">Güvenli mod</string>
   <string name="safety_and_regulatory_info">Güvenlik ve mevzuat kılavuzu</string>
   <string name="save">Kaydet</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>

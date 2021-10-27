@@ -33,6 +33,12 @@
     <item quantity="other">" %1$ssaat %2$s"</item>
     <item quantity="one">" %1$ssaat %2$s"</item>
   </plurals>
+  <plurals name="choose_long_gif_limit_toast_tip">
+    <item quantity="other">"Animasyonların oynatma süresi %d saniyeyi aşamaz.
+Daha uzun animasyonlar bu noktada durdurulacaktır."</item>
+    <item quantity="one">"Animasyonların oynatma süresi %d saniyeyi aşamaz.
+Daha uzun animasyonlar bu noktada durdurulacaktır."</item>
+  </plurals>
   <plurals name="count_selected">
     <item quantity="other">%d öğe seçildi</item>
     <item quantity="one">%d öğe seçildi</item>

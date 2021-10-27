@@ -68,6 +68,10 @@
     <item quantity="other">%d saniye içinde tekrar deneyin</item>
     <item quantity="one">%d saniye içinde tekrar deneyin</item>
   </plurals>
+  <plurals name="gallery_auto_sync_fail_noti_title">
+    <item quantity="other">%s öğe eşitlenemedi</item>
+    <item quantity="one">%s öğe eşitlenemedi</item>
+  </plurals>
   <plurals name="items_unsynced">
     <item quantity="other">Eşitlenmeyi bekleyen öğeler: %d</item>
     <item quantity="one">Eşitlenmeyi bekleyen öğe: %d</item>

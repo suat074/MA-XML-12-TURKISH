@@ -220,7 +220,7 @@ Bu özelliği Ayarlar > Şifreler &amp; güvenlik > Gizlilik > Kullanım ve teş
   <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="service_policy_download"><Data>Devam etmeden önce &lt;a href=%1$s>Xunlei Gizlilik Politikası&lt;/a > ve &lt;a href=%1$s>Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a > okuyup kabul edin.</Data></string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
-  <string name="service_security_over_r"><Data>Güvenlik uygulamasını kullanmadan önce &lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br/>&lt;br/>Android 11 standartlarına uygun olarak, ilgili uygulamanın çalışması durduktan sonra 5 saniye içinde bir kerelik izin geri alınacaktır. Uygulamayı bu kısa süre içinde açarsanız, izin daha sonra geri çekilir.</Data></string>
+  <string name="service_security_over_r"><Data>&lt;a href=%1$s>Gizlilik Politikası&lt;/a > okuyun ve kabul edin.&lt;br/>&lt;br/>Android R standartlarına uygun olarak, ilgili uygulamanın çalışması durduktan sonra belirli bir süre içinde (yaklaşık &lt;xliff:g example=5 saniye id=short>%2$s&lt;/xliff:g>) bir kerelik izin geri çekilir. Uygulamayı bu kısa süre içinde açarsanız, izin geri çekilir.</Data></string>
   <string name="servicestate_title">Temel hizmetler hakkında açıklama</string>
   <string name="setting_locale">Bölge ayarlanıyor…</string>
   <string name="shut_down">Kapat</string>

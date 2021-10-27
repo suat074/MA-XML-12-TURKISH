@@ -120,6 +120,7 @@
   <string name="dc_lignt_enable_hint">Titreşim önleme modu ekran yenileme hızını 60 Hz olarak ayarlar. Titreşim önleme moduna geçilsin mi?</string>
   <string name="delete_first_to_add_animal">Yeni bir öğe eklemek için önce birini silin.</string>
   <string name="desktop_widget_authorization">İstatistikleri görüntüleyebilme izni vermek için dokunun</string>
+  <string name="desktop_widget_authorization_new">Ekran süresi istatistiklerini görüntülemek için dokunun</string>
   <string name="desktop_widget_not_support">"Ekran süresi istatistikleri
 İkinci alanda oluşturulmaz"</string>
   <string name="desktop_widget_screen_use_time">Ekran süresi</string>

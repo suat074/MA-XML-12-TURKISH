@@ -232,7 +232,8 @@ olacağına inan"</string>
   <string name="sunday_shortest">P</string>
   <string name="super_wallpaper_date_inter">"dd/M
 EEEE"</string>
-  <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
+  <string name="temporary_style">Dokunduktan sonra 10 saniye</string>
+  <string name="temporary_style_5">Dokunduktan sonra 5 saniye</string>
   <string name="text_color">Metin rengi</string>
   <string name="text_length_exceed_limit_alert">*Girdiğiniz metin çok uzun</string>
   <string name="text_size">Metin boyutu</string>

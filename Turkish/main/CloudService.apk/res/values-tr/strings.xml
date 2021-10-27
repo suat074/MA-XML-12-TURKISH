@@ -124,6 +124,7 @@
   <string name="finddevice_miservice_notification_content">Kaybolursa cihazınızı uzaktan kilitleyin</string>
   <string name="finddevice_miservice_notification_title">Cihazı bul özelliğini aç</string>
   <string name="forget_password"><u>Şifreyi unuttum</u></string>
+  <string name="gallery_auto_sync_fail_noti_content">Bulutta yeterli depolama alanı kalmadı. Fotoğrafları ve videoları eşitlemek için depolama planınızı yükseltin.</string>
   <string name="help_and_feedback">Yardım ve geri bildirim</string>
   <string name="i_know">Tamam</string>
   <string name="input_password_hint">Şifre Gir</string>

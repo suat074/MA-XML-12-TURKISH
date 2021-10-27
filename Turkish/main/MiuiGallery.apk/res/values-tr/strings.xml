@@ -992,6 +992,7 @@ mevcut"</string>
   <string name="mi_drop">Mi Paylaşım</string>
   <string name="micloud_introduce">Fotoğrafları ve videoları otomatik olarak eşitle (Mi Hesabı gerekli)</string>
   <string name="midnight">ÖÖ</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>
   <string name="miuix_appcompat_cloud_state_syncing">Bulut ile eşitleniyor…</string>
@@ -1407,10 +1408,45 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="pm">ÖS</string>
   <string name="preparing_data">Biraz bekleyin...</string>
   <string name="print_log">Günlüğü yazdır</string>
+  <string name="privacy">Gizlilik Politikası</string>
+  <string name="privacy_cloud_confirm">Eşitlemeyi aç</string>
+  <string name="privacy_cloud_confirm_content1">Xiaomi Bulut Gizlilik Politikası</string>
+  <string name="privacy_cloud_confirm_content2">Kullanıcı Sözleşmesi</string>
+  <string name="privacy_cloud_confirm_detail"><Data>"Eşitlemeyi açtıktan sonra, bu cihazdaki fotoğraflar ve videolar Xiaomi Bulut\'a yüklenecek ve (varsa) önceden eşitlenmiş öğelerle birleştirilecektir. Devam etmeden önce Xiaomi Bulut &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin."</Data></string>
+  <string name="privacy_cloud_confirm_detail_negative">Çıkış</string>
+  <string name="privacy_cloud_confirm_detail_positive">Kabul et</string>
+  <string name="privacy_cloud_confirm_rejected">Bu hesap için Xiaomi Bulut Gizlilik Politikasına ilişkin onayı geri çekildi. Farklı bir hesap kullanmayı deneyin.</string>
+  <string name="privacy_detail">Gizlilik Politikasını görüntüle</string>
+  <string name="privacy_detail_map">Galeri Haritası Gizlilik Politikası\'nı görüntüle</string>
+  <string name="privacy_entrance">Gizlilik</string>
+  <string name="privacy_map">Galeri Haritası</string>
+  <string name="privacy_map_detail"><Data>Bu hizmet, bir harita üzerinde konum bilgisine sahip fotoğrafları ve videoları görüntülemenizi sağlar. Size bu hizmeti sağlamak için Baidu Map Open SDK kullanıyoruz. Devam etmeden önce &lt;a href=\"%1$s\">Açık Platform Ürünleri ve Hizmetleri için Baidu Harita Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="privacy_map_detail_content">Açık Platform Ürünleri ve Hizmetleri için Baidu Haritası Gizlilik Politikası</string>
+  <string name="privacy_permission">İzinler</string>
+  <string name="privacy_permission_account">Hesaplar</string>
+  <string name="privacy_permission_account_detail">Bulut ile oturum açmak ve öğeleri eşitlemek için</string>
+  <string name="privacy_permission_agree">Onaylı</string>
+  <string name="privacy_permission_clip">Panoya erişim</string>
+  <string name="privacy_permission_clip_detail">Kopyalanan öğelere erişmek için</string>
+  <string name="privacy_permission_clip_write">Öğeleri panoya kaydetme</string>
+  <string name="privacy_permission_clip_write_detail">Öğeleri kopyalamak için</string>
+  <string name="privacy_permission_contact">Kişiler</string>
+  <string name="privacy_permission_contact_detail">Fotoğraf ve videolardaki kişileri adlandırmak için</string>
+  <string name="privacy_permission_detail">İzin ayrıntıları</string>
+  <string name="privacy_permission_disagree">Onaylanmamış</string>
+  <string name="privacy_permission_location">Konum</string>
+  <string name="privacy_permission_location_detail">Fotoğrafları ve videoları haritada görüntülemek için</string>
   <string name="privacy_permission_request_message"><Data>Galeri\'nin %3$s erişimine ihtiyacı var. Topladığımız bilgiler &lt;a href=\"%1$s\">\"Hizmet Şartları\"&lt;/a> ve &lt;a href=\"%2$s\">\"Gizlilik Politikamıza\"&lt;/a> uygun olarak kullanılacaktır. İzin ver?</Data></string>
   <string name="privacy_permission_request_negative">Kısıtla</string>
   <string name="privacy_permission_request_positive">İzin ver</string>
   <string name="privacy_permission_request_title">İzin gerekli</string>
+  <string name="privacy_permission_shotcut">Ana ekran kısayolu</string>
+  <string name="privacy_permission_shotcut_detail">Ana ekran kısayolları oluşturmak için</string>
+  <string name="privacy_permission_storage">Depolama</string>
+  <string name="privacy_permission_storage_detail">Fotoğrafları ve videoları saklamak için</string>
+  <string name="privacy_rejected">Onayın geri çekilmesi</string>
+  <string name="privacy_rejected_map">Galeri Haritasının Gizlilik Politikasına ilişkin onayı geri çekme</string>
+  <string name="privacy_rejected_map_detail">Galeri Haritasının Gizlilik Politikasına ilişkin onayınızı geri çekmeniz, hizmetlerini kabul etmeyi reddetme olarak değerlendirilecektir. Galeri\'nin diğer temel özellikleri ve hizmetleri etkilenmeyecektir. Yine de geri çekililsin mi?</string>
   <string name="problem_feedback">Geri bildirim</string>
   <string name="projection_cancel">İptal</string>
   <string name="projection_checkbox_text">Bu ekranı hatırla</string>
