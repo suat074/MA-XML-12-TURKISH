@@ -3391,7 +3391,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="miheadset_Box">Kutu</string>
   <string name="miheadset_dual_connect_mode">İki cihaza bağlanın</string>
   <string name="miheadset_dual_connect_mode_summary">Kulaklığınızı aynı anda iki Bluetooth cihazına bağlamak için açın</string>
-  <string name="miheadset_hd_audio_summary">24-bit/96kHz yüksek çözünürlüklü ses çalma desteği</string>
+  <string name="miheadset_hd_audio_summary">%1$d-bit/%2$d kHz yüksek tanımlı ses çal</string>
   <string name="miheadset_hd_audio_title">HD ses</string>
   <string name="miheadset_key_config_ANC_list_title">Gürültü kontrolü</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>

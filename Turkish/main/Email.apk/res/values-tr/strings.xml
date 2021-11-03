@@ -1547,4 +1547,17 @@ Lütfen uygulama parolasının açık olup olmadığını onaylayın, eğer aç�
   <string name="gmail_invalid_tip_confirm">Oturum aç</string>
   <string name="gmail_invalid_tip_message">Google\'ın şartları ve koşulları değişti. Gmail\'de tekrar oturum açın.</string>
   <string name="gmail_invalid_tip_title">Gmail\'de oturum açın</string>
+  <string name="account_child_dialog_neg_text">Çıkış</string>
+  <string name="account_child_dialog_pos_text">Vasisi kabul ediyor</string>
+  <string name="account_child_dialog_text">"14 yaşından küçükseniz, vasinize \"Kingsoft Reşit Olmayanların Kişisel Verilerinin Korunmasına İlişkin Beyanı\" okuyup kabul etmesi gerektiğini bildirin. Ayrıca hizmetlerimizi kullanmadan veya bize herhangi bir kişisel bilgi vermeden önce onların onayını ve rehberliğini almalısınız.
+Bir kullanıcı olarak haklarınızı ve verilerinizi işleme yöntemlerimizi tam olarak anlamak için \"Reşit Olmayanların Kişisel Verilerinin Korunmasına İlişkin Kingsoft Beyanı\" okuyun."</string>
+  <string name="account_child_dialog_title">Küçüklerin Kişisel Verilerinin Korunmasına İlişkin Açıklama</string>
+  <string name="account_child_save_statement">Reşit Olmayanların Kişisel Verilerinin Korunmasına İlişkin Kingsoft Beyanı</string>
+  <string name="account_permission_child_statement">Küçüklerin Kişisel Verilerinin Korunmasına İlişkin Açıklama</string>
+  <string name="account_permission_dialog_cancel_text">Geri çek</string>
+  <string name="account_permission_dialog_text">Devam ederseniz, Son Kullanıcı Lisans Sözleşmesine, Gizlilik Politikasına ve Reşit Olmayanların Kişisel Verilerinin Korunmasına İlişkin Bildirime onayınızı geri çekersiniz. Bundan sonra, WPS Postasını kullanamayacaksınız ve bu cihazda oluşturulan tüm veriler silinecek.</string>
+  <string name="account_permission_dialog_title">Onayın geri çekilmesi</string>
+  <string name="account_permission_private_policy">Gizlilik Politikası</string>
+  <string name="account_permission_user_privacy">Son Kullanıcı Lisans Anlaşması</string>
+  <string name="privacy_and_private_permission">Kullanıcı Sözleşmesine ve Gizlilik Politikasına Onay</string>
 </resources>

@@ -730,4 +730,27 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="catch_full_log_item_content_need_open">"%1$d. Günlükleri oluşturmaya başlamak için \"Başlat\" seçeneğine dokunun.
 %2$d. Karşılaştığınız sorunu yeniden oluşturun.
 %3$d. Bu sayfaya geri dönün ve \"Bitir ve yükle\" seçeneğine dokunun."</string>
+  <string name="catch_full_log_item_title_camera">Kamera</string>
+  <string name="catch_full_log_item_title_charge">Şarj</string>
+  <string name="catch_full_log_item_title_trace">İzleme</string>
+  <string name="catch_full_log_privacy_content_camera">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler Kamera kullanım bilgilerini (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="catch_full_log_privacy_content_charge">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Şarj bilgisi içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="catch_full_log_privacy_content_trace">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Program çalıştırma kaydını (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="withdraw">Geri çek</string>
+  <string name="withdraw_consent">Onayın geri çekilmesi</string>
+  <string name="withdraw_consent_hint">Devam ederseniz, %1$s Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinir. %2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından, izninizi geri çekmeniz, %3$s hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Onay şimdi geri çekilsin mi?</string>
+  <string name="i_get_it">Anladım</string>
+  <string name="privacy_policy_update_hint">"%1$s Gizlilik Politikası güncellendi:
+%2$s
+Devam etmeden önce %3$s yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="privacy_policy_update_title">Güncellenen Gizlilik Politikası</string>
+  <string name="user_must_known">Dikkat</string>
+  <string name="user_must_known_content">%s yeni sürümünü kabul etmediğiniz sürece hizmetlerimizi kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?</string>
+  <string name="withdraw_consent_failed">Onay geri çekilemedi</string>
+  <string name="withdraw_consent_failed_hint">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="withdrawing">Onay geri çekiliyor…</string>
 </resources>

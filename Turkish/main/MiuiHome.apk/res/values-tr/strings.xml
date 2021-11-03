@@ -419,7 +419,7 @@
   <string name="online_wallpaper">Çevrimiçi</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
-  <string name="open_personal_assistant_dialog_desc">Uygulama kasasını kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
+  <string name="open_personal_assistant_dialog_desc">Uygulama kasasını kapattıktan sonra, Uygulama kasası widget\'larını göremeyecek veya kullanamayacaksınız. Güncellenmiş sürümlerde sizin için kullanılabilir olmayacaktır. Yine de kapatılsın mı?</string>
   <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
   <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
   <string name="open_personal_assistant_title">Uygulama kasası</string>
@@ -670,4 +670,11 @@
   <string name="open_personal_assistant_settings">Uygulama kasası ayarları</string>
   <string name="system_shortcuts_edit">Düzenle</string>
   <string name="toast_drag_to_assistant_reject">Uygulama kasası başlatılıyor…</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Basit modda acil durum kişilerini aramak için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Basit modda acil durum kişilerini görüntülemek için</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Cihaz durumunu görüntülemek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Takvim widget\'larını görüntülemek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.CAMERA">Galeri widget\'larını görüntülemek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Android Q\'da WLAN widget adına erişmek için</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ana ekran verilerine erişmek ve bunları kaydetmek için</string>
 </resources>

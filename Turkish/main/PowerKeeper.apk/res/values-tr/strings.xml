@@ -57,6 +57,7 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veri, WLAN noktaları, GPS ve kamera kısıtlanacak.</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
   <string name="important_warning">Dikkat</string>
+  <string name="kill_pkg_toast_message">Cihaz aşırı ısındığı için uygulamalar kullanılamıyor</string>
   <string name="lasttime_applist_cloud">Güncellenmiş uygulamalar:</string>
   <string name="lasttime_feature_cloud">Güncellenmiş özellikler:</string>
   <string name="message_i_know">Anladım</string>
@@ -117,6 +118,7 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="sleepmode_privacy_content">Bu özellik telefonunuzun sistem ve cihaz bilgilerini kullanacaktır. Sunucularımıza yüklenmeyecek.</string>
   <string name="sleepmode_privacy_link">Gizlilik ve güvenlik hakkında daha fazla bilgi edinin</string>
   <string name="sleepmode_privacy_title">Uyku modu</string>
+  <string name="stricter_high_temp_state_message">Bu cihaz aşırı ısınmış gibi görünüyor. Şimdilik yalnızca Telefon ve Kişiler\'i kullanabilirsiniz.</string>
   <string name="sucess">Bitti</string>
   <string name="title_history">Geçmiş</string>
   <string name="title_home">Ev</string>

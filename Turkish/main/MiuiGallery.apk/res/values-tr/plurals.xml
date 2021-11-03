@@ -52,6 +52,10 @@
         <item quantity="other">%s kişi bu albümü görüntüleyebilir</item>
         <item quantity="one">%s kişi bu albümü görüntüleyebilir</item>
     </plurals>
+	<plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%1$s dahil %2$d albüm</item>
+        <item quantity="one">%1$s dahil %2$d albüm</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%2$s, %1$d fotoğraf eklenecek</item>
         <item quantity="one">%2$s, %1$d fotoğraf eklenecek</item>

@@ -281,7 +281,7 @@
     <string name="projection_fail">Yansıtılamadı. Harici monitörünüzü kontrol edin ve tekrar deneyin.</string>
     <string name="public_mi_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri almasına izin verin.</string>
     <string name="public_mi_privacy_desc">Bu cihazdaki belgeleri görüntülemek ve yönetmek için</string>
-    <string name="public_mi_privacy_purpose">Mi Belge Görüntüleyici\'ye hoş geldiniz. Bu uygulama, farklı biçimlerdeki belgeleri görüntülemenizi sağlar.</string>
+    <string name="public_mi_privacy_purpose">Mi Belge Görüntüleyici\'ye hoş geldiniz (WPS tarafından desteklenmektedir)! Bu, Kingsoft tarafından Xiaomi için oluşturulan uygulamanın özel bir sürümüdür. Cihazınızdaki belgeleri görüntülemek için bu uygulamayı kullanabilirsiniz.</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Normal</string>
     <string name="public_pdf_converter_open_tip">Bu belge açılsın mı?</string>

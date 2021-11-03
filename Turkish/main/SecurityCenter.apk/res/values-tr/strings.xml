@@ -5042,9 +5042,21 @@ Onayınız şimdi geri çekilsin mi?"</string>
 	<string name="custom_define_permission_desc_android.permission.READ_SMS">Engelli listesini kullanmak ve operatörünüzden gelen mesajları tanımak için</string>
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum bilgilerinizi MIUI Uyarı Merkezine ve Acil SOS\'a sağlamak için</string>
   <string name="gtb_dialog_privacy_speed_message">Xunyou Oyun Güçlendirici kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır.</string>
-  <string name="gtb_dialog_privacy_speed_tips">Xunyou Oyun Güçlendirici Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou Oyun Güçlendirici &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Güçlendirici</string>
   <string name="gtb_dialog_privacy_voice_message">Xunyou Oyun Ses Değiştirici kullanmak üzeresiniz. Bu hizmet, üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır.</string>
-  <string name="gtb_dialog_privacy_voice_tips">Xunyou Oyun Ses Değiştirici Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="gtb_dialog_privacy_voice_tips"><Data>"Xunyou Oyun Ses Değiştirici &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
   <string name="gtb_dialog_privacy_voice_title">Xunyou Oyun Ses Değiştirici</string>
+  <string name="adv_permission_text">İzinler</string>
+  <string name="adv_privacy_text">Gizlilik</string>
+  <string name="adv_version_text">Sürüm: %s</string>
+  <string name="vb_video_effects_3d">Surround ses</string>
+  <string name="vb_video_effects_3d_summary">Kulaklıklar ve hoparlörler için ses üretim derinliğini artırın</string>
+  <string name="vb_video_effects_3d_surround">Surround ses</string>
+  <string name="vb_video_effects_liquid_summary">Videolarda diyalog netliğini geliştirin</string>
+  <string name="vb_video_effects_only_headphone">Sadece kulaklıkla çalışır</string>
+  <string name="vb_video_effects_some_headphone">Seçilen kulaklık modelleri tarafından desteklenir</string>
+  <string name="vb_video_effects_spatial">Kafa hareketi takibi</string>
+  <string name="vb_video_effects_spatial_summary">"Surround sesi kafa hareketine göre ayarlayın
+*Yalnızca oyun kulaklığı modellerinde desteklenir"</string>
 </resources>

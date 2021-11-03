@@ -705,4 +705,13 @@
   <string name="privacy_user_notice_dialog_msg">"&lt;a href=%1$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü kabul etmedikçe Mi Drive kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
   <string name="privacy_user_notice_dialog_ok_btn_text">Kabul et</string>
   <string name="privacy_user_notice_dialog_title">Dikkat</string>
+  <string name="talkback_continue">Devam et</string>
+  <string name="talkback_doc_filter">Filtre düğmesi</string>
+  <string name="talkback_list_play">Tümünü oynat</string>
+  <string name="talkback_next_song">Sonraki şarkı</string>
+  <string name="talkback_pause">Duraklat</string>
+  <string name="talkback_play">Oynat</string>
+  <string name="talkback_previous_song">Önceki şarkı</string>
+  <string name="talkback_random_play">Karıştır</string>
+  <string name="talkback_single_play">Bir döngü</string>
 </resources>

@@ -221,7 +221,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="open_game_accelerate">Game Turbo\'yu aç</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacy_agree">Kabul et</string>
-  <string name="privacy_detail"><Data>Bu uygulamanın internete bağlanması ve normal çalışabilmesi için gerekli kişisel verileri toplaması gerekir. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="privacy_detail">Devam etmeden önce bu uygulamanın internete bağlanmasına ve gerekli izinleri almasına izin verin.</string>
   <string name="privacy_detail_extra"><Data>Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> ve &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="privacy_explain">"Yansıtma'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitörde yansıtmanıza olanak tanır. Uygulamanın internete bağlanması ve normal çalışabilmesi için aşağıdaki izinleri alması gerekir:"</string>
   <string name="privacy_negative">Çık</string>
@@ -365,4 +365,28 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek için</string>
   <string name="notify">Yansıtma arka planda çalışıyor</string>
   <string name="p2p_location_des">Mobil cihazınızı harici monitörlere bağlamak için</string>
+  <string name="permission_allowed">Onaylı</string>
+  <string name="permission_uballowed">Onaylanmamış</string>
+  <string name="pre_privacy_setting_title">Gizlilik</string>
+  <string name="privacy_revoke_confirm_cancel">İptal</string>
+  <string name="privacy_revoke_confirm_message">Gerekli kişisel bilgilerin toplanmasına dayalı olarak hizmetlerimizi sunmamıza izin vermediğiniz sürece, yansıtma özelliklerini kullanmaya devam edemezsiniz. Yine de HappyCast Gizlilik Politikası\'na olan onay geri çekilsin mi?</string>
+  <string name="privacy_revoke_confirm_sure">Tamam</string>
+  <string name="privacy_revoke_confirm_title">Hizmetler kullanılamıyor</string>
+  <string name="privacy_revoke_dialog_agree">Kabul et</string>
+  <string name="privacy_revoke_dialog_message">Devam ederseniz, Happycast\'in Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. HappyCast hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz HappyCast hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onay şimdi geri çekilsinsin mi?</string>
+  <string name="privacy_revoke_dialog_revoke">Geri çek</string>
+  <string name="privacy_revoke_dialog_title">Onayın geri çekilmesi</string>
+  <string name="privacy_setting_category_1">Gizlilik Politikası</string>
+  <string name="privacy_setting_category_2">HappyCast Gizlilik Politikası</string>
+  <string name="privacy_setting_category_3">İzinler</string>
+  <string name="privacy_setting_permission_manager">İzinleri yönet</string>
+  <string name="privacy_setting_revoke_lelink_policy">HappyCast Gizlilik Politikası onayının geri çekilmesi</string>
+  <string name="privacy_setting_show_authority">İzin ayrıntıları</string>
+  <string name="privacy_setting_show_lelink_law">HappyCast Yasal Bildirimini görüntüle</string>
+  <string name="privacy_setting_show_lelink_policy">HappyCast Gizlilik Politikasını görüntüle</string>
+  <string name="privacy_setting_show_policy">Gizlilik Politikasını görüntüle</string>
+  <string name="privacy_setting_show_user_agreement">Kullanıcı Sözleşmesini görüntüle</string>
+  <string name="privacy_update_dialog_negative_btn">İptal</string>
+  <string name="privacy_update_dialog_positive_btn">Kabul et</string>
+  <string name="privacy_update_dialog_quit">Çıkış</string>
 </resources>

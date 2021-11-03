@@ -346,4 +346,6 @@
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
   <string name="yesterday">Dün</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="speakerphone_tip">Kulaklığı veya hoparlörü kullanmak için cihazı katlayın</string>
 </resources>

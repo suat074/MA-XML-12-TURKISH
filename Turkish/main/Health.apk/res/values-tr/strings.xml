@@ -1767,4 +1767,20 @@ Egzersizlerinizi ve aktivitelerinizi takip edebileceksiniz."</string>
   <string name="tb_volume_list_item">%1$s |  Çevresel sesler: %3$s (%2$d dB).</string>
   <string name="treble_duration">Yüksek sesler</string>
   <string name="treble_sum_duration">Yüksek sesler</string>
+  <string name="audio_permission_subtitle">Horlamayı ve konuşmayı algılamak için</string>
+  <string name="audio_permission_title">Ses kaydı</string>
+  <string name="body_sport_permission_subtitle">Adımlarınızı takip etmek için</string>
+  <string name="body_sport_permission_title">Sağlık ve aktivite verilerine erişim</string>
+  <string name="camera_permission_subtitle">Kalp atış hızı tespiti ve profil fotoğraflarının ayarlanması amacıyla kan akışı değişikliklerini elde etmek için</string>
+  <string name="camera_permission_title">Kamerayı kullan</string>
+  <string name="contact_permission_subtitle">Acil durum kişilerini ayarlamak için</string>
+  <string name="contact_permission_title">Kişilere erişim</string>
+  <string name="external_storage_permission_subtitle">Profil fotoğraflarını ayarlamak için</string>
+  <string name="external_storage_permission_title">Öğelere erişim ve depoya kaydetme</string>
+  <string name="location_permission_subtitle">Dış mekan egzersizlerini izlemek ve rotaları kaydetmek için</string>
+  <string name="location_permission_title">Konuma erişim</string>
+  <string name="sport_data_use_subtitle">Egzersizlerinizi ve fitness ilerlemenizi takip etmek için egzersiz rotaları, uyku verileri, kalp atış hızı ve kilo gibi bilgilerinizi toplar ve işleriz.</string>
+  <string name="sport_data_use_tip">"Bilgilerinizi nasıl topladığımızı ve işlediğimizi daha iyi anlamak için &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Sağlık ve Etkinlik Verileri Kullanım Politikamızı&lt;/a>&lt;/font> okuyun ve kabul edin. Toplama ve işlememize izin vermezseniz bu hizmeti kullanamazsınız."</string>
+  <string name="sport_data_use_title">Veri izinleri</string>
+  <string name="system_permission">İzin ayrıntıları</string>
 </resources>

@@ -1729,7 +1729,7 @@
     <string name="pa_picker_detail_net_error">Ağ hatası. Tekrar denemek için dokunun.</string>
     <string name="pa_picker_detail_small_widget">Widget</string>
     <string name="pa_picker_detail_theme_app_cta">Ayarlar</string>
-    <string name="pa_picker_detail_theme_app_cta_pre">"Bu widget\'ı kullanabilmek için Temalara izin verin. "</string>
+    <string name="pa_picker_detail_theme_app_cta_pre">Bu widget\'ı kullanabilmek için önce Temaların internete bağlanmasına izin verin.</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe WLAN aracılığıyla indirilecek</string>
     <string name="pa_picker_home_app_group_title">Widget\'lı uygulamalar</string>
     <string name="pa_picker_home_group_more">Tümü</string>
@@ -1737,7 +1737,7 @@
     <string name="pa_picker_home_search_hint">Ara</string>
     <string name="pa_picker_home_title">Widget ekle</string>
     <string name="pa_picker_item_retry">Öğeler yüklenemedi. Tekrar deneyin.</string>
-    <string name="pa_picker_list_app_footer_classic_widget">Klasik widget\'lar</string>
+    <string name="pa_picker_list_app_footer_classic_widget">Android widget\'ları</string>
     <string name="pa_picker_list_app_title">Widget\'lı uygulamalar</string>
     <string name="pa_picker_loading">Sadece bir saniye…</string>
     <string name="pa_picker_retry">Tekrar dene</string>
@@ -1850,4 +1850,18 @@
     <string name="pa_widget_need_download_dialog_message_install">Widget\'ları kullanabilmek için, önce \"%s\" yükleyin.</string>
     <string name="pa_widget_need_download_dialog_message_load">Widget\'ları kullanabilmek için, önce \"%s\" yükleyin.</string>
     <string name="pa_widget_need_download_dialog_message_upgrade">Widget\'ları kullanabilmek için, önce \"%s\" güncelleyin.</string>
+	<string name="pa_sports_add_followed">Takip edileni ekle</string>
+  <string name="pa_sports_add_shown">Gösterileni ekle</string>
+  <string name="pa_sports_cancel_followed">Takip edileni iptal et</string>
+  <string name="pa_sports_cancel_shown">Gösterileni iptal et</string>
+  <string name="pa_sports_followed">Takip edildi</string>
+  <string name="pa_sports_not_followed">Takip edilmedi</string>
+  <string name="pa_sports_not_shown">Gösterilmemiş</string>
+  <string name="pa_sports_shown">Gösterilen</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">Widget mağazası Uygulama listesi. %s öğe uygulama listesinde. %s Seçildi, liste numarası %s. Öğe %s widget içeriyor, Widget açıklamasını açmak için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Widget mağazası Uygulama listesi. %s öğe uygulama listesinde. %s Seçildi, liste numarası %s. Öğe %s widget içeriyor, Widget açıklamasını açmak için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Widget mağazası Uygulama listesi. %s öğe uygulama listesinde. %s Seçildi, liste numarası %s. Öğe %s widget içeriyor, Widget açıklamasını açmak için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_widget_group_item" formatted="false">Widget mağazası. %s Seçildi. Widget açıklamasını açmak için iki kez dokunun. Öğe %s widget\'ını içerir.</string>
+  <string name="pa_picker_detail_bottom_bt_text_to_home">Ana ekrana ekle</string>
+  <string name="pa_picker_detail_bottom_bt_text_to_minus">Uygulama kasasına ekle</string>
 </resources>
