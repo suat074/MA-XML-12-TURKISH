@@ -1631,7 +1631,6 @@
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">%s widget\'ı seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">%s widget\'ı seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Widget mağazası. %s; tüm widget\'ları görüntülemesi için seçin. %s; tüm widget\'ları görüntülemesi için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Widget mağazası. %s seçildi. %s; açmak için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_desktop">Widget mağazası. %s seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Widget mağazası. %s seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">Widget mağazası. %s seçildi. Şimdi kullanmak için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
