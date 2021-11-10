@@ -229,4 +229,21 @@ Daha hızlı bağlantı protokolü."</string>
   <string name="plugin_ota_messages2">Bluetooth hizmet çerçevesi güncellendi.</string>
   <string name="plugin_ota_progress">Güncelleniyor…</string>
   <string name="stylus_ota_check_update">Güncelle</string>
+  <string name="plugin_alert_text">Bluetooth eklentileri başarıyla güncellendi. Değişiklikleri uygulamak için Bluetooth\'u açın ve kapatın.</string>
+  <string name="plugin_alert_title">Bluetooth\'u yeniden başlatın</string>
+  <string name="plugin_download_create_client_failed">Bir sunucu hatası nedeniyle öğeler indirilemedi.</string>
+  <string name="plugin_download_get_object_failed">Sunucuya bağlanılamadı.</string>
+  <string name="plugin_download_network_timeout">Bağlantı zaman aşımı.</string>
+  <string name="plugin_download_no_storage">Yetersiz depolama alanı.</string>
+  <string name="plugin_download_rejected">Veri kullanım sınırına ulaşıldı.</string>
+  <string name="plugin_download_unexpected_files">İndirilen öğe bozuk.</string>
+  <string name="plugin_download_unknown_error">Bilinmeyen bir hata oluştu.</string>
+  <string name="plugin_install_failed">Bazı eklentiler güncellenemedi</string>
+  <string name="plugin_install_timeout">Eklenti yüklemesi zaman aşımına uğradı</string>
+  <string name="plugin_last_update_going">Önceki güncelleme tamamlanıyor…</string>
+  <string name="plugin_no_update">Mevcut sürüm güncel</string>
+  <string name="plugin_start_update">Bluetooth eklentileri güncelleniyor…</string>
+  <string name="plugin_update_failed">Güncelleştirilemedi.</string>
+  <string name="plugin_update_notification_summary">Bluetooth eklentilerini güncellemeyi tamamlamak için Bluetooth\'u açın ve kapatın</string>
+  <string name="plugin_update_notification_title">Bluetooth\'u yeniden başlatın</string>
 </resources>

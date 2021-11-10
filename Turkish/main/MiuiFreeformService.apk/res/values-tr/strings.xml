@@ -10,6 +10,8 @@
   <string name="freeform_demo_final_restart">Baştan başla</string>
   <string name="freeform_demo_final_title">Artık hazırsın!</string>
   <string name="freeform_demo_go_on">İlerle</string>
+  <string name="freeform_demo_next_tutorial">Sonraki</string>
+  <string name="freeform_demo_previous_tutorial">Geri</string>
   <string name="freeform_demo_title_finish">Güzel!</string>
   <string name="freeform_demo_title_skip">Atla</string>
   <string name="freeform_slide_to_small_freeform">Yüzer pencereyi küçültme</string>

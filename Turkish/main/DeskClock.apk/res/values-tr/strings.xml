@@ -584,4 +584,10 @@
   <string name="query_privacy_policy">Gizlilik Politikasını görüntüle</string>
   <string name="read_external_storage_permission_desc">Özel zil sesleri ayarlamak için</string>
   <string name="read_internal_storage">Depolamaya erişim</string>
+  <string name="tv_blank_list_other_text">Burada henüz bir şey yok</string>
+  <string name="tv_blank_list_show_text">Burada henüz bir şey yok. Dünya saatinize eklemek için bir konum arayın.</string>
+  <string name="tv_world_clock_edit_title1">Ana ekranda görüntülenen konumlar</string>
+  <string name="tv_world_clock_edit_title2">Diğer kaydedilen konumlar</string>
+  <string name="white_noise">Ortam gürültüsü</string>
+  <string name="worldclock_edit_label">Dünya saati</string>
 </resources>

@@ -108,6 +108,9 @@
   <string name="global_actions_reboot">Yeniden başlat</string>
   <string name="global_actions_shutdown">Kapat</string>
   <string name="global_actions_silent_mode">Sessiz mod</string>
+  <string name="global_pad">Tabletim</string>
+  <string name="global_pc">Laptopum</string>
+  <string name="global_phone">Telefonum</string>
   <string name="handset_text_unsupported_handset_insert">Ayrıntıları görüntülemek için dokunun</string>
   <string name="handset_text_usb_handset_insert">Ek ayarları açmak için dokunun</string>
   <string name="handset_title_unsupported_handset_insert">USB kulaklık adaptörleri desteklenmiyor</string>
@@ -180,7 +183,7 @@
   <string name="miui_warning_button_ok">Tamam</string>
   <string name="miui_warning_tip_info">%1$s içinde bir hata oluştu. Şimdi bu uygulama kapatılsın mı?</string>
   <string name="onehour">30 dakika</string>
-  <string name="open_close_tip_action">Anladım</string>
+  <string name="open_close_tip_action">Tamam</string>
   <string name="open_close_tip_content">Kayan pencereyi kapatmak için eylem çubuğunu basılı tutun ve yukarı kaydırın</string>
   <string name="package_delete_confirm_step_1">%s kaldırılsın mı?</string>
   <string name="package_delete_confirm_step_2">Bu uygulamayı kaldırmak, sisteminizin dengesiz davranmasına neden olabilir.</string>

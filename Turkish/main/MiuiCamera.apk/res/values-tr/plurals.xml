@@ -40,6 +40,10 @@
     <item quantity="other">%1$d taslak silinsin mi?</item>
     <item quantity="one">%1$d taslak silinsin mi?</item>
   </plurals>
+  <plurals name="pad_ccc_temperature_warning_msg">
+    <item quantity="other">Cihazınız aşırı ısındı. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir.</item>
+    <item quantity="one">Cihazınız aşırı ısındı. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir.</item>
+  </plurals>
   <plurals name="pref_camera_fastmotion_duration_unit">
     <item quantity="other">%1$s dak.</item>
     <item quantity="one">%1$s dak</item>

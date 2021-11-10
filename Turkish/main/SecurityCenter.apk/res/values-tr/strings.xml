@@ -4580,7 +4580,7 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="pc_hidemode_normal">Dengeli</string>
   <string name="pc_hidemode_performance">Performans</string>
   <string name="pc_hidemode_performance_title">Performans modu</string>
-  <string name="pc_hidemode_power_save">Pil</string>
+  <string name="pc_hidemode_power_save">Pilden tasarruf edin</string>
   <string name="pc_performance_mode_dialog_summary">Cihazınız %s için Performans modunda çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın.</string>
   <string name="pc_performance_mode_dialog_title">Performans modu</string>
   <string name="power_setting_wireless_reverse_charging_fg_control_title">Şarj sınırı</string>
@@ -5059,4 +5059,31 @@ Onayınız şimdi geri çekilsin mi?"</string>
   <string name="vb_video_effects_spatial">Kafa hareketi takibi</string>
   <string name="vb_video_effects_spatial_summary">"Surround sesi kafa hareketine göre ayarlayın
 *Yalnızca oyun kulaklığı modellerinde desteklenir"</string>
+  <string name="gd_app_edit_title_new">Yüzer pencere kısayollarını düzenle</string>
+  <string name="gd_setting_guide_one">Yüzer pencereyi açmak için dokunun</string>
+  <string name="gd_setting_guide_three">Oyun kısayollarını açmak için kenardan kaydırın</string>
+  <string name="gd_setting_guide_two">Video araç kutusunu açmak için kenardan kaydırın</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="gd_app_edit_done">Bitti</string>
+  <string name="gd_app_edit_title">Uygulama ekle</string>
+  <string name="gd_setting_desc_action1">Yüzer pencereyi aç</string>
+  <string name="gd_setting_desc_action2">Kısayol kullan</string>
+  <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
+  <string name="gd_setting_group_custom_line_location">Araç kutusu konumu</string>
+  <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
+  <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
+  <string name="gd_setting_group_smart_tool_box">Akıllı araç kutusu</string>
+  <string name="gd_setting_group_title_switch">Sahneler</string>
+  <string name="gd_setting_gtb">Oyun oynarken göster</string>
+  <string name="gd_setting_gtb_desc">Oyun için ayrıcalıklı özellikler</string>
+  <string name="gd_setting_miui_dock">Her zaman göster</string>
+  <string name="gd_setting_shorthand">Hızlı notlar</string>
+  <string name="gd_setting_title">Akıllı araç kutusu</string>
+  <string name="gd_setting_vtb">Videoları oynatırken göster</string>
+  <string name="gd_setting_vtb_desc">Video oynatma için özel özellikler</string>
+  <string name="no_privacy_permission">Gizlilik Politikası için onay gerekli değil</string>
+  <string name="summary_safe_mode">Kurulum sırasında riskleri etkisiz hale getirin</string>
+  <string name="title_safe_mode">Güvenli modu aç</string>
+  <string name="dev_sign_notification_content">Şu anda Android 12 Beta kullanıyorsunuz. Sağladığınız geri bildirim, sorunları belirlememize ve düzeltmemize yardımcı olacak. Bu programa katıldığınız için teşekkür ederiz!</string>
+  <string name="dev_sign_notification_title">Android 12 Beta</string>
 </resources>

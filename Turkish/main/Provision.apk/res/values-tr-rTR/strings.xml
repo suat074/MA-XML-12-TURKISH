@@ -93,6 +93,10 @@
   <string name="mint_keyboard_oobe_terms">Mint Klavye Gizlilik Politikası</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını %s adresinden görüntüleyin.</string>
   <string name="miui_terms_no_network">İnternet bağlantınız yok. Kullanıcı Sözleşmesi\'ni %s adresinde görüntüleyin.</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="mobile_network">Mobil veri kullanımı</string>
   <string name="move_data_dialog_box_le">Bu, kullanıcının isteğine göre mobil veri ve GPS bağlantısının kullanılmasına izin verir. Akıllı telefon özelliklerine bağlı olarak hesapların ve diğer öğelerin eşitlenmesi için mobil veri kullanılması gerekebilir.</string>
   <string name="move_data_dialog_box_title">Sınırsız veriye sahip bir planınız olmadığı sürece, mobil veri kullanmak ek operatör ücretleri oluşturabilir. Mobil veri yine de kullanılsın mı?</string>
@@ -123,16 +127,16 @@
   <string name="other_settings_enhanced_lockscreen_summary_index">Son Kullanıcı Lisans Sözleşmesi</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Konum tabanlı hizmetler sağlamak için uygulamaların ve web sitelerinin konum bilgilerinize erişmesine izin verin</string>
-  <string name="other_settings_upload_debug_log_detail">"Teşhis için Xiaomi\'ye, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi geliştirmeye yardımcı olun. Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.
-Göndereceğiniz veriler, cihazınız ve onu nasıl kullandığınız (ör. Pil seviyesi, sistem ve uygulama etkinliği ve hatalar) hakkında genel bilgiler içerecektir. Veriler MIUI cihazlarını iyileştirmek için kullanılacaktır.
-Bu özelliği kapatmak, cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gerekli bilgilerin gönderilmesini etkilemez.
-Bu özelliği Ayarlar > Şifreler &amp; güvenlik > Gizlilik > Kullanım ve teşhis bölümünden kontrol edebilirsiniz."</string>
+  <string name="other_settings_upload_debug_log_detail">"Xiaomi\'ye teşhis, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi iyileştirmeye yardımcı olun.  Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.
+Göndereceğiniz veriler, cihazınız ve onu nasıl kullandığınız (ör. pil seviyesi, sistem ve uygulama etkinliği ve hatalar) hakkında genel bilgiler içerir. Veriler MIUI cihazlarını geliştirmek için kullanılacaktır.
+Bu özelliği kapatmak, cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gereken bilgileri gönderme yeteneğini etkilemez.
+Bu özelliği kontrol etmek için Ayarlar\'da \"Kullanım ve teşhis\" için arama yapın."</string>
   <string name="other_settings_upload_debug_log_summary">Teşhis için Xiaomi\'ye, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi geliştirmeye yardımcı olun. Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.</string>
   <string name="other_settings_upload_debug_log_title">Kullanım ve teşhis verilerini gönder</string>
   <string name="other_settings_user_experience">Kullanıcı Deneyimi Programı</string>
   <string name="other_settings_user_experience_summary">Kullanım istatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olun.</string>
   <string name="other_settings_user_experience_summary_index">Detayları göster</string>
-  <string name="permission_account">Hesap bilgilerine erişim</string>
+  <string name="permission_account">Cihazınızdaki hesaplara erişim</string>
   <string name="permission_account_introduction">Mi Hesabı ile giriş yapmak için</string>
   <string name="permission_application_package_introduction">Paket yükleyici, yükleme öncesi tarama ve yükleme sonrası uygulama öneri hizmetleri dahil olmak üzere üçüncü taraf uygulamaları yüklemek için kullanılır.</string>
   <string name="permission_backup">Depolama alanına erişim</string>
@@ -158,7 +162,7 @@ Bu özelliği Ayarlar > Şifreler &amp; güvenlik > Gizlilik > Kullanım ve teş
   <string name="permission_read_call_records">Çağrı geçmişini düzenle</string>
   <string name="permission_read_call_records_introduction">Çağrı geçmişine öğe eklemek ve engellenen aramaları silmek için</string>
   <string name="permission_read_note_introduction">Notlara ve eklere erişmek için</string>
-  <string name="permission_read_write_file">Cihazdaki fotoğraflara ve dosyalara erişme ve kaydetme</string>
+  <string name="permission_read_write_file">Cihazınızdaki dosyalara ve fotoğraflara erişme ve kaydetme</string>
   <string name="permission_read_write_file_introduction">Cihazınızdaki öğelere erişmek, kaydetmek ve önbelleklemek için</string>
   <string name="permission_recorder_file_introduction">Ses kayıtlarına erişmek ve kaydetmek için</string>
   <string name="permission_recording">Çağrıları ve sesleri kaydetme:</string>
@@ -340,7 +344,7 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="permission_MIUIDaemon_introduction">MIUI Daemon, ekranı hasar gördüğünde cihazınızdan veri aktarmanıza izin verir.</string>
   <string name="permission_read_contacts">Kişilere erişim</string>
   <string name="permission_read_contacts_introduction">Kimliğinizi doğrulamak için</string>
-  <string name="permission_read_message">SMS oku</string>
+  <string name="permission_read_message">Metin mesajlarına erişim</string>
   <string name="permission_read_message_introduction">Cihazınızın sahipliğini doğrulamak için</string>
   <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="close">Kapat</string>
@@ -375,7 +379,7 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="permission_make_a_call">Çağrı yapma</string>
   <string name="permission_make_a_call_fast_application_summary">Hızlı uygulamaların çağrı yapmasına izin vermek için;</string>
   <string name="permission_read_app_list">Bu cihazda yüklü uygulamaların listesine erişim</string>
-  <string name="permission_read_application_list_summary">Yüklü uygulamaları ve yükleme paketlerini yönetmek için</string>
+  <string name="permission_read_application_list_summary">İndirilen uygulamaları güncellemek ve paket yükleyici tarafından kullanılan uygulama bilgilerini onaylamak için;</string>
   <string name="permission_read_device_store">Cihaz depolamasına erişim</string>
   <string name="permission_read_device_store_summary">İndirilen kaynak dosyalara ve kaynak yapılandırma dosyalarına erişmek için;</string>
   <string name="permission_read_send_message">SMS gönderme ve alma</string>

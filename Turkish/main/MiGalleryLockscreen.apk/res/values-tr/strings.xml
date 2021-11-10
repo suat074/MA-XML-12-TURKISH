@@ -757,4 +757,46 @@ EEE"</string>
   <string name="summary3">"Duvar Kağıdı Döngüsü\'ne Hoş Geldiniz! Burada en sevdiğiniz duvar kağıdı kategorilerine abone olabilir ve Kilit ekranınıza düzenli olarak yeni resimler gönderebilirsiniz. Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması ve gerekli kişisel verileri toplaması gerekir.&lt;br>Ek hizmetler sağlamak için, bu cihazın deposundaki öğelere erişmek ve bunları kaydetmek için izin isteyebiliriz.&lt;br>Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, bu uygulamayı kullanmadan önce &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Kullanıcı Sözleşmemizi&lt;/font>&lt;/a> ve &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/font>&lt;/a> okuyun ve kabul edin."</string>
   <string name="summary4">"Duvar Kağıdı Döngüsü\'ne Hoş Geldiniz! Burada en sevdiğiniz duvar kağıdı kategorilerine abone olabilir ve Kilit ekranınıza düzenli olarak yeni resimler gönderebilirsiniz. "</string>
   <string name="summary5">"Ek hizmetler sağlamak için, bu cihazın deposundaki öğelere erişmek ve bunları kaydetmek için izin isteyebiliriz. "</string>
+  <string name="about_permission">İzinler</string>
+  <string name="allowed">Onaylı</string>
+  <string name="cancel_button">Evet</string>
+  <string name="cancel_mfashiongallery_service">Duvar Kağıdı Döngüsü hizmetlerini iptal et</string>
+  <string name="cancel_service">Hizmetleri iptal et</string>
+  <string name="cancel_service_running">Hizmetler iptal ediliyor…</string>
+  <string name="cancel_service_summary">Devam ederseniz, Duvar Kağıdı Döngüsü hizmetlerini iptal edersiniz. Halihazırda toplanan ve tutulan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinir. Hizmetler yine de iptal edilsin mi?</string>
+  <string name="copy">Kopyala</string>
+  <string name="expand_button_title">Gelişmiş</string>
+  <string name="external_storage_permission">Depolamaya erişim</string>
+  <string name="external_storage_permission_summary">Özel duvar kağıtları seçmek ve indirilen öğeleri kaydetmek için</string>
+  <string name="logout">Oturumu kapat</string>
+  <string name="logout_cancel">İptal</string>
+  <string name="logout_confirm">Tamam</string>
+  <string name="logout_summary">Oturumu kapattıktan sonra aboneliklerinizi ve özelleştirilmiş ayarlarınızı cihazlar arasında eşitleyemeyeceksiniz. Yine de çıkış yapılsın mı?</string>
+  <string name="logout_title">Şimdi çıkış yap?</string>
+  <string name="not_allowed">Onaylanmamış</string>
+  <string name="not_cancel_button">Hayır</string>
+  <string name="not_revoke_button">İptal</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="permission_manager">İzin ayrıntıları</string>
+  <string name="personalized">Kişiselleştirme</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="privacy_update_cancel">İptal</string>
+  <string name="privacy_update_confirm">Kabul et</string>
+  <string name="privacy_update_quit">Çıkış</string>
+  <string name="privacy_update_summary1">Duvar Kağıdı Döngüsü Gizlilik Politikası güncellendi:</string>
+  <string name="privacy_update_summary2">"Devam etmeden önce &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü kabul etmedikçe Duvar Kağıdı Döngüsü\'nü kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
+  <string name="revoke_button">Geri çek</string>
+  <string name="revoke_failed1">Hata</string>
+  <string name="revoke_failed2">Hata</string>
+  <string name="revoke_failed_internet">Bir ağ hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="revoke_failed_internet_confirm">Anladım</string>
+  <string name="revoke_failed_service">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="revoke_failed_service_confirm">Anladım</string>
+  <string name="revoke_privacy">Onayın geri çekilmesi</string>
+  <string name="revoke_privacy_running">Onay geri çekiliyor…</string>
+  <string name="revoke_privacy_summary">Devam ederseniz, Duvar Kağıdı Döngüsü Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Duvar Kağıdı Döngüsü hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Duvar Kağıdı Döngüsü hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onay şimdi geri çekilsin mi?</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

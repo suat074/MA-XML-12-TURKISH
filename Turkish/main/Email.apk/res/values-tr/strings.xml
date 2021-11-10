@@ -1560,4 +1560,6 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi işleme yöntemlerimizi ta
   <string name="account_permission_private_policy">Gizlilik Politikası</string>
   <string name="account_permission_user_privacy">Son Kullanıcı Lisans Anlaşması</string>
   <string name="privacy_and_private_permission">Kullanıcı Sözleşmesine ve Gizlilik Politikasına Onay</string>
+  <string name="disallow_qq_auth_how_get_auth_code">Yetkilendirme kodunu nasıl alabilirim?</string>
+  <string name="oauth_find_browser_error_description">Oturum açmadan önce lütfen tarayıcıyı yükleyin</string>
 </resources>

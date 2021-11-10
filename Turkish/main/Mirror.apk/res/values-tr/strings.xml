@@ -25,6 +25,7 @@
   <string name="copy">Kopyala</string>
   <string name="date_picker_lunar">Çince Geleneksel Takvim</string>
   <string name="default_boss_terminal_name">Mi Dizüstü Bilgisayar</string>
+  <string name="device_max_screen_count_toast">Bu cihaz aynı anda yalnızca iki pencerenin açılmasını destekler</string>
   <string name="display_max_screen_count_toast">Bu sürümde en fazla 3 pencere açabilirsiniz</string>
   <string name="display_not_support_secondary_toast">Bu uygulama yeni bir pencerede açılamıyor</string>
   <string name="download_cancel">İptal</string>

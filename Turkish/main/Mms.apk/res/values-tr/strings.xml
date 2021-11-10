@@ -1377,4 +1377,6 @@ SIM kartınızı kontrol edin."</string>
   <string name="toast_not_show_location_perm_req">Bu özelliği kullanmak için Mesajlaşma\'nın konumunuza erişmesine izin verin</string>
   <string name="toast_not_show_send_sms_perm_req">Bu özelliği kullanabilmek için önce bu uygulamanın mesaj göndermesine izin verin.</string>
   <string name="toast_not_show_write_contacts_perm_req">Bu özelliği kullanmak için Mesajlaşma\'nın kişileri düzenlemesine izin verin</string>
+  <string name="attachment_panel_show_part">Sayfa %1$d</string>
+  <string name="pa_shortcut_desc_add_button_install">\"%2$s\" kullanabilmek için önce %1$s yükleyin.</string>
 </resources>

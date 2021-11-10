@@ -820,4 +820,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="revoke_privacy_content">"Devam ederseniz, Cihazı bul\'un &lt;a href=app://com.miui.cloudservice.gdpr.license>Gizlilik Politikası&lt;/a> için onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Cihazı bul, hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri almanız, Cihazı bul hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onayınız şimdi geri çekilsin mi?"</string>
   <string name="revoke_privacy_failed">Onay geri çekilemedi</string>
   <string name="revoke_privacy_title">Onayın geri çekilmesi</string>
+  <string name="cloud_service_open_authorization">Xiaomi Bulut hizmetlerine hoş geldiniz! Notlarınızı, fotoğraflarınızı ve videolarınızı, kayıtlarınızı ve diğer öğelerinizi bağlı tüm cihazlarda sistem uygulamalarından eşitlemek için Xiaomi Bulut\'u kullanabilirsiniz. Ana ekran düzeni yedeklemeleri de Xiaomi Bulut\'ta saklanır. Eşitlenen tüm öğeleri i.mi.com adresinden görüntüleyebilirsiniz.</string>
+  <string name="cloud_service_title">Xiaomi Bulut</string>
+  <string name="open_service_title">Aç</string>
 </resources>

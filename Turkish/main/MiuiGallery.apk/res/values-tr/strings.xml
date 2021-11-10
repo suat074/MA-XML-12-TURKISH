@@ -465,6 +465,8 @@
   <string name="create_new_face">Yeni Kişi</string>
   <string name="create_quick_icon_on_desk">Kısayol yarat</string>
   <string name="creating_baby_album">Albüm oluşturuluyor...</string>
+  <string name="creativity_summary">Ek sanat ve düzenleme özelliklerini göster</string>
+  <string name="creativity_title">Sanatsal</string>
   <string name="crop_label">Kırp</string>
   <string name="custom_select_title_deselect_all">Hiçbiri</string>
   <string name="custom_select_title_quickly_share">Paylaş</string>

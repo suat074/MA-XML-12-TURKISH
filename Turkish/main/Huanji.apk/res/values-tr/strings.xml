@@ -471,6 +471,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="err_bakfile_broken">Bu yedeklemeyi kullanamazsınız.</string>
   <string name="err_bakfile_not_exist">Yedekleme dosyası mevcut değil.</string>
   <string name="err_binder_died">Uygulama beklenmedik bir şekilde durdu.</string>
+  <string name="err_install_incompatible">Uyumluluk sorunu</string>
   <string name="err_low_storage">Yeterli alan yok</string>
   <string name="err_no_gms">Uyumsuz uygulama sürümü. Bu uygulamayı ayrı olarak yükleyin</string>
   <string name="err_not_allow">Desteklenmiyor</string>

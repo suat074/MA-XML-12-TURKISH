@@ -156,6 +156,7 @@
   <string name="enable_encrypt_summery2">Yedekleriniz otomatik olarak şifrelenecek. Onlara erişmek için Mi Hesabınıza giriş yapmanız gerekir.</string>
   <string name="enable_encrypt_title">Yedeklemeleri şifrele</string>
   <string name="enable_encrypt_xiaomi_account">Bu yedekleme %1$s tarafından oluşturuldu. Geri yüklemek için mevcut hesabı silin ve %2$s olarak oturum açın.</string>
+  <string name="enable_local_backup_tips_global">Verileri cihazınıza veya bilgisayarınıza yedekleyebilmek ve geri yükleyebilmek için bu özelliği açın. Şimdi açılsın mı?</string>
   <string name="err_acquire_system_service">Sistem hizmeti başlatılamadı.</string>
   <string name="err_authentication_failed">Kimlik doğrulanamadı</string>
   <string name="err_bakfile_broken">Bu yedeklemeyi kullanamazsınız.</string>

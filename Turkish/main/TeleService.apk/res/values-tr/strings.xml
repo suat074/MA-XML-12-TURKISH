@@ -126,6 +126,8 @@
   <string name="apn_settings">Erişim Noktası Adları</string>
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için mevcut değil</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
+  <string name="arrears_sim_summary">Bağlı kalmak için telefon bakiyenizi doldurun.</string>
+  <string name="arrears_sim_title">Yetersiz bakiye</string>
   <string name="atr_disable">Bölge Trafik Raporları kapalı</string>
   <string name="atr_enable">Bölge Trafik Raporları açık</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>

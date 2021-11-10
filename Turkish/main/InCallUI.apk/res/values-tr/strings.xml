@@ -64,6 +64,17 @@
   <string name="call_contacts_deny_permission_msg">Kişileri okuma iznini reddettin, kişi bilgileri gösterilemiyor.</string>
   <string name="call_description_recording">Kaydediliyor...</string>
   <string name="call_not_support_high_frequency_click">Bu düğmeye çok sık dokunmayın</string>
+  <string name="call_progress_info_call_forwarding">Çağrı başka bir numaraya yönlendirildi</string>
+  <string name="call_progress_info_call_rejected">çağrı reddedildi</string>
+  <string name="call_progress_info_call_waiting">Uzaktan kumanda bir çağrıda, lütfen tutun ve bekleyin</string>
+  <string name="call_progress_info_no_answer_from_user">kullanıcıdan cevap yok</string>
+  <string name="call_progress_info_no_user_responding">kullanıcı yanıt vermiyor</string>
+  <string name="call_progress_info_nonuser_call_rejected">kllncyok - çağrı reddedildi</string>
+  <string name="call_progress_info_remote_available">Uzaktan kumanda uyarılır</string>
+  <string name="call_progress_info_subscriber_absent">Abone yok</string>
+  <string name="call_progress_info_unallocated_number">Ayrılmamış numara</string>
+  <string name="call_progress_info_user_busy">kullanıcı meşgul</string>
+  <string name="call_progress_info_user_call_rejected">kllnc - çağrı reddedildi</string>
   <string name="call_record_wait_label">Bekliyor</string>
   <string name="call_recording_deny_permission_msg">Kayıt yapamazsınız, kayıt izni reddedildi.</string>
   <string name="call_recording_error_low_storage">Depolamada yeterli alan yok.</string>
@@ -91,6 +102,7 @@
   <string name="card_title_hanging_up_weak_signal">Zayıf mobil ağ sinyali. Arama sonlandırılıyor…</string>
   <string name="card_title_in_call">Çağrıda</string>
   <string name="card_title_in_call_short">Çağrıda</string>
+  <string name="card_title_in_crbt">Cevaplanmayı bekliyor</string>
   <string name="card_title_in_video">"Video "</string>
   <string name="card_title_incoming_conference_call">Gelen konferans çağrısı</string>
   <string name="card_title_on_hold">"Beklemede "</string>
@@ -163,6 +175,7 @@
   <string name="incoming_circle_text_reject_p">Yukarı kaydır</string>
   <string name="incoming_circle_text_video_answer">Video ile cevaplamak için serbest bırakın</string>
   <string name="incoming_circle_text_video_answer_p">Video ile cevaplamak için yukarı kaydırın</string>
+  <string name="incoming_video_crs_call">Video CRS gelen çağrıyı al</string>
   <string name="manageConferenceLabel">Konferans görüşmesini yönet</string>
   <string name="manager_conference_done">Tamamlandı</string>
   <string name="miuix_access_state_desc">Seçili</string>

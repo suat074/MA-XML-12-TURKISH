@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="gd_app_edit_desc">
+    <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin.</item>
+    <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin.</item>
+  </plurals>
+  <plurals name="gd_app_edit_desc_new">
+    <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun.</item>
+    <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun.</item>
+  </plurals>
   <plurals name="sim_lock_puk_dialog_message">
     <item quantity="other">SIM PUK\'unuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış PUK girme limitine ulaşırsanız, SIM kartınız iptal edilecektir. Yine de devam edilsin mi?</item>
     <item quantity="one">SIM PUK\'unuzu doğrulamak için yalnızca %d denemeniz kaldı. Yanlış PUK girme limitine ulaşırsanız, SIM kartınız iptal edilecektir. Yine de devam edilsin mi?</item>

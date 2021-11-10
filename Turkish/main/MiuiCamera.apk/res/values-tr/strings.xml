@@ -1848,4 +1848,26 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="mode_edit_video_disable">Video kaydetme durduruldu</string>
   <string name="pref_auto_boot">Otomatik başlatma</string>
   <string name="pref_auto_boot_summary">Otomatik başlatmaya izin vererek Kamera\'yı daha duyarlı hale getirin. Otomatik başlatma izinlerini uygulama ayrıntılarında yönetebilirsiniz.</string>
+  <string name="pad_cannot_connect_camera_twice">Hala kameraya bağlanılamıyor. Cihazınızı yeniden başlatmayı deneyin.</string>
+  <string name="pad_close_back_flash_toast">Cihazınız aşırı ısınmış. Şimdi flaş kullanamazsınız.</string>
+  <string name="pad_close_night_algo_toast_thermal">Pozlamayı ayarlayabilmek için cihazınızı soğutun</string>
+  <string name="pad_pref_camera_lying_summary">Cihaz yere paralel olduğunda mevcut yönlendirme hakkında bilgilendir</string>
+  <string name="pad_super_night_toast">Fotoğraf çekerken cihazınızı sabit tutun</string>
+  <string name="beauty_lens">Geniş diyafram</string>
+  <string name="beauty_lens_1">İnsanlar</string>
+  <string name="beauty_lens_1_description">Profesyonel düzeyde bokeh oluşturun ve çekimlerinizi olağanüstü portrelere dönüştürün.</string>
+  <string name="beauty_lens_2">Evcil hayvanlar</string>
+  <string name="beauty_lens_2_description">Kürk ve bıyıktaki tüm detayları korurken arka planı bulanıklaştırın!</string>
+  <string name="beauty_lens_3">Yemek</string>
+  <string name="beauty_lens_3_description">Nefis şeyleri ön plana çıkarın ve daha canlı görünmesini sağlayın.</string>
+  <string name="beauty_lens_4">Nesneler</string>
+  <string name="beauty_lens_4_description">Dokuları geliştirin ve poster düzeyinde fotoğraflar oluşturun.</string>
+  <string name="beauty_lens_description_title">Geniş diyafram</string>
+  <string name="beauty_lens_none">Bulanıklık</string>
+  <string name="beauty_lens_use_hint">Arka planı bulanıklaştırmak ve ön plandaki öğelerin öne çıkmasını sağlamak için geniş diyafram kullanın.</string>
+  <string name="beauty_mo_fe">Doğal</string>
+  <string name="beauty_mo_ma">Klasik</string>
+  <string name="beauty_mo_or">Orijinal</string>
+  <string name="beauty_s_cl">Görünüm</string>
+  <string name="beauty_sm_or">Görünüm</string>
 </resources>

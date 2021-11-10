@@ -175,7 +175,7 @@
   <string name="quick_settings_pcmode_dialog_message_turnoff">PC modunu kapat</string>
   <string name="quick_settings_pcmode_dialog_message_turnon">PC modunu aç</string>
   <string name="quick_settings_pcmode_dialog_remember_text">Tekrar gösterme</string>
-  <string name="quick_settings_pcmode_error">Uygulama bulunamadı, lütfen yükleyin ve tekrar deneyin.</string>
+  <string name="quick_settings_pcmode_error">Uygulama bulunamadı. Önce onu yükleyin.</string>
   <string name="quick_settings_pcmode_label">PC modu</string>
   <string name="quick_settings_pcmode_ok_button">Tamam</string>
   <string name="quick_settings_pcmode_turn_off_description">Telefonunuzun ekranı harici monitörde gösterilecek. PC modu kapatılsın mı?</string>

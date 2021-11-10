@@ -732,10 +732,10 @@ Delta güncelleme boyutu: %2$s"</string>
 %3$d. Bu sayfaya geri dönün ve \"Bitir ve yükle\" seçeneğine dokunun."</string>
   <string name="catch_full_log_item_title_camera">Kamera</string>
   <string name="catch_full_log_item_title_charge">Şarj</string>
-  <string name="catch_full_log_item_title_trace">İzleme</string>
+  <string name="catch_full_log_item_title_trace">Gecikme</string>
   <string name="catch_full_log_privacy_content_camera">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler Kamera kullanım bilgilerini (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
   <string name="catch_full_log_privacy_content_charge">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Şarj bilgisi içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
-  <string name="catch_full_log_privacy_content_trace">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, Program çalıştırma kaydını (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına açıklamayın. Aşağıdaki \"Kabul Et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve raporladığınız sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
+  <string name="catch_full_log_privacy_content_trace">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, uygulama kullanım istatistiklerini (CPU frekansı, sistem çağrısı, bellek kullanımı vb. dahil) içerebilir. Dikkatli olun ve bu günlükleri başkalarına ifşa etmeyin.  Aşağıdaki \"Kabul et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul etmiş olursunuz.</string>
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
