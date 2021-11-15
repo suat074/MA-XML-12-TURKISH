@@ -31,7 +31,9 @@
   <string name="accessibility_recent_task_exit">Son kullanılanlar Kapatıldı</string>
   <string name="accessibility_recent_task_locked_state">Kilitli</string>
   <string name="accessibility_recent_task_memory_info">Toplam RAM: %2$s | Kullanılabilir RAM: %1$s. Temizlemek için iki kez dokunun.</string>
+  <string name="accessibility_recent_task_show_menu">Daha fazla seçenek</string>
   <string name="accessibility_recent_task_unlocked_state">Kilit açık</string>
+  <string name="accessibility_recents_item_dismissed">%1$s Temizlendi</string>
   <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
   <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
   <string name="action_add_to_workspace">Çalışma alanına ekle</string>
@@ -217,6 +219,7 @@
   <string name="disable_wallpaper_scroll">Yan kaydırmayı kapat</string>
   <string name="double_tap_to_lock_title">Ekranı kapatmak için iki kez dokunun</string>
   <string name="download_action">İndir</string>
+  <string name="drag_icon_to_homescreen_guide">Bir uygulama simgesine basılı tutun, ardından Ana ekrana kısayol eklemek için onu sürükleyin</string>
   <string name="drawer_background">Arka plan</string>
   <string name="drawer_background_dark">Karanlık</string>
   <string name="drawer_background_light">Aydınlık</string>

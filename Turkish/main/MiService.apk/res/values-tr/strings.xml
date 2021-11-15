@@ -247,4 +247,15 @@
   <string name="v7_preference_on">AÇIK</string>
   <string name="close">Kapat</string>
   <string name="send">Gönder</string>
+  <string name="i_get_it">Anladım</string>
+  <string name="privacy_policy_update_hint">"%1$s Gizlilik Politikası güncellendi:
+%2$s
+Devam etmeden önce %3$s yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="privacy_policy_update_title">Güncellenen Gizlilik Politikası</string>
+  <string name="user_must_known">Dikkat</string>
+  <string name="user_must_known_content">%s yeni sürümünü kabul etmedikçe hizmetlerimizi kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?</string>
+  <string name="withdraw_consent_failed">Onay geri çekilemedi</string>
+  <string name="withdraw_consent_failed_hint">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="withdrawing">Onay geri çekiliyor…</string>
 </resources>

@@ -24,6 +24,10 @@
     <item quantity="other">%d şarkı kaldırılsın mı?</item>
     <item quantity="one">%d şarkı kaldırılsın mı?</item>
   </plurals>
+  <plurals name="dialog_request_delete_permission_descript">
+    <item quantity="other">Seçili şarkıların %d tanesi harici bir klasörde saklanıyor. Bunları silmek için gerekli izinleri verin.</item>
+    <item quantity="one">Seçili şarkıların %d tanesi harici bir klasörde saklanıyor. Bunları silmek için gerekli izinleri verin.</item>
+  </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indirildi</item>
     <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indirildi</item>

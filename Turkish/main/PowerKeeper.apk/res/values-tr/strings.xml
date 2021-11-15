@@ -109,9 +109,9 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="scenario_policies_warmcontrol">Sıcaklık Kontrolu</string>
   <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
   <string name="show_system_app">Sistem uygulamalarını göster</string>
-  <string name="sleep_config_enhance_description">MIUI uyuduğunuzu algıladığında, arka plan uygulamalarını kapatır, NFC, Bluetooth, GPS, mobil veri, WLAN kullanımını kısıtlar ve bildirimler için ekranı açmaz.</string>
-  <string name="sleep_config_enhance_description_non_nfc">MIUI uyuduğunuzu algıladığında, arka plan uygulamalarını kapatır, Bluetooth, GPS, mobil veri, WLAN kullanımını kısıtlar ve bildirimler için ekranı açmaz.</string>
-  <string name="sleep_config_enhance_description_pad">MIUI uyuduğunuzu algıladığında arka plan uygulamalarını kapatır, Bluetooth ve WLAN kullanımını kısıtlar ve bildirimler için ekranı aydınlatmaz.</string>
+  <string name="sleep_config_enhance_description">Pilden tasarruf etmek için MIUI arka plan uygulamalarını kapatacak, NFC, Bluetooth, GPS, mobil veri ve WLAN kullanımını kısıtlayacak ve gece uyurken bildirimler için ekranı aydınlatmayacak.</string>
+  <string name="sleep_config_enhance_description_non_nfc">Pilden tasarruf etmek için MIUI arka plan uygulamalarını kapatacak, Bluetooth, GPS, mobil veri ve WLAN kullanımını kısıtlayacak ve gece uyurken bildirimler için ekranı aydınlatmayacak.</string>
+  <string name="sleep_config_enhance_description_pad">Pilden tasarruf etmek için MIUI arka plan uygulamalarını kapatacak, Bluetooth ve WLAN kullanımını kısıtlayacak ve gece uyurken bildirimler için ekranı aydınlatmayacak.</string>
   <string name="sleep_config_enhance_title">Uyku modu</string>
   <string name="sleepmode_disclaimer_agree">Kabul</string>
   <string name="sleepmode_disclaimer_cancel">İptal</string>

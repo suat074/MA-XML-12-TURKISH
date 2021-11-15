@@ -698,4 +698,9 @@
   <string name="withdraw_consent">Onayın geri çekilmesi</string>
   <string name="withdraw_consent_content">Devam ederseniz, Dosya Yöneticisi\'nin Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosya Yöneticisi hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Dosya Yöneticisi hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir.</string>
   <string name="withdraw_consent_summary">Dosya Yöneticisi\'nin Gizlilik Politikasına onayınızı geri çekme</string>
+  <string name="need_open_content">Bu özelliği kullanmak için Dosya Yöneticisinin fotoğraflarınıza ve dosyalarınıza erişmesine izin verin.</string>
+  <string name="need_open_permission">Gerekli izinler</string>
+  <string name="no_permission">Bu özelliğe erişmek için gerekli izinleri verin</string>
+  <string name="to_open">Ayarlar</string>
+  <string name="to_setting">Ayarlar</string>
 </resources>
