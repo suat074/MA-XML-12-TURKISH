@@ -1526,4 +1526,8 @@ Favori listenize kişi eklemek için:
   <string name="privacy_settings_call_phone_for_pad">Çağrı yapma</string>
   <string name="privacy_settings_contacts_for_pad">Gizlilik</string>
   <string name="toast_not_show_storage_perm_req_for_pad">Profil fotoğrafları ekleyebilmek ve vCard\'ları içe aktarabilmek için önce bu uygulamanın depolamaya erişmesine izin verin.</string>
+  <string name="saf_permission_dialog_content">Android, varsayılan olarak Kişiler ve Telefon\'un çağrı kayıtlarına erişmesine izin vermiyor. Görüntüleyebilmesi için bu uygulamaların çağrı kayıtlarına erişmesine izin verin.</string>
+  <string name="saf_permission_dialog_grant_permission_immediately">İzin ver</string>
+  <string name="saf_permission_dialog_later">Daha sonra</string>
+  <string name="saf_permission_dialog_title">Kişiler ve Telefonun çağrı kayıtlarına erişmesine izin verin</string>
 </resources>

@@ -1291,4 +1291,29 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="private_pad_fold_revoke_agree_detail_content_2">Mi Hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler (ücretli siparişler dahil). Satın aldığınız ürünleri artık kullanamayacaksınız.\nMi Hesabınızı kullandığınız Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler.\nBu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri.\nBu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış öğeler.\nŞu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri ​​geri yüklenecek.</string>
   <string name="private_pad_fold_revoke_agree_detail_content_3">4. Duvar kağıdı ve kişiselleştirmenin Gizlilik politikasına verdiğiniz onayı geri çekmenizin ardından, kişisel bilgilerinizi toplamayı durduracağız. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir.\n5. Onayın geri çekilmesi, onayın geri alınmasından önce gerçekleştirilen eylemlerin getirdiği sorumluluklar bakımından muafiyet veya hafifletme anlamına gelmez.</string>
   <string name="theme_log_out">Oturumu kapat</string>
+  <string name="apply_warning_get_device_dialog_message">İndirilen içeriği kullanabilmek için önce bu özelliğin cihaz kimliğinize erişmesine izin verin. Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz.</string>
+  <string name="basic_mode">Çevrimdışı mod</string>
+  <string name="basic_mode_desc">Temalar internete bağlanmayacak ve yalnızca yerel içeriği kullanacak. Kişisel bilgileriniz toplanmayacak.</string>
+  <string name="browse_mode">Çevrimiçi mod</string>
+  <string name="browse_mode_desc">Temalar internete bağlanacak ve hem yerel hem de çevrimiçi içeriği kullanacak. Kişisel bilgileriniz toplanmayacak.</string>
+  <string name="close_custom_permission_warning_text">Depolama izinleri olmadan, bu uygulama öğeleri indiremez ve cihazınızı kişiselleştiremez. Yine de kapatılsın mı?</string>
+  <string name="custom_storage_permission_desc">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin. Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz.</string>
+  <string name="dialog_negative_button_text">Şimdi değil</string>
+  <string name="dialog_positive_button_text">İzin ver</string>
+  <string name="dialog_trans_wallpaper_offline_detail">Şeffaf duvar kağıtları, Android 12 tarafından desteklenmediği için artık kullanılamıyor.</string>
+  <string name="dialog_trans_wallpaper_offline_inform_detail">Şeffaf duvar kağıtları, Android 12 kısıtlamaları ve uyumluluk sorunları nedeniyle artık mevcut değil.</string>
+  <string name="dialog_trans_wallpaper_offline_inform_title">Şeffaf duvar kağıtları</string>
+  <string name="dialog_trans_wallpaper_offline_title">Şeffaf duvar kağıtları mevcut değil</string>
+  <string name="login_theme">Temalar\'da oturum açın</string>
+  <string name="personalize_recommend_switch_desc">Cihaz kimliğine dayalı kişiselleştirilmiş içerik önerileri alın</string>
+  <string name="privacy_remind_user_mode_agree">Kabul et</string>
+  <string name="privacy_remind_user_mode_content"><Data>Bu özelliği kullanmak için Gizlilik Politikamızı kabul edin. Temaları kullandığınızda bize sağladığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi, işlediğimizi ve sakladığımızı öğrenmek için &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a>&lt;/font> okuyun.</Data></string>
+  <string name="privacy_remind_user_mode_title">Dikkat</string>
+  <string name="privacy_select_mode">Mod seçin</string>
+  <string name="privacy_select_mode_desc">Gizlilik Politikamızı kabul etmediğiniz için aşağıdaki modlardan birini seçin:</string>
+  <string name="prvicay_permission_not_allow_desc">"Bu uygulamanın, bu cihazda oluşturulan tüm verileri silmesi için depolama alanına erişmesi gerekiyor. Bu izin olmadan bazı veriler silinemez. Yine de hizmetler iptal edilsin mi?
+Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz."</string>
+  <string name="read_and_agree_account_privacy"><Data>"Mi Hesabı &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı Sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Gizlilik Politikası&lt;/a>&lt;/font> okudum ve kabul ediyorum."</Data></string>
+  <string name="trans_wallpaper_offline_notice">Şeffaf duvar kağıtları mevcut değil</string>
+  <string name="voice_input">Ses girişi</string>
 </resources>

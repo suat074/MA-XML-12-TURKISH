@@ -590,4 +590,10 @@
   <string name="tv_world_clock_edit_title2">Diğer kaydedilen konumlar</string>
   <string name="white_noise">Ortam gürültüsü</string>
   <string name="worldclock_edit_label">Dünya saati</string>
+  <string name="alert_xiaoai_ringtone_desc">Mi AI konuşuyor…</string>
+  <string name="repeat_type">Tekrarla</string>
+  <string name="select_all">Tümünü seç</string>
+  <string name="selected">Seçili</string>
+  <string name="unselect_all">Hiçbiri</string>
+  <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
 </resources>

@@ -167,6 +167,7 @@
   <string name="notification_control_center">Bildirimler &amp; Kontrol merkezi</string>
   <string name="online">Çevrimiçi</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="quick_settings_aitranslate_label">MI AI Çevirisi</string>
   <string name="quick_controls_subtitle">Bağlı cihazlarınız için kontroller ekleyin</string>
   <string name="quick_controls_title">Cihaz kontrolleri</string>
   <string name="quick_settings_hang_label">Yüzer pencereler</string>

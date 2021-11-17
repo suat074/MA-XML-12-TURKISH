@@ -5086,4 +5086,10 @@ Onayınız şimdi geri çekilsin mi?"</string>
   <string name="title_safe_mode">Güvenli modu aç</string>
   <string name="dev_sign_notification_content">Şu anda Android 12 Beta kullanıyorsunuz. Sağladığınız geri bildirim, sorunları belirlememize ve düzeltmemize yardımcı olacak. Bu programa katıldığınız için teşekkür ederiz!</string>
   <string name="dev_sign_notification_title">Android 12 Beta</string>
+  <string name="gamebox_ai_subtitle">AI altyazıları</string>
+  <string name="power_center_surface_temp_high">Sıcak</string>
+  <string name="power_center_surface_temp_higher">Ilık</string>
+  <string name="power_center_surface_temp_low">Soğuk</string>
+  <string name="power_center_surface_temp_lower">Serin</string>
+  <string name="power_center_surface_temp_normal">Normal</string>
 </resources>

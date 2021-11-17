@@ -5794,7 +5794,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
   <string name="summary_range_verbal_combination">" %2$s / %1$s"</string>
   <string name="sunlight_mode">Güneş ışığı modu</string>
-  <string name="sunlight_mode_summary">Otomatik parlaklık kapalıyken parlaklığı güçlü ortam ışığına ayarlayın</string>
+  <string name="sunlight_mode_summary">Ekranın çok karanlık olmasını önlemek için parlaklığı güçlü ortam ışığına ayarlayın</string>
   <string name="sunlight_mode_summary_new">Ekranın çok karanlık olmasını önlemek için parlaklığı güçlü ortam ışığına ayarlayın. Ortam ışığı güçlü olduğunda ekranın üst kısmında küçük bir güneş simgesi görünecektir.</string>
   <string name="super_resolution_access_title">Erişilebilir uygulamalar</string>
   <string name="super_resolution_desc">Bir AI algoritması kullanarak görüntüleri daha canlı hale getirin</string>
@@ -8208,7 +8208,12 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="shoulder_key_shortcut_single_click">Basın</string>
   <string name="shoulder_key_shortcut_turn_on_torch">El feneri</string>
   <string name="shoulder_key_shortcut_vibrate">Titreşim</string>
-  <string name="memorycard_calculating">Hesaplanıyor</string>
+  <string name="memorycard_calculating">Hesaplanıyor…</string>
   <string name="closed_beta">Kararlı (Dahili)</string>
   <string name="launch_smarthome">Xiaomi Sihirli Kontrol</string>
+  <string name="brightness_auto_summary">Pilden tasarruf etmek için parlaklığı ortam ışığına ayarlayın</string>
+  <string name="high_brightness_hint_summary">Ortam ışığı güçlü olduğunda ekranın üst kısmında küçük bir güneş simgesi belirecektir.</string>
+  <string name="screen_brightness">Ekran parlaklığı</string>
+  <string name="smart_dual_sim_title">Akıllı çift SIM</string>
+  <string name="wifi_multi_network_acceleration_title">Ağ hızlandırma</string>
 </resources>

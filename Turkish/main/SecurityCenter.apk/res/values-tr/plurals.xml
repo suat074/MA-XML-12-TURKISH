@@ -373,6 +373,10 @@
     <item quantity="other">İptal (%ds)</item>
     <item quantity="one">İptal (%ds)</item>
   </plurals>
+  <plurals name="privacy_permission_summary_allow">
+    <item quantity="other">%s uygulama için izin verildi</item>
+    <item quantity="one">%s uygulama için izin verildi</item>
+  </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d pil sorunu</item>
     <item quantity="one">%d pil sorunu</item>

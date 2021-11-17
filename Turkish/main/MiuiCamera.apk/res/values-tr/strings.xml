@@ -1870,4 +1870,17 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="beauty_mo_or">Orijinal</string>
   <string name="beauty_s_cl">Görünüm</string>
   <string name="beauty_sm_or">Görünüm</string>
+  <string name="accessibility_privacy_watermark">Koruyucu filigran</string>
+  <string name="dialog_privacy_watermark_button_cancel">İptal</string>
+  <string name="dialog_privacy_watermark_button_input">Giriş</string>
+  <string name="dialog_privacy_watermark_msg">Metni girin</string>
+  <string name="dialog_privacy_watermark_title">Koruyucu filigran</string>
+  <string name="newbie_privacy_watermark_msg">Belgelerinizi yetkisiz kopyalanmalardan korumak için filigran kullanın</string>
+  <string name="newbie_privacy_watermark_title">Belgelerinizi koruyun</string>
+  <string name="popup_tips_privacy_watermark_edit">Filigranı düzenle</string>
+  <string name="pref_privacy_watermark_edit">Özel metin</string>
+  <string name="pref_privacy_watermark_edit_clear_history">Geçmişi temizle</string>
+  <string name="pref_privacy_watermark_edit_history">Geçmiş</string>
+  <string name="pref_privacy_watermark_entry">Koruyucu filigran</string>
+  <string name="pref_privacy_watermark_switch">Filigran anahtarını göster</string>
 </resources>

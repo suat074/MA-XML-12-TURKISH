@@ -1480,4 +1480,19 @@
   <string name="filter_popular_sunset_gold">Parlaklık</string>
   <string name="onekey_beautify_tag_done">Uygulanan efektler</string>
   <string name="sticker_tab_talkback_halloween">Cadılar bayramı</string>
+  <string name="photo_editor_crop_size_landscape_fullscreen">Tam ekran ↔</string>
+  <string name="photo_editor_crop_size_portrait_fullscreen">Tam ekran ↕</string>
+  <string name="photo_editor_navigator_tab_title_ai">AI</string>
+  <string name="photo_editor_navigator_tab_title_basic">Temel</string>
+  <string name="photo_editor_navigator_tab_title_beauty">Güzelleştirme</string>
+  <string name="photo_editor_talkback_crop_landscape_screen">Tam ekran en boy oranı. Yatay yönlendirme.</string>
+  <string name="photo_editor_talkback_crop_portrait_screen">Tam ekran en boy oranı. Dikey yönlendirme.</string>
+  <string name="saf_operation_guide_1">Galeri Düzenleyicisi\'nin verilerinizi koruyabilmesi ve yönetebilmesi için izninize ihtiyacı var.</string>
+  <string name="saf_operation_guide_2">İzni vermek için \"%1$s\" öğesine dokunun ve ardından \"%2$s\" öğesini seçin.</string>
+  <string name="saf_operation_guide_param1">Sonraki</string>
+  <string name="saf_operation_guide_param2">Bu klasöre erişim</string>
+  <string name="saf_requester_cancel">İptal</string>
+  <string name="saf_requester_title">Galeri Düzenleyicisi için \"%s\" erişimine izin verin</string>
+  <string name="saf_secret_album">Özel albüm</string>
+  <string name="saf_secret_album_guide">Bu uygulamanın, özel albümünüzdeki öğeleri görüntüleyebilmesi için izinlere ihtiyacı var.</string>
 </resources>
