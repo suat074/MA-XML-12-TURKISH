@@ -1103,4 +1103,5 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="trans_show_qr_code_label_for_pad">Eski cihazda Mi Mover\'ı açın</string>
   <string name="trans_sync_transfer_data_list_hint">Sadece bir saniye…</string>
   <string name="trans_sync_transfer_data_list_summary_for_pad">Eski cihazınızda öğeleri seçin ve \"Gönder\" seçeneğine dokunun.</string>
+  <string name="transfer_long_pause_in_progress">Aktarılıyor…</string>
 </resources>

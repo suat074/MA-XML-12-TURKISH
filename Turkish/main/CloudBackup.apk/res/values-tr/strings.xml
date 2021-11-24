@@ -208,6 +208,7 @@ Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</strin
   <string name="miui_device_name">Android</string>
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="miuix_indexer_selected">Seçili %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>

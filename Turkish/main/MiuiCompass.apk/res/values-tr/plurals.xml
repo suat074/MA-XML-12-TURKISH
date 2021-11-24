@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="current_page_number">
+    <item quantity="other">Sayfa %d görüntüleniyor</item>
+    <item quantity="one">Sayfa %d görüntüleniyor</item>
+  </plurals>
+  <plurals name="total_pages">
+    <item quantity="other">Toplam %d sayfa</item>
+    <item quantity="one">Toplam %d sayfa</item>
+  </plurals>
+</resources>

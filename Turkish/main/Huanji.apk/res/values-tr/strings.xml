@@ -1150,4 +1150,5 @@ Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="perm_manage_external_storage">Tüm dosyalara erişim</string>
   <string name="title_request_manage_external_storage_perm">Gerekli izinler</string>
   <string name="app_update_title">Tüm uygulamaları güncelle</string>
+  <string name="transfer_long_pause_in_progress">Aktarılıyor…</string>
 </resources>

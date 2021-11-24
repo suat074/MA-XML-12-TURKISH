@@ -12,4 +12,8 @@
         <item quantity="other">%d yeni bildirim</item>
         <item quantity="one">%d yeni bildirim</item>
     </plurals>
+	<plurals name="text_btn_list_with_message">
+        <item quantity="other">%d yeni kayıt</item>
+        <item quantity="one">%d yeni kayıt</item>
+    </plurals>
 </resources>

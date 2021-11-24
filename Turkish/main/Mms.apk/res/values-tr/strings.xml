@@ -1379,4 +1379,11 @@ SIM kartınızı kontrol edin."</string>
   <string name="toast_not_show_write_contacts_perm_req">Bu özelliği kullanmak için Mesajlaşma\'nın kişileri düzenlemesine izin verin</string>
   <string name="attachment_panel_show_part">Sayfa %1$d</string>
   <string name="pa_shortcut_desc_add_button_install">\"%2$s\" kullanabilmek için önce %1$s yükleyin.</string>
+  <string name="conv_content_defraud_tip">Dolandırıcılığı bildir</string>
+  <string name="conv_content_risk">Bilinmeyen numaradan gönderildi</string>
+  <string name="conv_head_link_tip">Dolandırıcılığı bildir</string>
+  <string name="conv_head_risk_tip">Yurtdışı dolandırıcılık olabilir</string>
+  <string name="conv_item_official">Resmi</string>
+  <string name="conv_item_risk_tip">Risk</string>
+  <string name="menu_report">Geri bildirim</string>
 </resources>

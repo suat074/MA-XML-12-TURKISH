@@ -4808,7 +4808,7 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
     <string name="auto_task_default_task_summary_listen_music">Müzik oynatın ve kulaklık tipini seçin</string>
     <string name="auto_task_default_task_summary_meet">Toplantı saatini planlayın ve Rahatsız etme modunu açın</string>
     <string name="auto_task_default_task_summary_noon_break">Dinlenme zamanını planlayın ve Rahatsız etme modunu açın</string>
-    <string name="auto_task_default_task_summary_save_power">Pil %s değerinden düşük olduğunda Pil tasarrufunu açın</string>
+    <string name="auto_task_default_task_summary_save_power">Pil %30\'un altına düştüğünde Pil tasarrufunu açın</string>
     <string name="auto_task_default_task_summary_sleep">Uyku vaktini planlayın ve cihaz davranışını özelleştirin</string>
     <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, Wi-Fi\'yi açın, ses seviyesini ayarlayın</string>
     <string name="auto_task_default_task_title_driver_car">Sürüş</string>

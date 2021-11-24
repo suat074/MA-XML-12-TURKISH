@@ -8216,4 +8216,12 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="screen_brightness">Ekran parlaklığı</string>
   <string name="smart_dual_sim_title">Akıllı çift SIM</string>
   <string name="wifi_multi_network_acceleration_title">Ağ hızlandırma</string>
+  <string name="freeform_guide_multi_window">Çoklu görev</string>
+  <string name="freeform_vedio_description_pad">Yüzer pencerede açmak için öğeleri yuvanın dışına sürükleyin</string>
+  <string name="security_check_progress_dialog_message">Güvenlik sorunları kontrol ediliyor…</string>
+  <string name="speed_mode">Hız modu</string>
+  <string name="speed_mode_summary">Uygulamalarda hata ayıklamak için.</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
+  <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
+  <string name="multi_window_cvw_title">Yüzer pencere</string>
 </resources>

@@ -484,6 +484,7 @@ EEE"</string>
   <string name="ota_recovery_theme_notity_content">Güncellemeden önce kullandığınız temaya geri dönebilirsiniz</string>
   <string name="ota_recovery_theme_notity_title">Temanızı geri yükleyin</string>
   <string name="password_toggle_content_description">Şifre görünürlüğünü değiştir</string>
+  <string name="personalized_cta_content_text">Temalar\'a hoş geldiniz! Duvar kağıtlarınızı, zil seslerinizi, yazı tiplerinizi ve daha fazlasını yönetmek için bu uygulamayı kullanabilirsiniz.</string>
   <string name="playing_ringtone">Oynatılıyor</string>
   <string name="pref_privacy_policy">Gizlilik Politikası</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>

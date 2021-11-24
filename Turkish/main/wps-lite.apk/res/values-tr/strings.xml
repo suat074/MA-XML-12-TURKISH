@@ -84,6 +84,7 @@
     <string name="et_sort_ascend">Artan</string>
     <string name="et_sort_descend">Azalan</string>
     <string name="et_sort_empty">Sıralanacak içerik bulunamıyor, başka bir alanı seçin.</string>
+	<string name="et_sort_hint_title">Seçili alanı sırala</string>
     <string name="et_sort_title_tips">Veri üst bilgilerinin sıralanması gerekiyor.</string>
     <string name="et_sorter_expand_selection">Seçimin yanında veri bulunduğu algılandı. Hangi verileri sıralamak istiyorsunuz?</string>
     <string name="et_sorter_expand_selection_cancel">Mevcut seçim</string>

@@ -20,6 +20,7 @@
   <string name="account_other">Diğer</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="afternoon">Öğleden sonra</string>
+  <string name="app_name">Yansıtma</string>
   <string name="casting_tips">Yansıtılıyor…</string>
   <string name="close_hotspot_hint">Yansıtmadan önce taşınabilir paylaşım noktasını kapatın</string>
   <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı Wi-Fi ağlarından bağlantıyı kesin</string>

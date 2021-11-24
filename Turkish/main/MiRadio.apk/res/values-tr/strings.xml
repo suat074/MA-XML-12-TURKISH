@@ -71,4 +71,8 @@
   <string name="using_recorder_dialog_message">FM, cihazın Kaydedici hizmetini kulanır.</string>
   <string name="using_recorder_dialog_title">İzin Erişimi</string>
   <string name="view_stations_list">İstasyon listesini görüntüle</string>
+  <string name="input_length_exceeds_limit">Girdiğiniz metin çok uzun</string>
+  <string name="request_agree">İzin ver</string>
+  <string name="request_cancel">İptal</string>
+  <string name="request_gallery_permission_message">Galeriye erişime izin ver:&lt;br />Profil fotoğraflarını ayarlamak için</string>
 </resources>

@@ -1863,4 +1863,55 @@
   <string name="pa_accessibility_picker_widget_group_item" formatted="false">Widget mağazası. %s Seçildi. Widget açıklamasını açmak için iki kez dokunun. Öğe %s widget\'ını içerir.</string>
   <string name="pa_picker_detail_bottom_bt_text_to_home">Ana ekrana ekle</string>
   <string name="pa_picker_detail_bottom_bt_text_to_minus">Uygulama kasasına ekle</string>
+  <string name="pa_picker_permission_denied">"Uygulama kasasının, widget'ları gösterebilmesi için
+yükleme durumuna erişmesi gerekir. "</string>
+    <string name="pa_picker_request">Ayarlar</string>
+    <string name="pa_setting_privacy_category_perm">İzinler</string>
+    <string name="pa_setting_privacy_category_priv">Gizlilik Politikası</string>
+    <string name="pa_setting_privacy_category_revoke">Onayın geri çekilmesi ve hizmetin iptali</string>
+    <string name="pa_setting_privacy_logout">Hizmetleri iptal et</string>
+    <string name="pa_setting_privacy_logout_dialog_message">Devam ederseniz, Uygulama kasası hizmetlerini iptal edersiniz. Bundan sonra, Uygulama kasası widget\'larını göremez veya kullanamazsınız. Halihazırda toplanan ve saklanan kişisel bilgiler, yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Yine de hizmetler iptal edilsin mi?</string>
+    <string name="pa_setting_privacy_logout_dialog_title">Uygulama kasası hizmetlerini iptal et</string>
+    <string name="pa_setting_privacy_logout_summary">Uygulama kasası hizmetlerini iptal et</string>
+    <string name="pa_setting_privacy_perm_desc">İzin ayrıntıları</string>
+    <string name="pa_setting_privacy_perm_granted">Onaylı</string>
+    <string name="pa_setting_privacy_perm_install_app">Bu cihazda yüklü uygulamaların listesine erişim</string>
+    <string name="pa_setting_privacy_perm_install_app_desc">Uygulama önerileri sağlamak için</string>
+    <string name="pa_setting_privacy_perm_not_granted">Onaylanmamış</string>
+    <string name="pa_setting_privacy_perm_storage">Depolama alanına erişim</string>
+    <string name="pa_setting_privacy_policy_update_again_message">%s yeni sürümünü kabul etmedikçe hizmetlerimizi kullanmaya devam edemezsiniz. Güncellenmiş Gizlilik politikasını şimdi kabul ediyor musunuz?</string>
+    <string name="pa_setting_privacy_policy_update_again_title">Dikkat</string>
+    <string name="pa_setting_privacy_policy_update_agree">Kabul et</string>
+    <string name="pa_setting_privacy_policy_update_exit">Çıkış</string>
+    <string name="pa_setting_privacy_policy_update_link">Gizlilik Politikası</string>
+    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Uygulama kasası Gizlilik Politikası güncellendi: 
+%sDevam etmeden önce %s yeni sürümünü okuyun ve kabul edin. "</string>
+    <string name="pa_setting_privacy_policy_update_title">Güncellenen Gizlilik Politikası</string>
+    <string name="pa_setting_privacy_revoke_cta">Onayın geri çekilmesi</string>
+    <string name="pa_setting_privacy_revoke_cta_message">Devam ederseniz, Uygulama kasasının Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Uygulama kasası hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Uygulama kasası hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onayınız şimdi geri çekilsin mi?</string>
+    <string name="pa_setting_privacy_revoke_cta_positive">Geri çek</string>
+    <string name="pa_setting_privacy_revoke_cta_progress">Geri çekme (%ds)</string>
+    <string name="pa_setting_privacy_revoke_cta_summary">Uygulama kasasının Gizlilik Politikasına ilişkin onayınızı geri çekin</string>
+    <string name="pa_setting_privacy_revoke_error_message">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+    <string name="pa_setting_privacy_revoke_error_title">Onay geri çekilemedi</string>
+    <string name="pa_setting_privacy_revoke_no_net_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="pa_setting_privacy_revoke_no_net_title">Ağa bağlanılamadı</string>
+    <string name="pa_setting_privacy_revoke_positive">Anladım</string>
+    <string name="pa_setting_privacy_third_parties">Üçüncü taraflarla veri paylaşımına ilişkin açıklama</string>
+    <string name="pa_setting_privacy_view_priv">Gizlilik Politikasını görüntüle</string>
+    <string name="pa_accessibility_home_search">Arama, başlatmak için iki kez dokunun</string>
+    <string name="pa_accessibility_home_widget_drag">Öğeyi sürükleme</string>
+    <string name="pa_accessibility_home_widget_drag_move">%1$d satırına, %2$d konumuna git</string>
+    <string name="pa_accessibility_home_widget_drop_workspace">%1$d satırına, %2$d konumuna taşındı</string>
+    <string name="pa_shortcut_desc_add_button">Başlangıç ​​sayfasına %1$s öğesini ekle</string>
+    <string name="pa_shortcut_desc_delete_button">%1$s öğesini başlangıç ​​sayfasından kaldır</string>
+    <string name="pa_shortcut_desc_more_button">Tüm kısayolları görüntüle</string>
+    <string name="pa_stock_desc_add_stock">%1$s ekle</string>
+    <string name="pa_stock_desc_add_success">Başarıyla eklendi</string>
+    <string name="pa_stock_desc_cancel_pin">Sabitlemeyi kaldır</string>
+    <string name="pa_stock_desc_delete_stock">%1$s öğesini sil</string>
+    <string name="pa_stock_desc_move_stock">Hisse senedini taşımak için basılı tutun</string>
+    <string name="pa_stock_desc_pin_stock">Başlangıç ​​sayfasına sabitle</string>
+    <string name="pa_stock_init_toast">Widget\'lar başlatılıyor…</string>
+    <string name="pa_stock_search_input_hint">Stok adını veya kodunu girin</string>
 </resources>

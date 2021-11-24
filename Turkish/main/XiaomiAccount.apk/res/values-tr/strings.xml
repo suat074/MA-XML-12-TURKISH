@@ -251,6 +251,7 @@
   <string name="mipay_transit_card">Taşıma Kartı</string>
   <string name="miuix_access_state_desc">Seçili</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="miuix_indexer_selected">%s seçili</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="multi_user_not_show_sync_activity_message_1">İlk Alandaki Mi Hesabını kullanıyorsunuz gibi görünüyor.</string>

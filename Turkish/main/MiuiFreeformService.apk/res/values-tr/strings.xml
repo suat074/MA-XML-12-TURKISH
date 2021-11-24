@@ -37,4 +37,7 @@
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="freeform_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
+  <string name="multi_window_cvw">Yüzer pencere</string>
+  <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
 </resources>
