@@ -150,10 +150,7 @@ Görüntülemek için dokunun"</string>
   <string name="privacy_settings">Gizlilik</string>
   <string name="view_privacy">Gizlilik Politikasını görüntüle</string>
   <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için Ayarlar\'dan Gizli modu kapatın</string>
-  <string name="miuix_access_state_desc">Seçili</string>
-  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_collect">Koleksiyonlar</string>
-  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="progress">Oynatma ilerleme çubuğu</string>
   <string name="saf_permission_dialog_content">Android kısıtlamaları nedeniyle, Kaydedici\'nin diğer uygulamalar tarafından yapılan kayıtlara erişmesi için izne ihtiyacı var. Kaydedicinin bu kayıtları görüntüleyebilmesi için bu kayıtlara erişmesine izin verin.</string>
   <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
