@@ -361,4 +361,18 @@
   <string name="yesterday">Dün</string>
   <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="speakerphone_tip">Kulaklığı veya hoparlörü kullanmak için cihazı katlayın</string>
+  <string name="incoming_show_permission_msg">Depolama izinleri olmadan gelen çağrılar için profil videoları oynatılamıyor</string>
+  <string name="call_progress_info_call_forwarding">Bu çağrı yönlendirildi</string>
+  <string name="call_progress_info_call_rejected">Diğer kişi şimdi meşgul. Lütfen daha sonra tekrar arayın.</string>
+  <string name="call_progress_info_call_waiting">Diğer kişi şu anda bir görüşmede. Lütfen bekleyin…</string>
+  <string name="call_progress_info_no_answer_from_user">Aramanız cevaplanmadı</string>
+  <string name="call_progress_info_no_user_responding">Aradığınız numara geçici olarak hizmet dışıdır</string>
+  <string name="call_progress_info_nonuser_call_rejected">Aradığınız numara şu anda hizmet dışı</string>
+  <string name="call_progress_info_remote_available">Diğer kişiye aramanız hakkında bilgi verilecek. Lütfen bekleyin…</string>
+  <string name="call_progress_info_subscriber_absent">Aradığınız numaraya ulaşılamıyor</string>
+  <string name="call_progress_info_unallocated_number">Aradığınız numara mevcut değil</string>
+  <string name="call_progress_info_user_busy">Diğer kişi şimdi meşgul. Lütfen daha sonra tekrar arayın.</string>
+  <string name="call_progress_info_user_call_rejected">Numaranız şu anda hizmet dışı</string>
+  <string name="card_title_in_crbt">Yanıt bekleniyor…</string>
+  <string name="incoming_video_crs_call">Profil videosu oynatılıyor…</string>
 </resources>

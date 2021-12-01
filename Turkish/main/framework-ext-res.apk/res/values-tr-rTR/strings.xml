@@ -79,6 +79,7 @@
   <string name="dock_tip_splitscreen_landscape_float">Yüzer pencereye geçmek için basılı tutun ve aşağı sürükleyin.</string>
   <string name="dock_tip_splitscreen_portrait_drag">İki uygulama penceresinin konumlarını değiştirmek için çubuğu dikey olarak sürükleyin.</string>
   <string name="dock_tip_splitscreen_portrait_float">Yüzer bir pencereye geçmek için basılı tutun ve ekranın sol veya sağ tarafına sürükleyin.</string>
+  <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
   <string name="eighthours">8 saat</string>
   <string name="enable_livetalk_summary">Arama ücretlerinden 70% tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>

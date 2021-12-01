@@ -1063,7 +1063,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
   <string name="pref_camera_dynamic_frame_rate_summary">Düşük ışıkta veya yüksek sıcaklık koşullarında video kalitesini iyileştirmek için kare hızı otomatik olarak düşürülür</string>
+  <string name="pref_camera_dynamic_frame_rate_summary_new">Düşük ışıklı veya yüksek sıcaklıklı ortamlarda videolar için kare hızını otomatik olarak azaltın</string>
   <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarla</string>
+  <string name="pref_camera_dynamic_frame_rate_title_new">Otomatik kare hızı</string>
   <string name="pref_camera_eis_entry_normal">Sabit video</string>
   <string name="pref_camera_eis_entry_off">Kapalı</string>
   <string name="pref_camera_eis_entry_pro">Sabit video Pro</string>

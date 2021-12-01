@@ -2147,7 +2147,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="permission_instruction_read_contacts">Bu izin, uygulamaların cihazınızda depolanan kişi bilgilerine erişmesine izin verir. Bu bilgiler, belirli kişilerle olan çağrılar, e-postalar ve diğer yöntemler aracılığıyla iletişim ağını içerebilir. Bu izin, uygulamaların kişileri kaydetmesine de izin verir. Kötü amaçlı uygulamalar bu izin vasıtasıyla izniniz olmadan kişileri paylaşmak için kullanabilir.</string>
   <string name="permission_instruction_read_notify_sms">Bu izin, uygulamaların cihazınızda veya SIM kartınızda depolanan bildirim metin mesajlarını okumasına izin verir.</string>
   <string name="permission_instruction_read_phone_state">Bu izin, uygulamaların telefon numaranıza, IMEI, IMSI ve diğer cihaz tanımlayıcılara erişmesine izin verir. Uygulamalar normalde bu izni çağrılarınızın yönlendirilip yönlendirilmediğini belirlemek için kullanır. Bir sanal cihaz kimliği kullanıyorsanız, uygulamalar gerçek cihaz tanımlayıcılarınıza erişemez.</string>
-  <string name="permission_instruction_read_sms">Bu izin, uygulamaların cihazınızda veya SIM kartınızda depolanan tüm metin mesajlarını okumasına izin verir. Bu tür mesajlar parolalar, banka hesabı ayrıntıları ve diğer kişisel bilgileri içerebilir.</string>
+  <string name="permission_instruction_read_sms">Bu izin, uygulamaların cihazınızda veya SIM kartınızda depolanan tüm metin ve multimedya mesajlarını okumasını sağlar. Bu tür mesajlar şifreleri, banka hesap detaylarını ve diğer kişisel bilgileri içerebilir.</string>
   <string name="permission_instruction_read_write_calendar">Bu izin, uygulamaların takviminize erişmesinin yanı sıra takvim etkinliklerini okumasına, eklemesine, kaldırmasına, düzenlemesine, paylaşmasına ve kaydetmesine olanak tanır. Kötü amaçlı uygulamalar bu izin vasıtasıyla izniniz olmadan adınızdan mesaj göndermek veya takvim etkinliklerini düzenlemek için kullanabilir.</string>
   <string name="permission_instruction_receive_mms">Bu izin, uygulamaların cihazınızda veya SIM kartınızda depolanan tüm multimedya mesajlarını okumasına izin verir. Bu tür mesajlar parolalar, banka hesabı ayrıntıları ve diğer kişisel bilgileri içerebilir.</string>
   <string name="permission_instruction_record_audio">Bu izin, uygulamaların ses kaydetmek için mikrofonu kullanmasına izin verir. Bu iznin, uygulamaların başkalarıyla yaptığınız görüşmeler dahil her şeyi kaydetmesine izin verdiğini unutmayın. Uygulamaların bu izni yalnızca siz uygulamaları kullanırken kullanmasına izin vermek en iyisidir.</string>
@@ -2309,6 +2309,8 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_optimize_save_mode_not_opened">Pil Tasarrufu kapalı</string>
   <string name="power_optimize_save_on_lockscreen">Cihaz kilitlendiğinde güç tasarrufu yapın</string>
   <string name="power_phone">Sesli çağrılar</string>
+  <string name="power_rank_surface_flinger">İşleniyor</string>
+  <string name="power_rank_system">Android sistemi</string>
   <string name="power_save_mode">Pil tasarrufu</string>
   <string name="power_save_mode_auto_exit_summary">Pil 60% veya tam şarj olduğunda kapatın</string>
   <string name="power_save_mode_auto_exit_title">Şarj edildiğinde kapatın</string>
@@ -3004,6 +3006,11 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="sys_freememory_title">Mevcut</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="system_anti_fraud_dialog_confirm_btn_txt">Anladım</string>
+  <string name="system_anti_fraud_dialog_content">Az önce bir dolandırıcılık çağrısı veya mesajı almışsınız gibi görünüyor. Bu ödemeye devam etmek mali kayıplara neden olabilir.</string>
+  <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Müşteri hizmetleri personeli, yetkililer veya tanıyabileceğiniz kişiler sizden bu ödemeyi tamamlamanızı isterse, &lt;/font>&lt;font = color=#F22424>devam etmeden önce kimliklerini doğrulayın.&lt;/font></string>
+  <string name="system_anti_fraud_dialog_image_txt">Dolandırıcılığa karşı koruma</string>
+  <string name="system_anti_fraud_dialog_title">Dolandırıcılığa karşı uyarı</string>
   <string name="system_app">Sistem Uygulamaları</string>
   <string name="system_application">Sistem Uygulamaları</string>
   <string name="system_permission_declare_agree">Kabul et</string>
@@ -5072,13 +5079,13 @@ Onayınız şimdi geri çekilsin mi?"</string>
   <string name="gd_setting_group_custom_line_location">Araç kutusu konumu</string>
   <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
   <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
-  <string name="gd_setting_group_smart_tool_box">Akıllı araç kutusu</string>
+  <string name="gd_setting_group_smart_tool_box">Kenar çubuğu</string>
   <string name="gd_setting_group_title_switch">Sahneler</string>
   <string name="gd_setting_gtb">Oyun oynarken göster</string>
   <string name="gd_setting_gtb_desc">Oyun için ayrıcalıklı özellikler</string>
   <string name="gd_setting_miui_dock">Her zaman göster</string>
   <string name="gd_setting_shorthand">Hızlı notlar</string>
-  <string name="gd_setting_title">Akıllı araç kutusu</string>
+  <string name="gd_setting_title">Kenar çubuğu</string>
   <string name="gd_setting_vtb">Videoları oynatırken göster</string>
   <string name="gd_setting_vtb_desc">Video oynatma için özel özellikler</string>
   <string name="no_privacy_permission">Gizlilik Politikası için onay gerekli değil</string>

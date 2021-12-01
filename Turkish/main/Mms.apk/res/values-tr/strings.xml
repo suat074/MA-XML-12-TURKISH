@@ -1377,6 +1377,15 @@ SIM kartınızı kontrol edin."</string>
   <string name="toast_not_show_location_perm_req">Bu özelliği kullanmak için Mesajlaşma\'nın konumunuza erişmesine izin verin</string>
   <string name="toast_not_show_send_sms_perm_req">Bu özelliği kullanabilmek için önce bu uygulamanın mesaj göndermesine izin verin.</string>
   <string name="toast_not_show_write_contacts_perm_req">Bu özelliği kullanmak için Mesajlaşma\'nın kişileri düzenlemesine izin verin</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="service_abandon_alert">Dikkat</string>
+  <string name="service_abandon_retry_deny">Geri</string>
+  <string name="service_abandon_retry_setting">Ayarlar</string>
+  <string name="sim_activation_service_retry_main_purpose">Mi Mesaj\'ın normal çalışabilmesi için SIM aktivasyonunun açık olması gerekir. SIM aktivasyonunu Ayarlar > Uygulamaları yönet bölümünden açabilirsiniz.</string>
+  <string name="xiaomi_account_service_retry_main_purpose">Bu özelliğin normal çalışabilmesi için Mi Hesap hizmetlerinin açık olması gerekir. Ayarlar > Uygulamaları yönet bölümünde Mi Hesap hizmetleri\'ni açabilirsiniz.</string>
   <string name="attachment_panel_show_part">Sayfa %1$d</string>
   <string name="pa_shortcut_desc_add_button_install">\"%2$s\" kullanabilmek için önce %1$s yükleyin.</string>
   <string name="conv_content_defraud_tip">Dolandırıcılığı bildir</string>

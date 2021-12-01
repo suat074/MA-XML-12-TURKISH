@@ -31,6 +31,7 @@
 	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran görüntülerini kaydetmek için</string>
     <string name="long_screenshot_guide_text">"Kayan bir ekran 
 görüntüsü almak için dokunun"</string>
+    <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin.</string>
     <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
     <string name="long_screenshot_processing">İşleniyor…</string>
     <string name="long_screenshot_stop">Bitti</string>

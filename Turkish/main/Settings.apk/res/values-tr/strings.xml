@@ -8220,8 +8220,15 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="freeform_vedio_description_pad">Yüzer pencerede açmak için öğeleri yuvanın dışına sürükleyin</string>
   <string name="security_check_progress_dialog_message">Güvenlik sorunları kontrol ediliyor…</string>
   <string name="speed_mode">Hız modu</string>
-  <string name="speed_mode_summary">Uygulamalarda hata ayıklamak için.</string>
+  <string name="speed_mode_summary">Açıldığında, performans artacak, ancak bu güç tüketimini artıracak ve ısı üretecektir. Lütfen dikkatli bir şekilde açın</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
   <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
   <string name="multi_window_cvw_title">Yüzer pencere</string>
+  <string name="auto_task_operation_close">Kapat</string>
+  <string name="bluetooth_enable_pts_test">bluetooth PTS testini etkinleştir</string>
+  <string name="bluetooth_enable_pts_test_summary">Bluetooth testi için PTS\'yi devre dışı bırak/etkinleştir</string>
+  <string name="menu_item_notification_power_text">Pil optimizasyonu</string>
+  <string name="p2p_summary_enable_GPS">Bu özellik, konum servisleri açıkken çalışır</string>
+  <string name="speed_mode_noti_summary">Hız modu güç tüketimini ve ısı üretimini artıracaktır</string>
+  <string name="speed_mode_noti_title">Hız modu açık</string>
 </resources>

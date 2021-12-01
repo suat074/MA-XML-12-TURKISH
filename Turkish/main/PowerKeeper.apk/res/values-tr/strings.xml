@@ -57,7 +57,9 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veri, WLAN noktaları, GPS ve kamera kısıtlanacak.</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
   <string name="important_warning">Dikkat</string>
+  <string name="kill_all_back_pro_toast_message">Cihazın aşırı ısınması nedeniyle tüm arka plan işlemleri kullanılamıyor</string>
   <string name="kill_pkg_toast_message">Cihaz aşırı ısındığı için uygulamalar kullanılamıyor</string>
+  <string name="kill_some_back_pro_toast_message">Cihazın aşırı ısınması nedeniyle bazı arka plan işlemleri kullanılamıyor</string>
   <string name="lasttime_applist_cloud">Güncellenmiş uygulamalar:</string>
   <string name="lasttime_feature_cloud">Güncellenmiş özellikler:</string>
   <string name="message_i_know">Anladım</string>

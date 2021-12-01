@@ -47,4 +47,7 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="user_manual">Kullanici rehberi</string>
   <string name="close">Kapat</string>
   <string name="send">Gönder</string>
+  <string name="action_use_network">Kullan</string>
+  <string name="error_continue_via_browser">Ayrıntılar</string>
+  <string name="ssl_error_untrusted">Sertifika, güvenilir bir sertifika yetkilisi tarafından verilmedi. Yine de kullanılsın mı?</string>
 </resources>

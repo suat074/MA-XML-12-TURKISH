@@ -217,7 +217,7 @@ Bu özelliği kontrol etmek için Ayarlar\'da \"Kullanım ve teşhis\" için ara
   <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="service_policy_download"><Data>Devam etmeden önce &lt;a href=%1$s>Xunlei Gizlilik Politikası&lt;/a > ve &lt;a href=%1$s>Xunlei Ağ Hizmetleri Kullanıcı Sözleşmesi&lt;/a > okuyup kabul edin.</Data></string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
-  <string name="service_security_over_r"><Data>&lt;a href=%1$s>Gizlilik Politikası&lt;/a > okuyun ve kabul edin.&lt;br/>&lt;br/>Android R standartlarına uygun olarak, ilgili uygulamanın çalışması durduktan sonra belirli bir süre içinde (yaklaşık &lt;xliff:g example=5 saniye id=short>%2$s&lt;/xliff:g>) bir kerelik izin geri çekilir. Uygulamayı bu kısa süre içinde açarsanız, izin geri çekilir.</Data></string>
+  <string name="service_security_over_r"><Data>&lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br/>&lt;br/>Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> standartlarına uygun olarak, ilgili uygulamanın çalışması durduktan sonra belirli bir süre içinde (yaklaşık &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) bir kerelik izin geri çekilir. Bu kısa süre içinde uygulamayı açarsanız, izin geri alınacaktır.</Data></string>
   <string name="servicestate_title">Temel hizmetler hakkında açıklama</string>
   <string name="setting_locale">Bölge ayarlanıyor…</string>
   <string name="shut_down">Kapat</string>
@@ -228,6 +228,11 @@ Bu özelliği kontrol etmek için Ayarlar\'da \"Kullanım ve teşhis\" için ara
   <string name="sim_card_detection">SIM kartı takın</string>
   <string name="sim_card_detection_info">SIM kartınızı takmak için cihazınızla birlikte verilen talimatları okuyun.</string>
   <string name="sim_card_detection_mobile_not_available">SIM kart ağa bağlanamadı</string>
+  <string name="sim_card_dial_card1">Çağrılar için SIM1</string>
+  <string name="sim_card_dial_card2">Çağrılar için SIM2</string>
+  <string name="sim_card_do_not_select_dial_card">Aramak için SIM kartı seçin</string>
+  <string name="sim_card_network_card1">Veri SIM1</string>
+  <string name="sim_card_network_card2">Veri SIM2</string>
   <string name="sim_dectection_next">Devam et</string>
   <string name="sim_redetection">Tekrar kontrol et</string>
   <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız geçerli bir operatör ağına bağlanamadı. Bakiyenizin yeterli olduğundan emin olun ve tekrar bağlanmayı deneyin.</string>
@@ -433,4 +438,15 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="user_agreement_declare_gmscore">MIUI\'yi kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde, aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Bulut yedekleme, Cihazı bul, Ana ekran, Sık kullanılan ifadeler, Xiaomi İnternet İletişim Hizmetleri, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, MIUI SDK, Güvenli Öğe Uygulaması, AI Yardımcısı, Pil ve performans, Güç dedektörü, Joyose, OS AI Ayarı ve Güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, İzinler yöneticisi, ConfigUpdater ve akıllı hizmetler.</string>
   <string name="user_agreement_declare_wifi_device">MIUI\'yi kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde, aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Xiaomi Bulut, Bulut yedekleme, Cihaz bul, Ana ekran, Sık kullanılan ifadeler, Xiaomi İnternet İletişim Hizmetleri, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, MIUI SDK, Güvenli  Öğe Uygulaması, AI Yardımcısı, Pil ve performans, Güç dedektörü, Joyose, OS AI Ayarı ve Güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, İzinler yöneticisi ve akıllı hizmetler.</string>
   <string name="user_agreement_declare_wifi_device_gmscore">MIUI\'yi kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde, aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Xiaomi Bulut, Bulut yedekleme, Cihaz bul, Ana ekran, Sık kullanılan ifadeler, Xiaomi İnternet İletişim Hizmetleri, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, MIUI SDK, Güvenli  Öğe Uygulaması, AI Yardımcısı, Pil ve performans, Güç dedektörü, Joyose, OS AI Ayarı ve Güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, İzinler yöneticisi, ConfigUpdater ve akıllı hizmetler.</string>
+  <string name="cloud_service_discount">Depolama planı indirimleri</string>
+  <string name="bluetooth_introduction">Bluetooth, sistem tarafından kablosuz iletişim için kullanılır. Normal çalışabilmesi için Bluetooth\'un aşağıdaki izinlere ihtiyacı vardır:</string>
+  <string name="disagreement_terminate_bluetooth">Bu izinleri vermek istemezseniz Bluetooth\'u kullanamazsınız. Ayarlar\'dan Bluetooth\'u açıp kapatabilir ve Bluetooth cihazları ekleyebilirsiniz.</string>
+  <string name="permission_call_records_describe_bluetooth_summary">Bu cihaza bağladığınız diğer uyumlu cihazlarınızın çağrı geçmişine erişmesine izin vermek için. Bu, yalnızca başka bir cihaz aracılığıyla çağrı geçmişini proaktif olarak kullanmanız gerektiğinde gerçekleşir. Sistem tarafından Bluetooth aracılığıyla paylaşılan çağrı geçmişi ve kişiler, yalnızca yerel olarak cihazlarınızda önbelleğe alınır ve izninizle onlarla paylaşılır.</string>
+  <string name="permission_contact_describe_bluetooth_summary">Bu cihaza bağladığınız diğer uyumlu cihazlarınızın kişilere erişmesine izin vermek için. Bu, yalnızca Bluetooth\'u açtığınızda veya Bluetooth açıkken kişilerinizi düzenlediğinizde gerçekleşir.</string>
+ <string name="exclusive_member_merchandise">Özel ürünler</string>
+ <string name="member_exclusive_medal">Üyelik rozeti</string>
+ <string name="membership_rights_tip">Özel avantajlar elde etmek için Mi Hesabınızda oturum açın</string>
+ <string name="xiaomi_game_discounts">Oyun promosyonları</string>
+ <string name="xiaomi_membership_rights">Xiaomi Bulut Üyeliği</string>
+ <string name="xiaomi_video_discount">Mi Video teklifleri</string>
 </resources>

@@ -1467,7 +1467,7 @@ Favori listenize kişi eklemek için:
   <string name="residual_time_description">%1$sgün%2$ssaat</string>
   <string name="permission_notice_desc_access_fine_location">Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarmak için</string>
   <string name="permission_notice_desc_add_voicemail">Sesli posta ve sesli mesaj işlevini kullanmak için</string>
-  <string name="permission_notice_desc_call_phone">Üçüncü taraf uygulamalarla çağrı yapabilmek için</string>
+  <string name="permission_notice_desc_call_phone">Ana ekran kısayolları aracılığıyla çağrı yapmak için</string>
   <string name="permission_notice_desc_camera">Profil fotoğrafı çekmek için</string>
   <string name="permission_notice_desc_read_call_logs">Çağrı geçmişini görüntülemek için</string>
   <string name="permission_notice_desc_read_contacts">Kişileri görüntülemek için</string>
@@ -1478,13 +1478,13 @@ Favori listenize kişi eklemek için:
   <string name="permission_notice_desc_write_contacts">Kişileri yönetmek için</string>
   <string name="permission_notice_desc_write_external_storage">Profil fotoğrafları eklemek ve vCard\'ları içe aktarmak için</string>
   <string name="permission_retry_deny">İptal</string>
-  <string name="permission_retry_dialog_msg">SIM kartınızı bu uygulamayla kullanabilmek, kişilerinizi yönetebilmek ve çağrı geçmişini güncel tutabilmek için bu uygulamanın kişilerinize ve çağrı geçmişinize erişmesine ve bunları düzenlemesine ve ayrıca cihaz bilgilerine erişmesine izin verin.</string>
+  <string name="permission_retry_dialog_msg">SIM kartınızı bu uygulamayla kullanabilmek, Ana ekran kısayolları aracılığıyla çağrı yapabilmek, kişilerinizi yönetmek ve çağrı geçmişini güncel tutabilmek için bu uygulamanın kişilerinize, çağrı geçmişinize erişmesine ve bunları düzenlemesine, çağrı yapmasına ve cihaza bilgilerine erişmesine izin verin.</string>
   <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu uygulamayla kullanabilmek ve kişilerinizi yönetebilmek için bu uygulamanın kişilerinize erişmesine ve düzenlemesine ve ayrıca cihaz bilgilerine erişmesine izin verin.</string>
   <string name="permission_retry_setting">Ayarlar</string>
   <string name="preference_privacy_settings">Gizlilik</string>
   <string name="preference_privacy_settings_title">Gizlilik</string>
   <string name="privacy_settings_call_phone">Çağrı yapma</string>
-  <string name="privacy_settings_call_phone_description">Üçüncü taraf uygulamalarla çağrı yapabilmek için</string>
+  <string name="privacy_settings_call_phone_description">Ana ekran kısayolları aracılığıyla çağrı yapmak için</string>
   <string name="privacy_settings_contacts">Kişiler ve Telefon</string>
   <string name="privacy_settings_mallowed">Onaylı</string>
   <string name="privacy_settings_mnotallowed">Onaylanmamış</string>
@@ -1530,4 +1530,6 @@ Favori listenize kişi eklemek için:
   <string name="saf_permission_dialog_grant_permission_immediately">İzin ver</string>
   <string name="saf_permission_dialog_later">Daha sonra</string>
   <string name="saf_permission_dialog_title">Kişiler ve Telefonun çağrı kayıtlarına erişmesine izin verin</string>
+  <string name="item_offical">Resmi</string>
+  <string name="comma">Virgül</string>
 </resources>

@@ -96,8 +96,10 @@
   <string name="dialog_add_shortcut_content">Bulut depolamanızı daha verimli bir şekilde yönetebilmek için Xiaomi Bulut için bir Ana ekran kısayolu ekleyin.</string>
   <string name="dialog_add_shortcut_title">Kısayol ekle</string>
   <string name="dialog_storage_full_title">Bulut depolama alanı dolu</string>
-  <string name="dialog_storage_low_content">Öğeleri normal şekilde eşitleyebilmek için bulut depolama planınızı yükseltin.</string>
+  <string name="dialog_storage_low_content">Öğeleri eşitlemeye devam etmek için depolama planınızı yükseltin.</string>
   <string name="dialog_storage_low_title">Yetersiz bulut depolama</string>
+  <string name="dialog_storage_upgrade_later">Hayır teşekkürler</string>
+  <string name="dialog_storage_upgrade_now">Yükselt</string>
   <string name="disable_find_device_error">Cihazı bul kapatılamıyor. %1$s</string>
   <string name="do_not_merge">İptal</string>
   <string name="enable_find_device_error">Cihazı bul açılamıyor. %1$s</string>

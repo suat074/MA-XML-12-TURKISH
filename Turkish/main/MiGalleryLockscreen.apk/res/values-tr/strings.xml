@@ -785,8 +785,8 @@ EEE"</string>
   <string name="privacy_update_confirm">Kabul et</string>
   <string name="privacy_update_quit">Çıkış</string>
   <string name="privacy_update_summary1">Duvar Kağıdı Döngüsü Gizlilik Politikası güncellendi:</string>
-  <string name="privacy_update_summary2">"Devam etmeden önce &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü okuyun ve kabul edin."</string>
-  <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü kabul etmedikçe Duvar Kağıdı Döngüsü\'nü kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
+  <string name="privacy_update_summary2">"Devam etmeden önce &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü okuyun ve kabul edin."</string>
+  <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'>&lt;a href='%1$s'>Gizlilik Politikası&lt;/font>&lt;/a> yeni sürümünü kabul etmedikçe Duvar Kağıdı Döngüsü\'nü kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
   <string name="revoke_button">Geri çek</string>
   <string name="revoke_failed1">Hata</string>
   <string name="revoke_failed2">Hata</string>
@@ -799,4 +799,11 @@ EEE"</string>
   <string name="revoke_privacy_summary">Devam ederseniz, Duvar Kağıdı Döngüsü Gizlilik Politikasına onayınızı geri çekersiniz. Önceden toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Duvar Kağıdı Döngüsü hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığı için, onayınızı geri çekmeniz Duvar Kağıdı Döngüsü hizmetlerini kabul etmeyi reddetmek olarak kabul edilecektir. Onay şimdi geri çekilsin mi?</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
+  <string name="login_app">Oturum aç</string>
+  <string name="login_app_cancel">İptal</string>
+  <string name="login_app_confirm">Oturum aç</string>
+  <string name="login_xiaomi_account_summary">"Mi Hesabı &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Kullanıcı Sözleşmesi&lt;/font>&lt;/a> ve &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Gizlilik Politikası&lt;/font>&lt;/a> okudum ve kabul ediyorum."</string>
+  <string name="not_agree_summary">Önce şartlar ve koşullarımızı kabul edin</string>
+  <string name="privacy_update_title1">Güncellenen gizlilik politikası</string>
+  <string name="privacy_update_title2">Dikkat</string>
 </resources>
