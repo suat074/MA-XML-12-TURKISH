@@ -5491,8 +5491,8 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="status_bar_and_notification_bar">Bildirim alanı ve durum çubuğu</string>
   <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Bildirimleri gizle</string>
-  <string name="status_bar_app_enable_floating">Kayan Bildirimler</string>
-  <string name="status_bar_app_enable_keyguard">Ekran Kilidi</string>
+  <string name="status_bar_app_enable_floating">Kayan bildirimler</string>
+  <string name="status_bar_app_enable_keyguard">Kilit ekranı</string>
   <string name="status_bar_app_enable_message">Simgeler</string>
   <string name="status_bar_carrier_settings_no_sim_card">SIM kart yok</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
