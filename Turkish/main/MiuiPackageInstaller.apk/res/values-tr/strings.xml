@@ -356,7 +356,7 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="unknown_installer">Tanımlanamayan PC araçları</string>
   <string name="unlike">Hayır teşekkürler</string>
   <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
-  <string name="untrusted_external_source_title">\"%1$s\" için uygulama yüklemesine izin verilsin mi?</string>
+  <string name="untrusted_external_source_title">\"%1$s\" için yükleme izni</string>
   <string name="untrusted_external_source_warning">Güvenliğiniz için telefonunuzun bu kaynaktan bilinmeyen uygulamaları yüklemesine izin verilmiyor.</string>
   <string name="untrusted_external_source_warning_summary">Cihazınız ve kişisel verileriniz bilinmeyen kaynaklardan yüklenen uygulamaların saldırılarına açıktır. Bu kaynaktan uygulama yüklemeye izin vererek, bu uygulamaları kullanırken meydana gelebilecek herhangi bir hasar veya veri kaybı sorumluluğunu kabul etmiş olursunuz.</string>
   <string name="user_is_not_allowed_dlg_text">Geçerli kullanıcının bu kaldırma işlemini gerçekleştirmesine izin verilmiyor.</string>
