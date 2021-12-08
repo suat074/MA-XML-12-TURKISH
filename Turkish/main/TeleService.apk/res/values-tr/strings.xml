@@ -2081,7 +2081,7 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="switch_debug_menu">Ek ağ ayarları</string>
   <string name="uplmn_summary">SIM ayrıntılarında mevcut operatör ağı tercihlerini göster</string>
   <string name="uplmn_title">Operatör ağ tercihleri</string>
-  <string name="smart_multinetwork_acceleration_title">Akıllı Çoklu Ağ Hızlandırma</string>
+  <string name="smart_multinetwork_acceleration_title">Akıllı ağ hızlandırma</string>
   <string name="mtn_simlock_text_tip">Takılan SIM kart gereksinimi karşılamıyor. Telefonu kullanmadan önce sözleşmenin gerektirdiği bir SIM kartı takmanız gerekir. Ayrıntılar için lütfen yerel operatörünüzle iletişime geçin.</string>
   <string name="sim_can_not_read">%d kart yuvası yalnızca MTN operatörünün SIM kartını okuyabilir</string>
 </resources>

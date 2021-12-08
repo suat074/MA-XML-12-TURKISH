@@ -359,7 +359,7 @@
   <string name="lock_screen_wallpaper">Kilit ekranı duvar kağıdı</string>
   <string name="maml_download_dialog_cancel_text">Wİ-Fİ\'yi bekleyin</string>
   <string name="maml_download_dialog_cancel_text_china">Wlan\'ı bekleyin</string>
-  <string name="maml_download_dialog_checkbox_text">Tekrar gösterme</string>
+  <string name="maml_download_dialog_checkbox_text">%d dakika boyunca tekrar gösterme</string>
   <string name="maml_download_dialog_confirm_text">İndir</string>
   <string name="maml_download_dialog_message">Bu öğeyi indirmek için %s MB mobil veri kullanılacak. Yine de indirilsin mi?</string>
   <string name="maml_download_dialog_title">Veri kullanım uyarısı</string>

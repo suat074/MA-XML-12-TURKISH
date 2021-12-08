@@ -2495,7 +2495,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="game_mode_settings">Oyun modu</string>
   <string name="game_mode_summary">Diğer uygulamalar için eşitleme ve arka plan ağ bağlantısını kısıtlarken, oyunlar için performansı artırın.</string>
   <string name="game_storage_settings">Oyunlar</string>
-  <string name="gd_setting_title">Akıllı araç kutusu</string>
+  <string name="gd_setting_title">Kenar çubuğu</string>
   <string name="gesture_c">C desen</string>
   <string name="gesture_m">M desen</string>
   <string name="gesture_open_alipay">Alipay\'i aç</string>
@@ -8231,4 +8231,9 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="p2p_summary_enable_GPS">Bu özellik, konum servisleri açıkken çalışır</string>
   <string name="speed_mode_noti_summary">Hız modu güç tüketimini ve ısı üretimini artıracaktır</string>
   <string name="speed_mode_noti_title">Hız modu açık</string>
+  <string name="detailed_wifi_logging_disabled">Ayrıntılı WLAN günlüğü kapalı</string>
+  <string name="detailed_wifi_logging_enabled">Ayrıntılı WLAN günlüğü açık</string> 
+  <string name="connection_control">Bağlantıları yönet</string>
+  <string name="environmental_speech_recognition">Ortam sesi tanıma</string>
+  <string name="interconnection">Ara bağlantı</string>
 </resources>

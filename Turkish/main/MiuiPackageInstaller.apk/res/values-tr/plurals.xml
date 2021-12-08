@@ -8,6 +8,10 @@
     <item quantity="one">%1$s izin</item>
     <item quantity="other">%1$s izin</item>
   </plurals>
+  <plurals name="app_info_permission_count_">
+    <item quantity="other">%1$s izin,</item>
+    <item quantity="one">%1$s izin,</item>
+  </plurals>
   <plurals name="app_info_private_permission_count">
     <item quantity="one">%1$s gizlilikle ilgili izin</item>
     <item quantity="other">%1$s gizlilikle ilgili izin</item>

@@ -34,8 +34,10 @@ görüntüsü almak için dokunun"</string>
     <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin.</string>
     <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
     <string name="long_screenshot_processing">İşleniyor…</string>
+	<string name="long_screenshot_processing_description_accessibility">İşleme</string>
     <string name="long_screenshot_stop">Bitti</string>
     <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor…</string>
+	<string name="long_screenshot_top_msg_description_accessibility">Ekran görüntüsü oluşturma</string>
     <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
 	<string name="notification_channel_alerts">Uyarılar</string>
     <string name="partial_screenshot_edit">Düzenle</string>

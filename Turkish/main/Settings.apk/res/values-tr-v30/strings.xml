@@ -129,7 +129,7 @@ Klavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız."</string>
   <string name="adbwifi_warning_message">Kablosuz hata ayıklama işlevi yalnızca geliştirme amaçlıdır. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirim göndermeksizin uygulamaları cihazınıza yüklemek ve günlük verilerini okumak için kullanın.</string>
   <string name="adbwifi_warning_title">Kablosuz hata ayıklamaya izin verilsin mi?</string>
   <string name="add_virtual_keyboard">Ekran klavyelerini yönet</string>
-  <string name="allow_manage_external_storage_description">Bu uygulamanın, bu cihazdaki veya cihaza bağlı depolama birimlerindeki tüm dosyaları okumasına, değiştirmesine ve silmesine izin verin İzin verilirse uygulama size açıkça bildirmeden dosyalara erişebilir.</string>
+  <string name="allow_manage_external_storage_description">Bu uygulamanın, bu cihazdaki veya herhangi bir bağlı depolama birimindeki tüm dosyaları okumasına, değiştirmesine ve silmesine izin verir. İzin verilirse, uygulama sizin bilginiz olmadan dosyalara erişebilir.</string>
   <string name="allow_overlay_description">Bu uygulamaya, kullandığınız diğer uygulamaların üzerinde gösterme izin verir. Bu uygulama, ekranda nereye dokunduğunuzu veya ekranda görüntülenen öğelerde ne değişiklik yaptığınızı görebilecek.</string>
   <string name="app_permissions_summary_more">%1$s ve diğer izinleri kullanan uygulamalar</string>
   <string name="asst_capability_ranking_summary">Bildirimleri alaka düzeyine göre otomatik olarak sırala</string>
@@ -445,7 +445,7 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
   <string name="open_supported_links_footer">Uygulama aşağıdaki bağlantıları işlemeyi talep ediyor:</string>
   <string name="other_conversations">Diğer konuşmalar</string>
   <string name="other_conversations_summary">Değişiklik yaptığınız konuşmalar</string>
-  <string name="permit_manage_external_storage">Tüm dosyaları yönetme erişimine izin ver</string>
+  <string name="permit_manage_external_storage">Tüm dosyalara erişime izin ver</string>
   <string name="personal_profile_app_subtext">Kişisel</string>
   <string name="platform_compat_dashboard_summary">Uygulama uyumluluk değişikliklerini aç/kapat</string>
   <string name="platform_compat_dashboard_title">Uygulama Uyumluluğuyla İlgili Değişiklikler</string>

@@ -319,6 +319,7 @@
   <string name="notification_content_add_todo_from_other_app">Yeni bir görev eklediniz. Görüntülemek için dokunun.</string>
   <string name="notify_alarm_title">Not hatırlatma</string>
   <string name="permdesc_accessNote">Kötü amaçlı uygulamalar kişisel verilerinize erişmek için bunu kullanabilir.</string>
+  <string name="permission_data_shared_desc">Notlar Üçüncü Taraf Veri Paylaşım Beyanı</string>
   <string name="permission_get_account_desc">Notları bulutla eşitleme</string>
   <string name="permission_intro_contact">Çağrılar sırasında alınan notları işaretlemek için</string>
   <string name="permission_intro_microphone">Sesli notlar kaydetmek için</string>

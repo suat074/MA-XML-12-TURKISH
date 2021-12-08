@@ -689,4 +689,11 @@
   <string name="revoke_privacy_policy">Onayın geri çekilmesi</string>
   <string name="revoke_privacy_policy_instructions">"Devam ederseniz, Mi Hesabı Gizlilik Politikasına verdiğiniz onayı geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Mi Hesap, hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan, onayınızı geri çekmeniz, Mi Hesap hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Onayınız şimdi geri çekilsin mi?"</string>
   <string name="revoke_privacy_policy_title">Onayın geri çekilmesi</string>
+  <string name="account_verify_guide_verify_phone_desc">Kurtarma telefonunu onaylayın</string>
+  <string name="cloud_service_status_backup_not_open">Yedekleme kapalı</string>
+  <string name="cloud_service_status_cloud_not_open">Kapalı</string>
+  <string name="cloud_service_status_storage_full">Depolama dolu</string>
+  <string name="cloud_service_status_storage_not_enough">Yeterli alan yok</string>
+  <string name="notify_verify_again_security_phone">Onayla</string>
+  <string name="notify_verify_security_phone">Telefon</string>
 </resources>

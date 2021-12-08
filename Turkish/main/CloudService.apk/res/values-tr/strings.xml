@@ -630,6 +630,12 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="title_back">Geri</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
+  <string name="update_dialog_check_button_text">Güncellemeleri kontrol et</string>
+  <string name="update_dialog_ignore_button_text">Hayır teşekkürler</string>
+  <string name="update_dialog_no_internet_toast_text">İnternet bağlantınızı kontrol edin ve tekrar deneyin</string>
+  <string name="update_dialog_no_update_toast_text">Mevcut sürüm güncel</string>
+  <string name="update_dialog_title">Güncelleme mevcut</string>
+  <string name="update_dialog_update_button_text">Güncelle</string>
   <string name="user_agreement_content">Bu hizmeti kullanarak %s\'nı kabul etmiş oluyorsunuz.</string>
   <string name="user_agreement_link">Xiaomi Bulut Hizmet Şartları</string>
   <string name="user_agreement_title">Xiaomi Bulut Hizmet Şartları</string>

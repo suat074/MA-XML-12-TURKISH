@@ -29,6 +29,14 @@
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">1 dakika önce</item>
   </plurals>
+  <plurals name="app_update_64_dialog_message">
+    <item quantity="other">Bu cihazdaki %1$d uygulama 32 bit mimariden 64 bit mimariye güncellenebilir. Performanslarını artırmak için bu uygulamaları güncelleyin.</item>
+    <item quantity="one">Bu cihazdaki %1$d uygulama 32 bit mimariden 64 bit mimariye güncellenebilir. Performanslarını artırmak için bu uygulamaları güncelleyin.</item>
+  </plurals>
+  <plurals name="app_update_64_notification_title">
+    <item quantity="other">%1$d uygulamanın 64 bit sürümleri mevcut</item>
+    <item quantity="one">%1$d uygulama için 64 bit sürüm mevcut</item>
+  </plurals>
   <plurals name="data_item_count">
     <item quantity="other">%d öğe</item>
     <item quantity="one">%d öğe</item>

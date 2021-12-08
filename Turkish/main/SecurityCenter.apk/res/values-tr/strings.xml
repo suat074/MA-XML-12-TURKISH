@@ -4948,7 +4948,7 @@ Onayınız şimdi geri çekilsin mi?"</string>
     <string name="summary_open_phone_check">Güvenlik taraması çalıştır</string>
     <string name="summary_result_screen_brightness_format">Ekran parlaklığını %s olarak ayarla</string>
     <string name="system_app_permission_instruction">Bu uygulama, temel sistem hizmetlerini sağlamak için aşağıdaki izinlere ihtiyaç duyar. İzin durumlarının değiştirilmesi sistem çalışmasında anormalliklere yol açacağından, bu uygulama için izinlerin yönetimi kısıtlanmıştır.</string>
-    <string name="system_permission_declare_optional">Uygulamayı kullanırken size ek hizmetler sağlamak için şu izinlere ihtiyacımız olabilir: %s. İzin tercihlerinizi istediğiniz zaman Ayarlar\'dan ayarlayabilirsiniz.</string>
+    <string name="system_permission_declare_optional">Uygulamayı kullanırken size ek hizmetler sağlamak için şu izinlere ihtiyacımız olabilir: %s. İzin tercihlerinizi istediğiniz zaman Ayarlar\'dan değiştirebilirsiniz.</string>
     <string name="task_summary_close_airplane">Uçak modunu kapat</string>
     <string name="task_summary_close_auto_brightness">Otomatik parlaklığı kapat</string>
     <string name="task_summary_close_bluetooth">Bluetooth\'u kapat</string>
@@ -5099,4 +5099,7 @@ Onayınız şimdi geri çekilsin mi?"</string>
   <string name="power_center_surface_temp_low">Soğuk</string>
   <string name="power_center_surface_temp_lower">Serin</string>
   <string name="power_center_surface_temp_normal">Normal</string>
+  <string name="gd_splite_screen_tips">Bölünmüş ekran yüzer pencereleri desteklemiyor</string>
+  <string name="pc_battery_chart_loading">Sadece bir saniye…</string>
+  <string name="vb_video_effects_3d_summary_headset">Kulaklıkta ses dinlerken daldırma ve sarma hissini artırın</string>
 </resources>

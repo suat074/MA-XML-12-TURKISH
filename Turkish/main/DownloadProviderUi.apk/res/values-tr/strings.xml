@@ -308,6 +308,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="pref_download_revert_default">Varsayılan konuma kaydet</string>
   <string name="pref_download_settings_title">Mobil veri kullanarak indirme sınırlıdır</string>
   <string name="pref_download_storage_path">Özel bir konuma kaydet</string>
+  <string name="pref_download_storage_path_2">İndirilen öğelerin konumu</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
   <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için Wi-Fi bağlantısını bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçerik indirmek için mobil veri bağlantısı kullanırken açılır pencerede bildirim göster</string>

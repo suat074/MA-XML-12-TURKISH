@@ -2689,4 +2689,8 @@ Kilidi açmak için deseninizi çizin."</string>
   <string name="fingerprint_not_identified_msg_pin">"Çok fazla başarısız deneme.
 Kilidi açmak için PIN\'inizi girin."</string>
   <string name="fs_gesture_final_see_more">Ayarlar > Ana Ekran > Sistem gezinme menüsünden daha fazla demo görüntüleyin</string>
+  <string name="face_unlock_locked">Yüz ile kilidi açma özelliği şimdi kullanılamıyor</string>
+  <string name="input_pattern_after_face_not_allowed">Bu cihazı güvende tutmak için şifrenizi en az %d saatte bir girin</string>
+  <string name="input_pattern_or_finger_after_face_not_allowed">Bu cihazı güvende tutmak için şifrenizi girin veya en az %d saatte bir parmak izi kullanın</string>
+  <string name="input_pattern_after_restart_msg">Devam etmek için ekran kilidinizi onaylayın</string>
 </resources>

@@ -156,6 +156,14 @@
         <item quantity="other">Toplam %1$d öğe</item>
         <item quantity="one">Toplam %1$d öğe</item>
     </plurals>
+	<plurals name="miplay_time_minute_unit">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d öğe eşitleme için bekliyor</item>
         <item quantity="one">%1$d öğe eşitleme için bekliyor</item>

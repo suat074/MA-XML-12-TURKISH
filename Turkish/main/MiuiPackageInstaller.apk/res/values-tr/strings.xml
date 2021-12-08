@@ -24,6 +24,7 @@
   <string name="app_detail_other_publish">Geliştirici: %1$s</string>
   <string name="app_detail_other_update_time">Güncellendi: %1$s</string>
   <string name="app_detail_other_version">Sürüm: %1$s</string>
+  <string name="app_info_version">Sürüm: %1$s</string>
   <string name="app_installing_not_allow">%1$s için uygulama yüklemesine izin vermediniz. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
   <string name="app_installing_toast">Devam eden tüm yüklemeler tamamlanana kadar bekleyin ve tekrar deneyin</string>
   <string name="copy">Kopyala</string>

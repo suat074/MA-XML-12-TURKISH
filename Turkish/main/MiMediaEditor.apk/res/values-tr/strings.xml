@@ -821,6 +821,7 @@
   <string name="screen_editor_btn_shell_on">Cihaz çerçevesi ekle</string>
   <string name="screen_editor_crop_disallowed_with_shell">Cihaz çerçevesiyle ekran görüntüleri kırpılamıyor</string>
   <string name="screen_editor_delete_dialog_msg">Bu ekran görüntüsünü sil?</string>
+  <string name="screen_editor_delete_dialog_picture_msg">Bu resim şimdi silinsin mi?</string>
   <string name="screen_editor_finish">Bitti</string>
   <string name="screen_editor_shell_disallowed_with_crop">Kırpılmış ekran görüntülerine cihaz çerçevesi eklenemiyor</string>
   <string name="screen_editor_shell_net_error">Cihaz çerçevesini indirmek için ağa bağlanın</string>
@@ -839,6 +840,7 @@
   <string name="send_files_by">Dosyaları paylaş</string>
   <string name="send_files_to">Öğeleri gönder</string>
   <string name="share_album_qr_code">Albümün QR kodu</string>
+  <string name="share_and_delete_picture">Paylaştıktan sonra sil</string>
   <string name="share_and_delete_screenshot">Paylaştıktan sonra sil</string>
   <string name="signature_dialog_clear">Temizle</string>
   <string name="signature_manage_dialog_title_string">İmza</string>
