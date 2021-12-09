@@ -392,7 +392,6 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="ad_recommend_like">Şunlar da hoşunuza gidebilir</string>
   <string name="app_info_permissions">İzinler</string>
   <string name="app_info_size">Boyut: %1$s</string>
-  <string name="app_info_version">Sürüm: %1$s</string>
   <string name="app_info_version_replace">Sürüm: %1$s -&gt; %2$s</string>
   <string name="app_version_format">Sürüm: %1$s</string>
   <string name="cancel_install">İptal</string>
