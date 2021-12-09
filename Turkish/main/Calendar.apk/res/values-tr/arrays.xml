@@ -49,6 +49,15 @@
     <item>4.</item>
     <item>Son</item>
   </string-array>
+  <string-array name="panchang_weeks">
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+    <item>Salı</item>
+    <item>Çarşamba</item>
+    <item>Perşembe</item>
+    <item>Cuma</item>
+    <item>Cumartesi</item>
+  </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Daima</item>
     <item>Sadece zil sessizde iken</item>
