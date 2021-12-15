@@ -17,7 +17,11 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="alert_sync_data_merge_dialog_title">Öğeler birleştirilecek</string>
+  <string name="alert_sync_merge_dialog_cancel">İptal</string>
+  <string name="alert_sync_merge_dialog_confirm">Aç</string>
   <string name="cloud_storage_info_type_family">Aile</string>
+  <string name="contact_alert_sync_data_merge_dialog_msg">Eşitlemeyi açarsanız, bu cihazdan yüklenen kişiler, bulutta depolanan kişilerle birleştirilir. Eşitleme yine de açılsın mı?</string>
   <string name="copy">Kopyala</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="feedback_custom_hint">Burada karşılaştığınız sorunları açıklayın. Öneriler veriyorsanız, daha fazla detay veriniz!</string>

@@ -1622,19 +1622,17 @@
   <string name="miuix_appcompat_select_item">Ögeleri seç</string>
   <string name="search_header_dialog_title">Arka planı değiştir</string>
   <string name="send">Gönder</string>
-  <string name="pa_accessibility_picker_back">Widget mağazası. Geri dönme eylemi seçildi. Geri gitmek için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_back">Geri git.</string>
     <string name="pa_accessibility_picker_search_cancel">Widget arama çubuğu. İptal etmek için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_search_tips">Widget arama çubuğu. Aramak için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">%s. Alttaki düğme seçildi. Bu öğeyi Ana ekrana eklemek için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">%s. Alttaki düğme seçildi. Bu öğeyi Uygulama kasasına eklemek için iki kez dokunun.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu öğeyi Ana ekrana eklemek için iki kez dokunun.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu öğeyi Uygulama kasasına eklemek için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Düzenle</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">%s widget\'ı seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin.</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">%s widget\'ı seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Widget mağazası. %s; tüm widget\'ları görüntülemesi için seçin. %s; tüm widget\'ları görüntülemesi için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_desktop">Widget mağazası. %s seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Widget mağazası. %s seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_third">Widget mağazası. %s seçildi. Şimdi kullanmak için sürükleyin. Ayrıntıları görüntülemek için iki kez dokunun.</string>
-    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">%s. Düzenleme düğmesi seçildi. Düzenlemek için iki kez dokunun.</string>
+    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Düzenlemek için iki kez dokunun.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Uygulama kasası</string>
     <string name="pa_cancel">İptal</string>
@@ -1715,7 +1713,7 @@
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Eklendi</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Güncelle</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">WLAN\'ı bekleyin</string>
-    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Tekrar gösterme</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">%d dakika boyunca tekrar gösterme</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">İndir</string>
     <string name="pa_picker_detail_download_maml_dialog_message">Bu widget\'ı şimdi indirmek için %s mobil veri gerekiyor. Yine de indirilsin mi?</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Veri kullanım uyarısı</string>
@@ -1914,4 +1912,19 @@ yükleme durumuna erişmesi gerekir. "</string>
     <string name="pa_stock_desc_pin_stock">Başlangıç ​​sayfasına sabitle</string>
     <string name="pa_stock_init_toast">Widget\'lar başlatılıyor…</string>
     <string name="pa_stock_search_input_hint">Stok adını veya kodunu girin</string>
+	<string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s seçili.</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s seçili.</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selected.</string>
+  <string name="pa_edit_switch">Anahtar</string>
+  <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Sadece bir saniye…</string>
+  <string name="pa_picker_list_load_complete">Daha fazlasını yüklemek için dokunun</string>
+  <string name="pa_picker_list_load_end">Gösterilecek başka öğe yok</string>
+  <string name="pa_picker_list_load_failed">Öğeler yüklenemedi, tekrar denemek için dokunun</string>
+  <string name="pa_picker_list_loading">Sadece bir saniye…</string>
+  <string name="pa_sports_widget_empty_basketball">Basketbol</string>
+  <string name="pa_sports_widget_empty_football">Futbol</string>
+  <string name="pa_sports_widget_empty_game">Kralların Onuru</string>
+  <string name="pa_sports_widget_empty_recommend">Önerilen</string>
+  <string name="pa_edit_apply">Uygula</string>
+  <string name="pa_picker_suit_list_activity_title">Kişisel</string>
 </resources>

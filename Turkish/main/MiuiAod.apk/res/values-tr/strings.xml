@@ -187,8 +187,8 @@ dd/MM"</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
   <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmek için dokunun</string>
   <string name="my_style_title">Temam</string>
-  <string name="notification_anim_pulse">Titreşim</string>
-  <string name="notification_anim_rhythm">Ritim</string>
+  <string name="notification_anim_pulse">Nabız (Kırmızı)</string>
+  <string name="notification_anim_rhythm">Nabız (Mavi)</string>
   <string name="notification_anim_star">Yıldız ışığı</string>
   <string name="notification_channel_alerts">Uyarılar</string>
   <string name="notification_nothing">Yok</string>

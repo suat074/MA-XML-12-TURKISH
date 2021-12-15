@@ -182,4 +182,40 @@
     <item quantity="other">%d dakika önce</item>
     <item quantity="one">%d dakika önce</item>
   </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+    <item quantity="other">Widget mağazası. Uygulama listesi. Uygulama listesinde %d öğe.</item>
+    <item quantity="one">Widget mağazası. Uygulama listesi. Uygulama listesinde %d öğe.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+    <item quantity="other">Listedeki %d numara.</item>
+    <item quantity="one">Listedeki %d numara.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+    <item quantity="other">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+    <item quantity="one">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+    <item quantity="other">Widget mağazası. Uygulama listesi. Listede %d öğe.</item>
+    <item quantity="one">Widget mağazası. Uygulama listesi. Listede %d öğe.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+    <item quantity="other">Listedeki %d numara.</item>
+    <item quantity="one">Listedeki %d numara.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+    <item quantity="other">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+    <item quantity="one">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+    <item quantity="other">Widget mağazası. Uygulama listesi. Listede %d öğe</item>
+    <item quantity="one">Widget mağazası. Uygulama listesi. Listede %d öğe</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+    <item quantity="other">Listedeki %d numara.</item>
+    <item quantity="one">Listedeki %d numara.</item>
+  </plurals>
+  <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+    <item quantity="other">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+    <item quantity="one">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
+  </plurals>
 </resources>

@@ -39,6 +39,14 @@ Daha uzun animasyonlar bu noktada durdurulacaktır."</item>
     <item quantity="one">"Animasyonların oynatma süresi %d saniyeyi aşamaz.
 Daha uzun animasyonlar bu noktada durdurulacaktır."</item>
   </plurals>
+  <plurals name="character_pitch_minus">
+    <item quantity="other">Azaltılmış karakter aralığı. Karakter aralığı %s.</item>
+    <item quantity="one">Azaltılmış karakter aralığı. Karakter aralığı %s.</item>
+  </plurals>
+  <plurals name="character_pitch_plus">
+    <item quantity="other">Artan karakter aralığı. Karakter aralığı %s.</item>
+    <item quantity="one">Artan karakter aralığı. Karakter aralığı %s.</item>
+  </plurals>
   <plurals name="count_selected">
     <item quantity="other">%d öğe seçildi</item>
     <item quantity="one">%d öğe seçildi</item>
@@ -61,6 +69,14 @@ Daha uzun animasyonlar bu noktada durdurulacaktır."</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Şu anda</item>
+  </plurals>
+  <plurals name="line_spacing_puls">
+    <item quantity="other">Artan satır aralığı. Satır aralığı %s.</item>
+    <item quantity="one">Artan satır aralığı. Satır aralığı %s.</item>
+  </plurals>
+  <plurals name="lines_pacing_minus">
+    <item quantity="other">Azaltılmış satır aralığı. Satır aralığı %s.</item>
+    <item quantity="one">Azaltılmış satır aralığı. Satır aralığı %s.</item>
   </plurals>
   <plurals name="miuix_appcompat_items_selected">
     <item quantity="other">%d öğe seçildi</item>
