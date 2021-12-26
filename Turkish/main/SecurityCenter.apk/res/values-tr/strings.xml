@@ -2239,7 +2239,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="power_center_scan_item_title_GPS">GPS doğruluğunu ayarla</string>
   <string name="power_center_scan_item_title_abnormal">Pil sorunları</string>
   <string name="power_center_scan_item_title_abnormal_apps">Pili boşaltan uygulamalar</string>
-  <string name="power_center_scan_item_title_auto_invoke">Zincir başlangıcı</string>
+  <string name="power_center_scan_item_title_auto_invoke">Başlatma tetikleme</string>
   <string name="power_center_scan_item_title_auto_start">Otomatik başlatma</string>
   <string name="power_center_scan_item_title_battery_details">Pil kullanım detayları</string>
   <string name="power_center_scan_item_title_brightness">Ekran parlaklığını ayarla</string>
@@ -3392,7 +3392,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="vtb_function_video_translation">Gerçek zamanlı çeviri</string>
   <string name="vtb_other_milink_connect">Şimdi video yansıtılamıyor. Başka öğeler yansıtılmak üzere…</string>
   <string name="vtb_stop_milink_connect">Video yansıtma durduruldu</string>
-  <string name="wakepath_confirm_start_activity">%1$s için %2$s açmasına izin verilsin mi?</string>
+  <string name="wakepath_confirm_start_activity">%1$s içinde %2$s açılmasına izin verilsin mi?</string>
   <string name="warningcenter_action_check">Görüntüle</string>
   <string name="warningcenter_alert_home">Konum</string>
   <string name="warningcenter_alert_room">Oda</string>
@@ -3958,7 +3958,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="pp_app_warning_permission_tips_detail">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya kamera kullandığında bildirim alın</string>
   <string name="pp_call_phone_msg">Çağrı geçmişi</string>
   <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz, sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır.</string>
-  <string name="pp_chain_start_is_prohibited">Zincirleme başlangıcını kısıtla</string>
+  <string name="pp_chain_start_is_prohibited">Başlatma tetiklemeyi kısıtla</string>
   <string name="pp_chain_start_is_prohibited_detail">Üçüncü taraf uygulamaların birbirini başlattığı durumları kontrol edin ve bilginiz olmasına gerek kalmadan kişisel bilgilerinizi alın</string>
   <string name="pp_clipboard">Pano</string>
   <string name="pp_comprehensive_privacy_management">Kapsamlı gizlilik koruması</string>
@@ -4219,7 +4219,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="special_perm_window_title">PiP modunda öğeleri göster</string>
   <string name="allow_all">Tümüne izin ver</string>
   <string name="confirm_allow_all_permission">Tüm uygulamaların bu özelliği kullanmasına izin verilsin mi?</string>
-  <string name="app_behavior_link_start">Zincirleme başlatma</string>
+  <string name="app_behavior_link_start">Başlatma tetikleme</string>
   <string name="app_behavior_share_file">Dosyaları paylaş</string>
   <string name="app_behavior_share_picture">Görüntüleri paylaş</string>
   <string name="ai_allow_all">Her durumda benim için karar ver</string>

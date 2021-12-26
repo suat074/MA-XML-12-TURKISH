@@ -1284,7 +1284,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="photo_editor_miui_beauty_no_face">Yüz algılanamıyor</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">İptal</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">%s indirilirken yaklaşık %2$d MB mobil veri gerekir. Şimdi indirilsin mi?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">%s indirilirken yaklaşık %2$d MB mobil veri gerekir. Şimdi indirilsin mi?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Veri kullanımı uyarısı</string>
   <string name="photo_editor_navigator_export">Kaydet</string>
   <string name="photo_editor_navigator_module_download_failed">"%s indirilemedi "</string>
@@ -2743,7 +2743,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="widget_label_custom">Seçilen resimler</string>
   <string name="widget_label_recommend">Anılar</string>
   <string name="widget_recommend_default_description_no_story">Burada henüz anı yok</string>
-  <string name="widget_recommend_default_description_open_story">Ayarlar'ı açmak ve \"Anılar\"ı aktif etmek için dokunun</string>
+  <string name="widget_recommend_default_description_open_story">Ayarlar\'ı açmak ve \"Anılar\"ı aktif etmek için dokunun</string>
   <string name="widget_recommend_default_description_shop">En parlak anlarınızı gözden geçirin</string>
   <string name="widget_recommend_default_example">Demo</string>
   <string name="widget_recommend_default_title_on_story">Anılar</string>
