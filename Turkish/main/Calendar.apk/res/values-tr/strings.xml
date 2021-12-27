@@ -132,7 +132,7 @@
   <string name="childrens_day">çocuk bayramı</string>
   <string name="chinese_youth_day">gençlik festivali</string>
   <string name="chip_text">Çentik metni</string>
-  <string name="clear_net_mock_success">Net sahte net başarı</string>
+  <string name="clear_net_mock_success">Sahte ağ başarıyla temizlendi</string>
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="click_for_create_event">%s için etkinlik oluştur\'u tıklayın</string>
@@ -180,7 +180,7 @@
   <string name="date_calculate_tab">Tarihi hesapla</string>
   <string name="date_calculate_today">%d gün</string>
   <string name="date_calculate_when">Başla</string>
-  <string name="date_interval_description">2 tarih arasında kaç gün olduğunu öğrenin</string>
+  <string name="date_interval_description">İki tarih arasında kaç gün olduğunu öğrenin</string>
   <string name="date_interval_end">Bitiş</string>
   <string name="date_interval_start">Başlangıç</string>
   <string name="date_interval_tab">Aralık</string>
@@ -189,6 +189,7 @@
   <string name="date_jump_title">Tarihe git</string>
   <string name="date_pattern_mm_dd">d M</string>
   <string name="date_picker_lunar">Geleneksel Çin takvimi</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="date_today">" (bugün)"</string>
   <string name="day">Gün</string>
   <string name="day_view_new_event_hint">Yeni etkinlik</string>
@@ -302,12 +303,12 @@
   <string name="flight_seat_no">Koltuk %1$s</string>
   <string name="flight_state">Uçuş durumu</string>
   <string name="flight_time">Tahmini %1$s</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-  <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fortune_birthday">Doğum Günü</string>
   <string name="fortune_card_caiwei">Finansal Pozisyon：</string>
   <string name="fortune_card_set_bazi">Doğum gününü ayarla</string>
@@ -381,6 +382,7 @@
   <string name="ics_file_not_found">İçe aktarılacak takvim dosyası yok</string>
   <string name="ics_import_from_local_file">Takvim dosyalarını içe aktar</string>
   <string name="ics_import_from_url">URL aboneliği ekle</string>
+  <string name="image_processing">Resim henüz hazır değil</string>
   <string name="import_action">Aktar</string>
   <string name="import_birthday">Doğum Gününü Aktar</string>
   <string name="import_help">Yardım</string>
@@ -415,9 +417,7 @@
   <string name="loading_ics_files">Takvim dosyaları aranıyor…</string>
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="local_owner_account_name">Bu cihaza kaydedildi</string>
-  <string name="login_caldav">Ekle</string>
-  <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin</string>
-  <string name="logining_caldav_account">Ekleniyor…</string>
+  <string name="long_date_format">EEEE, dd MMMM, yyyy</string>
   <string name="long_holiday_date_place_holder">dd MMMM</string>
   <string name="long_holiday_dates">%1$s tarihinden başlıyor</string>
   <string name="long_holiday_month_off">Aylık izin günleri</string>
@@ -436,9 +436,14 @@
   <string name="mark_start">Başlangıç</string>
   <string name="menu_general_preferences">Genel</string>
   <string name="menu_reminder_preferences">Hatırlatmalar</string>
+  <string name="mesens_card_title_stop_today">Dönem bugün sona eriyor</string>
+  <string name="mesens_card_title_today_begin">Dönem bugün başlayabilir</string>
+  <string name="mesens_card_title_tomorrow_begin">Dönem yarın başlayabilir</string>
   <string name="midnight">Gece</string>
   <string name="missing_name">(İsim yok)</string>
   <string name="missing_required_permission">Gerekli izinleri kısıtladınız.</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuishare_account_activate_confirmation">Mi Hesabını etkinleştir</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
   <string name="miuishare_account_login_cancel">İptal</string>
@@ -468,6 +473,7 @@
   <string name="miuix_appcompat_search_input_description">Ara</string>
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -611,7 +617,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="notes_week_name_two">%1$s ve %2$s</string>
   <string name="notes_weekly">Haftalık</string>
   <string name="noon">Öğlen</string>
-  <string name="notification_channel_name">Düzenli hatırlatıcılar</string>
+  <string name="notification_channel_name">Takvim hatırlatıcıları</string>
   <string name="notification_channel_name_no_sound">Sessiz hatırlatıcılar</string>
   <string name="notification_channel_name_no_vibration">Titreşimsiz hatırlatıcılar</string>
   <string name="notification_channel_name_silent">Rahatsız etme modu hatırlatıcıları</string>
@@ -631,6 +637,9 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="permission_main_purpose">Takvim etkinliklerini görüntüleme ve yönetme, seyahat planlama, hatırlatıcı alma ve servislere abone olma</string>
   <string name="permission_storage">Hatırlatıcıları ve zil seslerini kaydetmek için</string>
   <string name="phone_num">Telefon</string>
+  <string name="picker_day">Seçilen gün: %1$d. Seçmek için dikey olarak kaydırın.</string>
+  <string name="picker_month">Seçilen ay: %1$d. Seçmek için dikey olarak kaydırın.</string>
+  <string name="picker_year">Seçilen yıl: %1$d. Seçmek için dikey olarak kaydırın.</string>
   <string name="portrait_week_view">Dikey yönde haftalık gündem</string>
   <string name="pref_reminder_time">Hatırlatma zamanı</string>
   <string name="pref_title_alarm_remind">Hatırlatma alarmı</string>
@@ -681,7 +690,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="pull_refresh_progress_loading">Sadece bir saniye…</string>
   <string name="pull_refresh_progress_release_to_load">Yüklemek için bırakın</string>
   <string name="pull_to_refresh_hint">%1$d konumundan etkinlikleri yüklemek için çekin</string>
-  <string name="receive_net_mock_success">Net alay başarı alındı</string>
+  <string name="receive_net_mock_success">Sahte ağ başarıyla alındı</string>
   <string name="recommend_card_add">Abone ol</string>
   <string name="recommend_card_adding">Abonelikler</string>
   <string name="recommend_card_close_hint">Benzer abonelikleri azalt</string>
@@ -823,6 +832,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="talk_back_read_date">%1$s (ay takvimine göre %2$s).</string>
   <string name="talk_back_setting">Ayarlar</string>
   <string name="talk_back_tab_switch">Görünümler arasında geçiş yap</string>
+  <string name="talk_back_tab_switch_language">Takvim dilini seç</string>
   <string name="talkback_festival_and">ve</string>
   <string name="talkback_festival_is">Tatil</string>
   <string name="template_announce_item_index">Etkinlik: %1$s / %2$s.</string>
@@ -918,6 +928,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">Sal</string>
   <string name="two_selected_holiday">%1$s ve %2$s izin günleri</string>
+  <string name="unable_record_future_menstruation">Gelecek dönemler kaydedilemiyor</string>
   <string name="txt_account">Hesap</string>
   <string name="txt_account_exist">Hesap zaten var</string>
   <string name="txt_account_name_empty">Takvim adını girin</string>
@@ -1040,6 +1051,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="second_saturday_holiday">Her ikinci cumartesi izin günüdür</string>
   <string name="select_menstruation_end_date">Bu dönemin bitiş tarihini seçin</string>
   <string name="select_weekly_off_dialog_title">İzin günlerini seçin</string>
+  <string name="send">Gönder</string>
   <string name="set_interval">Aralığı ayarla</string>
   <string name="set_reminder">Hatırlatıcıyı ayarla</string>
   <string name="setting_change_language">Takvim dilini seçin</string>
