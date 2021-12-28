@@ -135,7 +135,6 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">On saniye ileri sar</string>
     <string name="cast_forward_30">Otuz saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">CANLI</string>
     <string name="cast_mute">Sesi kapat</string>
     <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
@@ -936,7 +935,6 @@ seçin"</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın.</string>
     <string name="ok">Tamam</string>
     <string name="on_tip_firework_recommend">"Firework'ten kişiselleştirilmiş içerik önerilerini alacaksınız"</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
     <string name="out_of_memory_background_playback_is_suspended">Yetersiz bellekten dolayı arka planda oynatma duraklatıldı</string>
@@ -1401,7 +1399,6 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
     <string name="sns_sign_in">Diğer oturum açma yolları</string>
     <string name="source">"Kaynak: "</string>
     <string name="start_download_tip">Sıraya eklendi. Profil > İndirilenler menüsünde ilerlemeyi kontrol edin.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD Kart</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
     <string name="submit">Gönder</string>
