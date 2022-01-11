@@ -377,7 +377,6 @@
   <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
   <string name="launcher_sliding_up_gesture">Aramayı açmak için Ana ekranda yukarı kaydırın</string>
   <string name="launcher_title">Ana ekran &amp; Son kullanılanlar</string>
-  <string name="lib_name">Android Filamenti</string>
   <string name="like">Favorilere ekle</string>
   <string name="liked">Favorilere eklendi</string>
   <string name="loading_desktop">Sadece bir saniye…</string>
@@ -416,6 +415,8 @@
   <string name="menu_lock">Ana ekran düzenini kilitle</string>
   <string name="menu_more">Daha fazla</string>
   <string name="menu_new_display_open">Yeni pencerede aç</string>
+  <string name="menu_no_word">Metni gösterme</string>
+  <string name="menu_no_word_setting_tip" formatted="false">Metinsiz bir %d×%d düzeni kullanın</string>
   <string name="menu_pc_open">Bilgisayar programı ile aç</string>
   <string name="menu_picktheme">Bir tema seç</string>
   <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
