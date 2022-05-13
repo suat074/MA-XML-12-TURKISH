@@ -191,7 +191,7 @@
   </plurals>
   <plurals name="fw_blocked_count_call_one">
     <item quantity="other">%2$s ve diğerlerinden %1$d çağrı</item>
-    <item quantity="one">%2$ tarafından %1$d çağrı</item>
+    <item quantity="one">%2$s tarafından %1$d çağrı</item>
   </plurals>
   <plurals name="fw_blocked_count_sms">
     <item quantity="other">%d mesaj</item>
