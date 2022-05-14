@@ -3098,7 +3098,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
   <string name="device_storage_space_low_dialog_des">Orijinal fotoğrafları ve videoları bulutta depolarken, %s depolama alanı boşaltmak için bu cihazda daha küçük, yüksek kaliteli kopyalar saklayın.</string>
   <string name="device_storage_space_low_dialog_title">Yeterli depolama alanı yok</string>
-  <string name="device_storage_space_low_notice_des">%S yer açmak için fotoğrafları ve videoları bulutla eşitleyin</string>
+  <string name="device_storage_space_low_notice_des">%s yer açmak için fotoğrafları ve videoları bulutla eşitleyin</string>
   <string name="device_storage_space_low_notice_title">Depolama alanı tükeniyor</string>
   <string name="device_storage_space_low_textline_button">Başlat</string>
   <string name="device_storage_space_low_textline_des">"Depolama alanında %s yer açın. "</string>
