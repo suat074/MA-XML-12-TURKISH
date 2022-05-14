@@ -351,10 +351,10 @@
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon yakında kapanabilir</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon yakında kapanabilir (%1$s)</string>
-  <string name="power_remaining_less_than_duration">Kalan %1$ değerinden az (%2$s)</string>
-  <string name="power_remaining_less_than_duration_only">Kalan %1$ değerinden az</string>
-  <string name="power_remaining_more_than_subtext">Kalan %1$ değerinden fazla (%2$s)</string>
-  <string name="power_remaining_only_more_than_subtext">Kalan %1$ değerinden fazla</string>
+  <string name="power_remaining_less_than_duration">Kalan %1$s değerinden az (%2$s)</string>
+  <string name="power_remaining_less_than_duration_only">Kalan %1$s değerinden az</string>
+  <string name="power_remaining_more_than_subtext">Kalan %1$s değerinden fazla (%2$s)</string>
+  <string name="power_remaining_only_more_than_subtext">Kalan %1$s değerinden fazla</string>
   <string name="private_dns_mode_off">Kapalı</string>
   <string name="private_dns_mode_opportunistic">Otomatik</string>
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
