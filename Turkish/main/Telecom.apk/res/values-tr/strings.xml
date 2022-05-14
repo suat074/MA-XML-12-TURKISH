@@ -47,7 +47,7 @@
   <string name="answering_ends_other_managed_call">Cevaplama devam eden görüşmenizi sonlandıracak</string>
   <string name="answering_ends_other_managed_calls">Cevaplama devam eden çağrılarınızı sonlandırır</string>
   <string name="answering_ends_other_managed_video_call">Cevaplama, devam eden görüntülü çağrınızı sonlandıracak</string>
-  <string name="answering_ends_other_video_call">Cevaplama, %1$S görüntülü çağrınızı sonlandıracak</string>
+  <string name="answering_ends_other_video_call">Cevaplama, %1$s görüntülü çağrınızı sonlandıracak</string>
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için mevcut değil</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
   <string name="available_via_carrier">%1$s aracılığıyla kullanılabilir</string>
@@ -304,8 +304,8 @@
   <string name="notification_channel_missed_call">Cevapsız aramalar</string>
   <string name="notification_incallservice_not_responding_body">Çağrınız, cihazınızla birlikte gelen telefon uygulamasını kullandı</string>
   <string name="notification_incallservice_not_responding_title">%s yanıt vermeyi durdurdu</string>
-  <string name="notification_incoming_call">%2$s ile %1$S çağrısı</string>
-  <string name="notification_incoming_video_call">%2$s ile %1$S görüntülü çağrı</string>
+  <string name="notification_incoming_call">%2$s ile %1$s çağrısı</string>
+  <string name="notification_incoming_video_call">%2$s ile %1$s görüntülü çağrı</string>
   <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
   <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
   <string name="notification_missedCall_call_back">Geri Ara</string>
