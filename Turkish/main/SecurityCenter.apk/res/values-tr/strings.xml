@@ -252,7 +252,7 @@
   <string name="app_behavior_perm_allow_always_danger_tip">Uygulamalar izin verildiğinde hassas eylemler gerçekleştirebilir</string>
   <string name="app_behavior_perm_change_dialog_desc_title">Bu izin hakkında:</string>
   <string name="app_behavior_perm_change_tip_allow">Bu eyleme (%1s) şimdi izin veriliyor</string>
-  <string name="app_behavior_perm_change_tip_ask">Bu eyleme (%1) izin verilip verilmediği sorulacak</string>
+  <string name="app_behavior_perm_change_tip_ask">Bu eyleme (%1s) izin verilip verilmediği sorulacak</string>
   <string name="app_behavior_perm_change_tip_deny">Bu eylem (%1s) şimdi kısıtlandı</string>
   <string name="app_behavior_perm_change_tip_foreground">Uygulamayı kullanırken bu eyleme (%1s) izin verildi</string>
   <string name="app_behavior_perm_change_tip_virtual">\"%1s\", \"Boş mesajlar geri gönder\" olarak değiştirildi</string>
@@ -3852,7 +3852,6 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="notification_checker_installed_apk_hint">Yüklemeden sonra APK\'ları saklamaya gerek yok</string>
   <string name="notification_garbage_clean_botton_text_new">Temizle</string>
   <string name="notification_garbage_clean_hint_new">Cihazınızın hızlanmasına izin verin</string>
-  <string name="notification_garbage_clean_size_float_unit">% .1f GB</string>
   <string name="notification_garbage_clean_size_found">%s çöp var</string>
   <string name="notification_garbage_clean_size_found_hint">Çöpü boşaltma zamanı!</string>
   <string name="notification_garbage_clean_size_found_text">Çok fazla çöp dosyası</string>
