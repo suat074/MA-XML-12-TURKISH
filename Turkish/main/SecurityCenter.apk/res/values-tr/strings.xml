@@ -4877,7 +4877,7 @@ pili tüketebilir ve ısınmaya neden olabilir"</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmlar</string>
     <string name="auto_task_voice_dialog_call_title">Çağrılar, bildirimler, hatırlatıcılar</string>
     <string name="auto_task_voice_dialog_media_title">Müzik, oyunlar, medya</string>
-    <string name="default_condition_summary">Örn. \"Pil %s değerinden düşük\"</string>
+    <string name="default_condition_summary">Örn. \"Pil 20% değerinden düşük\"</string>
     <string name="default_condition_title">Koşul ekle</string>
     <string name="default_condition_title_continue">Koşul ekle</string>
     <string name="default_result_summary">Örn. \"Uçak modunu kapat\"</string>
