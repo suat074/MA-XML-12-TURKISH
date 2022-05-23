@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="4GtoLTE">LTE yerine 4G göster</string>
   <string name="Accounts_settings_title">Hesaplar</string>
   <string name="Data_set">" / Veri: "</string>
   <string name="Voice_set">"Ses: "</string>
